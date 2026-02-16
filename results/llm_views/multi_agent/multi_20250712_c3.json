@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.087,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.087,\n  \"confidence\": 0.72,\n  \"reasoning\": \"CVX exhibits a classic divergence setup: +32.83% 7-day rally compressed into single week while TVL contracts -3.4% in a +13",
+  "n_agents": 18,
+  "date": "2025-07-12 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.65,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.65,\n  \"reasoning\": \"CVX exhibits a critical fundamental deterioration masked by short-term momentum. The -2.0% TVL decline against +8.2% DeFi gr",
+  "n_agents": 18,
+  "date": "2025-10-04 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

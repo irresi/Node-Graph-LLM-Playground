@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.75,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Overwhelming consensus across all three analysts (On-Chain, Sentiment, Technical) and both researchers on bearish fundamenta",
+  "n_agents": 24,
+  "date": "2025-12-13 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

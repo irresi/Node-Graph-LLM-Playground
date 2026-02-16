@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.78,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.78,\n  \"reasoning\": \"Both Bull and Bear researchers converge on a bearish thesis with minimal disagreement\u2014a rare consensus that warrants high co",
+  "n_agents": 18,
+  "date": "2025-11-01 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

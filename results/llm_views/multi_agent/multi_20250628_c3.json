@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.78,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.78,\n  \"reasoning\": \"Both researchers converge on a bearish thesis\u2014Bull Researcher explicitly refused to construct a credible bullish case citing",
+  "n_agents": 18,
+  "date": "2025-06-28 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "I need to acknowledge a critical structural problem before delivering my forecast:\n\n**The Core Issue:**\nAll input data is from **August 23, 2025** \u2014 nearly 6 months stale as of the forecast date (Febr",
+  "n_agents": 12,
+  "date": "2025-08-23 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

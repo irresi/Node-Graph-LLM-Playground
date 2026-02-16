@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both researchers converge on a bearish outlook with minimal deviation, supported by three independent analyst reports. The B",
+  "n_agents": 18,
+  "date": "2025-09-20 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

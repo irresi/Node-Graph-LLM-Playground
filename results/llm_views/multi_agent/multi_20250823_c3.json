@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.086,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.086,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Both researchers identified the same critical structural flaw: TVL growth into falling price signals unsustainable yield me",
+  "n_agents": 18,
+  "date": "2025-08-23 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

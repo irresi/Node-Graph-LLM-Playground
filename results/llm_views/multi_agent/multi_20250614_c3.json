@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both researchers agree on fundamentals: CVX exhibits severe underperformance (-21.96% 30d), deeply negative risk-adjusted re",
+  "n_agents": 18,
+  "date": "2025-06-14 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

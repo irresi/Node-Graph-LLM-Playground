@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.035,
+  "confidence": 0.52,
+  "reasoning": "I'll analyze both arguments against the analyst reports and produce a calibrated forecast.\n\n**Analysis:**\n\n**Strengths of Bull Argument:**\n- Appropriately honest about mixed data\n- Correctly identifie",
+  "n_agents": 6,
+  "date": "2025-09-06 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

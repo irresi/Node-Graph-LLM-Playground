@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.78,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.78,\n  \"reasoning\": \"The Bull Researcher's transparency about data inability to support bullish narrative is itself data. All three analysts conv",
+  "n_agents": 12,
+  "date": "2026-02-07 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}
