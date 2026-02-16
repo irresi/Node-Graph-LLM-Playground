@@ -17,6 +17,10 @@ on:
         description: 'Clear existing view cache before running'
         required: false
         default: 'false'
+      pipeline:
+        description: 'Pipeline: single-agent, multi-agent, both'
+        required: false
+        default: 'single-agent'
 
 permissions:
   contents: write
@@ -33,12 +37,14 @@ jobs:
             echo "model=${{ github.event.client_payload.model || 'haiku' }}" >> $GITHUB_OUTPUT
             echo "mode=${{ github.event.client_payload.mode || 'views-only' }}" >> $GITHUB_OUTPUT
             echo "clear_cache=${{ github.event.client_payload.clear_cache || 'false' }}" >> $GITHUB_OUTPUT
+            echo "pipeline=${{ github.event.client_payload.pipeline || 'single-agent' }}" >> $GITHUB_OUTPUT
             echo "caller_run_id=${{ github.event.client_payload.caller_run_id || 'manual' }}" >> $GITHUB_OUTPUT
             echo "main_repo_sha=${{ github.event.client_payload.main_repo_sha || 'HEAD' }}" >> $GITHUB_OUTPUT
           else
             echo "model=${{ github.event.inputs.model || 'haiku' }}" >> $GITHUB_OUTPUT
             echo "mode=${{ github.event.inputs.mode || 'views-only' }}" >> $GITHUB_OUTPUT
             echo "clear_cache=${{ github.event.inputs.clear_cache || 'false' }}" >> $GITHUB_OUTPUT
+            echo "pipeline=${{ github.event.inputs.pipeline || 'single-agent' }}" >> $GITHUB_OUTPUT
             echo "caller_run_id=manual" >> $GITHUB_OUTPUT
             echo "main_repo_sha=HEAD" >> $GITHUB_OUTPUT
           fi
@@ -74,15 +80,24 @@ jobs:
       - name: Prepare workspace
         run: |
           mkdir -p workspace/artifacts/llm_views
+          mkdir -p workspace/artifacts/llm_views/multi_agent
           mkdir -p workspace/artifacts/experiments/real_llm
 
-          # Copy existing cache from main repo (skip already-generated views)
+          # Copy existing single-agent cache from main repo
           if [ "${{ steps.params.outputs.clear_cache }}" = "true" ]; then
             echo "Cache cleared (clear_cache=true)"
-          elif [ -d main-repo/artifacts/llm_views ]; then
-            CACHED=$(ls main-repo/artifacts/llm_views/*.json 2>/dev/null | wc -l)
-            cp main-repo/artifacts/llm_views/*.json workspace/artifacts/llm_views/ 2>/dev/null || true
-            echo "Copied $CACHED cached view files from main repo"
+          else
+            if [ -d main-repo/artifacts/llm_views ]; then
+              CACHED=$(ls main-repo/artifacts/llm_views/*.json 2>/dev/null | wc -l)
+              cp main-repo/artifacts/llm_views/*.json workspace/artifacts/llm_views/ 2>/dev/null || true
+              echo "Copied $CACHED cached single-agent view files from main repo"
+            fi
+            # Copy existing multi-agent cache from main repo
+            if [ -d main-repo/artifacts/llm_views/multi_agent ]; then
+              MA_CACHED=$(ls main-repo/artifacts/llm_views/multi_agent/*.json 2>/dev/null | wc -l)
+              cp main-repo/artifacts/llm_views/multi_agent/*.json workspace/artifacts/llm_views/multi_agent/ 2>/dev/null || true
+              echo "Copied $MA_CACHED cached multi-agent view files from main repo"
+            fi
           fi
 
       - name: Generate LLM views
@@ -93,7 +108,9 @@ jobs:
         run: |
           MODEL="${{ steps.params.outputs.model }}"
           MODE="${{ steps.params.outputs.mode }}"
+          PIPELINE="${{ steps.params.outputs.pipeline }}"
           CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views"
+          MA_CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views/multi_agent"
           OUTPUT_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/experiments/real_llm"
 
           FLAGS=""
@@ -103,10 +120,17 @@ jobs:
             FLAGS="--backtest-only"
           fi
 
+          # Add multi-agent flag based on pipeline setting
+          if [ "$PIPELINE" = "multi-agent" ] || [ "$PIPELINE" = "both" ]; then
+            FLAGS="$FLAGS --multi-agent --multi-agent-cache-dir $MA_CACHE_DIR"
+          fi
+
           echo "=== Running LLM Experiment ==="
           echo "  Model: $MODEL"
           echo "  Mode: $MODE"
+          echo "  Pipeline: $PIPELINE"
           echo "  Cache dir: $CACHE_DIR"
+          echo "  Multi-agent cache dir: $MA_CACHE_DIR"
           echo "  Output dir: $OUTPUT_DIR"
           echo ""
 
@@ -122,30 +146,37 @@ jobs:
         id: results
         run: |
           mkdir -p results/llm_views
+          mkdir -p results/llm_views/multi_agent
           mkdir -p results/experiments/real_llm
 
           cp workspace/artifacts/llm_views/*.json results/llm_views/ 2>/dev/null || true
+          cp workspace/artifacts/llm_views/multi_agent/*.json results/llm_views/multi_agent/ 2>/dev/null || true
           cp workspace/artifacts/experiments/real_llm/* results/experiments/real_llm/ 2>/dev/null || true
 
           VIEW_COUNT=$(ls results/llm_views/*.json 2>/dev/null | wc -l)
+          MA_VIEW_COUNT=$(ls results/llm_views/multi_agent/*.json 2>/dev/null | wc -l)
           echo "view_count=$VIEW_COUNT" >> $GITHUB_OUTPUT
+          echo "ma_view_count=$MA_VIEW_COUNT" >> $GITHUB_OUTPUT
 
           cat > results/metadata.json << EOF
           {
             "model": "${{ steps.params.outputs.model }}",
             "mode": "${{ steps.params.outputs.mode }}",
+            "pipeline": "${{ steps.params.outputs.pipeline }}",
             "clear_cache": "${{ steps.params.outputs.clear_cache }}",
             "caller_run_id": "${{ steps.params.outputs.caller_run_id }}",
             "main_repo_sha": "${{ steps.params.outputs.main_repo_sha }}",
             "completed_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
             "status": "success",
             "view_count": $VIEW_COUNT,
+            "multi_agent_view_count": $MA_VIEW_COUNT,
             "workflow_run_id": "${{ github.run_id }}"
           }
           EOF
 
           echo "=== Results ==="
-          echo "  Views: $VIEW_COUNT"
+          echo "  Single-agent views: $VIEW_COUNT"
+          echo "  Multi-agent views: $MA_VIEW_COUNT"
           cat results/metadata.json
 
       - name: Upload results artifact
@@ -161,5 +192,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add results/
           git diff --staged --quiet && echo "No changes to commit" || \
-            git commit -m "experiment: LLM views (${{ steps.params.outputs.model }}, ${{ steps.params.outputs.mode }}) - ${{ steps.results.outputs.view_count }} views"
+            git commit -m "experiment: LLM views (${{ steps.params.outputs.model }}, ${{ steps.params.outputs.pipeline }}) - ${{ steps.results.outputs.view_count }}+${{ steps.results.outputs.ma_view_count }} views"
           git push || echo "Push failed (non-fatal)"
