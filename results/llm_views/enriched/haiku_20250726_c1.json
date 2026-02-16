@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing strong recent momentum (+14.16% over 14 days, +33.45% over 30 days) in a bull market regime with elevated TVL growth (+37.7%). However, near-term weakness (-0.09% 7-day return) suggests potential consolidation or pullback. The high Sharpe ratio (4.48) and max drawdown of -9.5% indicate risk-adjusted outperformance but also meaningful volatility (62.7% annualized). Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL exposure but benefit from ecosystem growth. Active governance suggests continued development momentum. Annualized 14-day return forecast of 28% reflects mean reversion from recent outperformance, with moderate confidence due to: (1) sustainability concerns given recent slowdown, (2) lack of yield/protocol fundamental data, (3) governance activity providing support but not guaranteeing continued outperformance.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing strong recent momentum (+14.16% over 14 days, +33.45% over 30 days) in a bull market regime with elevated TVL growth (+37.7%). However, near-term weakness (-0.09% 7-day return) suggests potential consolidation or pullback. The high Sharpe ratio (4.48) and max drawdown of -9.5% indicate risk-adjusted outperformance but also meaningful volatility (62.7% annualized). Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL exposure but benefit from ecosystem growth. Active governance suggests continued development momentum. Annualized 14-day return forecast of 28% reflects mean reversion from recent outperformance, with moderate confidence due to: (1) sustainability concerns given recent slowdown, (2) lack of yield/protocol fundamental data, (3) governance activity providing support but not guaranteeing continued outperformance.\"\n}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:20.871131+00:00",
+  "enriched": true
+}

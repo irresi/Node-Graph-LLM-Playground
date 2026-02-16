@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with oversold conditions after -29.47% decline. Recent 7-day +6.63% rebound suggests technical bounce potential, but -16.5% DeFi TVL decline and negative macro conditions limit upside. Expecting modest 0.5-1% recovery over 14 days (annualized to 8%), with moderate confidence due to high volatility and unclear catalysts.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Strong bear regime with -16.5% DeFi TVL decline (30-day)\n- Cluster significantly underperforming with -29.47% (30-day return)\n- High volatility (81.1% annualized) and negative Sharpe ratio (-3.05)\n\n**Recent Momentum Signals:**\n- Positive: +6.63% 7-day return suggests potential bounce/stabilization\n- Negative: -9.42% 14-day return and steep -29.5% max drawdown indicate continued weakness\n- The 7-day outperformance vs 14-day underperformance suggests recent recovery but from depressed levels\n\n**Token Composition Analysis:**\n- **LINK (Chainlink Oracle)**: Only token with TVL data ($0M, no change). Oracles are essential infrastructure with strong fundamentals, but TVL metrics don't apply here\n- **OP, ARB, ENS, GRT**: Layer 2, Infrastructure, Domain Service, and Indexing tokens. These are non-yield bearing tokens dependent on adoption and sentiment\n- **Governance Activity**: Recent DAO proposals suggest active governance, indicating protocol engagement but no major catalysts\n\n**Key Considerations:**\n1. **Technical Rebound Risk**: After -29.47% decline, oversold conditions may attract buyers, supporting modest recovery\n2. **Macro Bear Regime**: -16.5% DeFi TVL decline suggests headwinds remain; unlikely to reverse dramatically in 14 days\n3. **Volatility**: 81.1% annualized volatility implies 14-day moves could be substantial in either direction\n4. **Valuation**: Deep drawdown may represent capitulation, but no clear catalyst for strong recovery\n\n**Forecast Methodology:**\n- 14-day window is 1/26th of annualized return\n- Recent 7-day +6.63% suggests some recovery, but sustainability is questionable\n- Bear market regime typically sees mean reversion oscillations rather than sustained rallies\n- Annualizing a modest 14-day recovery reflects oversold bounce potential\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.55, \"reasoning\": \"Bear market regime with oversold conditions after -29.47% decline. Recent 7-day +6.63% rebound suggests technical bounce potential, but -16.5% DeFi TVL decline and negative macro conditions limit upside. Expecting modest 0.5-1% recovery over 14 days (annualized to 8%), with moderate confidence due to high volatility and unclear catalysts.\"}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:39.171491+00:00",
+  "enriched": true
+}

@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.65,
+  "reasoning": "Cluster 2 is in a bear market with strong 30-day headwinds (-30.52%), but shows positive 7-day momentum (+3.00%). Over 14 days, the cluster likely continues mean reversion from oversold conditions, but remains pressured by negative macro regime. DeFi TVL down 11.2% M/M indicates sector weakness. High annualized volatility (113.9%) and negative Sharpe ratio (-2.25) suggest elevated risk. However, active governance (GMX), solid yields (UNI 20.32%, YFI 4.10%), and recent bounce suggest potential for modest gains or reduced losses. Conservative estimate expects -45% annualized return (roughly -1.7% over 14 days) as recovery is likely incomplete given bearish regime. Confidence moderate due to high volatility and macro headwinds offsetting technical bounce.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 is in a bear market with strong 30-day headwinds (-30.52%), but shows positive 7-day momentum (+3.00%). Over 14 days, the cluster likely continues mean reversion from oversold conditions, but remains pressured by negative macro regime. DeFi TVL down 11.2% M/M indicates sector weakness. High annualized volatility (113.9%) and negative Sharpe ratio (-2.25) suggest elevated risk. However, active governance (GMX), solid yields (UNI 20.32%, YFI 4.10%), and recent bounce suggest potential for modest gains or reduced losses. Conservative estimate expects -45% annualized return (roughly -1.7% over 14 days) as recovery is likely incomplete given bearish regime. Confidence moderate due to high volatility and macro headwinds offsetting technical bounce.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:39.460201+00:00",
+  "enriched": true
+}

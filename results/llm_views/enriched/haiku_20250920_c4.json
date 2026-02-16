@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.32,
+  "confidence": 0.62,
+  "reasoning": "BAL faces headwinds from bear market regime (30d: -14.30%, 7d: -8.77%) and negative TVL momentum (-11.0% 30d change). However, recent 14-day trend shows deceleration (-2.60%), suggesting potential stabilization. Modest governance activity (2 active proposals) lacks major catalysts. Strong APY (11.95% protocol average) provides some fundamental support but insufficient to offset current downtrend in bear market. Annualized 14-day forecast extrapolates recent momentum decay with elevated volatility (56.5%). Confidence tempered by lack of clear catalysts and persistent bear conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (30d: -14.30%, 7d: -8.77%) and negative TVL momentum (-11.0% 30d change). However, recent 14-day trend shows deceleration (-2.60%), suggesting potential stabilization. Modest governance activity (2 active proposals) lacks major catalysts. Strong APY (11.95% protocol average) provides some fundamental support but insufficient to offset current downtrend in bear market. Annualized 14-day forecast extrapolates recent momentum decay with elevated volatility (56.5%). Confidence tempered by lack of clear catalysts and persistent bear conditions.\"\n}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:08.427313+00:00",
+  "enriched": true
+}

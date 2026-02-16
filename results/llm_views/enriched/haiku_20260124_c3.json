@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "CVX shows positive momentum with 7-day return of +2.25% and 14-day return of +3.56%, suggesting continued upside over the next 14 days. However, confidence is moderated by: (1) high volatility (119.5% annualized) creating significant uncertainty, (2) recent TVL decline (-2.0% over 30 days) indicating potential headwinds, (3) neutral market regime limiting outsized gains, and (4) single-token cluster concentration risk. The 16.41% 30-day return is strong but may face mean reversion. Annualized expectation of +0.28 (28%) reflects modest positive momentum extrapolation over 14 days while acknowledging downside risks from volatility and TVL trends. Active governance with 3 proposals suggests community engagement but limited catalysts for material price movement.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CVX shows positive momentum with 7-day return of +2.25% and 14-day return of +3.56%, suggesting continued upside over the next 14 days. However, confidence is moderated by: (1) high volatility (119.5% annualized) creating significant uncertainty, (2) recent TVL decline (-2.0% over 30 days) indicating potential headwinds, (3) neutral market regime limiting outsized gains, and (4) single-token cluster concentration risk. The 16.41% 30-day return is strong but may face mean reversion. Annualized expectation of +0.28 (28%) reflects modest positive momentum extrapolation over 14 days while acknowledging downside risks from volatility and TVL trends. Active governance with 3 proposals suggests community engagement but limited catalysts for material price movement.\"\n}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:39.207755+00:00",
+  "enriched": true
+}

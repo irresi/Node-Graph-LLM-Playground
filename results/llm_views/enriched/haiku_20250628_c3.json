@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.65,
+  "reasoning": "CVX faces significant headwinds: strong bear market regime (-4.5% DeFi TVL decline), severe 30-day underperformance (-33.87%), high volatility (80% annualized), and negative 14-day momentum (-12.05%). However, the asset shows some stabilization with modest recent governance activity (3 active proposals) and reasonable yield generation (5.14% TVL-weighted APY on $642M TVL). The extreme drawdown and negative Sharpe ratio (-3.56) suggest further downside risk in the near term, but at an extreme pessimistic point, mean reversion could occur by day 14. Forecasting continued weakness with -35% annualized return (approximately -1.6% over 14 days) reflecting sustained bearish pressure, though confidence is moderate given the severity of recent losses may attract contrarian interest.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.65,\n  \"reasoning\": \"CVX faces significant headwinds: strong bear market regime (-4.5% DeFi TVL decline), severe 30-day underperformance (-33.87%), high volatility (80% annualized), and negative 14-day momentum (-12.05%). However, the asset shows some stabilization with modest recent governance activity (3 active proposals) and reasonable yield generation (5.14% TVL-weighted APY on $642M TVL). The extreme drawdown and negative Sharpe ratio (-3.56) suggest further downside risk in the near term, but at an extreme pessimistic point, mean reversion could occur by day 14. Forecasting continued weakness with -35% annualized return (approximately -1.6% over 14 days) reflecting sustained bearish pressure, though confidence is moderate given the severity of recent losses may attract contrarian interest.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:43.431959+00:00",
+  "enriched": true
+}

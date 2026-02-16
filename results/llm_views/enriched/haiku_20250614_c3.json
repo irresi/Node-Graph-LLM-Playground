@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.52,
+  "reasoning": "Bear market regime and recent -21.96% 30-day decline suggest continued weakness. However, 7-day +1.57% momentum indicates potential short-term consolidation. High volatility (81.1%) and weak fundamentals limit upside. Modest -8% annualized return expected over 14 days, but low confidence due to unpredictable market regime and limited conviction in the bounce continuation.",
+  "raw_response": "I'll analyze the provided data for Cluster 3 (CVX) to forecast the expected annualized return over the next 14 days.\n\n## Analysis:\n\n**Key Observations:**\n\n1. **Market Regime**: Bear market with strong downtrend - this is a headwind for the entire cluster\n\n2. **Recent Performance**:\n   - 7-day return: +1.57% (positive momentum)\n   - 14-day return: -5.78% (negative)\n   - 30-day return: -21.96% (severe decline)\n   - This shows some recovery in the last week, but overall weakness\n\n3. **Volatility & Risk**:\n   - Annualized volatility: 81.1% (very high)\n   - Max drawdown: -29.5% (significant)\n   - Sharpe ratio: -2.27 (poor risk-adjusted returns)\n\n4. **Fundamental Metrics**:\n   - TVL: $1,173M (relatively stable, -0.5% 30-day change)\n   - Protocol fundamentals appear stable\n   - Governance activity is healthy (3 active proposals)\n   - Yield metrics modest at 5.14% TVL-weighted APY\n\n5. **Technical Setup**:\n   - Recent 7-day bounce (+1.57%) suggests potential short-term momentum\n   - However, this is occurring within a bear market regime\n   - The 14-day return (-5.78%) indicates weakness despite the recent bounce\n\n**Forecast Rationale:**\n\nThe recent 7-day positive momentum (+1.57%) suggests a potential short-term reversal or consolidation. However, given the bear market regime, high volatility, and the 30-day severe drawdown, this bounce is likely to be limited. The modest yield fundamentals don't provide strong support for extended gains.\n\nFor a 14-day forecast, I expect modest negative returns as the market regime remains bearish, but the recent momentum provides some upside potential that prevents a severely negative forecast.\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Bear market regime and recent -21.96% 30-day decline suggest continued weakness. However, 7-day +1.57% momentum indicates potential short-term consolidation. High volatility (81.1%) and weak fundamentals limit upside. Modest -8% annualized return expected over 14 days, but low confidence due to unpredictable market regime and limited conviction in the bounce continuation.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:15.429319+00:00",
+  "enriched": true
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "BAL in bear market regime with -18.70% 30-day decline and high volatility (48.4% annualized). Negative momentum (-2.79% over 14 days, -0.09% over 7 days) suggests continued weakness. TVL declining (-12.5% 30d) indicates reduced protocol usage. However, governance activity (2 active proposals) and solid yields (11.95% avg APY) provide some downside cushion. Over 14 days, expect continued bearish pressure with modest deterioration, annualized to approximately -35%. Confidence tempered by high volatility and potential for mean reversion given oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL in bear market regime with -18.70% 30-day decline and high volatility (48.4% annualized). Negative momentum (-2.79% over 14 days, -0.09% over 7 days) suggests continued weakness. TVL declining (-12.5% 30d) indicates reduced protocol usage. However, governance activity (2 active proposals) and solid yields (11.95% avg APY) provide some downside cushion. Over 14 days, expect continued bearish pressure with modest deterioration, annualized to approximately -35%. Confidence tempered by high volatility and potential for mean reversion given oversold conditions.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:24.543856+00:00",
+  "enriched": true
+}

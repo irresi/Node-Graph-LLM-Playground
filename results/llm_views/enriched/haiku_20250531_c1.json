@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows strong negative momentum (-13.32% in last 14d) and underperformance vs. DeFi TVL growth. High volatility (91.3%) and negative Sharpe ratio suggest continued weakness. Expect annualized -18% return over next 14 days, with recovery potential from oversold conditions providing downside protection. Moderate confidence due to high volatility and sentiment-driven nature of infrastructure tokens.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 1 (LINK, OP, ARB, ENS, GRT)\n\n**Key Observations:**\n\n1. **Recent Momentum - NEGATIVE**\n   - 7-day return: -13.46%\n   - 14-day return: -13.32%\n   - 30-day return: -1.52%\n   - Strong downtrend over the past 2 weeks despite overall DeFi TVL growing +19.6%\n\n2. **Risk Metrics - HIGH VOLATILITY**\n   - Annualized volatility: 91.3% (very high)\n   - Sharpe ratio: -0.14 (negative risk-adjusted returns)\n   - Max drawdown: -24.8% (significant downside exposure)\n\n3. **Market Regime - HEADWIND**\n   - Cluster underperforming overall DeFi market (TVL +19.6% vs cluster -1.52% in 30d)\n   - Suggests relative weakness in infrastructure/L2/oracle tokens\n\n4. **Governance Activity - NEUTRAL**\n   - Active DAOs with recent proposals, but mostly governance decisions\n   - No major protocol upgrades or catalysts evident\n\n5. **Structural Weaknesses**\n   - Oracle, L2, and infrastructure tokens are often sentiment-driven\n   - Currently showing divergence from positive DeFi TVL trend\n   - No yield data suggests limited revenue-generating mechanisms driving token value\n\n**Forecast Rationale:**\n\nThe cluster's -13.32% return over 14 days suggests significant selling pressure. Given:\n- Continued negative momentum into the next 14 days\n- High volatility creating downside risk\n- Underperformance relative to DeFi market growth\n- Potential mean reversion from -24.8% drawdown could provide some support\n\nHowever, the positive DeFi market regime provides some floor for recovery.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.55, \"reasoning\": \"Cluster shows strong negative momentum (-13.32% in last 14d) and underperformance vs. DeFi TVL growth. High volatility (91.3%) and negative Sharpe ratio suggest continued weakness. Expect annualized -18% return over next 14 days, with recovery potential from oversold conditions providing downside protection. Moderate confidence due to high volatility and sentiment-driven nature of infrastructure tokens.\"}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:40.208621+00:00",
+  "enriched": true
+}

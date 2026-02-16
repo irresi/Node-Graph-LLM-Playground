@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster in bear market regime with -6.87% 7-day decline offsetting +4.41% 14-day gains. High 64% annualized volatility and -0.40 Sharpe ratio indicate poor risk-adjusted returns. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) show weak TVL metrics and modest governance activity. Negative 30-day trend (-3.02%) suggests downward momentum, though recent 14-day rebound provides some support. Annualizing the pessimistic 7-day trend (-6.87%) yields ~-18% annualized return, accounting for mean reversion risk in volatile bear market. Moderate confidence due to high uncertainty in volatile conditions and infrastructure token sensitivity to macro sentiment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster in bear market regime with -6.87% 7-day decline offsetting +4.41% 14-day gains. High 64% annualized volatility and -0.40 Sharpe ratio indicate poor risk-adjusted returns. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) show weak TVL metrics and modest governance activity. Negative 30-day trend (-3.02%) suggests downward momentum, though recent 14-day rebound provides some support. Annualizing the pessimistic 7-day trend (-6.87%) yields ~-18% annualized return, accounting for mean reversion risk in volatile bear market. Moderate confidence due to high uncertainty in volatile conditions and infrastructure token sensitivity to macro sentiment.\"\n}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:51.518828+00:00",
+  "enriched": true
+}

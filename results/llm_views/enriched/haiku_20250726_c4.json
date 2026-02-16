@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "BAL shows strong momentum with +30.43% (30d), +19.93% (14d), and +6.31% (7d) returns in a bull market regime. The exceptional Sharpe ratio of 4.61 and TVL growth of +23.3% indicate healthy protocol fundamentals. However, confidence is moderated by: (1) single-token cluster lacking diversification, (2) annualization of recent 14-day performance (+19.93% = ~5.2x annualized) is likely unsustainable, (3) high volatility (55.4%) creates downside risk, and (4) max drawdown of -10.2% shows recent stress. The 14-day forecast extrapolates recent 7-day momentum (~6.31%) while moderating for mean reversion. Governance activity is stable with constructive proposals, but low-activity pools and concentrated TVL present execution risks.",
+  "raw_response": "Based on the provided market context for Cluster 4 (BAL), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows strong momentum with +30.43% (30d), +19.93% (14d), and +6.31% (7d) returns in a bull market regime. The exceptional Sharpe ratio of 4.61 and TVL growth of +23.3% indicate healthy protocol fundamentals. However, confidence is moderated by: (1) single-token cluster lacking diversification, (2) annualization of recent 14-day performance (+19.93% = ~5.2x annualized) is likely unsustainable, (3) high volatility (55.4%) creates downside risk, and (4) max drawdown of -10.2% shows recent stress. The 14-day forecast extrapolates recent 7-day momentum (~6.31%) while moderating for mean reversion. Governance activity is stable with constructive proposals, but low-activity pools and concentrated TVL present execution risks.\"\n}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:36.321681+00:00",
+  "enriched": true
+}

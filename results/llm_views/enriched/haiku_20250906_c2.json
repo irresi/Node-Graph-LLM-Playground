@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster 2 shows weak near-term momentum with 14-day return of -14.89% and negative Sharpe ratio (-0.13), indicating risk-adjusted underperformance. However, underlying fundamentals remain mixed: AAVE TVL +6.7%, SUSHI +11.8%, and weighted-average yields (0.5-20%+) suggest some protocol health. The neutral/range-bound market regime and high volatility (74.5% annualized) create significant uncertainty. Governance activity is normal (mostly closed proposals). The cluster likely continues consolidation in the next 14 days with modest downside risk persisting, but upside potential exists if momentum reverses. Low confidence reflects the volatile, uncertain environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 2 shows weak near-term momentum with 14-day return of -14.89% and negative Sharpe ratio (-0.13), indicating risk-adjusted underperformance. However, underlying fundamentals remain mixed: AAVE TVL +6.7%, SUSHI +11.8%, and weighted-average yields (0.5-20%+) suggest some protocol health. The neutral/range-bound market regime and high volatility (74.5% annualized) create significant uncertainty. Governance activity is normal (mostly closed proposals). The cluster likely continues consolidation in the next 14 days with modest downside risk persisting, but upside potential exists if momentum reverses. Low confidence reflects the volatile, uncertain environment.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:38.603564+00:00",
+  "enriched": true
+}

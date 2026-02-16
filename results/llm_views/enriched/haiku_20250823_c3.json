@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "CVX shows mixed signals: positive 7-day momentum (+3.63%) and strong TVL growth (+8.7%) suggest near-term recovery potential. However, the 30-day return is deeply negative (-11.08%) with high volatility (111.7%) and negative Sharpe ratio (-0.83), indicating significant downside risk. The moderate bull market regime provides modest tailwind. The 14-day timeframe is caught between negative medium-term momentum and positive short-term recovery, resulting in modest positive return expectation but low confidence due to the high volatility and recent underperformance. Governance activity and 5.14% yield provide some support, but CVX's yield token nature makes it sensitive to market sentiment and curve trading dynamics.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX shows mixed signals: positive 7-day momentum (+3.63%) and strong TVL growth (+8.7%) suggest near-term recovery potential. However, the 30-day return is deeply negative (-11.08%) with high volatility (111.7%) and negative Sharpe ratio (-0.83), indicating significant downside risk. The moderate bull market regime provides modest tailwind. The 14-day timeframe is caught between negative medium-term momentum and positive short-term recovery, resulting in modest positive return expectation but low confidence due to the high volatility and recent underperformance. Governance activity and 5.14% yield provide some support, but CVX's yield token nature makes it sensitive to market sentiment and curve trading dynamics.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:19.400450+00:00",
+  "enriched": true
+}

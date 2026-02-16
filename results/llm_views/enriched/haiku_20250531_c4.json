@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "BAL shows mixed signals: positive 30-day return (+11.27%) and strong TVL growth (+16.5%) support optimism, but recent weakness (-3.52% 7-day, -6.15% 14-day) suggests momentum reversal. High volatility (116.7% annualized) and max drawdown (-18.1%) indicate elevated risk. Moderate bull market regime and governance activity (active proposals suggest ecosystem engagement) are constructive. However, the recent downtrend and single-token concentration create uncertainty. Modest positive return expected over 14 days with moderate-low confidence due to conflicting technical and fundamental signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"BAL shows mixed signals: positive 30-day return (+11.27%) and strong TVL growth (+16.5%) support optimism, but recent weakness (-3.52% 7-day, -6.15% 14-day) suggests momentum reversal. High volatility (116.7% annualized) and max drawdown (-18.1%) indicate elevated risk. Moderate bull market regime and governance activity (active proposals suggest ecosystem engagement) are constructive. However, the recent downtrend and single-token concentration create uncertainty. Modest positive return expected over 14 days with moderate-low confidence due to conflicting technical and fundamental signals.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:58.724074+00:00",
+  "enriched": true
+}

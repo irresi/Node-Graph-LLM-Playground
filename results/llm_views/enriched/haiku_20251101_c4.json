@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "BAL in strong bear market with -15.52% 30-day return and -22.3% TVL decline. However, recent 14-day positive momentum (+0.20%) suggests potential short-term stabilization. High volatility (69.1% annualized) and negative Sharpe ratio (-1.89) indicate elevated downside risk. Governance activity around V3 pools and permissions shows development progress, providing modest support. Modest TVL recovery potential and yield opportunities (11.95% weighted APY) partially offset bearish regime. Negative expected return reflects bear market headwinds, but moderate confidence due to positive recent momentum and protocol activity.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL in strong bear market with -15.52% 30-day return and -22.3% TVL decline. However, recent 14-day positive momentum (+0.20%) suggests potential short-term stabilization. High volatility (69.1% annualized) and negative Sharpe ratio (-1.89) indicate elevated downside risk. Governance activity around V3 pools and permissions shows development progress, providing modest support. Modest TVL recovery potential and yield opportunities (11.95% weighted APY) partially offset bearish regime. Negative expected return reflects bear market headwinds, but moderate confidence due to positive recent momentum and protocol activity.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:07.777563+00:00",
+  "enriched": true
+}

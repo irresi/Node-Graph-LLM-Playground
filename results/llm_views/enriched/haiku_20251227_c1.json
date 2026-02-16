@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market regime with -20% 30-day losses and elevated 60% volatility. Recent 7-day slowdown suggests potential stabilization, but downtrend momentum remains intact. Forecast modest negative returns (-35% annualized) with moderate confidence given high uncertainty in bearish markets and potential for sharp reversals.",
+  "raw_response": "Based on the provided market data for Cluster 1 (LINK, OP, ARB, ENS, GRT), I'll analyze the key factors to forecast the 14-day expected annualized return.\n\n## Analysis\n\n**Negative Momentum Indicators:**\n- 30-day return: -20.05% (significant downtrend)\n- 14-day return: -11.63% (accelerating losses)\n- 7-day return: -2.56% (slight stabilization but still negative)\n- Market regime: Bear (strong downtrend)\n- Sharpe ratio: -2.79 (poor risk-adjusted returns)\n- Max drawdown: -23.0% (significant volatility to downside)\n\n**Volatility Context:**\n- Annualized volatility: 60.3% (extremely high)\n- This suggests potential for both sharp rebounds and further declines\n\n**Fundamental Considerations:**\n- Limited TVL data (most tokens are infrastructure/L2 tokens, not DeFi protocols with TVL)\n- Active governance activity suggests ongoing development and stakeholder engagement\n- Overall DeFi TVL nearly flat (+0.2% 30d), indicating market consolidation\n\n**Forecast Reasoning:**\nGiven the strong bear market regime, recent sharp losses, and elevated volatility, the cluster is likely in a capitulation phase. The recent 7-day slowdown in losses (-2.56% vs. -11.63% for 14 days) could indicate stabilization. However, with such bearish momentum and no positive catalysts visible, a recovery would require a significant market-wide reversal. I expect modest negative returns continuing over the next 14 days, with higher volatility potentially offering some mean reversion opportunities.\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bear market regime with -20% 30-day losses and elevated 60% volatility. Recent 7-day slowdown suggests potential stabilization, but downtrend momentum remains intact. Forecast modest negative returns (-35% annualized) with moderate confidence given high uncertainty in bearish markets and potential for sharp reversals.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:31.531419+00:00",
+  "enriched": true
+}

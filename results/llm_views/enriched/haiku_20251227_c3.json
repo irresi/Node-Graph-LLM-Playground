@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "CVX shows positive short-term momentum (+5.51% 7-day, +2.12% 14-day) despite bear market conditions and negative 30-day performance. However, high volatility (62.6% annualized), negative Sharpe ratio (-0.53), and weak TVL fundamentals (-4.3% 30d change) create significant uncertainty. The cluster's yield profile (5.14% TVL-weighted APY) provides some fundamental support, but governance activity shows mixed engagement. Low confidence reflects the conflicting signals: near-term momentum vs. structural headwinds and bear market regime. Annualized return extrapolates recent 14-day positive trend but heavily discounted for execution risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX shows positive short-term momentum (+5.51% 7-day, +2.12% 14-day) despite bear market conditions and negative 30-day performance. However, high volatility (62.6% annualized), negative Sharpe ratio (-0.53), and weak TVL fundamentals (-4.3% 30d change) create significant uncertainty. The cluster's yield profile (5.14% TVL-weighted APY) provides some fundamental support, but governance activity shows mixed engagement. Low confidence reflects the conflicting signals: near-term momentum vs. structural headwinds and bear market regime. Annualized return extrapolates recent 14-day positive trend but heavily discounted for execution risk.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:47.367559+00:00",
+  "enriched": true
+}

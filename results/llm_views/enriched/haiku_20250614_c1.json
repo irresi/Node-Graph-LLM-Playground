@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster in bear market with -24.53% 30-day decline and -2.51% 14-day return. High volatility (74.9% annualized) and strongly negative Sharpe ratio (-2.75) indicate downside momentum dominance. Recent weak 7-day rebound (+0.42%) suggests temporary stabilization but insufficient to reverse bearish trend over next 14 days. Oracle/L2/infrastructure tokens lack strong fundamentals support (minimal TVL data, active but low-engagement governance). Expect continued pressure with -18% annualized return forecast, low confidence (0.35) due to high volatility and unpredictable market sentiment shifts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in bear market with -24.53% 30-day decline and -2.51% 14-day return. High volatility (74.9% annualized) and strongly negative Sharpe ratio (-2.75) indicate downside momentum dominance. Recent weak 7-day rebound (+0.42%) suggests temporary stabilization but insufficient to reverse bearish trend over next 14 days. Oracle/L2/infrastructure tokens lack strong fundamentals support (minimal TVL data, active but low-engagement governance). Expect continued pressure with -18% annualized return forecast, low confidence (0.35) due to high volatility and unpredictable market sentiment shifts.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:03.125516+00:00",
+  "enriched": true
+}

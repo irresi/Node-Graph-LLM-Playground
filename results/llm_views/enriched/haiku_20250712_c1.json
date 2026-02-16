@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows strong 14-day momentum (+19.73%) suggesting near-term support, but conflicting signals: bear market regime, extreme volatility (72.7% annualized), negative Sharpe ratio, and limited fundamental catalysts create uncertainty. Moderate positive return reflects recent bounce but tempered by macro headwinds and high reversion risk. Low confidence due to contradictory signals and data gaps.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast. Let me break down the key factors:\n\n## Analysis\n\n**Cluster Composition**: LINK, OP, ARB, ENS, GRT - Mix of oracle (LINK), Layer 2s (OP, ARB), infrastructure (ENS, GRT)\n\n**Key Observations**:\n\n1. **Momentum Reversal**: The cluster shows strong recent upside (+18.23% over 7 days, +19.73% over 14 days) despite a negative 30-day return (-1.09%), suggesting a potential reversal from the bear market regime.\n\n2. **Market Regime Conflict**: The broader DeFi market is in a \"strong downtrend\" bear regime, yet TVL has grown +13.7% over 30 days and the cluster has recovered substantially in the last 2 weeks. This creates uncertainty.\n\n3. **Volatility & Risk**: Annualized volatility of 72.7% is extremely high, with a -21.2% max drawdown in the period. The negative Sharpe ratio (-0.13) indicates poor risk-adjusted returns historically.\n\n4. **Governance Activity**: Active governance across all protocols (especially ARB with 400 proposals) suggests engaged communities, though closed proposals don't indicate imminent catalysts.\n\n5. **Limited Fundamental Data**: No TVL data for most tokens (L2/infrastructure), no yield metrics, and no recent news makes fundamental analysis difficult.\n\n6. **Technical Setup**: The 14-day +19.73% move suggests potential mean reversion or continuation is uncertain. The spike could represent bounce-back from oversold conditions or temporary relief rally.\n\n**Forecast Reasoning**:\n- The strong recent momentum (+18-19%) is notable but unsustainable over 14 days annualized\n- Bear market regime suggests headwinds remain\n- High volatility creates asymmetric risk\n- Conservative positioning given conflicting signals\n\n```json\n{\"expected_return\": 0.35, \"confidence\": 0.45, \"reasoning\": \"Cluster shows strong 14-day momentum (+19.73%) suggesting near-term support, but conflicting signals: bear market regime, extreme volatility (72.7% annualized), negative Sharpe ratio, and limited fundamental catalysts create uncertainty. Moderate positive return reflects recent bounce but tempered by macro headwinds and high reversion risk. Low confidence due to contradictory signals and data gaps.\"}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:56.361697+00:00",
+  "enriched": true
+}

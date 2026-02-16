@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.42,
+  "reasoning": "CVX shows positive momentum (7d: +14.79%, 14d: +9.36%) despite bearish market regime and negative DeFi TVL (-1.7%). However, high volatility (117.8% annualized) and low Sharpe ratio (0.37) create significant downside risk. Active governance (3 proposals) suggests community engagement. The 14d return of +9.36% annualized would translate to ~0.36 for 14 days, but mean reversion risk in a bear market and elevated drawdown potential (-17.6% max) warrant conservative positioning. Moderate confidence due to conflicting signals: strong near-term momentum vs. structural weakness and macro headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX shows positive momentum (7d: +14.79%, 14d: +9.36%) despite bearish market regime and negative DeFi TVL (-1.7%). However, high volatility (117.8% annualized) and low Sharpe ratio (0.37) create significant downside risk. Active governance (3 proposals) suggests community engagement. The 14d return of +9.36% annualized would translate to ~0.36 for 14 days, but mean reversion risk in a bear market and elevated drawdown potential (-17.6% max) warrant conservative positioning. Moderate confidence due to conflicting signals: strong near-term momentum vs. structural weakness and macro headwinds.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:12.093155+00:00",
+  "enriched": true
+}

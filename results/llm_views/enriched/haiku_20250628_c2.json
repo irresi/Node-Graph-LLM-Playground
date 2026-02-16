@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with strong negative momentum (-14% monthly, -13% 14-day). Recent 7-day slowdown (-1.64%) suggests possible stabilization, but insufficient to reverse trend. AAVE's relative strength and staking yields (LDO, RPL ~2%) provide some downside cushion. Expect modest further decline or consolidation over 14 days. Low confidence due to high volatility and potential for mean reversion in oversold conditions.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Market Context:**\n- Strong bear regime with -4.5% TVL decline over 30 days\n- Cluster has underperformed with -14.05% return in last 30 days\n- Recent momentum is deeply negative: -13.16% over 14 days, -1.64% over 7 days\n- High volatility (73.6% annualized) and poor Sharpe ratio (-1.60) indicate distressed market conditions\n- Max drawdown of -27% shows significant recent losses\n\n**Cluster Composition Analysis:**\nThe cluster contains major DeFi primitives across lending (AAVE, COMP), DEXs (UNI, SUSHI, CRV), liquid staking (LDO, RPL), and derivatives (SNX, GMX, DYDX). This is a core DeFi basket.\n\n**Protocol Fundamentals:**\n- AAVE dominates TVL ($24.7B) with only -0.7% decline - most resilient\n- UNI ($4.7B) down -6.6%, CRV ($1.8B) down -6.7% - moderate TVL pressure\n- Yield metrics are anemic: UNI 20.32% APY (outlier due to volatile pools), but most protocols showing 0.5-3% yields\n- LDO and RPL provide baseline staking yields (~2%), offering some stability\n\n**Governance & Activity:**\n- Active governance (GMX has active proposals) shows protocol participation\n- No major crises or governance issues - protocols stable\n\n**Momentum Indicators:**\n- 7-day momentum (-1.64%) is less negative than 14-day (-13.16%), suggesting potential stabilization\n- However, we're in a clear downtrend with the cluster -14% down month-to-date\n\n**Forward-Looking Factors:**\nIn a bear market with negative momentum, mean reversion is possible but not assured. The cluster's core constituents (especially AAVE and lending protocols) have defensive characteristics. However, the negative momentum and bear regime suggest continued pressure over a 14-day horizon.\n\nThe 14-day outlook typically sees less dramatic moves than 30-day periods. Given the recent -13.16% 14-day decline and current bear positioning, I expect modest further downside or consolidation rather than strong recovery.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Bear market regime with strong negative momentum (-14% monthly, -13% 14-day). Recent 7-day slowdown (-1.64%) suggests possible stabilization, but insufficient to reverse trend. AAVE's relative strength and staking yields (LDO, RPL ~2%) provide some downside cushion. Expect modest further decline or consolidation over 14 days. Low confidence due to high volatility and potential for mean reversion in oversold conditions.\"}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:38.592570+00:00",
+  "enriched": true
+}

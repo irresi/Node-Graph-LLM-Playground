@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "BAL in severe bear regime with -115.84% 30-day return and -105.58% 14-day return. Extreme downtrend momentum (-95.56% 7-day) suggests continued decline, but such extreme losses are unsustainable and may bounce. High annualized volatility (157.7%) and negative Sharpe ratio (-6.17) indicate distressed conditions. TVL decline (-24.8%) and weak governance activity offer no bullish catalysts. Annualizing recent 14-day -105.58% loss yields ~-274% annually, but expecting mean reversion within 14 days to moderately negative -1.85% annualized. Low confidence (0.35) due to extreme market dislocation and unpredictable bounce timing.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL in severe bear regime with -115.84% 30-day return and -105.58% 14-day return. Extreme downtrend momentum (-95.56% 7-day) suggests continued decline, but such extreme losses are unsustainable and may bounce. High annualized volatility (157.7%) and negative Sharpe ratio (-6.17) indicate distressed conditions. TVL decline (-24.8%) and weak governance activity offer no bullish catalysts. Annualizing recent 14-day -105.58% loss yields ~-274% annually, but expecting mean reversion within 14 days to moderately negative -1.85% annualized. Low confidence (0.35) due to extreme market dislocation and unpredictable bounce timing.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:13:07.046528+00:00",
+  "enriched": true
+}

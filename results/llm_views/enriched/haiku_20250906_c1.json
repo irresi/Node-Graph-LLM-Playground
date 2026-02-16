@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Cluster faced -14.68% headwinds over 14 days but shows potential for mean reversion in neutral market regime. High volatility (85.1%) and weak 7-day momentum (-0.68%) limit confidence. Expecting modest 14-day recovery driven by stabilization in range-bound conditions, but downside risks remain elevated.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 1 (LINK, OP, ARB, ENS, GRT) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum is Negative**: The cluster shows:\n   - 7-day return: -0.68%\n   - 14-day return: -14.68%\n   - This contrasts with +8.27% over 30 days, suggesting recent weakness\n\n2. **High Volatility Environment**: \n   - Annualized volatility of 85.1% indicates significant price swings\n   - Max drawdown of -17.7% shows downside risk is real\n   - Sharpe ratio of 0.82 is moderate, not exceptional\n\n3. **Market Regime**: \n   - Neutral/Range-bound conditions suggest consolidation\n   - Overall DeFi TVL growth of +4.9% (30d) is modest\n   - No strong bullish or bearish structural catalysts evident\n\n4. **Governance Activity**: \n   - Active DAO governance across all tokens (especially ARB with 400 proposals)\n   - Recent closed proposals suggest ongoing protocol development\n   - This is neutral to slightly positive for long-term fundamentals\n\n5. **Negative Near-Term Trend**: \n   - The 14-day return of -14.68% indicates the cluster has recently underperformed\n   - Mean reversion is possible, but momentum remains negative over the past week\n\n**Forecast Rationale:**\nGiven the recent 14-day weakness (-14.68%), neutral market regime, and high volatility, I expect modest recovery or consolidation rather than continued downside. However, the near-term negative momentum (-0.68% over 7 days) suggests caution. A range-bound scenario with slight positive bias from mean reversion is most likely.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster faced -14.68% headwinds over 14 days but shows potential for mean reversion in neutral market regime. High volatility (85.1%) and weak 7-day momentum (-0.68%) limit confidence. Expecting modest 14-day recovery driven by stabilization in range-bound conditions, but downside risks remain elevated.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:32.781219+00:00",
+  "enriched": true
+}

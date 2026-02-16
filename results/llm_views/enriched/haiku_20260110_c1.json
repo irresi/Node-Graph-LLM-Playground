@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows mixed signals in bear market. Positive momentum (14-day +11.31%, 7-day +3.16%) contrasts with negative 30-day performance (-6.38%) and overall bear regime. High volatility (51.8%) and negative Sharpe ratio (-1.04) indicate elevated risk. Active governance across OP, ARB, ENS suggests protocol development, but infrastructure tokens lack TVL metrics for fundamental assessment. Low confidence reflects uncertainty in trend sustainability and limited visibility into protocol health metrics. Mean reversion from recent momentum gains likely over 14-day horizon.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows mixed signals in bear market. Positive momentum (14-day +11.31%, 7-day +3.16%) contrasts with negative 30-day performance (-6.38%) and overall bear regime. High volatility (51.8%) and negative Sharpe ratio (-1.04) indicate elevated risk. Active governance across OP, ARB, ENS suggests protocol development, but infrastructure tokens lack TVL metrics for fundamental assessment. Low confidence reflects uncertainty in trend sustainability and limited visibility into protocol health metrics. Mean reversion from recent momentum gains likely over 14-day horizon.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:56.210145+00:00",
+  "enriched": true
+}

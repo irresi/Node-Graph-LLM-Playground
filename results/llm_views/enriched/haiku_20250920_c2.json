@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.58,
+  "reasoning": "Cluster 2 operates in a bear market regime with strong downtrend signals. Recent 7-day return of -4.96% suggests negative momentum, though the 14-day return of +2.48% indicates some recovery potential. TVL metrics are mixed: AAVE and CAKE show strong 30-day growth (+13.9%, +13.2%), supporting fundamental strength, while CRV shows weakness (-2.1%). However, the cluster's annualized volatility of 59.9% with negative Sharpe ratio (-0.59) and max drawdown of -15.8% indicate elevated risk in a bearish environment. The cluster's -4.23% 30-day performance aligns with bearish positioning. Governance activity across protocols remains robust but doesn't offset macro headwinds. Moderate confidence due to conflicting signals: positive fundamentals and governance vs. negative market regime and recent momentum, combined with high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 2 operates in a bear market regime with strong downtrend signals. Recent 7-day return of -4.96% suggests negative momentum, though the 14-day return of +2.48% indicates some recovery potential. TVL metrics are mixed: AAVE and CAKE show strong 30-day growth (+13.9%, +13.2%), supporting fundamental strength, while CRV shows weakness (-2.1%). However, the cluster's annualized volatility of 59.9% with negative Sharpe ratio (-0.59) and max drawdown of -15.8% indicate elevated risk in a bearish environment. The cluster's -4.23% 30-day performance aligns with bearish positioning. Governance activity across protocols remains robust but doesn't offset macro headwinds. Moderate confidence due to conflicting signals: positive fundamentals and governance vs. negative market regime and recent momentum, combined with high volatility.\"\n}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:57.084686+00:00",
+  "enriched": true
+}

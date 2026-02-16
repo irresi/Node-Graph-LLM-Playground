@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.55,
+  "reasoning": "CVX shows strong 30-day momentum (+52.49%) with excellent Sharpe ratio (3.40) in bull market regime, but recent 14-day return of -15.87% suggests momentum reversal or consolidation after strong gains. High volatility (129.6% annualized) and -35.6% max drawdown indicate significant risk. 7-day recovery (+10.52%) and active governance participation support moderate upside, but the token is likely consolidating after significant rally. Annualizing recent 7-day performance yields ~0.55 annualized, tempered down to 0.28 to account for momentum mean reversion risk and elevated drawdown risk. Confidence is moderate due to conflicting signals between strong long-term momentum and recent weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CVX shows strong 30-day momentum (+52.49%) with excellent Sharpe ratio (3.40) in bull market regime, but recent 14-day return of -15.87% suggests momentum reversal or consolidation after strong gains. High volatility (129.6% annualized) and -35.6% max drawdown indicate significant risk. 7-day recovery (+10.52%) and active governance participation support moderate upside, but the token is likely consolidating after significant rally. Annualizing recent 7-day performance yields ~0.55 annualized, tempered down to 0.28 to account for momentum mean reversion risk and elevated drawdown risk. Confidence is moderate due to conflicting signals between strong long-term momentum and recent weakness.\"\n}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:54.884259+00:00",
+  "enriched": true
+}

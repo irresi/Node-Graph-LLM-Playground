@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster 2 faces conflicting signals in a bear market regime. Positive factors: Strong 7-day (+8.86%) and 14-day (+10.29%) momentum suggesting reversal potential, solid TVL growth in major protocols (AAVE +7.4%, UNI +1.3%), and robust governance activity indicating protocol health. Negative factors: Bear market regime with only +1.2% DeFi TVL growth, poor 30-day performance (-5.06%), high volatility (70.8% annualized), negative Sharpe ratio (-0.60), and significant drawdown risk (-13.9% max). The forecast reflects mild mean reversion from recent momentum bounce, but confidence is modest due to regime headwinds and elevated volatility. Over 14 days, annualized 18% return represents moderate upside continuation of recent weeks' gains, though sustainability in bear conditions is questionable.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 2 faces conflicting signals in a bear market regime. Positive factors: Strong 7-day (+8.86%) and 14-day (+10.29%) momentum suggesting reversal potential, solid TVL growth in major protocols (AAVE +7.4%, UNI +1.3%), and robust governance activity indicating protocol health. Negative factors: Bear market regime with only +1.2% DeFi TVL growth, poor 30-day performance (-5.06%), high volatility (70.8% annualized), negative Sharpe ratio (-0.60), and significant drawdown risk (-13.9% max). The forecast reflects mild mean reversion from recent momentum bounce, but confidence is modest due to regime headwinds and elevated volatility. Over 14 days, annualized 18% return represents moderate upside continuation of recent weeks' gains, though sustainability in bear conditions is questionable.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:08.532481+00:00",
+  "enriched": true
+}

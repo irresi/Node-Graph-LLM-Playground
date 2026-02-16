@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster down 12.96% over 7 days; expecting modest mean reversion in neutral market regime, but high volatility (54.9%), poor Sharpe ratio (0.10), and lack of positive catalysts limit upside. Low confidence reflects uncertainty around L2/infrastructure token dynamics and macro DeFi sentiment.",
+  "raw_response": "I'll analyze the provided data for Cluster 1 (LINK, OP, ARB, ENS, GRT) and forecast the expected annualized return for the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: Negative\n   - 7-day return: -12.96%\n   - 14-day return: -10.91%\n   - 30-day return: +0.68% (positive but marginal)\n   - Clear downtrend in the short term despite slight positive 30-day performance\n\n2. **Volatility & Risk Profile**:\n   - Annualized volatility: 54.9% (very high)\n   - Sharpe ratio: 0.10 (poor risk-adjusted returns)\n   - Max drawdown: -16.9% (significant downside risk)\n   - This is a high-volatility, infrastructure/L2 token cluster\n\n3. **Market Regime**:\n   - Overall DeFi TVL up 3.0% (30-day), suggesting modest market recovery\n   - Neutral/range-bound regime indicates limited catalysts for strong directional moves\n\n4. **Governance & Fundamentals**:\n   - Active governance across all protocols (DAO voting ongoing)\n   - No major TVL concentration (LINK shows $0M, others are L2/infrastructure tokens without TVL)\n   - No recent news or yield metrics to provide upside catalysts\n\n5. **Mean Reversion Considerations**:\n   - The cluster is down ~13% over 7 days, suggesting potential for mean reversion\n   - However, the poor Sharpe ratio (0.10) indicates weak fundamental support for recovery\n   - The neutral market regime provides limited tailwinds\n\n**Forecast Rationale:**\n\nGiven the strong recent downtrend (-12.96% over 7 days) against a neutral macro backdrop, I expect modest mean reversion over the next 14 days. However, the high volatility and poor risk-adjusted returns suggest limited upside. The cluster is likely to see partial recovery but remain under pressure.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Cluster down 12.96% over 7 days; expecting modest mean reversion in neutral market regime, but high volatility (54.9%), poor Sharpe ratio (0.10), and lack of positive catalysts limit upside. Low confidence reflects uncertainty around L2/infrastructure token dynamics and macro DeFi sentiment.\"}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:26.453091+00:00",
+  "enriched": true
+}

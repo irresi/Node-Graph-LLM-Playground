@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "BAL shows mixed signals: strong 30-day return (+17.85%) and solid TVL growth (+34.4%) support bullish outlook, but negative recent momentum (7d: -4.38%, 14d: -5.07%) and high volatility (105.3%) create uncertainty. Moderate bull market regime is supportive. Active governance (emergency signer swap, factory permissions) suggests operational activity but no major catalysts. Annualized 14-day forward extrapolation from current positioning yields ~28% return with moderate confidence given the reversal risk evident in recent price action.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows mixed signals: strong 30-day return (+17.85%) and solid TVL growth (+34.4%) support bullish outlook, but negative recent momentum (7d: -4.38%, 14d: -5.07%) and high volatility (105.3%) create uncertainty. Moderate bull market regime is supportive. Active governance (emergency signer swap, factory permissions) suggests operational activity but no major catalysts. Annualized 14-day forward extrapolation from current positioning yields ~28% return with moderate confidence given the reversal risk evident in recent price action.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:32.667330+00:00",
+  "enriched": true
+}

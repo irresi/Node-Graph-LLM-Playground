@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "CVX showing strong downward momentum (-9.3% 14-day) contradicts positive TVL growth (+10.2%) and DeFi bull regime. Expected stabilization/modest recovery over next 14 days as oversold conditions ease, but high volatility (81.8%) and negative Sharpe ratio limit confidence. Annualized return forecast assumes partial rebound from recent weakness.",
+  "raw_response": "I'll analyze the provided data for Cluster 3 (CVX) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum - Negative**: The cluster shows consistent downward pressure:\n   - 7-day return: -18.15%\n   - 14-day return: -9.30%\n   - 30-day return: -5.05%\n   - This suggests ongoing selling pressure despite the broader DeFi bull market\n\n2. **Volatility Profile**: \n   - Annualized volatility: 81.8% (very high)\n   - Max drawdown: -23.5% (significant)\n   - Sharpe ratio: -0.52 (negative risk-adjusted returns)\n   - This indicates high risk with poor recent risk-adjusted performance\n\n3. **Fundamental Disconnect**:\n   - TVL growing solidly (+10.2% in 30 days)\n   - DeFi market expanding (+19.6% TVL growth)\n   - Reasonable yield (5.14% TVL-weighted APY)\n   - Yet price declining\n\n4. **Market Context**:\n   - Moderate bull regime benefits the broader market but CVX is underperforming\n   - Active governance (3 active proposals) shows protocol engagement\n   - No recent negative news\n\n5. **Technical Setup**:\n   - The 14-day return (-9.30%) represents approximately -240% annualized if extrapolated\n   - However, this severe downtrend is unlikely to continue at this pace\n   - Mean reversion or stabilization is more probable over the next 14 days\n\n**Forecast Rationale:**\nGiven the extreme recent momentum against CVX despite positive TVL fundamentals, I expect some stabilization or modest recovery over the next 14 days. The negative trend is likely unsustainable, and the positive DeFi regime may provide some support. However, the high volatility and recent underperformance warrant caution.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.42, \"reasoning\": \"CVX showing strong downward momentum (-9.3% 14-day) contradicts positive TVL growth (+10.2%) and DeFi bull regime. Expected stabilization/modest recovery over next 14 days as oversold conditions ease, but high volatility (81.8%) and negative Sharpe ratio limit confidence. Annualized return forecast assumes partial rebound from recent weakness.\"}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:54.263458+00:00",
+  "enriched": true
+}

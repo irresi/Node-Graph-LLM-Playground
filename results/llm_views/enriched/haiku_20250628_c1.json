@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "Cluster in bear market regime with -27.83% 30-day loss and high volatility (76.6% annualized). Recent 7-day rebound (+1.85%) shows weak recovery momentum, but 14-day trend remains negative (-8.72%). Infrastructure/L2 tokens highly sensitive to macro sentiment and Bitcoin correlation. Governance activity present but insufficient to offset bearish technicals. Low confidence due to extreme volatility and regime uncertainty. Expect continued weakness with annualized return estimate of -42% over 14-day horizon, though reversal possible given oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in bear market regime with -27.83% 30-day loss and high volatility (76.6% annualized). Recent 7-day rebound (+1.85%) shows weak recovery momentum, but 14-day trend remains negative (-8.72%). Infrastructure/L2 tokens highly sensitive to macro sentiment and Bitcoin correlation. Governance activity present but insufficient to offset bearish technicals. Low confidence due to extreme volatility and regime uncertainty. Expect continued weakness with annualized return estimate of -42% over 14-day horizon, though reversal possible given oversold conditions.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:28.148599+00:00",
+  "enriched": true
+}
