@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Negative 14-day momentum (-14.68%) suggests potential oversold conditions in volatile infrastructure cluster. Neutral market regime and modest DeFi fundamentals limit upside. Expecting modest mean reversion recovery over 14 days, but high volatility (85.1% annualized) and weak 7-day trend create significant uncertainty. Confidence tempered by lack of strong directional catalysts.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum is Negative**: The cluster shows concerning short-term momentum:\n   - 7-day return: -0.68%\n   - 14-day return: -14.68%\n   - This contrasts with the positive 30-day return of +8.27%, suggesting recent reversal\n\n2. **Volatility Context**: \n   - Annualized volatility of 85.1% indicates high risk\n   - Max drawdown of -20.0% shows the cluster experienced significant recent losses\n   - Sharpe ratio of 0.82 is modest for risk-adjusted returns\n\n3. **Cluster Composition**:\n   - Mix of infrastructure (LINK oracle), L2s (OP, ARB), and governance (ENS, GRT)\n   - Limited TVL data suggests these are primarily token-based assets rather than liquidity protocol tokens\n   - L2 and oracle tokens are sentiment-driven rather than fundamentally anchored\n\n4. **Market Regime**:\n   - Neutral/range-bound environment\n   - DeFi TVL growth of +4.9% (30-day) is modest\n   - No strong directional bias in the macro environment\n\n5. **Mean Reversion Signal**:\n   - Strong 30-day performance (+8.27%) followed by sharp 14-day decline (-14.68%) suggests possible oversold conditions\n   - However, the current 7-day weakness (-0.68%) suggests momentum is still negative\n\n**Forecast Rationale**:\nGiven the negative 14-day return, high volatility, and range-bound market, the next 14 days likely sees partial recovery from oversold levels, but without strong catalysts. The infrastructure/L2 space faces typical seasonal weakness in early September. I expect modest mean reversion upward but remain cautious given downtrend confirmation.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.55, \"reasoning\": \"Negative 14-day momentum (-14.68%) suggests potential oversold conditions in volatile infrastructure cluster. Neutral market regime and modest DeFi fundamentals limit upside. Expecting modest mean reversion recovery over 14 days, but high volatility (85.1% annualized) and weak 7-day trend create significant uncertainty. Confidence tempered by lack of strong directional catalysts.\"}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:11:06.436055+00:00"
+}

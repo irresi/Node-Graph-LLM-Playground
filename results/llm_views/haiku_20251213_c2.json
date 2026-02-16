@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster 2 shows severe bearish momentum with -25.12% 30-day return and negative Sharpe ratio (-4.09), indicating risk-adjusted losses. The bear market regime and -10.64% 14-day decline suggest continued downward pressure. However, confidence is moderate (0.42) due to: (1) potential mean reversion after steep drawdowns, (2) CRV's +8.2% TVL growth suggesting some protocol resilience, (3) AAVE's dominance (40% of cluster TVL) provides some stability, but (4) macro conditions remain weak with -1.3% TVL decline. The -0.85 annualized forecast (approximately -3.3% over 14 days) reflects cautious pessimism with recognition of reversal potential given oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 2 shows severe bearish momentum with -25.12% 30-day return and negative Sharpe ratio (-4.09), indicating risk-adjusted losses. The bear market regime and -10.64% 14-day decline suggest continued downward pressure. However, confidence is moderate (0.42) due to: (1) potential mean reversion after steep drawdowns, (2) CRV's +8.2% TVL growth suggesting some protocol resilience, (3) AAVE's dominance (40% of cluster TVL) provides some stability, but (4) macro conditions remain weak with -1.3% TVL decline. The -0.85 annualized forecast (approximately -3.3% over 14 days) reflects cautious pessimism with recognition of reversal potential given oversold conditions.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:19:31.710129+00:00"
+}

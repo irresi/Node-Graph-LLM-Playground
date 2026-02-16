@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong recent momentum (+15.16% in 30d, +12.43% in 14d) with healthy Sharpe ratio (1.56), but elevated volatility (81.5% annualized) and -19.1% max drawdown indicate significant risk. Moderate bull regime supports continued upside, but recent 7d return (+11.51%) suggests momentum may be moderating. Infrastructure/L2/Oracle tokens typically trade on narrative and adoption cycles rather than TVL fundamentals. Annualizing recent 14-day performance (+12.43% = ~64% annualized) tempered by volatility mean reversion and tapering momentum yields ~42% expected return with moderate confidence due to uncertain sustainability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong recent momentum (+15.16% in 30d, +12.43% in 14d) with healthy Sharpe ratio (1.56), but elevated volatility (81.5% annualized) and -19.1% max drawdown indicate significant risk. Moderate bull regime supports continued upside, but recent 7d return (+11.51%) suggests momentum may be moderating. Infrastructure/L2/Oracle tokens typically trade on narrative and adoption cycles rather than TVL fundamentals. Annualizing recent 14-day performance (+12.43% = ~64% annualized) tempered by volatility mean reversion and tapering momentum yields ~42% expected return with moderate confidence due to uncertain sustainability.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:10:02.081712+00:00"
+}

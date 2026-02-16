@@ -1,0 +1,13 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "BAL shows strong short-term momentum (+13.49% 7d, +12.53% 14d) reversing 30d losses (-2.57%), suggesting potential mean reversion or bullish inflection. However, this conflicts with the bear market regime and negative Sharpe ratio (-0.49), indicating the recent gains may be unsustainable. The 44.4% annualized volatility is high, and the -14.8% max drawdown suggests downside risk. Extrapolating 14d return (~12.5%) to annualized (~183%) is unrealistic; a more conservative 18% expected return reflects the positive momentum offset by regime headwinds. Low confidence due to regime uncertainty and high volatility in a bear market making near-term forecasts unreliable.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"BAL shows strong short-term momentum (+13.49% 7d, +12.53% 14d) reversing 30d losses (-2.57%), suggesting potential mean reversion or bullish inflection. However, this conflicts with the bear market regime and negative Sharpe ratio (-0.49), indicating the recent gains may be unsustainable. The 44.4% annualized volatility is high, and the -14.8% max drawdown suggests downside risk. Extrapolating 14d return (~12.5%) to annualized (~183%) is unrealistic; a more conservative 18% expected return reflects the positive momentum offset by regime headwinds. Low confidence due to regime uncertainty and high volatility in a bear market making near-term forecasts unreliable.\"}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:07:28.256539+00:00"
+}

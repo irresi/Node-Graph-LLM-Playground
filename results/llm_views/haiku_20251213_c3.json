@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.55,
+  "reasoning": "CVX faces headwinds from bear market regime (-1.3% DeFi TVL decline, -11.18% 30-day return) and weak Sharpe ratio (-1.43). However, recent 7-day rebound (+1.95%) suggests potential mean reversion in the 14-day window. The cluster's high volatility (65.7%) and modest TVL decline (-5.3%) indicate stabilization possibilities. Forecast assumes continued but decelerating downside pressure with some recovery momentum, resulting in modest negative annualized return. Moderate confidence due to regime uncertainty and volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CVX faces headwinds from bear market regime (-1.3% DeFi TVL decline, -11.18% 30-day return) and weak Sharpe ratio (-1.43). However, recent 7-day rebound (+1.95%) suggests potential mean reversion in the 14-day window. The cluster's high volatility (65.7%) and modest TVL decline (-5.3%) indicate stabilization possibilities. Forecast assumes continued but decelerating downside pressure with some recovery momentum, resulting in modest negative annualized return. Moderate confidence due to regime uncertainty and volatility.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:19:46.195310+00:00"
+}

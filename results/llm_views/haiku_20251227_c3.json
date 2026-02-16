@@ -1,0 +1,13 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.42,
+  "reasoning": "CVX shows positive 7-day momentum (+5.51%) suggesting recovery from oversold conditions, supporting modest 14-day gains. However, bear market regime, high volatility (62.6%), weak Sharpe ratio (-0.53), and single-token concentration create significant headwinds. Annualized 0.28 (2% 14-day equivalent) reflects balanced bullish momentum against bearish macro conditions. Low confidence reflects regime uncertainty and high volatility.",
+  "raw_response": "Looking at Cluster 3 (CVX - Convex Finance), I need to analyze the key factors for a 14-day return forecast:\n\n## Analysis\n\n**Positive Factors:**\n- Strong recent momentum: +5.51% over 7 days and +2.12% over 14 days shows recovery after the 30-day decline\n- Reversal pattern: The cluster is bouncing from a -16.7% max drawdown, suggesting oversold conditions\n- TVL stabilization: While down 4.3% over 30 days, the modest TVL change suggests the protocol core is holding\n\n**Negative Factors:**\n- Bear market regime: Overall DeFi is in a strong downtrend with only +0.2% TVL growth\n- High volatility: 62.6% annualized volatility indicates significant price swings ahead\n- Low Sharpe ratio: -0.53 suggests poor risk-adjusted returns in recent period\n- Single-token cluster risk: CVX concentration without diversification amplifies volatility\n\n**14-Day Specific Considerations:**\n- The recent 7-day bounce (+5.51%) is strong but may face resistance in a bear market\n- Mean reversion dynamics suggest the strong recent returns could moderate\n- The 2% 14-day return already reflects some positive momentum, but sustainability is questionable in this regime\n\n**Forecast Reasoning:**\nThe recent 7-14 day momentum is encouraging (+5.51% 7-day), but operating in a bear market regime significantly limits upside. Given the short 14-day timeframe, the momentum could carry through, but the high volatility and bear regime warrant caution. I expect modest positive returns with high uncertainty.\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX shows positive 7-day momentum (+5.51%) suggesting recovery from oversold conditions, supporting modest 14-day gains. However, bear market regime, high volatility (62.6%), weak Sharpe ratio (-0.53), and single-token concentration create significant headwinds. Annualized 0.28 (2% 14-day equivalent) reflects balanced bullish momentum against bearish macro conditions. Low confidence reflects regime uncertainty and high volatility.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:20:57.423198+00:00"
+}

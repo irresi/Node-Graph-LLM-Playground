@@ -1,0 +1,13 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "BAL shows mixed signals: positive 7-day momentum (+9.42%) and strong TVL growth (+21.3% in 30d) suggest bullish fundamentals for Balancer protocol. However, negative 30-day return (-7.31%), high volatility (38.6%), and poor Sharpe ratio (-1.59) indicate significant downside risk and mean-reversion pressure. The 14-day return of +0.84% suggests consolidation. Annualized forecast reflects modest upside from momentum recovery offset by elevated risk. Moderate confidence due to contradictory technical and fundamental signals in a neutral market regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"BAL shows mixed signals: positive 7-day momentum (+9.42%) and strong TVL growth (+21.3% in 30d) suggest bullish fundamentals for Balancer protocol. However, negative 30-day return (-7.31%), high volatility (38.6%), and poor Sharpe ratio (-1.59) indicate significant downside risk and mean-reversion pressure. The 14-day return of +0.84% suggests consolidation. Annualized forecast reflects modest upside from momentum recovery offset by elevated risk. Moderate confidence due to contradictory technical and fundamental signals in a neutral market regime.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:14:08.296612+00:00"
+}

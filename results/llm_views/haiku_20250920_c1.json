@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster 1 faces headwinds from a bear market regime (-3.02% 30d return, -6.87% 7d return) with high volatility (64% annualized). However, 14-day momentum (+4.41%) suggests potential near-term recovery. Infrastructure/L2 tokens are typically more correlated with macro sentiment and protocol adoption. The negative Sharpe ratio (-0.40) and -17.1% max drawdown indicate elevated risk. Given the conflicting signals (strong recent weakness vs. some momentum bounce), I forecast modest negative returns annualized over 14 days, with moderate-low confidence due to the bear regime dominance and lack of clear TVL-based catalysts for meaningful recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 1 faces headwinds from a bear market regime (-3.02% 30d return, -6.87% 7d return) with high volatility (64% annualized). However, 14-day momentum (+4.41%) suggests potential near-term recovery. Infrastructure/L2 tokens are typically more correlated with macro sentiment and protocol adoption. The negative Sharpe ratio (-0.40) and -17.1% max drawdown indicate elevated risk. Given the conflicting signals (strong recent weakness vs. some momentum bounce), I forecast modest negative returns annualized over 14 days, with moderate-low confidence due to the bear regime dominance and lack of clear TVL-based catalysts for meaningful recovery.\"\n}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:12:12.176489+00:00"
+}

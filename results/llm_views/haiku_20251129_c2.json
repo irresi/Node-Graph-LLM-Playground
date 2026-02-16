@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -22.19% 30-day return and -27.7% max drawdown. However, recent 7-day bounce of +6.87% suggests potential mean reversion in next 14 days. Major protocols (AAVE $32B TVL) showing -14.2% 30d decline. High volatility (73.7% annualized) and negative Sharpe ratio (-2.53) indicate elevated risk. 14-day return of -7.17% shows continued weakness despite 7-day recovery. Given bearish regime, macro headwinds implied by 16.5% TVL decline, but near-term technical bounce potential, forecast moderately negative return with below-median confidence due to regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -22.19% 30-day return and -27.7% max drawdown. However, recent 7-day bounce of +6.87% suggests potential mean reversion in next 14 days. Major protocols (AAVE $32B TVL) showing -14.2% 30d decline. High volatility (73.7% annualized) and negative Sharpe ratio (-2.53) indicate elevated risk. 14-day return of -7.17% shows continued weakness despite 7-day recovery. Given bearish regime, macro headwinds implied by 16.5% TVL decline, but near-term technical bounce potential, forecast moderately negative return with below-median confidence due to regime uncertainty.\"\n}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:18:23.229924+00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "Expect continued weakness in bear market with persistent negative momentum, but moderation from extreme 30-day decline. High volatility and extreme recent underperformance limit confidence. CVX yield token dynamics suggest ongoing pressure as DeFi TVL contracts.",
+  "raw_response": "I'll analyze this DeFi cluster forecast for CVX (Convex Finance) over the next 14 days.\n\n## Analysis\n\n**Current Market Conditions:**\n- Strong bear market regime with -4.5% TVL decline\n- Cluster has experienced severe losses: -33.87% over 30 days\n- High volatility (80% annualized) with negative momentum across all timeframes\n- Sharpe ratio of -3.56 indicates poor risk-adjusted returns\n\n**CVX-Specific Metrics:**\n- TVL: $1,031M with -14.4% 30-day decline\n- Recent momentum is sharply negative: -5.88% (7d), -12.05% (14d), -33.87% (30d)\n- Max drawdown of -29.5% shows significant downside pressure\n\n**Key Considerations:**\n\n1. **Momentum Factor**: The accelerating losses across time periods (worst 30-day performance) suggest continued downward pressure, particularly concerning for a short 14-day forecast period.\n\n2. **Regime Analysis**: Bear markets in DeFi typically extend for weeks to months. The -4.5% TVL decline indicates broader ecosystem stress.\n\n3. **Mean Reversion Risk**: While oversold conditions could theoretically spark a bounce, the current momentum and bear regime weight toward further downside.\n\n4. **Yield Token Dynamics**: As a yield/governance token, CVX is highly correlated with broader DeFi sentiment and Curve Finance's health. The significant TVL decline suggests reduced yield generation capacity.\n\n5. **Confidence Limitations**: The extreme volatility (80% annualized) and negative Sharpe ratio make high-confidence predictions unreliable. However, the consistent downtrend does provide some directional clarity.\n\n**Forecast Rationale:**\n- Expecting continued weakness but potentially less severe than the recent 30-day drop\n- 14-day period is short enough that momentum typically persists\n- Bear regime suggests negative expected returns likely to continue\n- High volatility reduces confidence in point estimates\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.42, \"reasoning\": \"Expect continued weakness in bear market with persistent negative momentum, but moderation from extreme 30-day decline. High volatility and extreme recent underperformance limit confidence. CVX yield token dynamics suggest ongoing pressure as DeFi TVL contracts.\"}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:06:11.143469+00:00"
+}

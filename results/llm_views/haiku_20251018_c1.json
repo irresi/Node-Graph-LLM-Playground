@@ -1,0 +1,17 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear market with -49.82% 30-day loss and -39.34% 14-day loss. High volatility (107.1% annualized) and deeply negative Sharpe ratio (-3.91) indicate extreme risk. However, extreme drawdowns often precede mean reversion bounces. Near-term forecast is cautiously negative given continued downtrend momentum (-4.06% in past 7 days), but oversold conditions and infrastructure token utility suggest potential for partial recovery. Low confidence due to regime uncertainty and lack of clear bullish catalysts in current bear market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear market with -49.82% 30-day loss and -39.34% 14-day loss. High volatility (107.1% annualized) and deeply negative Sharpe ratio (-3.91) indicate extreme risk. However, extreme drawdowns often precede mean reversion bounces. Near-term forecast is cautiously negative given continued downtrend momentum (-4.06% in past 7 days), but oversold conditions and infrastructure token utility suggest potential for partial recovery. Low confidence due to regime uncertainty and lack of clear bullish catalysts in current bear market.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:14:22.961947+00:00"
+}

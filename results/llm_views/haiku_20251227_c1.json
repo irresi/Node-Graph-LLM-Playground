@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with persistent downtrend (-20.05% 30d), but momentum decelerating (7d loss smaller than 14d loss) suggests near-term stabilization risk. Infrastructure token cluster lacks positive catalysts. High volatility (60.3% annualized) creates substantial uncertainty. Moderate confidence reflects both bearish fundamentals and potential mean-reversion from extreme drawdown levels.",
+  "raw_response": "I'll analyze the provided data to forecast the expected annualized return for Cluster 1 over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Bear market with strong downtrend\n   - Overall DeFi TVL nearly flat (+0.2% 30d), indicating market stagnation\n   - Cluster experiencing significant losses (-20.05% over 30 days)\n\n2. **Momentum Analysis**:\n   - 7-day return: -2.56% (slowing deterioration)\n   - 14-day return: -11.63% (acceleration phase)\n   - 30-day return: -20.05% (sustained pressure)\n   - The deceleration from 14d to 7d suggests momentum may be stabilizing\n\n3. **Volatility & Risk**:\n   - Annualized volatility: 60.3% (extremely high)\n   - Sharpe ratio: -2.79 (terrible risk-adjusted returns)\n   - Max drawdown: -23.8% (near realized)\n   - Current cluster appears near capitulation levels\n\n4. **Cluster Composition**:\n   - Mix of layer-2 scaling (OP, ARB), oracle/data (LINK, GRT), and naming services (ENS)\n   - These infrastructure tokens typically recover during market rebounds\n   - However, no clear fundamental catalysts in near-term\n\n5. **Technical Signals**:\n   - Momentum deceleration (7d loss smaller than 14d loss) suggests potential stabilization\n   - However, bear regime typically continues for extended periods\n   - No positive TVL growth data to support reversal thesis\n\n**Forecast Rationale:**\nIn the next 14 days, I expect:\n- Continued weakness given bear market regime persistence\n- Slight potential for stabilization/mean reversion given extreme recent losses\n- Infrastructure tokens may underperform during sustained downturns due to reduced developer activity\n- High volatility creates both downside and upside risks\n\nGiven the bear market regime, extreme negative momentum, and lack of positive catalysts, I forecast a negative return. However, the deceleration in losses suggests some stabilization risk, warranting a modest confidence level.\n\n```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bear market regime with persistent downtrend (-20.05% 30d), but momentum decelerating (7d loss smaller than 14d loss) suggests near-term stabilization risk. Infrastructure token cluster lacks positive catalysts. High volatility (60.3% annualized) creates substantial uncertainty. Moderate confidence reflects both bearish fundamentals and potential mean-reversion from extreme drawdown levels.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:20:19.949429+00:00"
+}

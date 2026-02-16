@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "CVX is a single-token yield cluster facing significant headwinds. The bear market regime with -16.5% DeFi TVL decline and CVX's -19.63% 30-day loss indicate persistent downward pressure. However, recent positive momentum (7-day +12.55%, 14-day +2.32%) suggests potential mean reversion in the short term. The 87.4% annualized volatility and -1.89 Sharpe ratio reflect high risk. Forward outlook remains cautious given macro DeFi contraction, but the sharp recent bounce provides some support. Low confidence due to high volatility, concentrated single-token exposure, and conflicting signals between longer and shorter-term trends in a bear market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX is a single-token yield cluster facing significant headwinds. The bear market regime with -16.5% DeFi TVL decline and CVX's -19.63% 30-day loss indicate persistent downward pressure. However, recent positive momentum (7-day +12.55%, 14-day +2.32%) suggests potential mean reversion in the short term. The 87.4% annualized volatility and -1.89 Sharpe ratio reflect high risk. Forward outlook remains cautious given macro DeFi contraction, but the sharp recent bounce provides some support. Low confidence due to high volatility, concentrated single-token exposure, and conflicting signals between longer and shorter-term trends in a bear market.\"\n}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:18:37.722419+00:00"
+}

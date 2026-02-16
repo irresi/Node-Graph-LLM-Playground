@@ -1,0 +1,25 @@
+{
+  "expected_return": 0.55,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows cooling momentum (9.58% 7d \u2192 3.55% 14d) in neutral market regime. Strong TVL growth in major holdings (AAVE +15%, CAKE +20.9%) provides support. Expect 2-3% 14-day return, annualizing to ~55%. Moderate confidence reflects uncertainty in momentum direction and elevated volatility (55.5% annualized) in range-bound market.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows strong short-term momentum with +9.58% over 7 days, moderating to +3.55% over 14 days and +3.39% over 30 days. This suggests momentum may be cooling.\n\n2. **Market Regime**: Neutral/range-bound environment with moderate TVL growth (+8.2% overall DeFi), indicating no strong directional bias.\n\n3. **Volatility Profile**: Annualized volatility of 55.5% with a Sharpe ratio of 0.51 reflects moderate risk-adjusted returns. The -16.4% max drawdown indicates meaningful downside risk.\n\n4. **Portfolio Composition Strengths**:\n   - Heavy weight in stable protocols (AAVE $44.976B TVL, +15% 30d)\n   - CAKE showing exceptional growth (+20.9% 30d)\n   - Diversified exposure across DEX, lending, yield, and derivatives\n   - CRV momentum strong at +10.6% (30d)\n\n5. **Headwinds**:\n   - Momentum deceleration (9.58% \u2192 3.55% \u2192 3.39% trend)\n   - Sharpe ratio of 0.51 suggests mediocre risk-adjusted performance\n   - Market regime is neutral, not favorable\n   - Mean reversion risk after 7-day outperformance\n\n6. **14-Day Outlook**:\n   - Given the cooling momentum and neutral regime, expect moderation from recent 9.58% weekly pace\n   - Range-bound market suggests consolidation\n   - TVL growth across major holdings remains supportive\n   - Volatility likely to persist at elevated levels\n\n**Annualization Calculation**:\n- A conservative 14-day return of 2-3% would annualize to approximately 52-78%\n- Historical 30-day performance suggests 40-50% annualized run rate\n- Adjusting for momentum cooling and neutral regime: targeting mid-range\n\n```json\n{\"expected_return\": 0.55, \"confidence\": 0.62, \"reasoning\": \"Cluster shows cooling momentum (9.58% 7d \u2192 3.55% 14d) in neutral market regime. Strong TVL growth in major holdings (AAVE +15%, CAKE +20.9%) provides support. Expect 2-3% 14-day return, annualizing to ~55%. Moderate confidence reflects uncertainty in momentum direction and elevated volatility (55.5% annualized) in range-bound market.\"}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:13:37.702373+00:00"
+}

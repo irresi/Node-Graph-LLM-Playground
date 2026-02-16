@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 shows negative momentum (-9.85% 7-day, -7.62% 14-day) with elevated volatility (46.8% annualized) and poor Sharpe ratio (-0.30). However, the 30-day decline of only -1.68% suggests stabilization. The neutral/range-bound regime and mixed protocol fundamentals (AAVE +0.9%, CAKE +3.8% vs CRV -3.0%, SUSHI -3.1%) indicate consolidation rather than sustained downtrend. The positive TVL trends in major protocols (AAVE, CAKE) provide some support, but near-term technical weakness and recent drawdowns suggest cautious negative outlook. Forecast assumes partial mean reversion from the -7.62% 14-day decline but continued weakness due to momentum inertia.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 2 shows negative momentum (-9.85% 7-day, -7.62% 14-day) with elevated volatility (46.8% annualized) and poor Sharpe ratio (-0.30). However, the 30-day decline of only -1.68% suggests stabilization. The neutral/range-bound regime and mixed protocol fundamentals (AAVE +0.9%, CAKE +3.8% vs CRV -3.0%, SUSHI -3.1%) indicate consolidation rather than sustained downtrend. The positive TVL trends in major protocols (AAVE, CAKE) provide some support, but near-term technical weakness and recent drawdowns suggest cautious negative outlook. Forecast assumes partial mean reversion from the -7.62% 14-day decline but continued weakness due to momentum inertia.\"\n}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:22:51.536449+00:00"
+}

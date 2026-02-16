@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.15,
+  "confidence": 0.35,
+  "reasoning": "Cluster showing negative momentum with -12.96% loss over 7 days and -10.91% over 14 days, suggesting continued headwinds. Infrastructure/L2 tokens are sentiment-sensitive and lack direct TVL support metrics. Neutral market regime with weak Sharpe (0.10) and high volatility (54.9%) indicate elevated risk. Mean reversion possible given recent sharp declines, but no positive catalysts evident. Forecast annualizes the recent 14-day decline while accounting for potential bounce-back from oversold conditions. Low confidence due to limited protocol fundamentals and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.15,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster showing negative momentum with -12.96% loss over 7 days and -10.91% over 14 days, suggesting continued headwinds. Infrastructure/L2 tokens are sentiment-sensitive and lack direct TVL support metrics. Neutral market regime with weak Sharpe (0.10) and high volatility (54.9%) indicate elevated risk. Mean reversion possible given recent sharp declines, but no positive catalysts evident. Forecast annualizes the recent 14-day decline while accounting for potential bounce-back from oversold conditions. Low confidence due to limited protocol fundamentals and high volatility.\"\n}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:22:37.751231+00:00"
+}

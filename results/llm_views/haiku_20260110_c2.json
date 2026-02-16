@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.58,
+  "reasoning": "Bear market regime with DeFi TVL declining limits upside. Recent 14-day bounce (+5.2%) is moderating (7-day: -1.2%), suggesting mean reversion downward. AAVE strength (+2.6% TVL) provides partial support, but SUSHI/CAKE weakness and high volatility (45.4%) create downside risk. Expect near-term pullback from recent levels, annualized to -8% over 14 days. Moderate confidence due to mixed signals and macro headwinds.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- **Bear regime**: Overall DeFi TVL declining (-1.7% in 30 days), which suggests headwinds\n- **Cluster momentum is mixed**: \n  - 30-day: -6.32% (negative)\n  - 14-day: +5.20% (positive reversal)\n  - 7-day: -1.20% (slight decline again)\n  \nThis suggests recent consolidation after a strong 14-day bounce.\n\n**Risk Metrics:**\n- **High volatility**: 45.4% annualized - typical for DeFi governance/DEX tokens\n- **Negative Sharpe ratio** (-1.17): Poor risk-adjusted returns in this period\n- **Significant drawdown**: -15.4% max drawdown indicates recent stress\n\n**Protocol Health:**\n- **Mixed TVL trends**:\n  - Strong: AAVE (+2.6%), CRV (+0.7%)\n  - Weak: SUSHI (-17.5%), CAKE (-8.1%), UNI (-2.8%)\n- **AAVE dominance**: Represents ~41% of cluster TVL with positive momentum\n- **Yield farming tokens struggling**: SUSHI, CAKE showing significant TVL outflows\n\n**14-Day Outlook Factors:**\n1. **Recent bounce** (+5.20% in 14 days) suggests oversold conditions may have been partially recovered\n2. **Current 7-day weakness** (-1.20%) suggests momentum may be slowing\n3. **Bear market regime** limits upside potential in next 14 days\n4. **AAVE strength** provides some stability (largest holding, positive TVL trend)\n5. **Derivatives/yield tokens exposure** vulnerable in bear markets\n\n**Forecast Rationale:**\nGiven the recent bounce is moderating and we're still in a bear regime, I expect modest mean reversion with downside bias over the next 14 days. The cluster showed some recovery potential but faces headwinds from declining overall DeFi TVL and weakness in SUSHI/CAKE (combined significant TVL). However, AAVE's strength and the possibility of continued stabilization provide some support.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.58, \"reasoning\": \"Bear market regime with DeFi TVL declining limits upside. Recent 14-day bounce (+5.2%) is moderating (7-day: -1.2%), suggesting mean reversion downward. AAVE strength (+2.6% TVL) provides partial support, but SUSHI/CAKE weakness and high volatility (45.4%) create downside risk. Expect near-term pullback from recent levels, annualized to -8% over 14 days. Moderate confidence due to mixed signals and macro headwinds.\"}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:21:50.873257+00:00"
+}

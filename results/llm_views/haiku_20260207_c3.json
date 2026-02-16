@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "CVX in a severe bear market (-22.9% DeFi TVL decline, -27% TVL for CVX specifically). Negative momentum (-15.47% 30d, -13.45% 7d returns) with extreme volatility (98.7%) and poor Sharpe ratio (-1.32) indicate distressed conditions. Curve DAO governance token highly correlated with DeFi sentiment and liquidity provision appetite. Single-token cluster increases idiosyncratic risk. While oversold technicals could trigger mean reversion, macro bear regime and protocol outflows suggest continued pressure. Low confidence due to high volatility and regime uncertainty - recovery possible but downside risk remains elevated over 14-day horizon.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"CVX in a severe bear market (-22.9% DeFi TVL decline, -27% TVL for CVX specifically). Negative momentum (-15.47% 30d, -13.45% 7d returns) with extreme volatility (98.7%) and poor Sharpe ratio (-1.32) indicate distressed conditions. Curve DAO governance token highly correlated with DeFi sentiment and liquidity provision appetite. Single-token cluster increases idiosyncratic risk. While oversold technicals could trigger mean reversion, macro bear regime and protocol outflows suggest continued pressure. Low confidence due to high volatility and regime uncertainty - recovery possible but downside risk remains elevated over 14-day horizon.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:24:14.561088+00:00"
+}

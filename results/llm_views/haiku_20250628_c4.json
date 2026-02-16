@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.95,
+  "confidence": 0.62,
+  "reasoning": "BAL is in a bear market regime with significant recent downside (-18.63% over 30d, -10.10% over 14d). However, the 7-day return of -4.11% suggests deceleration in the downtrend, indicating potential stabilization or mean reversion in the near term. TVL decline (-7.9%) reflects protocol challenges. The high volatility (52.3% annualized) and negative Sharpe ratio (-2.99) indicate risk-adjusted returns have been poor. Over the next 14 days, expect continued modest negative returns as the bear regime persists, but with reduced magnitude compared to recent weeks. Confidence is moderate due to crypto's inherent unpredictability and potential for sharp reversals during volatile periods.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL is in a bear market regime with significant recent downside (-18.63% over 30d, -10.10% over 14d). However, the 7-day return of -4.11% suggests deceleration in the downtrend, indicating potential stabilization or mean reversion in the near term. TVL decline (-7.9%) reflects protocol challenges. The high volatility (52.3% annualized) and negative Sharpe ratio (-2.99) indicate risk-adjusted returns have been poor. Over the next 14 days, expect continued modest negative returns as the bear regime persists, but with reduced magnitude compared to recent weeks. Confidence is moderate due to crypto's inherent unpredictability and potential for sharp reversals during volatile periods.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:06:24.801959+00:00"
+}

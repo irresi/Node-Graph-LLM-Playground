@@ -1,0 +1,25 @@
+{
+  "expected_return": 0.38,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows positive momentum with +8.45% 30-day return and +5.86% 7-day return in moderate bull regime. However, high annualized volatility (74%) and recent -18% max drawdown suggest elevated risk. The 14-day return (+6.35%) slightly trails the 7-day, indicating potential momentum deceleration. TVL growth is mixed (AAVE +21.8%, CRV -0.2%), and the strong Sharpe ratio (0.96) is noteworthy but may not persist. Projecting 14-day momentum forward at 70% of recent trend intensity yields ~0.27% 14-day return, annualized to 38%. Moderate confidence reflects uncertain sustainability of current bull conditions and macro volatility risks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.38,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows positive momentum with +8.45% 30-day return and +5.86% 7-day return in moderate bull regime. However, high annualized volatility (74%) and recent -18% max drawdown suggest elevated risk. The 14-day return (+6.35%) slightly trails the 7-day, indicating potential momentum deceleration. TVL growth is mixed (AAVE +21.8%, CRV -0.2%), and the strong Sharpe ratio (0.96) is noteworthy but may not persist. Projecting 14-day momentum forward at 70% of recent trend intensity yields ~0.27% 14-day return, annualized to 38%. Moderate confidence reflects uncertain sustainability of current bull conditions and macro volatility risks.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:10:16.088753+00:00"
+}

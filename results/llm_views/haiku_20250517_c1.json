@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster showed strong 30-day momentum (+31.36%) but recent 7-day pullback (-1.13%) suggests consolidation. Infrastructure tokens benefit from 34.9% TVL growth in bull regime, supporting continued 14-day upside. However, mean reversion risk after exceptional recent performance and infrastructure tokens' typical vol/rotation patterns limit confidence. Annualized return of 18% (~2.4% over 14 days) reflects moderate bullish bias with elevated uncertainty from profit-taking dynamics.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Cluster Composition:**\n- LINK (Chainlink): Oracle infrastructure\n- OP (Optimism): L2 solution\n- ARB (Arbitrum): L2 solution\n- ENS (Ethereum Name Service): Infrastructure\n- GRT (The Graph): Indexing/query protocol\n\n**Key Observations:**\n\n1. **Recent Momentum Analysis:**\n   - 30-day return: +31.36% (strong bull phase)\n   - 14-day return: +10.49% (continued strength)\n   - 7-day return: -1.13% (recent pullback/consolidation)\n   - This suggests momentum may be cooling slightly after a strong run\n\n2. **Risk Metrics:**\n   - Annualized volatility: 80.4% (high, typical for infrastructure tokens)\n   - Sharpe ratio: 3.28 (excellent risk-adjusted returns recently)\n   - Max drawdown: -14.8% (manageable downside in recent period)\n\n3. **Market Context:**\n   - Overall DeFi TVL up 34.9% (30-day), creating positive tailwinds\n   - Moderate bull regime supports continued upside\n   - Infrastructure/L2 tokens typically benefit from TVL growth\n\n4. **Forward-Looking Considerations:**\n   - The cluster just delivered +31.36% over 30 days, which is exceptional\n   - Recent 7-day decline (-1.13%) may indicate profit-taking or consolidation\n   - Mean reversion risk after such strong performance\n   - 14-day forecast horizon is relatively short (one \"cycle\")\n\n5. **Fundamental Support:**\n   - These are core infrastructure tokens with solid adoption\n   - L2 scaling solutions (OP, ARB) benefit from ongoing Ethereum usage growth\n   - Oracle (LINK) and indexing (GRT) are essential protocols\n\n**Forecast Rationale:**\nGiven the strong recent performance but recent pullback, I expect moderate continued gains over 14 days with some consolidation. The cluster will likely benefit from the broader bull market (+34.9% TVL growth), but the exceptional 30-day return suggests we may see slower growth ahead.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Cluster showed strong 30-day momentum (+31.36%) but recent 7-day pullback (-1.13%) suggests consolidation. Infrastructure tokens benefit from 34.9% TVL growth in bull regime, supporting continued 14-day upside. However, mean reversion risk after exceptional recent performance and infrastructure tokens' typical vol/rotation patterns limit confidence. Annualized return of 18% (~2.4% over 14 days) reflects moderate bullish bias with elevated uncertainty from profit-taking dynamics.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:02:25.087107+00:00"
+}

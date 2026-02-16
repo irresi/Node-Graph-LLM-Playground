@@ -1,0 +1,13 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "CVX shows mixed signals: positive 7-day momentum (+3.63%) and solid TVL growth (+8.7%) suggest recovery potential, but negative 30-day returns (-11.08%) and extreme volatility (111.7% annualized) indicate significant risk. The moderate bull market regime supports a positive bias, but the token's recent -40% drawdown and -4.55% 14-day decline create substantial uncertainty. Annualizing the favorable 7-day trend yields ~27% return potential, but this is moderated by recent weakness and the low Sharpe ratio (-0.83). Confidence is moderate-to-low due to high volatility and mixed technical signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX shows mixed signals: positive 7-day momentum (+3.63%) and solid TVL growth (+8.7%) suggest recovery potential, but negative 30-day returns (-11.08%) and extreme volatility (111.7% annualized) indicate significant risk. The moderate bull market regime supports a positive bias, but the token's recent -40% drawdown and -4.55% 14-day decline create substantial uncertainty. Annualizing the favorable 7-day trend yields ~27% return potential, but this is moderated by recent weakness and the low Sharpe ratio (-0.83). Confidence is moderate-to-low due to high volatility and mixed technical signals.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:10:31.115463+00:00"
+}

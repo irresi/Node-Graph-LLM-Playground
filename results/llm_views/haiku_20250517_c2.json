@@ -1,0 +1,25 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster shows strong 14-day momentum (+9.26%) within a moderate bull regime with robust TVL growth (+34.9% DeFi-wide). However, 7-day pullback (-2.36%) and elevated volatility (69.3%) suggest consolidation. High Sharpe ratio (2.95) indicates attractive risk-adjusted returns. AAVE (+31.8% TVL) and major DEX/staking protocols showing solid fundamentals. Annualized 14-day extrapolation yields ~42% assuming sustained mid-term momentum, but confidence tempered by recent deceleration and macro volatility in DeFi space.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+9.26%) within a moderate bull regime with robust TVL growth (+34.9% DeFi-wide). However, 7-day pullback (-2.36%) and elevated volatility (69.3%) suggest consolidation. High Sharpe ratio (2.95) indicates attractive risk-adjusted returns. AAVE (+31.8% TVL) and major DEX/staking protocols showing solid fundamentals. Annualized 14-day extrapolation yields ~42% assuming sustained mid-term momentum, but confidence tempered by recent deceleration and macro volatility in DeFi space.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:02:39.669064+00:00"
+}

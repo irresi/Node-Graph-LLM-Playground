@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 faces headwinds from bear market regime (TVL -4.5%, cluster -14.05% in 30d) with negative momentum (-13.16% in 14d). However, the extreme -73.6% annualized volatility and -27.6% max drawdown suggest oversold conditions with potential mean reversion bounce. Leading protocols like AAVE (TVL $24.7B) show resilience with only -0.7% TVL change, indicating some stabilization. High volatility creates uncertainty, tempering confidence. Expect continued weakness over 14 days with annualized return of -45% (roughly -1.7% nominal), balanced by slight recovery potential as market reaches local support. Confidence limited by unpredictable bear market duration and geopolitical/macro risks.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 faces headwinds from bear market regime (TVL -4.5%, cluster -14.05% in 30d) with negative momentum (-13.16% in 14d). However, the extreme -73.6% annualized volatility and -27.6% max drawdown suggest oversold conditions with potential mean reversion bounce. Leading protocols like AAVE (TVL $24.7B) show resilience with only -0.7% TVL change, indicating some stabilization. High volatility creates uncertainty, tempering confidence. Expect continued weakness over 14 days with annualized return of -45% (roughly -1.7% nominal), balanced by slight recovery potential as market reaches local support. Confidence limited by unpredictable bear market duration and geopolitical/macro risks.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:05:51.144715+00:00"
+}

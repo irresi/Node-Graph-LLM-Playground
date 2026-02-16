@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear regime with -38.13% monthly decline and -106.3% annualized volatility. Recent 14-day return of -1.59% suggests deceleration from earlier losses, indicating potential capitulation. However, infrastructure/L2 tokens historically underperform during broader crypto downturns due to reduced on-chain activity and developer sentiment. DeFi TVL down 12.5% month-over-month reinforces negative macro conditions. Low confidence due to high volatility and potential mean reversion, but technical indicators (7d: -6.84%, 14d: -1.59% trend) suggest continued weakness rather than recovery in near term. Annualized return accounts for the 14-day forecast horizon.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -38.13% monthly decline and -106.3% annualized volatility. Recent 14-day return of -1.59% suggests deceleration from earlier losses, indicating potential capitulation. However, infrastructure/L2 tokens historically underperform during broader crypto downturns due to reduced on-chain activity and developer sentiment. DeFi TVL down 12.5% month-over-month reinforces negative macro conditions. Low confidence due to high volatility and potential mean reversion, but technical indicators (7d: -6.84%, 14d: -1.59% trend) suggest continued weakness rather than recovery in near term. Annualized return accounts for the 14-day forecast horizon.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:15:48.960571+00:00"
+}

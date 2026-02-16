@@ -1,0 +1,13 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "CVX shows mixed signals: strong 7-day momentum (+17.82%) contrasts with negative 14-day (-4.14%) and weak 30-day (+1.17%) returns, suggesting recent volatility without sustained trend. Declining TVL (-2.0% monthly) indicates potential headwinds. High volatility (79.6% annualized) and low Sharpe ratio (0.12) suggest unstable risk-adjusted returns. Neutral market regime and near-drawdown lows (-27.3% max) imply mean reversion potential, but weak fundamentals limit upside. Forecast reflects cautious optimism on short-term rebound with low conviction due to contradictory signals and deteriorating protocol health.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX shows mixed signals: strong 7-day momentum (+17.82%) contrasts with negative 14-day (-4.14%) and weak 30-day (+1.17%) returns, suggesting recent volatility without sustained trend. Declining TVL (-2.0% monthly) indicates potential headwinds. High volatility (79.6% annualized) and low Sharpe ratio (0.12) suggest unstable risk-adjusted returns. Neutral market regime and near-drawdown lows (-27.3% max) imply mean reversion potential, but weak fundamentals limit upside. Forecast reflects cautious optimism on short-term rebound with low conviction due to contradictory signals and deteriorating protocol health.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:13:52.763897+00:00"
+}

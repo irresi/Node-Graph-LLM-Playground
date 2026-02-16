@@ -1,0 +1,13 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "CVX shows momentum deceleration (7d: +2.25% vs 14d: +3.56%) and declining TVL (-2.0%), suggesting mean reversion risk after strong 30d run. Neutral market regime and elevated 119.5% volatility support cautious outlook. Modest positive bias reflects potential for yield/Curve protocol strength, but confidence is moderate due to high uncertainty in volatile asset behavior.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a return forecast. Let me break down the key factors:\n\n## Analysis of Cluster 3 (CVX)\n\n**Recent Performance Metrics:**\n- 30-day return: +16.41%\n- 14-day return: +3.56%\n- 7-day return: +2.25%\n- Annualized volatility: 119.5%\n- Sharpe ratio: 1.15 (reasonable risk-adjusted returns)\n- Max drawdown: -20.4%\n\n**Key Observations:**\n\n1. **Momentum Deceleration**: The 7-day return (+2.25%) is significantly lower than the 14-day return (+3.56%), suggesting momentum is slowing despite the strong 30-day performance.\n\n2. **Protocol Health**: CVX's TVL of $901M shows a concerning 30-day decline of -2.0%, indicating potential headwinds or investor reallocation away from the protocol.\n\n3. **Market Regime**: The broader DeFi market is in neutral/range-bound territory with modest +3.0% TVL growth, not particularly supportive of explosive gains.\n\n4. **Volatility Context**: At 119.5% annualized volatility, CVX is highly volatile. The Sharpe ratio of 1.15 suggests returns haven't fully compensated for this risk recently.\n\n5. **Mean Reversion Signal**: Strong 30-day returns (+16.41%) paired with declining TVL and decelerating momentum often precede mean reversion in high-volatility assets.\n\n**Forecast Rationale:**\n- Short-term momentum is deteriorating\n- TVL declining suggests fundamental weakness\n- Market regime is not supportive of continued outperformance\n- High volatility creates risk of pullback after strong run\n- Risk-reward appears unfavorable for next 14 days\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.62, \"reasoning\": \"CVX shows momentum deceleration (7d: +2.25% vs 14d: +3.56%) and declining TVL (-2.0%), suggesting mean reversion risk after strong 30d run. Neutral market regime and elevated 119.5% volatility support cautious outlook. Modest positive bias reflects potential for yield/Curve protocol strength, but confidence is moderate due to high uncertainty in volatile asset behavior.\"}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:23:08.273314+00:00"
+}

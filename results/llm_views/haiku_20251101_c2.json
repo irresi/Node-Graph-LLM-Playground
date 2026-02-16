@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster 2 faces severe headwinds: bear market regime with -12.5% TVL contraction, cluster down -32.44% in 30 days with -108.4% annualized volatility. Recent momentum is negative (-8.54% 7-day, -5.64% 14-day), suggesting continued weakness. However, some stabilizing factors exist: CRV +3.4% and CAKE +8.8% show relative strength; the cluster includes resilient protocols (AAVE $37.8B TVL, UNI $5.4B). Extrapolating recent 14-day performance (-5.64%) over 14 more days annualized yields ~-131% return, but this assumes unrealistic constant acceleration. A more conservative estimate of -45% annualized reflects the bear regime, elevated volatility, and negative momentum, with asymmetric downside risk. Low confidence (0.35) due to high volatility, potential mean reversion, and macro uncertainty in DeFi bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 2 faces severe headwinds: bear market regime with -12.5% TVL contraction, cluster down -32.44% in 30 days with -108.4% annualized volatility. Recent momentum is negative (-8.54% 7-day, -5.64% 14-day), suggesting continued weakness. However, some stabilizing factors exist: CRV +3.4% and CAKE +8.8% show relative strength; the cluster includes resilient protocols (AAVE $37.8B TVL, UNI $5.4B). Extrapolating recent 14-day performance (-5.64%) over 14 more days annualized yields ~-131% return, but this assumes unrealistic constant acceleration. A more conservative estimate of -45% annualized reflects the bear regime, elevated volatility, and negative momentum, with asymmetric downside risk. Low confidence (0.35) due to high volatility, potential mean reversion, and macro uncertainty in DeFi bear markets.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:16:05.122472+00:00"
+}

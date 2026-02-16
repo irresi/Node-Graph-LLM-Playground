@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong 7/14-day momentum (+18-20%) contrasting with negative 30-day trend (-1.09%) in a bear market regime. Infrastructure/L2 tokens (OP, ARB) benefit from ecosystem development, but high volatility (72.7% annualized), negative Sharpe (-0.13), deep drawdowns (-21.7%), and lack of TVL fundamentals for most tokens create significant uncertainty. Momentum-based forecast of ~45% annualized return over 14 days is offset by mean-reversion risk in bear conditions. Low confidence reflects regime conflict and lack of fundamental support.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong 7/14-day momentum (+18-20%) contrasting with negative 30-day trend (-1.09%) in a bear market regime. Infrastructure/L2 tokens (OP, ARB) benefit from ecosystem development, but high volatility (72.7% annualized), negative Sharpe (-0.13), deep drawdowns (-21.7%), and lack of TVL fundamentals for most tokens create significant uncertainty. Momentum-based forecast of ~45% annualized return over 14 days is offset by mean-reversion risk in bear conditions. Low confidence reflects regime conflict and lack of fundamental support.\"\n}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:06:37.824949+00:00"
+}

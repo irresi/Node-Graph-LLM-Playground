@@ -1,0 +1,25 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows oversold conditions after -30.89% 14d decline with modest 7d recovery. Bear market regime and high volatility (113.9% annualized) limit upside. CRV/CAKE gaining TVL and AAVE's dominance provide some support. Expect modest mean reversion over next 14 days, but low confidence due to macro headwinds and uncertain market direction. Annualized 14d return estimate: ~8%.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Strong bear market with DeFi TVL down 11.2% in 30 days\n- Cluster has underperformed the broader market with -30.52% 30-day return\n- High volatility (113.9% annualized) indicates significant uncertainty\n- Negative Sharpe ratio (-2.25) suggests poor risk-adjusted returns\n\n**Recent Momentum:**\n- 7-day return: +3.00% (showing some recovery)\n- 14-day return: -30.89% (steep decline over the window)\n- The recent 7-day bounce suggests potential mean reversion or stabilization\n\n**Protocol Fundamentals:**\n- AAVE dominates TVL-weighted basket (~40% of cluster weight) with -9.1% 30d TVL change\n- CRV and CAKE showing positive TVL trends (+11.7%, +11.8%) despite bear market\n- UNI (major DEX) showing modest -6.7% TVL decline, relatively resilient\n- Mixed signals: while some protocols are losing TVL, others are gaining market share\n\n**Key Considerations:**\n1. **Mean Reversion Potential**: After a -30.89% 14-day decline and -3% 7-day recovery, the cluster may be oversold\n2. **Macro Environment**: Bear market regime suggests continued downward pressure\n3. **Volatility**: At 113.9% annualized, expect significant price swings in either direction\n4. **Composition**: Lending protocols (AAVE, COMP) and DEX tokens more defensive than derivatives\n\n**Forecast Rationale:**\nGiven the severe recent drawdown, slight 7-day recovery, and relatively resilient fundamental metrics for some constituents (CRV, CAKE), I expect modest positive returns over the next 14 days. However, the bear market regime and high volatility limit confidence. The cluster appears oversold but not yet showing strong fundamentals for sustained recovery.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Cluster shows oversold conditions after -30.89% 14d decline with modest 7d recovery. Bear market regime and high volatility (113.9% annualized) limit upside. CRV/CAKE gaining TVL and AAVE's dominance provide some support. Expect modest mean reversion over next 14 days, but low confidence due to macro headwinds and uncertain market direction. Annualized 14d return estimate: ~8%.\"}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:14:43.252649+00:00"
+}

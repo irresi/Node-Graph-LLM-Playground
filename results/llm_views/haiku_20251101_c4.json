@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "BAL faces headwinds from bear market and -22.3% TVL decline. While 14-day momentum shows +0.20% recovery suggesting potential oversold bounce, structural DEX weakness and continued market downtrend likely dominate. Low confidence reflects high volatility and uncertain near-term direction in severe market stress.",
+  "raw_response": "Looking at the data provided for Cluster 4 (BAL - Balancer):\n\n**Key Analysis Points:**\n\n1. **Market Regime**: Strong bearish environment with -12.5% DeFi TVL decline over 30 days\n2. **Token-Specific Metrics**: BAL shows severe weakness with -22.3% TVL decline, worse than overall market\n3. **Recent Momentum**: \n   - 30-day return: -15.52% (significant loss)\n   - 14-day return: +0.20% (slight recovery)\n   - 7-day return: -2.43% (renewed weakness)\n4. **Volatility**: 69.1% annualized volatility with negative Sharpe ratio (-1.89) indicates risk-adjusted returns are poor\n5. **Technical Pattern**: Recent 14-day stabilization (+0.20%) suggests potential short-term bounce, but within a downtrend\n\n**Forecast Rationale:**\n\nGiven the bear market, deteriorating DEX fundamentals (TVL contraction exceeding market average), and negative risk-adjusted returns, the near-term outlook is cautious. However, the slight 14-day recovery and extreme bearishness may create oversold conditions. Over the next 14 days (assuming modest mean reversion from oversold levels but within a continued bear market):\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.35, \"reasoning\": \"BAL faces headwinds from bear market and -22.3% TVL decline. While 14-day momentum shows +0.20% recovery suggesting potential oversold bounce, structural DEX weakness and continued market downtrend likely dominate. Low confidence reflects high volatility and uncertain near-term direction in severe market stress.\"}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:16:38.083372+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.22,
+  "confidence": 0.58,
+  "reasoning": "Cluster 2 shows conflicting signals: moderate bull regime supports +2.62% 30d gains, but negative 7d (-6.96%) and 14d (-8.66%) momentum suggests recent pullback. High annualized volatility (76.5%) with max drawdown of -19.8% indicates elevated risk. TVL growth remains positive (AAVE +19.6%, UNI +17.2%), supporting fundamentals. However, the recent momentum reversal over 14 days and low Sharpe ratio (0.29) suggest mean reversion downside in the near term. DEX/lending tokens typically trade cyclically; pullback after 30d gains is plausible. Forecast slight negative return over next 14 days as cluster consolidates gains, but moderate confidence due to underlying TVL strength and bull regime backdrop.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.22,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 2 shows conflicting signals: moderate bull regime supports +2.62% 30d gains, but negative 7d (-6.96%) and 14d (-8.66%) momentum suggests recent pullback. High annualized volatility (76.5%) with max drawdown of -19.8% indicates elevated risk. TVL growth remains positive (AAVE +19.6%, UNI +17.2%), supporting fundamentals. However, the recent momentum reversal over 14 days and low Sharpe ratio (0.29) suggest mean reversion downside in the near term. DEX/lending tokens typically trade cyclically; pullback after 30d gains is plausible. Forecast slight negative return over next 14 days as cluster consolidates gains, but moderate confidence due to underlying TVL strength and bull regime backdrop.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:03:41.507885+00:00"
+}

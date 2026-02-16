@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.45,
+  "reasoning": "CVX shows severe downtrend with -23.18% monthly return and -21.49% 14-day return, indicating strong negative momentum. However, extreme volatility (85.4% annualized) and oversold conditions (-29.5% max drawdown) suggest potential mean reversion. The Sharpe ratio of -2.28 reflects risk-adjusted underperformance. TVL decline of -14.6% indicates reduced protocol activity. Neutral market regime offers limited tailwinds. Forecasting continued weakness due to momentum, but moderate confidence due to potential bounce from oversold levels and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.45,\n  \"reasoning\": \"CVX shows severe downtrend with -23.18% monthly return and -21.49% 14-day return, indicating strong negative momentum. However, extreme volatility (85.4% annualized) and oversold conditions (-29.5% max drawdown) suggest potential mean reversion. The Sharpe ratio of -2.28 reflects risk-adjusted underperformance. TVL decline of -14.6% indicates reduced protocol activity. Neutral market regime offers limited tailwinds. Forecasting continued weakness due to momentum, but moderate confidence due to potential bounce from oversold levels and high volatility.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:11:40.386731+00:00"
+}

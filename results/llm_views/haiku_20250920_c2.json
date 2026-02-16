@@ -1,0 +1,25 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster showing 14-day recovery momentum (+2.48%) despite bear market regime. AAVE and CAKE TVL growth (+13-14%) indicates underlying protocol strength, while CRV weakness suggests selective sector risk. High volatility (59.9%) and bear regime limit confidence. Expect modest mean reversion bounce continuing, annualizing 7-day recovery rate. Moderate confidence due to regime headwinds offsetting positive momentum.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Regime Analysis:**\n- Overall DeFi market is in a **bear regime** with strong downtrend\n- TVL still up 6.3% (30-day), suggesting some underlying strength despite price weakness\n- Cluster already down -4.23% over last 30 days with high volatility (59.9%)\n\n**Momentum Signals (Mixed):**\n- **Negative**: 7-day return of -4.96% shows recent weakness\n- **Positive**: 14-day return of +2.48% suggests recovery from deeper losses\n- This reversal pattern is moderately bullish - cluster bouncing from lows\n\n**Protocol Fundamentals (Mixed-to-Positive):**\n- **Strong performers**: AAVE (+13.9% TVL), CAKE (+13.2% TVL) showing user confidence\n- **Weakness**: CRV declining (-2.1% TVL) - governance token under pressure\n- **Neutral**: UNI (+1.0% TVL) - stable but uninspiring\n\n**Key Considerations:**\n1. The bear market regime limits upside potential\n2. High volatility (59.9%) means large swings are possible in either direction\n3. The cluster's bounce over 14 days vs. recent 7-day weakness suggests mean reversion trade\n4. Major protocols (AAVE, UNI) showing TVL stability despite price pressure = fundamental resilience\n5. 14-day positive return momentum + bear regime suggest cautious recovery trade, not strong bull setup\n\n**Forecast Rationale:**\nGiven the bear market, high volatility, but positive 14-day momentum and stable/growing TVL in major protocols, I expect modest positive returns over the next 14 days as the cluster continues recovering from recent lows. However, confidence is limited by the overall bear regime and potential for renewed downward pressure.\n\nAnnualizing a modest +2-3% over 14 days = ~52-78% annualized return, but discounting heavily for bear regime and volatility risk.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.52, \"reasoning\": \"Cluster showing 14-day recovery momentum (+2.48%) despite bear market regime. AAVE and CAKE TVL growth (+13-14%) indicates underlying protocol strength, while CRV weakness suggests selective sector risk. High volatility (59.9%) and bear regime limit confidence. Expect modest mean reversion bounce continuing, annualizing 7-day recovery rate. Moderate confidence due to regime headwinds offsetting positive momentum.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:12:30.432031+00:00"
+}

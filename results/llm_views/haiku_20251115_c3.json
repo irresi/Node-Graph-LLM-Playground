@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "CVX in severe bear market with -30.41% 30-day loss and -28% max drawdown. High volatility (87.4% annualized) and negative Sharpe ratio (-2.92) indicate stressed market conditions. 14-day momentum at -18.30% suggests continued weakness. However, extreme oversold conditions and CVX's role in Curve ecosystem create potential for mean reversion bounce. DeFi TVL down 17% YoY indicates sector-wide pressure. Forecast negative but less severe than recent trend, assuming partial stabilization over 14 days. Moderate confidence due to macro uncertainty and volatility.",
+  "raw_response": "```json\n{\"expected_return\": -0.45, \"confidence\": 0.62, \"reasoning\": \"CVX in severe bear market with -30.41% 30-day loss and -28% max drawdown. High volatility (87.4% annualized) and negative Sharpe ratio (-2.92) indicate stressed market conditions. 14-day momentum at -18.30% suggests continued weakness. However, extreme oversold conditions and CVX's role in Curve ecosystem create potential for mean reversion bounce. DeFi TVL down 17% YoY indicates sector-wide pressure. Forecast negative but less severe than recent trend, assuming partial stabilization over 14 days. Moderate confidence due to macro uncertainty and volatility.\"}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:17:30.889996+00:00"
+}

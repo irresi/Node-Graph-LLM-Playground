@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "BAL faces severe headwinds: bear market regime, 14.3% monthly decline, -8.77% 7-day drop, -11% TVL decrease, and highly negative Sharpe (-2.13). However, 14-day return of -2.60% vs 7-day of -8.77% suggests deceleration. Annualizing typical bearish consolidation (~-1% over 14 days) yields ~-45% APR. Low confidence reflects unpredictable bear market volatility and potential mean reversion. Token shows signs of stabilization but structural weakness persists.",
+  "raw_response": "```json\n{\"expected_return\": -0.45, \"confidence\": 0.35, \"reasoning\": \"BAL faces severe headwinds: bear market regime, 14.3% monthly decline, -8.77% 7-day drop, -11% TVL decrease, and highly negative Sharpe (-2.13). However, 14-day return of -2.60% vs 7-day of -8.77% suggests deceleration. Annualizing typical bearish consolidation (~-1% over 14 days) yields ~-45% APR. Low confidence reflects unpredictable bear market volatility and potential mean reversion. Token shows signs of stabilization but structural weakness persists.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:13:03.305976+00:00"
+}

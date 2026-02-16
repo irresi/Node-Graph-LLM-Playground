@@ -1,0 +1,13 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.42,
+  "reasoning": "BAL faces headwinds from bear market regime (DeFi TVL down 11.2%) and severe recent underperformance (-22.95% in 30d). However, the recent 7-day bounce (+0.72%) suggests potential short-term stabilization. High volatility (66.8% annualized) and negative Sharpe ratio (-2.89) indicate poor risk-adjusted returns. DEX tokens typically underperform during bear markets due to reduced trading volume. Over 14 days, expect continued weakness but potentially less severe than the 30-day decline, with downside risks outweighing upside potential. Low confidence due to extreme volatility and unfavorable market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (DeFi TVL down 11.2%) and severe recent underperformance (-22.95% in 30d). However, the recent 7-day bounce (+0.72%) suggests potential short-term stabilization. High volatility (66.8% annualized) and negative Sharpe ratio (-2.89) indicate poor risk-adjusted returns. DEX tokens typically underperform during bear markets due to reduced trading volume. Over 14 days, expect continued weakness but potentially less severe than the 30-day decline, with downside risks outweighing upside potential. Low confidence due to extreme volatility and unfavorable market conditions.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:15:32.727888+00:00"
+}

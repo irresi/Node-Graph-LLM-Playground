@@ -1,0 +1,25 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 operates in a strong bear market regime (-17% TVL decline) with severely negative recent momentum (14-day: -8.92%, 30-day: -22.45%). The cluster's annualized volatility of 72.2% and Sharpe ratio of -2.61 indicate high downside risk with poor risk-adjusted returns. Key protocols like AAVE (40% cluster weight) and UNI (largest TVL) show continued TVL erosion. While some protocols (CAKE at -5.5%) show resilience and stabilization may occur, the current negative momentum, bear market conditions, and poor technical setup suggest further downside over the next 14 days. Confidence is moderate (0.62) due to volatility and potential for sharp reversals in crypto markets, but the directional bias is negative.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 operates in a strong bear market regime (-17% TVL decline) with severely negative recent momentum (14-day: -8.92%, 30-day: -22.45%). The cluster's annualized volatility of 72.2% and Sharpe ratio of -2.61 indicate high downside risk with poor risk-adjusted returns. Key protocols like AAVE (40% cluster weight) and UNI (largest TVL) show continued TVL erosion. While some protocols (CAKE at -5.5%) show resilience and stabilization may occur, the current negative momentum, bear market conditions, and poor technical setup suggest further downside over the next 14 days. Confidence is moderate (0.62) due to volatility and potential for sharp reversals in crypto markets, but the directional bias is negative.\"\n}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:17:15.277213+00:00"
+}

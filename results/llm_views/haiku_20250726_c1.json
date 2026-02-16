@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong fundamentals and bull regime support, but recent 7-day deceleration (-0.09%) after 30-day rally (+33.45%) suggests momentum exhaustion and consolidation phase. High volatility (62.7%) and -9.7% recent drawdown indicate elevated correction risk. Infrastructure tokens (LINK, OP, ARB) maintain structural value, but expect mean reversion toward 15-25% annualized returns over next 14 days rather than sustaining 33%+ pace. Confidence moderate due to conflicting momentum signals.",
+  "raw_response": "I'll analyze this cluster to provide an expected return forecast over the next 14 days.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n1. **Strong Recent Momentum**: 14-day return of +14.16% and 30-day return of +33.45% show strong uptrend\n2. **Bull Market Regime**: Overall DeFi TVL up 37.7% in 30 days indicates strong market tailwinds\n3. **Excellent Sharpe Ratio**: 4.48 suggests risk-adjusted returns have been exceptional\n4. **Quality Cluster Composition**: LINK (oracle), OP/ARB (L2s), and GRT (indexing) are core DeFi infrastructure with structural demand\n\n**Caution Indicators:**\n1. **Recent Deceleration**: 7-day return of -0.09% shows momentum has stalled despite strong 14/30-day performance\n2. **High Volatility**: 62.7% annualized volatility indicates significant price swings and risk\n3. **Elevated Drawdown Risk**: -9.7% max drawdown in recent period suggests potential for pullbacks\n4. **Momentum Exhaustion**: The divergence between 30-day (+33.45%) and 7-day (-0.09%) returns suggests potential exhaustion or consolidation phase\n\n**Forward-Looking Analysis:**\n- The cluster has already captured significant gains and may be entering a consolidation/correction phase\n- Infrastructure tokens often see profit-taking after strong rallies\n- However, the bull regime and strong fundamentals could support continued modest appreciation\n- The next 14 days likely represent a transition period with elevated downside risk\n\n**14-Day Forecast Rationale:**\nGiven the recent deceleration after strong gains, I expect mean reversion toward more moderate returns. The infrastructure fundamentals remain strong, but the sharp 7-day decline suggests caution. I project modest positive returns but well below the recent 30-day pace.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong fundamentals and bull regime support, but recent 7-day deceleration (-0.09%) after 30-day rally (+33.45%) suggests momentum exhaustion and consolidation phase. High volatility (62.7%) and -9.7% recent drawdown indicate elevated correction risk. Infrastructure tokens (LINK, OP, ARB) maintain structural value, but expect mean reversion toward 15-25% annualized returns over next 14 days rather than sustaining 33%+ pace. Confidence moderate due to conflicting momentum signals.\"\n}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:07:46.741058+00:00"
+}

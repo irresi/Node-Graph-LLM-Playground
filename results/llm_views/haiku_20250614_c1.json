@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows signs of stabilization after 24.5% 30-day loss, with positive 7-day momentum (+0.42%). However, bear market regime and negative Sharpe ratio suggest continued weakness. Forecast expects modest downside (-8% annualized from current position) over 14 days with low confidence due to high volatility and cyclical nature. Recovery potential exists but timing is uncertain.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n**Analysis of Cluster 1 (LINK, OP, ARB, ENS, GRT):**\n\n**Market Context:**\n- Overall DeFi TVL is relatively stable (+1.2% 30d change) despite a bear market regime\n- The cluster is in a strong downtrend with significant losses (-24.53% over 30 days)\n- High volatility (74.9% annualized) indicates elevated risk\n\n**Recent Momentum Signals:**\n- 30-day return: -24.53% (severe underperformance)\n- 14-day return: -2.51% (stabilizing, less negative)\n- 7-day return: +0.42% (slight recovery/stabilization)\n- The recent trend shows deceleration of losses, suggesting potential bottoming\n\n**Cluster Composition Factors:**\n- Mix of infrastructure tokens (LINK, OP, ARB, ENS, GRT) with core utility\n- These tokens are less tied to TVL metrics (as shown by N/A TVL data)\n- They depend more on protocol adoption, ecosystem development, and market sentiment\n- L2 tokens (OP, ARB) and infrastructure play important roles in DeFi expansion\n\n**Forward-Looking Considerations:**\n- The bear market regime suggests continued headwinds\n- However, the 7-day positive return (+0.42%) after 2 weeks of losses suggests a potential inflection point\n- Infrastructure tokens often lead recoveries in crypto cycles\n- Negative Sharpe ratio (-2.75) indicates risk-adjusted returns are poor, but this may be cyclical\n\n**Forecast Reasoning:**\nGiven the severe 30-day drawdown followed by stabilization in the last 7 days, I expect mean reversion dynamics. In a bear market with oversold conditions, a 14-day horizon typically sees either continued downside or bounce-back. The infrastructure focus of this cluster suggests some resilience.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.42, \"reasoning\": \"Cluster shows signs of stabilization after 24.5% 30-day loss, with positive 7-day momentum (+0.42%). However, bear market regime and negative Sharpe ratio suggest continued weakness. Forecast expects modest downside (-8% annualized from current position) over 14 days with low confidence due to high volatility and cyclical nature. Recovery potential exists but timing is uncertain.\"}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T05:04:30.807260+00:00"
+}
