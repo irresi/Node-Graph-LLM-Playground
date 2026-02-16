@@ -18,6 +18,9 @@ on:
         required: false
         default: 'false'
 
+permissions:
+  contents: write
+
 jobs:
   generate-views:
     runs-on: ubuntu-latest
