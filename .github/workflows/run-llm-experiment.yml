@@ -88,6 +88,7 @@ jobs:
           mkdir -p workspace/artifacts/llm_views
           mkdir -p workspace/artifacts/llm_views/multi_agent
           mkdir -p workspace/artifacts/llm_views/enriched
+          mkdir -p workspace/artifacts/llm_views/enriched_multi_agent
           mkdir -p workspace/artifacts/experiments/real_llm
 
           # Copy existing single-agent cache from main repo
@@ -111,6 +112,12 @@ jobs:
               cp main-repo/artifacts/llm_views/enriched/*.json workspace/artifacts/llm_views/enriched/ 2>/dev/null || true
               echo "Copied $EN_CACHED cached enriched view files from main repo"
             fi
+            # Copy existing enriched multi-agent cache from main repo
+            if [ -d main-repo/artifacts/llm_views/enriched_multi_agent ]; then
+              EMA_CACHED=$(ls main-repo/artifacts/llm_views/enriched_multi_agent/*.json 2>/dev/null | wc -l)
+              cp main-repo/artifacts/llm_views/enriched_multi_agent/*.json workspace/artifacts/llm_views/enriched_multi_agent/ 2>/dev/null || true
+              echo "Copied $EMA_CACHED cached enriched multi-agent view files from main repo"
+            fi
           fi
 
       - name: Generate LLM views
@@ -126,6 +133,7 @@ jobs:
           CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views"
           MA_CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views/multi_agent"
           ENRICHED_CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views/enriched"
+          ENRICHED_MA_CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views/enriched_multi_agent"
           OUTPUT_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/experiments/real_llm"
 
           FLAGS=""
@@ -144,6 +152,8 @@ jobs:
           if [ "$ENRICH" = "true" ]; then
             FLAGS="$FLAGS --enrich --enriched-cache-dir $ENRICHED_CACHE_DIR"
           fi
+
+          FLAGS="$FLAGS --enriched-ma-cache-dir $ENRICHED_MA_CACHE_DIR"
 
           echo "=== Running LLM Experiment ==="
           echo "  Model: $MODEL"
@@ -171,19 +181,23 @@ jobs:
           mkdir -p results/llm_views
           mkdir -p results/llm_views/multi_agent
           mkdir -p results/llm_views/enriched
+          mkdir -p results/llm_views/enriched_multi_agent
           mkdir -p results/experiments/real_llm
 
           cp workspace/artifacts/llm_views/*.json results/llm_views/ 2>/dev/null || true
           cp workspace/artifacts/llm_views/multi_agent/*.json results/llm_views/multi_agent/ 2>/dev/null || true
           cp workspace/artifacts/llm_views/enriched/*.json results/llm_views/enriched/ 2>/dev/null || true
+          cp workspace/artifacts/llm_views/enriched_multi_agent/*.json results/llm_views/enriched_multi_agent/ 2>/dev/null || true
           cp workspace/artifacts/experiments/real_llm/* results/experiments/real_llm/ 2>/dev/null || true
 
           VIEW_COUNT=$(ls results/llm_views/*.json 2>/dev/null | wc -l)
           MA_VIEW_COUNT=$(ls results/llm_views/multi_agent/*.json 2>/dev/null | wc -l)
           EN_VIEW_COUNT=$(ls results/llm_views/enriched/*.json 2>/dev/null | wc -l)
+          EMA_VIEW_COUNT=$(ls results/llm_views/enriched_multi_agent/*.json 2>/dev/null | wc -l)
           echo "view_count=$VIEW_COUNT" >> $GITHUB_OUTPUT
           echo "ma_view_count=$MA_VIEW_COUNT" >> $GITHUB_OUTPUT
           echo "en_view_count=$EN_VIEW_COUNT" >> $GITHUB_OUTPUT
+          echo "ema_view_count=$EMA_VIEW_COUNT" >> $GITHUB_OUTPUT
 
           cat > results/metadata.json << EOF
           {
@@ -199,6 +213,7 @@ jobs:
             "view_count": $VIEW_COUNT,
             "multi_agent_view_count": $MA_VIEW_COUNT,
             "enriched_view_count": $EN_VIEW_COUNT,
+            "enriched_ma_view_count": $EMA_VIEW_COUNT,
             "workflow_run_id": "${{ github.run_id }}"
           }
           EOF
@@ -207,6 +222,7 @@ jobs:
           echo "  Single-agent views: $VIEW_COUNT"
           echo "  Multi-agent views: $MA_VIEW_COUNT"
           echo "  Enriched views: $EN_VIEW_COUNT"
+          echo "  Enriched MA views: $EMA_VIEW_COUNT"
           cat results/metadata.json
 
       - name: Upload results artifact
