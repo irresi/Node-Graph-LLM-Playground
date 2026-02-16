@@ -1,0 +1,162 @@
+name: Run LLM Experiment
+
+on:
+  repository_dispatch:
+    types: [run-llm-experiment]
+  workflow_dispatch:
+    inputs:
+      model:
+        description: 'Claude model (haiku, sonnet, opus)'
+        required: false
+        default: 'haiku'
+      mode:
+        description: 'Run mode: views-only, backtest-only, full'
+        required: false
+        default: 'views-only'
+      clear_cache:
+        description: 'Clear existing view cache before running'
+        required: false
+        default: 'false'
+
+jobs:
+  generate-views:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Parse parameters
+        id: params
+        run: |
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            echo "model=${{ github.event.client_payload.model || 'haiku' }}" >> $GITHUB_OUTPUT
+            echo "mode=${{ github.event.client_payload.mode || 'views-only' }}" >> $GITHUB_OUTPUT
+            echo "clear_cache=${{ github.event.client_payload.clear_cache || 'false' }}" >> $GITHUB_OUTPUT
+            echo "caller_run_id=${{ github.event.client_payload.caller_run_id || 'manual' }}" >> $GITHUB_OUTPUT
+            echo "main_repo_sha=${{ github.event.client_payload.main_repo_sha || 'HEAD' }}" >> $GITHUB_OUTPUT
+          else
+            echo "model=${{ github.event.inputs.model || 'haiku' }}" >> $GITHUB_OUTPUT
+            echo "mode=${{ github.event.inputs.mode || 'views-only' }}" >> $GITHUB_OUTPUT
+            echo "clear_cache=${{ github.event.inputs.clear_cache || 'false' }}" >> $GITHUB_OUTPUT
+            echo "caller_run_id=manual" >> $GITHUB_OUTPUT
+            echo "main_repo_sha=HEAD" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Checkout Playground repo
+        uses: actions/checkout@v6
+
+      - name: Checkout main repo
+        uses: actions/checkout@v6
+        with:
+          repository: irresi/Node-Graph-LLM
+          token: ${{ secrets.GH_MAIN_REPO_TOKEN }}
+          path: main-repo
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: main-repo/requirements.txt
+
+      - name: Install Python dependencies
+        run: pip install -r main-repo/requirements.txt
+
+      - name: Install Claude CLI
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          echo "Claude CLI installed: $(claude --version 2>/dev/null || echo 'version check failed')"
+
+      - name: Prepare workspace
+        run: |
+          mkdir -p workspace/artifacts/llm_views
+          mkdir -p workspace/artifacts/experiments/real_llm
+
+          # Copy existing cache from main repo (skip already-generated views)
+          if [ "${{ steps.params.outputs.clear_cache }}" = "true" ]; then
+            echo "Cache cleared (clear_cache=true)"
+          elif [ -d main-repo/artifacts/llm_views ]; then
+            CACHED=$(ls main-repo/artifacts/llm_views/*.json 2>/dev/null | wc -l)
+            cp main-repo/artifacts/llm_views/*.json workspace/artifacts/llm_views/ 2>/dev/null || true
+            echo "Copied $CACHED cached view files from main repo"
+          fi
+
+      - name: Generate LLM views
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDECODE: ""
+        working-directory: main-repo
+        run: |
+          MODEL="${{ steps.params.outputs.model }}"
+          MODE="${{ steps.params.outputs.mode }}"
+          CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views"
+          OUTPUT_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/experiments/real_llm"
+
+          FLAGS=""
+          if [ "$MODE" = "views-only" ]; then
+            FLAGS="--views-only"
+          elif [ "$MODE" = "backtest-only" ]; then
+            FLAGS="--backtest-only"
+          fi
+
+          echo "=== Running LLM Experiment ==="
+          echo "  Model: $MODEL"
+          echo "  Mode: $MODE"
+          echo "  Cache dir: $CACHE_DIR"
+          echo "  Output dir: $OUTPUT_DIR"
+          echo ""
+
+          python scripts/generate_llm_views.py \
+            --model "$MODEL" \
+            --prices-dir artifacts/data/prices \
+            --protocols-dir artifacts/data/protocols \
+            --cache-dir "$CACHE_DIR" \
+            --output-dir "$OUTPUT_DIR" \
+            $FLAGS
+
+      - name: Prepare results
+        id: results
+        run: |
+          mkdir -p results/llm_views
+          mkdir -p results/experiments/real_llm
+
+          cp workspace/artifacts/llm_views/*.json results/llm_views/ 2>/dev/null || true
+          cp workspace/artifacts/experiments/real_llm/* results/experiments/real_llm/ 2>/dev/null || true
+
+          VIEW_COUNT=$(ls results/llm_views/*.json 2>/dev/null | wc -l)
+          echo "view_count=$VIEW_COUNT" >> $GITHUB_OUTPUT
+
+          cat > results/metadata.json << EOF
+          {
+            "model": "${{ steps.params.outputs.model }}",
+            "mode": "${{ steps.params.outputs.mode }}",
+            "clear_cache": "${{ steps.params.outputs.clear_cache }}",
+            "caller_run_id": "${{ steps.params.outputs.caller_run_id }}",
+            "main_repo_sha": "${{ steps.params.outputs.main_repo_sha }}",
+            "completed_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "status": "success",
+            "view_count": $VIEW_COUNT,
+            "workflow_run_id": "${{ github.run_id }}"
+          }
+          EOF
+
+          echo "=== Results ==="
+          echo "  Views: $VIEW_COUNT"
+          cat results/metadata.json
+
+      - name: Upload results artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: llm-experiment-results
+          path: results/
+          retention-days: 7
+
+      - name: Commit results to Playground
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/
+          git diff --staged --quiet && echo "No changes to commit" || \
+            git commit -m "experiment: LLM views (${{ steps.params.outputs.model }}, ${{ steps.params.outputs.mode }}) - ${{ steps.results.outputs.view_count }} views"
+          git push || echo "Push failed (non-fatal)"
