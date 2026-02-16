@@ -28,7 +28,7 @@ permissions:
 jobs:
   generate-views:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 90
     steps:
       - name: Parse parameters
         id: params
