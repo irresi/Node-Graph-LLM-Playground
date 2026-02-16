@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bull argues mean reversion from oversold technicals (+18-19% bounce) and governance resilience; Bear counters with unearned r",
+  "n_agents": 6,
+  "date": "2025-07-12 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

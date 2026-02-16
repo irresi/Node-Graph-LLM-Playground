@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "I appreciate the intellectual integrity shown by the Bull Researcher in refusing to misrepresent data. Let me synthesize this debate into a calibrated forecast.\n\n## Analysis of the Debate\n\n**Key Obser",
+  "n_agents": 12,
+  "date": "2025-12-13 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

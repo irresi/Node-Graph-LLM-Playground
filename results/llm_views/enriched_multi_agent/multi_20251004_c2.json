@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.035,
+  "confidence": 0.48,
+  "reasoning": "I'll analyze the debate between the Bull and Bear Researchers to produce a calibrated forecast.\n\n## Analysis of the Debate\n\n**Key observation**: Both researchers demonstrated intellectual honesty by r",
+  "n_agents": 12,
+  "date": "2025-10-04 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

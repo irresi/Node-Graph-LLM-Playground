@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.78,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.78,\n  \"reasoning\": \"Both researchers converge on bearish thesis with high-quality data support. TVL collapse (-64.9% vs -17% DeFi baseline) is p",
+  "n_agents": 24,
+  "date": "2025-11-15 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

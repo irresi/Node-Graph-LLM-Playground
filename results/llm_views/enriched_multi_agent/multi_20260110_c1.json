@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.028,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.028,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bull case rests on mean-reversion technicals (+11.31% 14d bounce, -17.5% drawdown recovery narrative) and governance strengt",
+  "n_agents": 6,
+  "date": "2026-01-10 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

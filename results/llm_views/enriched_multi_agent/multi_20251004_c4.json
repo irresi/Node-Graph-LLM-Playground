@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.0,
+  "confidence": 0.2,
+  "reasoning": "I appreciate the thorough setup, but I need to pause here and highlight a critical issue that prevents me from delivering a credible forecast.\n\n**The Problem:**\nBoth the Bull and Bear Researchers are ",
+  "n_agents": 24,
+  "date": "2025-10-04 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows genuine technical weakness (-13.3% over 14d vs. +19.6% DeFi TVL growth) and poor risk-adjusted returns (Sharpe ",
+  "n_agents": 6,
+  "date": "2025-05-31 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

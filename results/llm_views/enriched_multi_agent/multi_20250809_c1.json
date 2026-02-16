@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "I'll analyze both arguments and synthesize them into a calibrated forecast.\n\n**Analysis of Key Arguments:**\n\n**Bull Thesis Strengths:**\n- Strong quantitative momentum: +23.57% (30d), +13.24% (7d), Sha",
+  "n_agents": 6,
+  "date": "2025-08-09 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

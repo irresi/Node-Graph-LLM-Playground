@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.089,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.089,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CVX exhibits a genuine token-fundamentals disconnect that both researchers identified but interpreted differently. The prot",
+  "n_agents": 18,
+  "date": "2025-08-23 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

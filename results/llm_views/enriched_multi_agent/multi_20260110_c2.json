@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.042,
+  "confidence": 0.52,
+  "reasoning": "I need to carefully evaluate both arguments while staying grounded in the analytical data provided.\n\n## Analysis of the Arguments\n\n**Bull Researcher's Position:**\n- Acknowledges the bearish data but i",
+  "n_agents": 12,
+  "date": "2026-01-10 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

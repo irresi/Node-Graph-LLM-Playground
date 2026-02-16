@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.65,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Both researchers converge on bearish fundamentals with exceptional honesty: -32.44% TVL erosion, -2.51 Sharpe ratio, and -31",
+  "n_agents": 12,
+  "date": "2025-11-01 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

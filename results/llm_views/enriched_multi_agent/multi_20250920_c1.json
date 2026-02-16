@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.089,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.089,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull researcher correctly refused to force a bullish narrative\u2014the data is genuinely bearish. Bear researcher's case is wel",
+  "n_agents": 6,
+  "date": "2025-09-20 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

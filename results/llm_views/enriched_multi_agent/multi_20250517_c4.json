@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.082,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.082,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL presents asymmetric downside risk over the 14-day horizon. The Bull Researcher's ethical refusal to construct a bullish",
+  "n_agents": 24,
+  "date": "2025-05-17 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

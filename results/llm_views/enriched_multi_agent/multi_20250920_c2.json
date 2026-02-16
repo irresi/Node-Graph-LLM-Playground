@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bull makes valid point on institutional accumulation (AAVE/CAKE TVL inflows) and TVL-price decoupling as potential bottoming ",
+  "n_agents": 12,
+  "date": "2025-09-20 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

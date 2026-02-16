@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.65,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Balancer exhibits structural weakness across all three analyst lenses: TVL underperformance (-22.3% vs -12.5% peer average) ",
+  "n_agents": 24,
+  "date": "2025-11-01 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

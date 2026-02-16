@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both Bull and Bear researchers converge on weakness, with the Bull researcher unable to construct a credible bullish case gi",
+  "n_agents": 12,
+  "date": "2025-09-06 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

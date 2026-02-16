@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both researchers converge on structural deterioration (rare agreement signals high conviction). Bull researcher's candid ass",
+  "n_agents": 18,
+  "date": "2025-10-18 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

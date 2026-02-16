@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Both researchers agree the cluster faces severe headwinds: -49.82% 30-day drawdown, -3.91 Sharpe ratio, 107.1% volatility, a",
+  "n_agents": 6,
+  "date": "2025-10-18 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.35,
+  "reasoning": "I appreciate the structure of this debate, but I need to flag a critical limitation before providing a forecast:\n\n**Both the Bull and Bear Researchers have explicitly noted that the Technical Analyst'",
+  "n_agents": 12,
+  "date": "2026-02-07 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL presents a classic risk-reward mismatch in bear market conditions. Bull case rests on governance activity + contrarian ti",
+  "n_agents": 24,
+  "date": "2026-02-07 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

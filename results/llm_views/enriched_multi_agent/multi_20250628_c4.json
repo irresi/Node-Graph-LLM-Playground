@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.087,
+  "confidence": 0.52,
+  "reasoning": "I need to analyze this thoughtfully. Let me assess both arguments against the specialist reports and establish a calibrated forecast.\n\n## Analysis Framework\n\n**Data Quality Assessment:**\n- On-Chain: S",
+  "n_agents": 24,
+  "date": "2025-06-28 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

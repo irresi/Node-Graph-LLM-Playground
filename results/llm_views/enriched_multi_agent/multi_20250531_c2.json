@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "I need to carefully weigh both arguments against the underlying data and apply disciplined judgment.\n\n## Analysis Framework\n\n**Data-Backed Strengths (favoring Bull):**\n- Genuine TVL inflows: AAVE +19.",
+  "n_agents": 12,
+  "date": "2025-05-31 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

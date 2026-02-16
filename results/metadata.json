@@ -1,15 +1,16 @@
 {
   "model": "haiku",
   "mode": "views-only",
-  "pipeline": "single-agent",
+  "pipeline": "multi-agent",
   "enrich": "true",
   "clear_cache": "false",
   "caller_run_id": "manual",
   "main_repo_sha": "HEAD",
-  "completed_at": "2026-02-16T18:13:07Z",
+  "completed_at": "2026-02-16T21:01:10Z",
   "status": "success",
   "view_count": 80,
   "multi_agent_view_count": 80,
   "enriched_view_count": 80,
-  "workflow_run_id": "22073156942"
+  "enriched_ma_view_count": 80,
+  "workflow_run_id": "22075935917"
 }
