@@ -1,8 +1,8 @@
 {
-  "expected_return": -1.0,
-  "confidence": 0.35,
-  "reasoning": "Cluster in severe bear market with -49.82% 30-day loss and -39.34% 14-day loss. High volatility (107.1% annualized) and deeply negative Sharpe ratio (-3.91) indicate extreme risk. However, extreme drawdowns often precede mean reversion bounces. Near-term forecast is cautiously negative given continued downtrend momentum (-4.06% in past 7 days), but oversold conditions and infrastructure token utility suggest potential for partial recovery. Low confidence due to regime uncertainty and lack of clear bullish catalysts in current bear market.",
-  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear market with -49.82% 30-day loss and -39.34% 14-day loss. High volatility (107.1% annualized) and deeply negative Sharpe ratio (-3.91) indicate extreme risk. However, extreme drawdowns often precede mean reversion bounces. Near-term forecast is cautiously negative given continued downtrend momentum (-4.06% in past 7 days), but oversold conditions and infrastructure token utility suggest potential for partial recovery. Low confidence due to regime uncertainty and lack of clear bullish catalysts in current bear market.\"\n}\n```",
+  "expected_return": -0.95,
+  "confidence": 0.45,
+  "reasoning": "Cluster in severe bear regime with -49.82% 30-day decline and -39.34% 14-day decline. High volatility (107.1% annualized) and negative Sharpe ratio (-3.91) indicate distressed conditions. 7-day return of -4.06% suggests momentum may be stabilizing slightly. Infrastructure/L2 tokens typically lag in downturns but can bounce sharply. Forecasting continued weakness over next 14 days (-95% annualized, ~-5% nominal) but with moderate confidence due to potential for volatile reversals in bear markets. Lower confidence reflects uncertainty in timing of sector bottoming.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster in severe bear regime with -49.82% 30-day decline and -39.34% 14-day decline. High volatility (107.1% annualized) and negative Sharpe ratio (-3.91) indicate distressed conditions. 7-day return of -4.06% suggests momentum may be stabilizing slightly. Infrastructure/L2 tokens typically lag in downturns but can bounce sharply. Forecasting continued weakness over next 14 days (-95% annualized, ~-5% nominal) but with moderate confidence due to potential for volatile reversals in bear markets. Lower confidence reflects uncertainty in timing of sector bottoming.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 1,
   "members": [
@@ -13,5 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:14:22.961947+00:00"
+  "generated_at": "2026-02-16T12:56:55.991816+00:00",
+  "enriched": false
 }

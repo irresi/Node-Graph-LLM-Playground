@@ -1,13 +1,14 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.52,
-  "reasoning": "BAL shows positive 7-day and 14-day momentum (+2.28% and +1.56%) suggesting reversal from 30-day decline, supported by growing protocol TVL (+2.8%). However, bear market regime and elevated volatility (72.7%) create uncertainty. Modest confidence reflects near-term positive signals offset by macro headwinds. Annualized return of 18% reflects expected mean reversion over 14 days with downside tail risk.",
-  "raw_response": "I'll analyze the market context and cluster performance to forecast the expected annualized return for Cluster 4 (BAL token) over the next 14 days.\n\n## Analysis\n\n**Market Context:**\n- Overall DeFi TVL showing modest growth (+1.2% 30-day), suggesting stabilization despite bear market conditions\n- Bear market regime indicates downward pressure on risk assets\n- Market volatility remains elevated\n\n**Cluster 4 (BAL) Fundamentals:**\n- Single-token cluster focused on Balancer DEX\n- TVL of $795M with positive 30-day growth (+2.8%), showing protocol resilience\n- Protocol metrics suggest fundamental strength despite price volatility\n\n**Recent Performance Signals:**\n- 30-day return: -10.18% (negative trend)\n- 14-day return: +1.56% (reversal signal)\n- 7-day return: +2.28% (continued upward momentum)\n- This shows a clear momentum reversal from the 30-day decline\n- Annualized volatility at 72.7% is high but not extreme for DeFi tokens\n- Sharpe ratio of -1.18 reflects the recent poor risk-adjusted performance\n\n**Forward-Looking Assessment:**\nThe token shows signs of recovery:\n1. Recent 7-day and 14-day returns are positive, contrasting with the 30-day decline\n2. BAL's TVL growth (+2.8%) indicates protocol adoption is holding\n3. The bear market regime suggests caution, but technical momentum appears to be turning\n4. Recovery from a -21.9% max drawdown typically attracts value buyers\n\n**14-Day Forecast Considerations:**\n- Short-term momentum is positive (+2.28% last 7 days)\n- However, bear market headwinds could limit upside\n- High volatility (72.7% annualized) suggests both upside and downside risk\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.52, \"reasoning\": \"BAL shows positive 7-day and 14-day momentum (+2.28% and +1.56%) suggesting reversal from 30-day decline, supported by growing protocol TVL (+2.8%). However, bear market regime and elevated volatility (72.7%) create uncertainty. Modest confidence reflects near-term positive signals offset by macro headwinds. Annualized return of 18% reflects expected mean reversion over 14 days with downside tail risk.\"}\n```",
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "BAL shows mixed signals: negative 30-day return (-10.18%) and high volatility (72.7%) in bear market conditions suggest downside risk. However, recent 7-day momentum (+2.28%) and stable TVL growth (+2.8%) indicate potential mean reversion. The low Sharpe ratio (-1.18) reflects poor risk-adjusted returns, limiting confidence. Annualized 14-day return forecast reflects modest recovery potential offset by elevated market uncertainty and regime weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL shows mixed signals: negative 30-day return (-10.18%) and high volatility (72.7%) in bear market conditions suggest downside risk. However, recent 7-day momentum (+2.28%) and stable TVL growth (+2.8%) indicate potential mean reversion. The low Sharpe ratio (-1.18) reflects poor risk-adjusted returns, limiting confidence. Annualized 14-day return forecast reflects modest recovery potential offset by elevated market uncertainty and regime weakness.\"\n}\n```",
   "date": "2025-06-14",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:05:22.808981+00:00"
+  "generated_at": "2026-02-16T12:53:48.096133+00:00",
+  "enriched": false
 }

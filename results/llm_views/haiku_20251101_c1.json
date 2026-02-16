@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.35,
-  "reasoning": "Cluster in severe bear regime with -38.13% monthly decline and -106.3% annualized volatility. Recent 14-day return of -1.59% suggests deceleration from earlier losses, indicating potential capitulation. However, infrastructure/L2 tokens historically underperform during broader crypto downturns due to reduced on-chain activity and developer sentiment. DeFi TVL down 12.5% month-over-month reinforces negative macro conditions. Low confidence due to high volatility and potential mean reversion, but technical indicators (7d: -6.84%, 14d: -1.59% trend) suggest continued weakness rather than recovery in near term. Annualized return accounts for the 14-day forecast horizon.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -38.13% monthly decline and -106.3% annualized volatility. Recent 14-day return of -1.59% suggests deceleration from earlier losses, indicating potential capitulation. However, infrastructure/L2 tokens historically underperform during broader crypto downturns due to reduced on-chain activity and developer sentiment. DeFi TVL down 12.5% month-over-month reinforces negative macro conditions. Low confidence due to high volatility and potential mean reversion, but technical indicators (7d: -6.84%, 14d: -1.59% trend) suggest continued weakness rather than recovery in near term. Annualized return accounts for the 14-day forecast horizon.\"\n}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster in severe bear regime with -38.13% 30-day loss and high volatility (106.3% annualized). Recent deceleration in losses (7d: -6.84%, 14d: -1.59%) suggests potential stabilization, but weak TVL fundamentals (LINK only $0M reported) and negative Sharpe ratio (-3.01) indicate structural weakness. DeFi TVL declining -12.5% compounds headwinds. 14-day forecast assumes partial recovery from recent momentum reversal but remains negative given overall market regime and lack of positive catalysts. Confidence limited by bear market uncertainty and infrastructure token sensitivity to broader crypto sentiment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster in severe bear regime with -38.13% 30-day loss and high volatility (106.3% annualized). Recent deceleration in losses (7d: -6.84%, 14d: -1.59%) suggests potential stabilization, but weak TVL fundamentals (LINK only $0M reported) and negative Sharpe ratio (-3.01) indicate structural weakness. DeFi TVL declining -12.5% compounds headwinds. 14-day forecast assumes partial recovery from recent momentum reversal but remains negative given overall market regime and lack of positive catalysts. Confidence limited by bear market uncertainty and infrastructure token sensitivity to broader crypto sentiment.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 1,
   "members": [
@@ -13,5 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:15:48.960571+00:00"
+  "generated_at": "2026-02-16T12:57:24.127933+00:00",
+  "enriched": false
 }

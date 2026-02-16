@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.42,
-  "reasoning": "Cluster showing strong negative momentum with -13.46% return over 7 days and -13.32% over 14 days, despite overall DeFi market bullish sentiment (+19.6% TVL growth). High volatility (91.3% annualized) and negative Sharpe ratio (-0.14) indicate elevated downside risk. While the broader market regime is moderately bullish, infrastructure/L2 tokens (OP, ARB) and oracle tokens (LINK, GRT) are underperforming, suggesting potential sector rotation or sentiment shift. Near-term recovery probability is moderate given mean reversion tendencies, but recent severe drawdown (-26.7% max) and sustained negative momentum suggest continued weakness in short term. 14-day horizon may see partial stabilization but unlikely full reversal given technical damage.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster showing strong negative momentum with -13.46% return over 7 days and -13.32% over 14 days, despite overall DeFi market bullish sentiment (+19.6% TVL growth). High volatility (91.3% annualized) and negative Sharpe ratio (-0.14) indicate elevated downside risk. While the broader market regime is moderately bullish, infrastructure/L2 tokens (OP, ARB) and oracle tokens (LINK, GRT) are underperforming, suggesting potential sector rotation or sentiment shift. Near-term recovery probability is moderate given mean reversion tendencies, but recent severe drawdown (-26.7% max) and sustained negative momentum suggest continued weakness in short term. 14-day horizon may see partial stabilization but unlikely full reversal given technical damage.\"\n}\n```",
+  "expected_return": 0.22,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite bullish overall DeFi market (+19.6% TVL growth). However, this presents potential mean reversion opportunity as the cluster underperforms relative to market regime. High volatility (91.3%) and poor Sharpe ratio (-0.14) indicate significant risk. Low confidence due to: (1) infrastructure/L2 tokens lack direct TVL metrics making fundamental analysis difficult, (2) recent sharp drawdown suggests potential capitulation, (3) LINK's stagnant TVL despite market growth raises concerns. Positive forecast assumes technical oversold conditions and potential catch-up rally to market momentum, but execution risk is substantial given the extended underperformance and lack of clear catalysts.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.22,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite bullish overall DeFi market (+19.6% TVL growth). However, this presents potential mean reversion opportunity as the cluster underperforms relative to market regime. High volatility (91.3%) and poor Sharpe ratio (-0.14) indicate significant risk. Low confidence due to: (1) infrastructure/L2 tokens lack direct TVL metrics making fundamental analysis difficult, (2) recent sharp drawdown suggests potential capitulation, (3) LINK's stagnant TVL despite market growth raises concerns. Positive forecast assumes technical oversold conditions and potential catch-up rally to market momentum, but execution risk is substantial given the extended underperformance and lack of clear catalysts.\"\n}\n```",
   "date": "2025-05-31",
   "cluster_id": 1,
   "members": [
@@ -13,5 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:03:27.069871+00:00"
+  "generated_at": "2026-02-16T12:53:08.319048+00:00",
+  "enriched": false
 }

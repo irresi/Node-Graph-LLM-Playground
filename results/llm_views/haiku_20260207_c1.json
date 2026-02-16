@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.12,
-  "confidence": 0.45,
-  "reasoning": "Cluster in severe bear market downturn (-47% monthly). Infrastructure tokens may find support/stabilize, but persistent negative momentum likely continues. Forecasting modest 14-day decline with low confidence due to high uncertainty in this volatile regime.",
-  "raw_response": "Looking at this cluster analysis, I need to consider multiple factors:\n\n**Bearish Signals:**\n- Severe bear market regime (-22.9% DeFi TVL decline)\n- Cluster underperforming with -47.22% return over 30 days\n- Extreme volatility (85.1% annualized) and deeply negative Sharpe ratio (-4.66)\n- Persistent downtrend: 7d (-22.93%), 14d (-35.40%), 30d (-47.22%)\n- Maximum drawdown of -49.5% indicates no support\n\n**Supporting Recovery Potential:**\n- Tokens are core infrastructure (LINK oracle, OP/ARB L2s, GRT indexing, ENS domain)\n- Infrastructure tokens historically more resilient than speculation-dependent assets\n- Extended bear cycle sometimes precedes relief bounces\n- Over-extended drawdowns can attract contrarian bids\n\n**Analysis:**\nThe cluster has experienced a severe -47% decline and shows strong downward momentum. However, in bear markets, oversold infrastructure tokens sometimes experience technical bounces or stabilization periods. The lack of TVL data for most tokens (L2s and protocols) suggests these are network tokens less directly tied to current protocol health.\n\nGiven the intensity of the decline and the 14-day timeframe, I expect either:\n1. Continued downward pressure from bear market, OR\n2. A modest technical bounce/stabilization as oversold conditions attract value buyers\n\nThe negative momentum and weak market regime support a cautious outlook, but the potential for a relief bounce or stabilization in the next 14 days prevents an extremely bearish forecast.\n\n```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster in severe bear market downturn (-47% monthly). Infrastructure tokens may find support/stabilize, but persistent negative momentum likely continues. Forecasting modest 14-day decline with low confidence due to high uncertainty in this volatile regime.\"\n}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -47.22% 30-day loss and -35.40% 14-day decline. High volatility (85.1% annualized) and negative Sharpe ratio (-4.66) indicate distressed conditions. DeFi TVL down 22.9% signals sector-wide headwinds. Infrastructure/L2 tokens particularly vulnerable in bear markets with reduced on-chain activity. 14-day forward projection extrapolates recent momentum decline, though extreme drawdown (-49.5%) suggests possible mean-reversion bounce. Moderate confidence due to regime uncertainty and potential capitulation reversal, but downside bias remains elevated.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -47.22% 30-day loss and -35.40% 14-day decline. High volatility (85.1% annualized) and negative Sharpe ratio (-4.66) indicate distressed conditions. DeFi TVL down 22.9% signals sector-wide headwinds. Infrastructure/L2 tokens particularly vulnerable in bear markets with reduced on-chain activity. 14-day forward projection extrapolates recent momentum decline, though extreme drawdown (-49.5%) suggests possible mean-reversion bounce. Moderate confidence due to regime uncertainty and potential capitulation reversal, but downside bias remains elevated.\"\n}\n```",
   "date": "2026-02-07",
   "cluster_id": 1,
   "members": [
@@ -13,5 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:23:42.364019+00:00"
+  "generated_at": "2026-02-16T12:59:56.116509+00:00",
+  "enriched": false
 }

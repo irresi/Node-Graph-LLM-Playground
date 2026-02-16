@@ -1,13 +1,14 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.35,
-  "reasoning": "BAL faces significant headwinds in the current bear market regime (-1.7% DeFi TVL decline, -24.43% cluster 30d return). The token shows negative momentum across all timeframes (7d: -10.46%, 14d: -9.51%, 30d: -24.43%) with high volatility (27.9% annualized) and poor risk-adjusted returns (Sharpe: -7.36). BAL's TVL declined 5.3% over 30 days, indicating weakening protocol fundamentals. The -0.45 annualized return reflects continued downward pressure expected over the next 14 days, though confidence is low (0.35) due to the unpredictability of bear market bottoms and potential capitulation events. A sustained downtrend is more likely than a sharp reversal in this macro regime.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces significant headwinds in the current bear market regime (-1.7% DeFi TVL decline, -24.43% cluster 30d return). The token shows negative momentum across all timeframes (7d: -10.46%, 14d: -9.51%, 30d: -24.43%) with high volatility (27.9% annualized) and poor risk-adjusted returns (Sharpe: -7.36). BAL's TVL declined 5.3% over 30 days, indicating weakening protocol fundamentals. The -0.45 annualized return reflects continued downward pressure expected over the next 14 days, though confidence is low (0.35) due to the unpredictability of bear market bottoms and potential capitulation events. A sustained downtrend is more likely than a sharp reversal in this macro regime.\"\n}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "BAL is in a bear market regime with strong downtrend (-24.43% over 30 days, -10.46% over 7 days). The negative Sharpe ratio (-7.36) and recent momentum suggest continued weakness. However, oversold conditions and protocol stability (TVL only -5.3%) could stabilize the token. Annualized return extrapolates the recent 14-day trend (-9.51%) to an annual basis, adjusted downward for regime persistence but with low confidence due to high volatility (27.9%) and potential mean reversion in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL is in a bear market regime with strong downtrend (-24.43% over 30 days, -10.46% over 7 days). The negative Sharpe ratio (-7.36) and recent momentum suggest continued weakness. However, oversold conditions and protocol stability (TVL only -5.3%) could stabilize the token. Annualized return extrapolates the recent 14-day trend (-9.51%) to an annual basis, adjusted downward for regime persistence but with low confidence due to high volatility (27.9%) and potential mean reversion in bear markets.\"\n}\n```",
   "date": "2026-01-10",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:22:22.073743+00:00"
+  "generated_at": "2026-02-16T12:59:29.057496+00:00",
+  "enriched": false
 }

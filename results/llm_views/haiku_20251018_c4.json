@@ -1,13 +1,14 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.42,
-  "reasoning": "BAL faces headwinds from bear market regime (DeFi TVL down 11.2%) and severe recent underperformance (-22.95% in 30d). However, the recent 7-day bounce (+0.72%) suggests potential short-term stabilization. High volatility (66.8% annualized) and negative Sharpe ratio (-2.89) indicate poor risk-adjusted returns. DEX tokens typically underperform during bear markets due to reduced trading volume. Over 14 days, expect continued weakness but potentially less severe than the 30-day decline, with downside risks outweighing upside potential. Low confidence due to extreme volatility and unfavorable market conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (DeFi TVL down 11.2%) and severe recent underperformance (-22.95% in 30d). However, the recent 7-day bounce (+0.72%) suggests potential short-term stabilization. High volatility (66.8% annualized) and negative Sharpe ratio (-2.89) indicate poor risk-adjusted returns. DEX tokens typically underperform during bear markets due to reduced trading volume. Over 14 days, expect continued weakness but potentially less severe than the 30-day decline, with downside risks outweighing upside potential. Low confidence due to extreme volatility and unfavorable market conditions.\"\n}\n```",
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "BAL shows stabilization signs (7-day +0.72%) after steep decline, but remains in weak bear market with 66.8% volatility. TVL decline modest (-5.4%), suggesting fundamental support. Forecasting modest recovery to 8% annualized over 14 days, but with low-moderate confidence due to bearish regime and high uncertainty.",
+  "raw_response": "I'll analyze the market context and cluster metrics to provide a 14-day expected return forecast for Cluster 4 (BAL token).\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with DeFi TVL down 11.2% over 30 days\n2. **Cluster Performance**: BAL has declined 22.95% over 30 days with high volatility (66.8% annualized)\n3. **Recent Momentum**: Mixed signals - positive 7-day return (+0.72%) after steep 14-day decline (-20.61%)\n4. **Protocol Health**: BAL TVL relatively stable with only -5.4% 30-day decline, suggesting fundamental support\n5. **Risk Metrics**: Negative Sharpe ratio (-2.89) and severe max drawdown (-23.9%) indicate poor risk-adjusted returns\n\n**Forecast Reasoning:**\n\n- The positive 7-day bounce suggests potential mean reversion or stabilization after the sharp decline\n- However, the broader bear market regime and overall DeFi TVL contraction pose headwinds\n- BAL's TVL decline is relatively moderate compared to cluster performance, indicating some fundamental resilience\n- Given the high volatility and bear market context, recovery potential is limited but possible\n- The 14-day timeframe is relatively short for significant recovery in this regime\n\n**Return Calculation:**\n- Annualizing a modest recovery scenario over 14 days (~2 weeks): expect 5-15% annualized return\n- Conservative estimate given bear market conditions and recent volatility\n- Confidence moderate due to market uncertainty and volatility\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"BAL shows stabilization signs (7-day +0.72%) after steep decline, but remains in weak bear market with 66.8% volatility. TVL decline modest (-5.4%), suggesting fundamental support. Forecasting modest recovery to 8% annualized over 14 days, but with low-moderate confidence due to bearish regime and high uncertainty.\"}\n```",
   "date": "2025-10-18",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:15:32.727888+00:00"
+  "generated_at": "2026-02-16T12:57:19.774784+00:00",
+  "enriched": false
 }

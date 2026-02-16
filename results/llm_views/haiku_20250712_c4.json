@@ -1,13 +1,14 @@
 {
   "expected_return": 0.18,
-  "confidence": 0.42,
-  "reasoning": "BAL shows strong short-term momentum (+13.49% 7d, +12.53% 14d) reversing 30d losses (-2.57%), suggesting potential mean reversion or bullish inflection. However, this conflicts with the bear market regime and negative Sharpe ratio (-0.49), indicating the recent gains may be unsustainable. The 44.4% annualized volatility is high, and the -14.8% max drawdown suggests downside risk. Extrapolating 14d return (~12.5%) to annualized (~183%) is unrealistic; a more conservative 18% expected return reflects the positive momentum offset by regime headwinds. Low confidence due to regime uncertainty and high volatility in a bear market making near-term forecasts unreliable.",
-  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"BAL shows strong short-term momentum (+13.49% 7d, +12.53% 14d) reversing 30d losses (-2.57%), suggesting potential mean reversion or bullish inflection. However, this conflicts with the bear market regime and negative Sharpe ratio (-0.49), indicating the recent gains may be unsustainable. The 44.4% annualized volatility is high, and the -14.8% max drawdown suggests downside risk. Extrapolating 14d return (~12.5%) to annualized (~183%) is unrealistic; a more conservative 18% expected return reflects the positive momentum offset by regime headwinds. Low confidence due to regime uncertainty and high volatility in a bear market making near-term forecasts unreliable.\"}\n```",
+  "confidence": 0.45,
+  "reasoning": "BAL shows positive short-term momentum (+13.49% over 7 days, +12.53% over 14 days) despite negative 30-day performance (-2.57%), suggesting potential mean reversion or trend recovery. However, the bear market regime, high volatility (44.4% annualized), negative Sharpe ratio (-0.49), and max drawdown of -14.8% present significant headwinds. The single-token cluster concentration increases idiosyncratic risk. TVL growth (+2.4% in 30 days) provides modest fundamental support. The recent momentum could extend modestly into the next 14 days, but sustainability is questionable in the current macro environment. Confidence is low due to regime conflicts and limited fundamental catalysts.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL shows positive short-term momentum (+13.49% over 7 days, +12.53% over 14 days) despite negative 30-day performance (-2.57%), suggesting potential mean reversion or trend recovery. However, the bear market regime, high volatility (44.4% annualized), negative Sharpe ratio (-0.49), and max drawdown of -14.8% present significant headwinds. The single-token cluster concentration increases idiosyncratic risk. TVL growth (+2.4% in 30 days) provides modest fundamental support. The recent momentum could extend modestly into the next 14 days, but sustainability is questionable in the current macro environment. Confidence is low due to regime conflicts and limited fundamental catalysts.\"\n}\n```",
   "date": "2025-07-12",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:07:28.256539+00:00"
+  "generated_at": "2026-02-16T12:54:37.349485+00:00",
+  "enriched": false
 }

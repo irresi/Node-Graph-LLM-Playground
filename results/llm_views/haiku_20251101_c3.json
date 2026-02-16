@@ -1,13 +1,14 @@
 {
   "expected_return": -0.85,
-  "confidence": 0.65,
-  "reasoning": "CVX is in a severe downtrend within a bear market. The 30-day return of -42.39% reflects significant selling pressure, with annualized volatility at 144.1% indicating extreme uncertainty. Recent momentum (7d: -3.29%, 14d: -3.56%) suggests continued weakness. The negative Sharpe ratio (-2.47) and 50% max drawdown indicate poor risk-adjusted returns. While CVX may find support or experience mean reversion, the combination of macro bear conditions (-12.5% DeFi TVL decline), CVX's TVL decline (-18.1%), and negative momentum momentum suggests further downside is more likely than recovery over 14 days. Annualized forecast of -85% reflects elevated bear risk, though confidence is moderate due to potential for sharp recovery rallies in volatile assets.",
-  "raw_response": "Based on the market context and cluster metrics provided, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"CVX is in a severe downtrend within a bear market. The 30-day return of -42.39% reflects significant selling pressure, with annualized volatility at 144.1% indicating extreme uncertainty. Recent momentum (7d: -3.29%, 14d: -3.56%) suggests continued weakness. The negative Sharpe ratio (-2.47) and 50% max drawdown indicate poor risk-adjusted returns. While CVX may find support or experience mean reversion, the combination of macro bear conditions (-12.5% DeFi TVL decline), CVX's TVL decline (-18.1%), and negative momentum momentum suggests further downside is more likely than recovery over 14 days. Annualized forecast of -85% reflects elevated bear risk, though confidence is moderate due to potential for sharp recovery rallies in volatile assets.\"\n}\n```",
+  "confidence": 0.62,
+  "reasoning": "CVX faces severe headwinds: bear market regime, -42.39% 30-day decline, -18.1% TVL contraction, and extreme volatility (144.1%). Recent 7/14-day momentum (-3.29%/-3.56%) shows continued weakness. However, the -50% max drawdown suggests potential capitulation and oversold conditions that could lead to a stabilization or modest bounce in the 14-day window. The negative Sharpe ratio (-2.47) and high volatility create significant uncertainty, limiting confidence. Annualized return reflects continued downward pressure but with some recovery potential from deeply depressed levels.",
+  "raw_response": "Based on the market context and cluster analysis for CVX, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CVX faces severe headwinds: bear market regime, -42.39% 30-day decline, -18.1% TVL contraction, and extreme volatility (144.1%). Recent 7/14-day momentum (-3.29%/-3.56%) shows continued weakness. However, the -50% max drawdown suggests potential capitulation and oversold conditions that could lead to a stabilization or modest bounce in the 14-day window. The negative Sharpe ratio (-2.47) and high volatility create significant uncertainty, limiting confidence. Annualized return reflects continued downward pressure but with some recovery potential from deeply depressed levels.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 3,
   "members": [
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:16:20.895729+00:00"
+  "generated_at": "2026-02-16T12:57:35.981641+00:00",
+  "enriched": false
 }

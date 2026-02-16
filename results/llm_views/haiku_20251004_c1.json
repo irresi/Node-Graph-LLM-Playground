@@ -1,8 +1,8 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.45,
-  "reasoning": "Modest mean reversion expected from 7-day bounce after oversold conditions, but overshadowed by weak 30-day trend, high volatility (51.6%), and neutral market regime. Limited upside catalysts for infrastructure/L2 cluster. Low-to-moderate confidence given mixed signals and structural weakness in Sharpe ratio.",
-  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Cluster Composition & Characteristics:**\n- Infrastructure/L2/Oracle tokens (LINK, OP, ARB, ENS, GRT)\n- Mix of layer 2 solutions and oracle infrastructure\n- Limited TVL data (mostly infrastructure tokens with no direct TVL)\n\n**Key Observations:**\n\n1. **Recent Momentum is Mixed:**\n   - 7-day return: +7.00% (positive momentum)\n   - 14-day return: -6.52% (recent downtrend)\n   - 30-day return: -4.52% (persistent weakness)\n   - The 7-day spike after 14-day decline suggests potential mean reversion or technical bounce\n\n2. **Risk Profile:**\n   - High annualized volatility: 51.6%\n   - Negative Sharpe ratio: -0.74 (poor risk-adjusted returns)\n   - Max drawdown of -22.4% indicates significant downside risk\n   - This is a volatile cluster in a neutral market regime\n\n3. **Market Context:**\n   - DeFi TVL growing (+8.2% / 30d), which is moderately positive\n   - Neutral/range-bound market regime limits extreme moves\n   - Infrastructure tokens are typically correlated with broader crypto sentiment\n\n4. **Technical Setup:**\n   - The 7-day bounce (+7%) after -6.52% 14-day decline suggests oversold conditions\n   - However, the cluster has been in a downtrend over the longer window\n   - Low confidence in sustained recovery given weak 30-day performance\n\n**Forecast Rationale:**\n- The recent 7-day recovery is encouraging but likely reflects technical rebound rather than fundamental improvement\n- High volatility and poor Sharpe ratio suggest elevated risk without clear directional catalyst\n- Over 14 days, expect modest mean reversion from oversold conditions, but limited upside in neutral market\n- Infrastructure tokens often consolidate before major moves; near-term recovery plausible but not strong\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Modest mean reversion expected from 7-day bounce after oversold conditions, but overshadowed by weak 30-day trend, high volatility (51.6%), and neutral market regime. Limited upside catalysts for infrastructure/L2 cluster. Low-to-moderate confidence given mixed signals and structural weakness in Sharpe ratio.\"}\n```",
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows mixed signals: negative 30-day return (-4.52%) and max drawdown (-22.4%) suggest weakness, but strong 7-day rebound (+7.00%) indicates potential mean reversion. Infrastructure/L2 tokens typically benefit from positive market momentum. Neutral market regime and lack of TVL data for most tokens increases uncertainty. Confidence tempered by high volatility (51.6% annualized) and negative Sharpe ratio (-0.74). Forecast assumes continued recovery from recent lows with modest risk premium.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows mixed signals: negative 30-day return (-4.52%) and max drawdown (-22.4%) suggest weakness, but strong 7-day rebound (+7.00%) indicates potential mean reversion. Infrastructure/L2 tokens typically benefit from positive market momentum. Neutral market regime and lack of TVL data for most tokens increases uncertainty. Confidence tempered by high volatility (51.6% annualized) and negative Sharpe ratio (-0.74). Forecast assumes continued recovery from recent lows with modest risk premium.\"\n}\n```",
   "date": "2025-10-04",
   "cluster_id": 1,
   "members": [
@@ -13,5 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:13:20.081757+00:00"
+  "generated_at": "2026-02-16T12:56:34.047353+00:00",
+  "enriched": false
 }

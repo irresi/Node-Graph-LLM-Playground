@@ -1,11 +1,11 @@
 {
   "model": "haiku",
   "mode": "views-only",
-  "clear_cache": "false",
+  "clear_cache": "true",
   "caller_run_id": "manual",
   "main_repo_sha": "HEAD",
-  "completed_at": "2026-02-16T12:50:54Z",
+  "completed_at": "2026-02-16T13:00:08Z",
   "status": "success",
   "view_count": 80,
-  "workflow_run_id": "22063414940"
+  "workflow_run_id": "22063471331"
 }

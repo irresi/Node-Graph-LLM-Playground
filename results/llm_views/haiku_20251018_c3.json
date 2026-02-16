@@ -1,13 +1,14 @@
 {
   "expected_return": -0.85,
   "confidence": 0.35,
-  "reasoning": "CVX in severe bear market downturn with -44.14% 30-day loss and -53.2% max drawdown. However, recent 7-day bounce (+4.67%) suggests potential short-term oversold conditions and mean reversion. The 14-day forward outlook is highly uncertain given extreme volatility (153.8% annualized) and negative Sharpe ratio (-2.41). DeFi TVL declining -11.2% compounds headwinds. Low confidence due to high uncertainty in leveraged yield protocol recovery timing during bear regime; could see either continued capitulation or technical bounce, making 14-day annualized return forecast unreliable at -85% (conservative estimate assuming continued weakness with minor relief rally).",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX in severe bear market downturn with -44.14% 30-day loss and -53.2% max drawdown. However, recent 7-day bounce (+4.67%) suggests potential short-term oversold conditions and mean reversion. The 14-day forward outlook is highly uncertain given extreme volatility (153.8% annualized) and negative Sharpe ratio (-2.41). DeFi TVL declining -11.2% compounds headwinds. Low confidence due to high uncertainty in leveraged yield protocol recovery timing during bear regime; could see either continued capitulation or technical bounce, making 14-day annualized return forecast unreliable at -85% (conservative estimate assuming continued weakness with minor relief rally).\"\n}\n```",
+  "reasoning": "CVX in severe bear regime with -44.14% 30-day loss and -53.2% max drawdown. However, recent 7-day recovery (+4.67%) suggests potential oversold conditions. TVL decline (-25.4%) indicates fundamental weakness in Convex ecosystem. Extreme volatility (153.8% annualized) and negative Sharpe ratio (-2.41) create high forecast uncertainty. Low confidence due to unpredictable bounce vs. continued decline dynamics in distressed yield protocols during bear markets. Forecasting modest negative annualized return assuming continued pressure, but acknowledge significant mean-reversion risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX in severe bear regime with -44.14% 30-day loss and -53.2% max drawdown. However, recent 7-day recovery (+4.67%) suggests potential oversold conditions. TVL decline (-25.4%) indicates fundamental weakness in Convex ecosystem. Extreme volatility (153.8% annualized) and negative Sharpe ratio (-2.41) create high forecast uncertainty. Low confidence due to unpredictable bounce vs. continued decline dynamics in distressed yield protocols during bear markets. Forecasting modest negative annualized return assuming continued pressure, but acknowledge significant mean-reversion risk.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 3,
   "members": [
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:15:13.507000+00:00"
+  "generated_at": "2026-02-16T12:57:08.067119+00:00",
+  "enriched": false
 }

@@ -1,13 +1,14 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.62,
-  "reasoning": "CVX in severe bear market with -30.41% 30-day loss and -28% max drawdown. High volatility (87.4% annualized) and negative Sharpe ratio (-2.92) indicate stressed market conditions. 14-day momentum at -18.30% suggests continued weakness. However, extreme oversold conditions and CVX's role in Curve ecosystem create potential for mean reversion bounce. DeFi TVL down 17% YoY indicates sector-wide pressure. Forecast negative but less severe than recent trend, assuming partial stabilization over 14 days. Moderate confidence due to macro uncertainty and volatility.",
-  "raw_response": "```json\n{\"expected_return\": -0.45, \"confidence\": 0.62, \"reasoning\": \"CVX in severe bear market with -30.41% 30-day loss and -28% max drawdown. High volatility (87.4% annualized) and negative Sharpe ratio (-2.92) indicate stressed market conditions. 14-day momentum at -18.30% suggests continued weakness. However, extreme oversold conditions and CVX's role in Curve ecosystem create potential for mean reversion bounce. DeFi TVL down 17% YoY indicates sector-wide pressure. Forecast negative but less severe than recent trend, assuming partial stabilization over 14 days. Moderate confidence due to macro uncertainty and volatility.\"}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "CVX is in a severe bear market with -30.41% 30-day loss and -2.92 Sharpe ratio. The strong downtrend (-14.59% in 7d, -18.30% in 14d) suggests continued weakness over the next 14 days. However, extreme drawdowns often precede relief rallies, limiting downside confidence. DeFi TVL decline (-17%) and Curve ecosystem pressures create headwinds. Forecast annualizes the recent 14-day momentum (-18.30%) while acknowledging low confidence due to high volatility (87.4%) and potential mean reversion in a heavily oversold market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX is in a severe bear market with -30.41% 30-day loss and -2.92 Sharpe ratio. The strong downtrend (-14.59% in 7d, -18.30% in 14d) suggests continued weakness over the next 14 days. However, extreme drawdowns often precede relief rallies, limiting downside confidence. DeFi TVL decline (-17%) and Curve ecosystem pressures create headwinds. Forecast annualizes the recent 14-day momentum (-18.30%) while acknowledging low confidence due to high volatility (87.4%) and potential mean reversion in a heavily oversold market.\"\n}\n```",
   "date": "2025-11-15",
   "cluster_id": 3,
   "members": [
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:17:30.889996+00:00"
+  "generated_at": "2026-02-16T12:57:58.673882+00:00",
+  "enriched": false
 }

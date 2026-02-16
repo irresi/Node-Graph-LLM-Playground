@@ -1,8 +1,8 @@
 {
   "expected_return": -0.85,
-  "confidence": 0.65,
-  "reasoning": "Cluster in severe bear regime with -37.55% 30-day return and negative momentum (-17.98% in last 7 days). Annualized volatility of 76.8% with -4.11 Sharpe ratio indicates high risk. DeFi TVL down 22.9% month-over-month signals macro weakness. However, oversold conditions and cluster composition (established protocols like AAVE, UNI with strong fundamentals) suggest potential stabilization. Forecast -85% annualized return (~-3.3% for 14 days) reflecting continued pressure but moderating decline. Confidence moderate due to macro uncertainty and potential capitulation bounce.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster in severe bear regime with -37.55% 30-day return and negative momentum (-17.98% in last 7 days). Annualized volatility of 76.8% with -4.11 Sharpe ratio indicates high risk. DeFi TVL down 22.9% month-over-month signals macro weakness. However, oversold conditions and cluster composition (established protocols like AAVE, UNI with strong fundamentals) suggest potential stabilization. Forecast -85% annualized return (~-3.3% for 14 days) reflecting continued pressure but moderating decline. Confidence moderate due to macro uncertainty and potential capitulation bounce.\"\n}\n```",
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is in a severe bear regime with -37.55% 30-day loss and -27.51% 14-day loss. DeFi TVL down 22.9% month-over-month signals fundamental weakness across protocols (AAVE -18.4%, UNI -27.2%). High volatility (76.8% annualized) and negative Sharpe ratio (-4.11) indicate risk-off conditions. However, extreme losses may attract value buyers and oversold conditions could lead to mean reversion. 14-day forecast assumes continued weakness but potentially less severe than recent momentum (-0.85 annualized \u2248 -3.3% over 14 days), reflecting some stabilization from panic selling while acknowledging the persistent bear market structure. Confidence moderate due to regime clarity but potential for volatility reversals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is in a severe bear regime with -37.55% 30-day loss and -27.51% 14-day loss. DeFi TVL down 22.9% month-over-month signals fundamental weakness across protocols (AAVE -18.4%, UNI -27.2%). High volatility (76.8% annualized) and negative Sharpe ratio (-4.11) indicate risk-off conditions. However, extreme losses may attract value buyers and oversold conditions could lead to mean reversion. 14-day forecast assumes continued weakness but potentially less severe than recent momentum (-0.85 annualized \u2248 -3.3% over 14 days), reflecting some stabilization from panic selling while acknowledging the persistent bear market structure. Confidence moderate due to regime clarity but potential for volatility reversals.\"\n}\n```",
   "date": "2026-02-07",
   "cluster_id": 2,
   "members": [
@@ -21,5 +21,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:23:59.661621+00:00"
+  "generated_at": "2026-02-16T13:00:00.714445+00:00",
+  "enriched": false
 }

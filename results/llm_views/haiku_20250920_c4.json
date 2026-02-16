@@ -1,13 +1,14 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.35,
-  "reasoning": "BAL faces severe headwinds: bear market regime, 14.3% monthly decline, -8.77% 7-day drop, -11% TVL decrease, and highly negative Sharpe (-2.13). However, 14-day return of -2.60% vs 7-day of -8.77% suggests deceleration. Annualizing typical bearish consolidation (~-1% over 14 days) yields ~-45% APR. Low confidence reflects unpredictable bear market volatility and potential mean reversion. Token shows signs of stabilization but structural weakness persists.",
-  "raw_response": "```json\n{\"expected_return\": -0.45, \"confidence\": 0.35, \"reasoning\": \"BAL faces severe headwinds: bear market regime, 14.3% monthly decline, -8.77% 7-day drop, -11% TVL decrease, and highly negative Sharpe (-2.13). However, 14-day return of -2.60% vs 7-day of -8.77% suggests deceleration. Annualizing typical bearish consolidation (~-1% over 14 days) yields ~-45% APR. Low confidence reflects unpredictable bear market volatility and potential mean reversion. Token shows signs of stabilization but structural weakness persists.\"}\n```",
+  "expected_return": -0.35,
+  "confidence": 0.42,
+  "reasoning": "BAL (Balancer) faces headwinds from bear market regime and negative momentum (-14.3% over 30d, -8.77% over 7d). However, the 14-day return of -2.6% suggests deceleration of losses. TVL decline (-11%) indicates user outflow concerns. The single-token cluster lacks diversification. Given extreme volatility (56.5% annualized) and negative Sharpe ratio (-2.13), forecasting positive returns seems unjustified. Expecting continued downward pressure with high uncertainty due to market conditions and the cluster's recent volatility pattern. Low confidence reflects the bear regime and difficulty predicting short-term reversal.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL (Balancer) faces headwinds from bear market regime and negative momentum (-14.3% over 30d, -8.77% over 7d). However, the 14-day return of -2.6% suggests deceleration of losses. TVL decline (-11%) indicates user outflow concerns. The single-token cluster lacks diversification. Given extreme volatility (56.5% annualized) and negative Sharpe ratio (-2.13), forecasting positive returns seems unjustified. Expecting continued downward pressure with high uncertainty due to market conditions and the cluster's recent volatility pattern. Low confidence reflects the bear regime and difficulty predicting short-term reversal.\"\n}\n```",
   "date": "2025-09-20",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:13:03.305976+00:00"
+  "generated_at": "2026-02-16T12:56:30.252958+00:00",
+  "enriched": false
 }

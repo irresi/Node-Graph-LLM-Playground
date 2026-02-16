@@ -1,13 +1,14 @@
 {
   "expected_return": -1.0,
-  "confidence": 0.25,
-  "reasoning": "BAL (Balancer) faces severe headwinds in current bear market with -115.84% 30-day return, -105.58% 14-day return, and extreme volatility (157.7% annualized). TVL declined 24.8% over 30 days amid broader -22.9% DeFi TVL contraction. The massive negative momentum suggests further downside pressure, with annualized extrapolation of recent 14-day decline yielding ~-385% return. However, extreme drawdowns often precede mean reversion, and Balancer's core DEX mechanics remain functional. Forecasting conservative -3.85 annualized return (slight further decline over 14 days) with very low confidence (0.25) due to extreme volatility and potential capitulation/bounce patterns that are difficult to predict in such distressed conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": -3.85,\n  \"confidence\": 0.25,\n  \"reasoning\": \"BAL (Balancer) faces severe headwinds in current bear market with -115.84% 30-day return, -105.58% 14-day return, and extreme volatility (157.7% annualized). TVL declined 24.8% over 30 days amid broader -22.9% DeFi TVL contraction. The massive negative momentum suggests further downside pressure, with annualized extrapolation of recent 14-day decline yielding ~-385% return. However, extreme drawdowns often precede mean reversion, and Balancer's core DEX mechanics remain functional. Forecasting conservative -3.85 annualized return (slight further decline over 14 days) with very low confidence (0.25) due to extreme volatility and potential capitulation/bounce patterns that are difficult to predict in such distressed conditions.\"\n}\n```",
+  "confidence": 0.35,
+  "reasoning": "BAL faces severe headwinds: bear market regime with DeFi TVL down 22.9%, extreme negative momentum (-95.56% in 7d, -105.58% in 14d), very high volatility (157.7%), and deteriorating TVL (-24.8%). While oversold conditions may provide some bounce, the structural weakness and momentum suggest continued downside. Annualized -3.50 reflects high probability of further losses over 14d, but with low confidence due to potential mean-reversion or market stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -3.50,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: bear market regime with DeFi TVL down 22.9%, extreme negative momentum (-95.56% in 7d, -105.58% in 14d), very high volatility (157.7%), and deteriorating TVL (-24.8%). While oversold conditions may provide some bounce, the structural weakness and momentum suggest continued downside. Annualized -3.50 reflects high probability of further losses over 14d, but with low confidence due to potential mean-reversion or market stabilization.\"\n}\n```",
   "date": "2026-02-07",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:24:28.862738+00:00"
+  "generated_at": "2026-02-16T13:00:08.468828+00:00",
+  "enriched": false
 }

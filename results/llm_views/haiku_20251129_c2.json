@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.35,
+  "expected_return": -0.45,
   "confidence": 0.62,
-  "reasoning": "Cluster in bear market with -22.19% 30-day return and -27.7% max drawdown. However, recent 7-day bounce of +6.87% suggests potential mean reversion in next 14 days. Major protocols (AAVE $32B TVL) showing -14.2% 30d decline. High volatility (73.7% annualized) and negative Sharpe ratio (-2.53) indicate elevated risk. 14-day return of -7.17% shows continued weakness despite 7-day recovery. Given bearish regime, macro headwinds implied by 16.5% TVL decline, but near-term technical bounce potential, forecast moderately negative return with below-median confidence due to regime uncertainty.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -22.19% 30-day return and -27.7% max drawdown. However, recent 7-day bounce of +6.87% suggests potential mean reversion in next 14 days. Major protocols (AAVE $32B TVL) showing -14.2% 30d decline. High volatility (73.7% annualized) and negative Sharpe ratio (-2.53) indicate elevated risk. 14-day return of -7.17% shows continued weakness despite 7-day recovery. Given bearish regime, macro headwinds implied by 16.5% TVL decline, but near-term technical bounce potential, forecast moderately negative return with below-median confidence due to regime uncertainty.\"\n}\n```",
+  "reasoning": "Cluster 2 (DEX/Lending/Derivatives) faces headwinds from bear market regime (-16.5% DeFi TVL decline, -22.19% 30-day return) and high volatility (73.7% annualized). However, recent 7-day rebound (+6.87%) suggests potential short-term stabilization. The 14-day horizon captures mixed signals: negative 14-day momentum (-7.17%) but positive weekly momentum. With large positions in AAVE ($32.3B TVL) and CAKE ($2.6B) showing stabilization, we expect modest downside continuation (annualized -45%) as bear regime persists, but less severe than recent 30-day performance. Confidence moderated (0.62) due to regime uncertainty and contradictory short-term signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 (DEX/Lending/Derivatives) faces headwinds from bear market regime (-16.5% DeFi TVL decline, -22.19% 30-day return) and high volatility (73.7% annualized). However, recent 7-day rebound (+6.87%) suggests potential short-term stabilization. The 14-day horizon captures mixed signals: negative 14-day momentum (-7.17%) but positive weekly momentum. With large positions in AAVE ($32.3B TVL) and CAKE ($2.6B) showing stabilization, we expect modest downside continuation (annualized -45%) as bear regime persists, but less severe than recent 30-day performance. Confidence moderated (0.62) due to regime uncertainty and contradictory short-term signals.\"\n}\n```",
   "date": "2025-11-29",
   "cluster_id": 2,
   "members": [
@@ -21,5 +21,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:18:23.229924+00:00"
+  "generated_at": "2026-02-16T12:58:13.161544+00:00",
+  "enriched": false
 }

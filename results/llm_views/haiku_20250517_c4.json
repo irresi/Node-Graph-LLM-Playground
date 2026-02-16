@@ -1,13 +1,14 @@
 {
-  "expected_return": -0.08,
-  "confidence": 0.55,
-  "reasoning": "Recent 14-day negative momentum (-5.07%) and high volatility (105.3%) suggest continued weakness despite bull market support. Cluster is down after strong 30-day gains, indicating potential consolidation phase. Moderate confidence due to uncertain reversal timing in high-volatility environment.",
-  "raw_response": "I'll analyze the DeFi market context and Cluster 4 (BAL) to provide a 14-day return forecast.\n\n## Analysis\n\n**Current Market State:**\n- Overall DeFi TVL is in a strong bull regime (+34.9% 30-day change)\n- BAL's TVL is healthy at $781M with solid growth (+34.4% 30-day change)\n- Strong Sharpe ratio (1.42) suggests good risk-adjusted returns recently\n\n**Recent Momentum Concerns:**\n- Despite 30-day returns of +17.85%, the last 14 days show negative momentum:\n  - 7-day return: -4.38%\n  - 14-day return: -5.07%\n- This indicates recent weakness despite strong monthly gains\n- High volatility (105.3% annualized) suggests significant price swings\n\n**Key Considerations:**\n1. **Momentum Reversal**: The cluster is showing a momentum reversal pattern - strong month but weakening recently. This typically precedes consolidation or further downside in the short term.\n\n2. **Elevated Volatility**: At 105.3% annualized volatility with a -18.5% max drawdown, the token is experiencing significant price pressure.\n\n3. **Bull Market Support**: The broader DeFi market is in a bull regime (+34.9%), which could provide support and potential recovery.\n\n4. **Technical Setup**: Being down 5.07% over 14 days after a +17.85% monthly gain suggests potential oversold conditions, but the negative trend is concerning.\n\n## Forecast\n\nBased on the momentum reversal, elevated volatility, and recent weakness offsetting broader bull market support, I expect mild negative returns over the next 14 days with moderate-to-low confidence due to the uncertain reversal point.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.55, \"reasoning\": \"Recent 14-day negative momentum (-5.07%) and high volatility (105.3%) suggest continued weakness despite bull market support. Cluster is down after strong 30-day gains, indicating potential consolidation phase. Moderate confidence due to uncertain reversal timing in high-volatility environment.\"}\n```",
+  "expected_return": 0.35,
+  "confidence": 0.62,
+  "reasoning": "BAL shows strong 30-day momentum (+17.85%) despite recent 14-day pullback (-5.07%), suggesting mean reversion potential. Moderate bull regime and strong TVL growth (+34.4%) support recovery. However, high volatility (105.3%) and recent negative trend create uncertainty. Forecast assumes partial rebound from oversold conditions over 14 days, annualizing to ~35% but with moderate confidence due to conflicting signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows strong 30-day momentum (+17.85%) despite recent 14-day pullback (-5.07%), suggesting mean reversion potential. Moderate bull regime and strong TVL growth (+34.4%) support recovery. However, high volatility (105.3%) and recent negative trend create uncertainty. Forecast assumes partial rebound from oversold conditions over 14 days, annualizing to ~35% but with moderate confidence due to conflicting signals.\"\n}\n```",
   "date": "2025-05-17",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:03:13.087049+00:00"
+  "generated_at": "2026-02-16T12:53:02.995912+00:00",
+  "enriched": false
 }

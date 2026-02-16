@@ -1,13 +1,14 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.52,
-  "reasoning": "BAL shows mixed signals: positive 7-day momentum (+9.42%) and strong TVL growth (+21.3% in 30d) suggest bullish fundamentals for Balancer protocol. However, negative 30-day return (-7.31%), high volatility (38.6%), and poor Sharpe ratio (-1.59) indicate significant downside risk and mean-reversion pressure. The 14-day return of +0.84% suggests consolidation. Annualized forecast reflects modest upside from momentum recovery offset by elevated risk. Moderate confidence due to contradictory technical and fundamental signals in a neutral market regime.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"BAL shows mixed signals: positive 7-day momentum (+9.42%) and strong TVL growth (+21.3% in 30d) suggest bullish fundamentals for Balancer protocol. However, negative 30-day return (-7.31%), high volatility (38.6%), and poor Sharpe ratio (-1.59) indicate significant downside risk and mean-reversion pressure. The 14-day return of +0.84% suggests consolidation. Annualized forecast reflects modest upside from momentum recovery offset by elevated risk. Moderate confidence due to contradictory technical and fundamental signals in a neutral market regime.\"\n}\n```",
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "BAL shows mixed signals: strong TVL growth (+21.3% in 30d) and recent 7-day momentum (+9.42%) suggest protocol strength, but the 30-day negative return (-7.31%) and elevated volatility (38.6%) create uncertainty. The 14-day return (+0.84%) indicates stabilization. Given neutral market regime and single-token cluster concentration risk, we forecast modest positive returns with moderate confidence. The recent rally and improving fundamentals (TVL influx) support an upside bias, but high volatility and past underperformance warrant caution.",
+  "raw_response": "Based on the provided market data for Cluster 4 (BAL token), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"BAL shows mixed signals: strong TVL growth (+21.3% in 30d) and recent 7-day momentum (+9.42%) suggest protocol strength, but the 30-day negative return (-7.31%) and elevated volatility (38.6%) create uncertainty. The 14-day return (+0.84%) indicates stabilization. Given neutral market regime and single-token cluster concentration risk, we forecast modest positive returns with moderate confidence. The recent rally and improving fundamentals (TVL influx) support an upside bias, but high volatility and past underperformance warrant caution.\"\n}\n```\n\n**Key factors in this forecast:**\n- **Positive**: TVL acceleration (+21.3%), recent momentum turnaround (9.42% in last 7 days), stabilizing price action\n- **Negative**: Negative Sharpe ratio (-1.59), high annualized volatility (38.6%), max drawdown of -18.9%, extended 30-day underperformance\n- **Confidence tempering**: Single-token cluster, neutral market regime, and historical drawdown suggest elevated uncertainty",
   "date": "2025-10-04",
   "cluster_id": 4,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:14:08.296612+00:00"
+  "generated_at": "2026-02-16T12:56:50.542784+00:00",
+  "enriched": false
 }

@@ -1,13 +1,14 @@
 {
   "expected_return": 0.28,
-  "confidence": 0.52,
-  "reasoning": "CVX shows TVL resilience (+0.8%) and recent momentum (+9.36% 14d), but decelerating returns and bear market regime suggest mean reversion. High volatility (117.8%) and low Sharpe (0.37) create significant uncertainty. Annualized equivalent of ~2% expected 14d return with modest confidence.",
-  "raw_response": "Looking at the data provided for CVX (Cluster 3), I'll analyze the key factors:\n\n**Market Context:**\n- Bear market regime with -1.7% TVL decline over 30 days\n- Overall DeFi market under pressure\n\n**CVX Fundamentals:**\n- $973M TVL with +0.8% growth (positive divergence from market)\n- Curve governance token with strong protocol backing\n- Yield-focused category with institutional utility\n\n**Performance Signals:**\n- Recent momentum is strong: +14.79% (7d), +9.36% (14d), +5.13% (30d)\n- Decelerating but still positive returns suggest momentum is fading\n- High volatility (117.8%) indicates elevated risk\n- Low Sharpe ratio (0.37) indicates returns haven't compensated for volatility\n- Significant max drawdown (-18.7%) confirms downside risk\n\n**Forward 14-Day Forecast Analysis:**\nThe recent deceleration pattern (14.79% \u2192 9.36% \u2192 5.13%) suggests mean reversion is likely. While CVX's TVL resilience is encouraging relative to the market, the bear regime and recent momentum fade suggest limited upside. The high volatility creates balanced risk, but the low Sharpe ratio indicates the risk premium isn't being adequately captured.\n\nGiven the momentum deceleration, bear market backdrop, and CVX's relatively defensive positioning, I expect modest positive returns with elevated uncertainty.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.52, \"reasoning\": \"CVX shows TVL resilience (+0.8%) and recent momentum (+9.36% 14d), but decelerating returns and bear market regime suggest mean reversion. High volatility (117.8%) and low Sharpe (0.37) create significant uncertainty. Annualized equivalent of ~2% expected 14d return with modest confidence.\"}\n```",
+  "confidence": 0.42,
+  "reasoning": "CVX shows positive momentum with +14.79% 7-day and +9.36% 14-day returns despite bear market. However, high volatility (117.8% annualized), weak Sharpe ratio (0.37), and declining DeFi TVL (-1.7%) create significant headwinds. The 14-day forecast annualizes recent momentum but discounts it substantially for market regime risk and mean reversion probability in high-volatility yield tokens during bear markets. Low confidence reflects conflicting signals: strong short-term momentum vs. structural bearish conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX shows positive momentum with +14.79% 7-day and +9.36% 14-day returns despite bear market. However, high volatility (117.8% annualized), weak Sharpe ratio (0.37), and declining DeFi TVL (-1.7%) create significant headwinds. The 14-day forecast annualizes recent momentum but discounts it substantially for market regime risk and mean reversion probability in high-volatility yield tokens during bear markets. Low confidence reflects conflicting signals: strong short-term momentum vs. structural bearish conditions.\"\n}\n```",
   "date": "2026-01-10",
   "cluster_id": 3,
   "members": [
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:22:07.055489+00:00"
+  "generated_at": "2026-02-16T12:59:24.863972+00:00",
+  "enriched": false
 }

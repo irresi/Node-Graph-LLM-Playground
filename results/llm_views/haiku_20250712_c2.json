@@ -1,8 +1,8 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.45,
-  "reasoning": "Recent 14-day momentum (+13.35%) provides short-term tailwind, but bear market regime and negative Sharpe ratio suggest mean reversion. Expect moderating gains over next 14 days as bounce loses steam, annualizing to ~8%. Low confidence reflects high volatility (63.9%), structural weakness, and macro headwinds in DeFi sector. Cluster likely faces resistance from broader downtrend within 2-3 weeks.",
-  "raw_response": "I'll analyze this DeFi cluster (Cluster 2) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime Contradiction**: The market is in a \"Bear (strong downtrend)\" regime, yet:\n   - 7-day return: +13.16%\n   - 14-day return: +13.35%\n   - 30-day return: -7.54%\n   \n   This indicates recent strong momentum reversal from the broader downtrend.\n\n2. **Cluster Fundamentals**:\n   - High volatility (63.9% annualized) with significant drawdowns (-19.0%)\n   - Negative Sharpe ratio (-0.99) indicates poor risk-adjusted returns\n   - Mixed TVL trends: AAVE strong (+13.9%), SUSHI exceptional (+28.2%), but overall cluster down 7.54% YTD\n\n3. **Momentum Signals**:\n   - The recent 7-14 day returns (+13.16%, +13.35%) suggest oversold conditions and bounce-back\n   - This contrasts sharply with the negative 30-day performance\n   - Could indicate capitulation bottom or brief relief rally\n\n4. **Risk Factors**:\n   - Bear market regime suggests headwinds ahead\n   - High volatility makes sustained gains uncertain\n   - DeFi protocols sensitive to macro conditions and regulatory uncertainty\n   - Negative risk-adjusted returns (negative Sharpe) suggest structural weakness\n\n**Forecast Logic:**\n\nGiven the 14-day horizon and current dynamics:\n- Recent momentum provides short-term tailwind (+13-16% in last 14 days)\n- However, bear regime suggests this bounce may be temporary\n- Annualizing recent 14-day returns (~13.35%) would suggest 391% annual, but this is unsustainable\n- Mean reversion likely: expect moderation toward neutral-to-negative returns\n- Reasonable expectation: continuation of bounce with diminishing intensity, then reversion\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Recent 14-day momentum (+13.35%) provides short-term tailwind, but bear market regime and negative Sharpe ratio suggest mean reversion. Expect moderating gains over next 14 days as bounce loses steam, annualizing to ~8%. Low confidence reflects high volatility (63.9%), structural weakness, and macro headwinds in DeFi sector. Cluster likely faces resistance from broader downtrend within 2-3 weeks.\"}\n```",
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong 14-day momentum (+13.35%) following bear market conditions, but faces significant headwinds: negative 30-day returns (-7.54%), high volatility (63.9%), poor Sharpe ratio (-0.99), and bear market regime. The recent rally appears to be a technical bounce rather than fundamental recovery. Confidence is low due to regime uncertainty and lack of fundamental catalyst visibility. High volatility and negative risk-adjusted returns suggest mean reversion risk outweighs momentum continuation.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+13.35%) following bear market conditions, but faces significant headwinds: negative 30-day returns (-7.54%), high volatility (63.9%), poor Sharpe ratio (-0.99), and bear market regime. The recent rally appears to be a technical bounce rather than fundamental recovery. Confidence is low due to regime uncertainty and lack of fundamental catalyst visibility. High volatility and negative risk-adjusted returns suggest mean reversion risk outweighs momentum continuation.\"\n}\n```",
   "date": "2025-07-12",
   "cluster_id": 2,
   "members": [
@@ -21,5 +21,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T05:06:55.062609+00:00"
+  "generated_at": "2026-02-16T12:54:28.633341+00:00",
+  "enriched": false
 }
