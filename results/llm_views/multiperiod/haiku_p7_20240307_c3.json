@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.55,
+  "reasoning": "ENS shows strong recent momentum (+17.86% in 7 days, +12.50% in 14 days) with excellent risk-adjusted returns (Sharpe ratio 2.65). Bull market regime supports continued gains. However, high volatility (72.5% annualized) and single-token cluster concentration create uncertainty. Recent 30-day return of +22.89% suggests potential mean reversion risk. Annualized forecast reflects bullish technicals tempered by overextension concerns and infrastructure token sensitivity to broader market sentiment. Moderate confidence due to lack of TVL fundamentals and high idiosyncratic risk for ENS.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"ENS shows strong recent momentum (+17.86% in 7 days, +12.50% in 14 days) with excellent risk-adjusted returns (Sharpe ratio 2.65). Bull market regime supports continued gains. However, high volatility (72.5% annualized) and single-token cluster concentration create uncertainty. Recent 30-day return of +22.89% suggests potential mean reversion risk. Annualized forecast reflects bullish technicals tempered by overextension concerns and infrastructure token sensitivity to broader market sentiment. Moderate confidence due to lack of TVL fundamentals and high idiosyncratic risk for ENS.\"\n}\n```",
+  "date": "2024-03-07",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:13.052813+00:00"
+}

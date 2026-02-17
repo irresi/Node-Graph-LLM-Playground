@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.55,
+  "reasoning": "Despite recent 14-day momentum of +13.35%, the cluster operates in a bear market with -16.7% DeFi TVL contraction and -13.6% 30-day returns. The 95.3% annualized volatility and -1.20 Sharpe ratio indicate high risk with poor risk-adjusted returns. MKR's large $6.5B TVL provides some stability, but all three tokens show TVL headwinds. The recent bounce appears to be a bear market rally within a deteriorating trend. Over the next 14 days, expect mean reversion toward negative territory as the bear regime reasserts, with elevated volatility presenting downside risk. Moderate confidence due to unpredictable short-term volatility in crypto.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Despite recent 14-day momentum of +13.35%, the cluster operates in a bear market with -16.7% DeFi TVL contraction and -13.6% 30-day returns. The 95.3% annualized volatility and -1.20 Sharpe ratio indicate high risk with poor risk-adjusted returns. MKR's large $6.5B TVL provides some stability, but all three tokens show TVL headwinds. The recent bounce appears to be a bear market rally within a deteriorating trend. Over the next 14 days, expect mean reversion toward negative territory as the bear regime reasserts, with elevated volatility presenting downside risk. Moderate confidence due to unpredictable short-term volatility in crypto.\"\n}\n```",
+  "date": "2025-03-24",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:21.614866+00:00"
+}

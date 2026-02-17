@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong recent 7-day performance (+7.93%) but faces bear market headwinds and mixed fundamentals (CAKE TVL declining vs MKR growing). 14-day divergence suggests potential consolidation. Annualized 8% expected return reflects modest tailwinds from MKR fundamentals offset by CAKE weakness and macro regime. Medium confidence due to high volatility (50.6%) and conflicting signals between momentum and fundamentals.",
+  "raw_response": "Based on the provided market context and cluster metrics, let me analyze this DeFi token cluster forecast.\n\n## Analysis\n\n**Market Regime & Momentum:**\n- Overall market is in a bear regime with a strong downtrend\n- However, Cluster 2 shows strong recent performance: +8.68% (30-day), +7.93% (7-day)\n- The 14-day return of -2.74% suggests recent weakness despite positive 7-day performance\n- This indicates potential volatility and mean reversion signals\n\n**Protocol Fundamentals:**\n- CAKE (Pancakeswap DEX): TVL declining -7.4% (30-day) - concerning trend\n- MKR (Maker Lending): TVL growing +8.0% (30-day) - positive fundamentals\n- TVL-weighted average shows mixed signals with MKR outweighing CAKE's decline\n\n**Risk Metrics:**\n- High annualized volatility: 50.6% - typical for DeFi tokens\n- Sharpe ratio of 1.44 is respectable, indicating good risk-adjusted returns\n- Max drawdown of -13.4% shows significant downside risk recently\n\n**14-Day Forecast Considerations:**\n- Recent momentum (7-day vs 14-day) shows divergence: +7.93% vs -2.74%\n- This suggests potential consolidation or pullback after recent gains\n- Bear market regime headwinds could pressure returns despite cluster outperformance\n- CAKE's TVL decline is a red flag; MKR's growth provides some support\n\n**Forward-Looking Assessment:**\nGiven the bear market regime, mixed fundamentals, recent volatility, and the divergence between short-term momentum indicators, I expect:\n- Mean reversion from the recent 7-day rally\n- Continued volatility given the high annualized volatility of 50.6%\n- Modest negative to flat returns over 14 days, but with recovery potential\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.62, \"reasoning\": \"Cluster shows strong recent 7-day performance (+7.93%) but faces bear market headwinds and mixed fundamentals (CAKE TVL declining vs MKR growing). 14-day divergence suggests potential consolidation. Annualized 8% expected return reflects modest tailwinds from MKR fundamentals offset by CAKE weakness and macro regime. Medium confidence due to high volatility (50.6%) and conflicting signals between momentum and fundamentals.\"}\n```",
+  "date": "2025-12-25",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:59.495953+00:00"
+}

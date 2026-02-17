@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "OP (Optimism L2) faces headwinds from moderate bear market regime (-2.9% DeFi TVL decline) and severe recent drawdowns (-24.83% over 30d, -40.3% max). However, recent momentum shows deceleration (-5.63% over 7d vs -24.83% over 30d), suggesting potential stabilization. As an infrastructure/L2 token with no TVL dependency, OP's recovery depends on broader market sentiment and Ethereum adoption trends. The 97.9% annualized volatility and negative Sharpe ratio (-2.13) indicate elevated risk. Forecast assumes continued but moderating downside pressure over next 14 days, with confidence tempered by the volatile nature of L2 governance tokens and unpredictable macro conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"OP (Optimism L2) faces headwinds from moderate bear market regime (-2.9% DeFi TVL decline) and severe recent drawdowns (-24.83% over 30d, -40.3% max). However, recent momentum shows deceleration (-5.63% over 7d vs -24.83% over 30d), suggesting potential stabilization. As an infrastructure/L2 token with no TVL dependency, OP's recovery depends on broader market sentiment and Ethereum adoption trends. The 97.9% annualized volatility and negative Sharpe ratio (-2.13) indicate elevated risk. Forecast assumes continued but moderating downside pressure over next 14 days, with confidence tempered by the volatile nature of L2 governance tokens and unpredictable macro conditions.\"\n}\n```",
+  "date": "2022-10-06",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:05.159311+00:00"
+}

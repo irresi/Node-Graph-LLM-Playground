@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.45,
+  "reasoning": "DYDX shows positive momentum with +13.49% 7-day return and +1.89% 14-day return, suggesting recent recovery despite -8.93% 30-day decline. However, high volatility (65.9% annualized), negative Sharpe ratio (-1.14), and flat TVL (-0.5% 30d) indicate fundamental uncertainty. The bull market regime and DeFi TVL growth (+13.7%) provide tailwind, but the single-token cluster concentration and recent large drawdown (-22.1%) limit confidence. Annualized forecast reflects recent positive momentum but tempered by structural risk factors.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.45,\n  \"reasoning\": \"DYDX shows positive momentum with +13.49% 7-day return and +1.89% 14-day return, suggesting recent recovery despite -8.93% 30-day decline. However, high volatility (65.9% annualized), negative Sharpe ratio (-1.14), and flat TVL (-0.5% 30d) indicate fundamental uncertainty. The bull market regime and DeFi TVL growth (+13.7%) provide tailwind, but the single-token cluster concentration and recent large drawdown (-22.1%) limit confidence. Annualized forecast reflects recent positive momentum but tempered by structural risk factors.\"\n}\n```",
+  "date": "2024-05-22",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:08.313661+00:00"
+}

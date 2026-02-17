@@ -1,0 +1,23 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+23.69%) and positive TVL trends (especially AAVE +14.5%), supported by bull market regime. However, recent 7-day pullback (-3.99%) and elevated volatility (52.6%) suggest some mean reversion risk. The 14-day return (+9.04%) provides intermediate support. Forecast reflects continued outperformance relative to broader market but tempered by short-term consolidation, with moderate confidence due to high volatility and mixed recent momentum signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+23.69%) and positive TVL trends (especially AAVE +14.5%), supported by bull market regime. However, recent 7-day pullback (-3.99%) and elevated volatility (52.6%) suggest some mean reversion risk. The 14-day return (+9.04%) provides intermediate support. Forecast reflects continued outperformance relative to broader market but tempered by short-term consolidation, with moderate confidence due to high volatility and mixed recent momentum signals.\"\n}\n```",
+  "date": "2023-07-10",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:11.905027+00:00"
+}

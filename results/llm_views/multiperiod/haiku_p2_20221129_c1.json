@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster in severe bear market with -30.96% 30-day loss and -42.5% max drawdown. However, recent 7-day recovery (+8.85%) and positive 14-day return (-2.20% vs -30.96% monthly) suggest potential mean reversion. AAVE TVL decline (-34.2%) indicates continued protocol stress. High volatility (150.4% annualized) and negative Sharpe ratio (-1.73) warrant cautious outlook. Forecasting modest negative return for next 14 days as bear momentum likely persists, though recovery momentum provides upside optionality. Low confidence due to extreme market regime and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in severe bear market with -30.96% 30-day loss and -42.5% max drawdown. However, recent 7-day recovery (+8.85%) and positive 14-day return (-2.20% vs -30.96% monthly) suggest potential mean reversion. AAVE TVL decline (-34.2%) indicates continued protocol stress. High volatility (150.4% annualized) and negative Sharpe ratio (-1.73) warrant cautious outlook. Forecasting modest negative return for next 14 days as bear momentum likely persists, though recovery momentum provides upside optionality. Low confidence due to extreme market regime and high volatility.\"\n}\n```",
+  "date": "2022-11-29",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:37.458316+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows recent pullback (-8.32% over 7 days) after positive momentum, but moderate bull regime and 14-day outperformance (+5.52%) suggest potential recovery. MKR TVL decline (-11.6%) is concerning. Annualized forecast reflects mean reversion potential balanced against elevated volatility (37% annualized) and mixed protocol fundamentals. Moderate confidence due to conflicting signals.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected return over the next 14 days.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Cluster returned +5.39% over 30 days with a solid Sharpe ratio of 1.22\n- 14-day return (+5.52%) slightly exceeds 30-day return, showing recent momentum\n- Market regime is in \"Moderate Bull\" with positive trend\n- Overall DeFi TVL relatively stable (-0.9% decline is modest)\n- COMP showing strong growth (+3.9% TVL change)\n\n**Negative Indicators:**\n- Very recent 7-day return is -8.32%, showing significant pullback\n- Max drawdown of -8.0% indicates volatility and downside risk\n- MKR experiencing substantial TVL decline (-11.6%), concerning for a large position\n- SNX also showing negative TVL trends (-6.5%)\n- High annualized volatility of 37.0% creates uncertainty\n\n**Analysis:**\nThe cluster exhibits a classic pattern of recent momentum followed by a pullback. The 7-day decline of -8.32% after positive 14/30-day returns suggests profit-taking or temporary weakness. However, the moderate bull regime and positive longer-term trend are supportive.\n\nFor a 14-day forward forecast, I'll:\n1. Consider mean reversion potential from the recent -8.32% pullback\n2. Account for the structural TVL challenges in MKR and SNX\n3. Factor in the moderate bull regime as a tailwind\n4. Use the historical volatility to calibrate risk-adjusted returns\n\nThe annualized return would need to be converted from 14-day expectations. Given the mixed signals (recent weakness vs. moderate bull regime) and elevated volatility, I'm forecasting modest positive returns with moderate confidence.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Cluster shows recent pullback (-8.32% over 7 days) after positive momentum, but moderate bull regime and 14-day outperformance (+5.52%) suggest potential recovery. MKR TVL decline (-11.6%) is concerning. Annualized forecast reflects mean reversion potential balanced against elevated volatility (37% annualized) and mixed protocol fundamentals. Moderate confidence due to conflicting signals.\"}\n```",
+  "date": "2023-10-09",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:36.879037+00:00"
+}

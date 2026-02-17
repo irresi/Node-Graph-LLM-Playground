@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Recent -15% 7-day decline suggests potential mean reversion, but neutral market regime and infrastructure token sensitivity to sentiment provide limited bullish catalysts. High volatility (50% annualized) and absence of TVL fundamentals increase forecast uncertainty. Modest positive bias assumes partial stabilization from oversold levels.",
+  "raw_response": "Based on the market data provided for Cluster 3 (LINK, OP, ENS, GRT), let me analyze the key factors:\n\n**Analysis:**\n\n1. **Recent Momentum - Bearish Signal**: The cluster has experienced significant recent weakness:\n   - 7-day return: -15.18%\n   - 14-day return: -12.91%\n   - This contrasts with the positive 30-day return (+4.05%), suggesting strong recent downward pressure\n\n2. **Volatility & Risk**: \n   - Annualized volatility of 50% indicates high risk\n   - Max drawdown of -20.3% shows significant downside risk\n   - Sharpe ratio of 0.68 suggests modest risk-adjusted returns\n\n3. **Market Regime**: \n   - Overall DeFi TVL is stable (only -0.3% 30-day change)\n   - Market is in neutral/range-bound regime, not strongly bullish or bearish\n   - This suggests limited catalysts for strong directional moves\n\n4. **Cluster Composition**:\n   - Mix of oracle (LINK), L2 (OP), and infrastructure tokens (ENS, GRT)\n   - These infrastructure tokens tend to be momentum-dependent and sentiment-driven\n   - Limited fundamental TVL data available for analysis\n\n5. **Mean Reversion Consideration**:\n   - The sharp 7-14 day decline suggests potential for some stabilization\n   - However, no clear fundamental catalysts identified to support recovery\n\n**Forecast Rationale**:\nGiven the recent sharp decline, neutral market regime, and high volatility, I expect modest recovery/stabilization over the next 14 days with low confidence due to the uncertain macro environment and lack of strong catalysts.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Recent -15% 7-day decline suggests potential mean reversion, but neutral market regime and infrastructure token sensitivity to sentiment provide limited bullish catalysts. High volatility (50% annualized) and absence of TVL fundamentals increase forecast uncertainty. Modest positive bias assumes partial stabilization from oversold levels.\"}\n```",
+  "date": "2022-12-21",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:23.671605+00:00"
+}

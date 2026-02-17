@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 3 is in a severe bear market with -28% 14-day drawdown and -20.16% 30-day decline. Strong downtrend momentum (7d: -18.04%) combined with declining TVL across all protocols (CRV -36.4%, COMP -23.9%) suggests continued weakness. High volatility (88.5% annualized) and negative Sharpe ratio (-1.91) indicate risk-reward imbalance. However, DeFi bear markets typically see stabilization after 2-4 weeks of decline, so complete collapse is unlikely. Forecasting -85% annualized return (approximately -3.3% over 14 days) reflects sustained downward pressure with slight stabilization. Confidence at 0.72 reflects high uncertainty in bear regimes and potential for mean reversion.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 3 is in a severe bear market with -28% 14-day drawdown and -20.16% 30-day decline. Strong downtrend momentum (7d: -18.04%) combined with declining TVL across all protocols (CRV -36.4%, COMP -23.9%) suggests continued weakness. High volatility (88.5% annualized) and negative Sharpe ratio (-1.91) indicate risk-reward imbalance. However, DeFi bear markets typically see stabilization after 2-4 weeks of decline, so complete collapse is unlikely. Forecasting -85% annualized return (approximately -3.3% over 14 days) reflects sustained downward pressure with slight stabilization. Confidence at 0.72 reflects high uncertainty in bear regimes and potential for mean reversion.\"\n}\n```",
+  "date": "2022-11-15",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:25.037172+00:00"
+}

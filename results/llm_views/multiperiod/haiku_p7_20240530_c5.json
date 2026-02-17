@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime with strong TVL growth (AAVE +27.4%, UNI +16.4%) supports continued gains. Recent 14-day momentum (+16.44%) provides bullish signal. However, recent 7-day deceleration (+5.25%) suggests mean reversion, and high volatility (64.1%) with -11% max drawdown indicate correction risk. Expect moderate 2-3% 14-day return (0.45 annualized) with moderate confidence, accounting for momentum fading and valuation extension.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Strong Recent Momentum**: The cluster shows exceptional recent performance with 14-day returns of +16.44% and 7-day returns of +5.25%, indicating strong upward momentum.\n\n2. **Bull Market Regime**: The overall DeFi market is in a bull regime with +22.3% TVL growth over 30 days, providing tailwinds for the cluster.\n\n3. **Healthy Risk-Adjusted Returns**: The Sharpe ratio of 1.51 indicates solid risk-adjusted performance, with volatility of 64.1% annualized\u2014reasonable for this category.\n\n4. **TVL Strength**: Major holdings show strong TVL growth:\n   - AAVE: +27.4% (largest position at $12.89B)\n   - UNI: +16.4% ($6.25B TVL)\n   - BAL: +14.3% ($1.16B TVL)\n   - CRV and CAKE showing more modest growth\n\n5. **Momentum Signal**: The progression from 30-day (+11.52%) to 14-day (+16.44%) to 7-day (+5.25%) returns shows accelerating momentum, though the recent 7-day cooldown suggests potential mean reversion.\n\n6. **Risk Factors**:\n   - High volatility (64.1%) suggests potential pullback risk\n   - Max drawdown of -11% indicates recent corrections are normal\n   - Cluster is already up significantly, reducing upside potential in near-term\n\n**14-Day Forward Forecast Rationale:**\n\nGiven the strong bull market, positive TVL trends (especially AAVE's 27.4% growth), and recent momentum, but accounting for the already-high recent returns and volatility, I estimate a continuation of positive but moderating performance.\n\nAnnualizing the expected 14-day return: The 7-day return (+5.25%) annualizes to ~387% if sustained, but this is unsustainable. More realistically, with momentum moderating, I expect 2-3% over 14 days, which annualizes to ~40-50%.\n\n```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bull market regime with strong TVL growth (AAVE +27.4%, UNI +16.4%) supports continued gains. Recent 14-day momentum (+16.44%) provides bullish signal. However, recent 7-day deceleration (+5.25%) suggests mean reversion, and high volatility (64.1%) with -11% max drawdown indicate correction risk. Expect moderate 2-3% 14-day return (0.45 annualized) with moderate confidence, accounting for momentum fading and valuation extension.\"\n}\n```",
+  "date": "2024-05-30",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:59.633013+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster in severe bear regime with -24.14% 30-day loss and deteriorating TVL across all holdings (avg -14.1% 30d change). Recent momentum remains negative (-5.92% 7d, -5.64% 14d), suggesting downtrend continuation. High volatility (54.2% annualized) and negative Sharpe ratio (-3.74) indicate poor risk-adjusted returns. DeFi-wide TVL declining -10.2% validates broader market weakness. Yield/DEX/Lending protocols particularly vulnerable in downturns. 14-day forward forecast reflects likely continuation of recent momentum with modest bounce potential from oversold conditions, but weighted heavily toward further downside given macro headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster in severe bear regime with -24.14% 30-day loss and deteriorating TVL across all holdings (avg -14.1% 30d change). Recent momentum remains negative (-5.92% 7d, -5.64% 14d), suggesting downtrend continuation. High volatility (54.2% annualized) and negative Sharpe ratio (-3.74) indicate poor risk-adjusted returns. DeFi-wide TVL declining -10.2% validates broader market weakness. Yield/DEX/Lending protocols particularly vulnerable in downturns. 14-day forward forecast reflects likely continuation of recent momentum with modest bounce potential from oversold conditions, but weighted heavily toward further downside given macro headwinds.\"\n}\n```",
+  "date": "2024-06-27",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:46.905776+00:00"
+}

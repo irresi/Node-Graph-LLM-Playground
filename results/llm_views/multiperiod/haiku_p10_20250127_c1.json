@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with accelerating 7-day momentum (-12.1%) suggests continued downside pressure. CRV/CVX TVL declines dominate, though MKR's +8.3% TVL growth provides modest resilience. High volatility (72.3%) and negative Sharpe (-4.34) indicate elevated risk. 14-day forecast: continued decline with modest mean reversion potential. Moderate confidence due to extreme market volatility and mixed protocol fundamentals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\n## Analysis:\n\n**Market Context:**\n- Strong bear market regime with -1.1% TVL decline across DeFi\n- Cluster has experienced severe recent losses: -37.36% (30d), -17.72% (14d), -12.10% (7d)\n- High volatility (72.3% annualized) with negative Sharpe ratio (-4.34)\n\n**Cluster Composition Analysis:**\n- **CRV (Curve)**: Yield/DEX focused, -10.5% TVL change, largest loss driver\n- **MKR (Maker)**: Lending protocol, +8.3% TVL change (relatively resilient, actually growing)\n- **CVX (Convex)**: Yield optimization, -2.4% TVL change (moderate decline)\n\n**Key Observations:**\n1. **Momentum Risk**: The cluster shows accelerating downward momentum (7d decline worse than 30d decline relative to timeframe)\n2. **Mixed Fundamentals**: MKR shows TVL growth despite market headwinds, suggesting differentiated performance\n3. **Volatility & Drawdowns**: 72.3% annualized volatility with -34% max drawdown indicates severe risk\n4. **Market Regime**: Bear market typically continues with higher probability near-term\n5. **Short-term Outlook**: Technical momentum and market sentiment suggest continued pressure\n\n**Forecast Logic:**\nGiven the strong bear market regime, recent momentum deterioration, and technical weakness, the cluster likely faces continued headwinds. However, we may see some mean reversion or capitulation bounce. The presence of MKR's TVL resilience provides slight ballast.\n\n**14-Day Annualized Return Calculation:**\nExpected 14-day return: -8% to -12% (midpoint: -10%)\nAnnualized: -10% \u00d7 (365/14) \u2248 -260% (equivalent annualized rate)\n\nHowever, expressed as the forward-looking annualized rate that might be sustained: approximately -0.85 to -0.95 (accounting for some stabilization probability).\n\n```json\n{\"expected_return\": -0.72, \"confidence\": 0.55, \"reasoning\": \"Bear market regime with accelerating 7-day momentum (-12.1%) suggests continued downside pressure. CRV/CVX TVL declines dominate, though MKR's +8.3% TVL growth provides modest resilience. High volatility (72.3%) and negative Sharpe (-4.34) indicate elevated risk. 14-day forecast: continued decline with modest mean reversion potential. Moderate confidence due to extreme market volatility and mixed protocol fundamentals.\"}\n```",
+  "date": "2025-01-27",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:41.163083+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.58,
+  "reasoning": "Positive momentum from sustained TVL growth (+9-17%) and bull market regime support near-term gains. However, high annualized volatility (67.7%) and recent drawdown experience limit confidence. Expected 14-day return of ~7% annualizes to 0.42 considering mean reversion. Moderate confidence reflects both bullish fundamentals and elevated risk.",
+  "raw_response": "Based on the provided market context and cluster data, here's my analysis:\n\n**Key Observations:**\n1. **Positive Momentum**: The cluster shows consistent positive returns across timeframes (7d: +5.20%, 14d: +4.04%, 30d: +5.13%), indicating sustained upward momentum\n2. **Strong TVL Growth**: Both protocols show robust TVL increases (CAKE: +9.2%, BAL: +17.0% over 30 days), indicating genuine protocol adoption and user engagement\n3. **Bull Market Regime**: The +22% TVL increase across DeFi and moderate bull classification provides favorable macro conditions\n4. **Risk Metrics**: Sharpe ratio of 0.64 suggests reasonable risk-adjusted returns, though annualized volatility of 67.7% is substantial\n5. **Recent Acceleration**: The 7-day return (+5.20%) exceeds the 30-day average, suggesting momentum may be accelerating\n\n**Forecast Considerations:**\n- The 14-day return of +4.04% annualizes to approximately **105%** if sustained, but this is unrealistic over extended periods\n- Accounting for mean reversion and volatility clustering, I expect moderation from current trajectory\n- The bull market regime and TVL growth support continuation of positive returns in the near term\n- However, the high volatility and recent drawdown experience (-16.4% max) suggest downside risk cannot be ignored\n\n**Confidence Level:**\nModerate confidence due to: positive momentum and fundamentals (bullish), but offset by high volatility and uncertain sustainability of current returns (risk factors)\n\n```json\n{\"expected_return\": 0.42, \"confidence\": 0.58, \"reasoning\": \"Positive momentum from sustained TVL growth (+9-17%) and bull market regime support near-term gains. However, high annualized volatility (67.7%) and recent drawdown experience limit confidence. Expected 14-day return of ~7% annualizes to 0.42 considering mean reversion. Moderate confidence reflects both bullish fundamentals and elevated risk.\"}\n```",
+  "date": "2025-08-23",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:08.557413+00:00"
+}

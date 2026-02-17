@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.55,
+  "reasoning": "OP shows strong recent momentum with +40.04% 14-day return and positive market regime (Moderate Bull), but the -4.01% 7-day pullback suggests potential consolidation or profit-taking. High volatility (87.9% annualized) and recent max drawdown of -21.8% indicate elevated risk. The strong Sharpe ratio (1.62) is positive, but L2 tokens are sensitive to macro conditions and competitive dynamics. Forecasting moderate positive returns (35% annualized = ~1.7% over 14 days) with below-average confidence due to high uncertainty and recent divergence between 7-day and 14-day returns.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"OP shows strong recent momentum with +40.04% 14-day return and positive market regime (Moderate Bull), but the -4.01% 7-day pullback suggests potential consolidation or profit-taking. High volatility (87.9% annualized) and recent max drawdown of -21.8% indicate elevated risk. The strong Sharpe ratio (1.62) is positive, but L2 tokens are sensitive to macro conditions and competitive dynamics. Forecasting moderate positive returns (35% annualized = ~1.7% over 14 days) with below-average confidence due to high uncertainty and recent divergence between 7-day and 14-day returns.\"\n}\n```",
+  "date": "2022-11-03",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:44.784573+00:00"
+}

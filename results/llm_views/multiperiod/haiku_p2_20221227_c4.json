@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with strong downtrend (-12.23% over 14 days, -7.98% over 30 days). Recent 7-day bounce (+3.51%) suggests short-term oversold conditions, but negative Sharpe ratio (-1.42) and 21.9% max drawdown indicate structural weakness. Cluster volatility (47.2% annualized) is elevated. Oracle/infrastructure tokens (LINK, OP, ENS) typically face headwinds in prolonged bear markets despite utility value. Lack of TVL data for OP and ENS limits fundamental support. Modest confidence due to extreme volatility and the unpredictable nature of crypto bear market recoveries vs. continuations. Expecting continued downside but possibly less severe than recent 14-day decline.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear market regime with strong downtrend (-12.23% over 14 days, -7.98% over 30 days). Recent 7-day bounce (+3.51%) suggests short-term oversold conditions, but negative Sharpe ratio (-1.42) and 21.9% max drawdown indicate structural weakness. Cluster volatility (47.2% annualized) is elevated. Oracle/infrastructure tokens (LINK, OP, ENS) typically face headwinds in prolonged bear markets despite utility value. Lack of TVL data for OP and ENS limits fundamental support. Modest confidence due to extreme volatility and the unpredictable nature of crypto bear market recoveries vs. continuations. Expecting continued downside but possibly less severe than recent 14-day decline.\"\n}\n```",
+  "date": "2022-12-27",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:50.970066+00:00"
+}

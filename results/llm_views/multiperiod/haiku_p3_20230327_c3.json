@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.45,
+  "reasoning": "ARB (Arbitrum L2 token) faces headwinds from bear market regime and consistent negative momentum (-4.58% over 7/14/30 days). However, as infrastructure/L2 token with no TVL dependency, it has different dynamics than DeFi protocols. The high volatility (21.3% annualized) and negative Sharpe ratio (-1.81) suggest further downside risk in near term. Over 14 days, annualizing the recent -4.58% trend yields approximately -35% annual equivalent, though mean reversion and potential capitulation in bear markets could alter this trajectory. Low confidence reflects uncertainty in L2 token direction amid macro headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.45,\n  \"reasoning\": \"ARB (Arbitrum L2 token) faces headwinds from bear market regime and consistent negative momentum (-4.58% over 7/14/30 days). However, as infrastructure/L2 token with no TVL dependency, it has different dynamics than DeFi protocols. The high volatility (21.3% annualized) and negative Sharpe ratio (-1.81) suggest further downside risk in near term. Over 14 days, annualizing the recent -4.58% trend yields approximately -35% annual equivalent, though mean reversion and potential capitulation in bear markets could alter this trajectory. Low confidence reflects uncertainty in L2 token direction amid macro headwinds.\"\n}\n```",
+  "date": "2023-03-27",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:04.177354+00:00"
+}

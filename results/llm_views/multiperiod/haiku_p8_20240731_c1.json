@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with negative 14-day momentum (-5.38%) and high volatility (63% annualized) suggests continued headwinds. The deceleration in losses provides modest confidence that the decline is moderating rather than accelerating. Annualizing the recent 14-day trend (-5.38% \u00f7 26 periods \u2248 -18%) reflects the expected near-term trajectory. Confidence is moderate due to macro uncertainty and the possibility of market sentiment shifts in volatile conditions.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 1 to forecast its expected 14-day annualized return.\n\n**Analysis:**\n\n1. **Market Regime**: The market is in a bear regime with overall DeFi TVL declining -2.5% over 30 days. This is a headwind for all assets in the cluster.\n\n2. **Recent Momentum**: \n   - 30-day return: -12.21%\n   - 14-day return: -5.38%\n   - 7-day return: -5.41%\n   - The deceleration from -12.21% (30d) to -5.38% (14d) suggests some stabilization, but recent momentum remains negative\n\n3. **Volatility Profile**: \n   - Annualized volatility: 63.0% (very high)\n   - Sharpe ratio: -1.63 (negative returns with high volatility)\n   - Max drawdown: -18.9% (significant downside risk)\n\n4. **Protocol Fundamentals**:\n   - Mixed TVL trends: CRV +3.6%, but others declining (UNI -4.3%, SUSHI -9.9%, BAL -10.2%)\n   - The cluster includes major protocols (UNI at $5.5B TVL) but shows overall weakness\n   - Infrastructure/DEX tokens are particularly affected in bear markets\n\n5. **Forward-Looking Assessment**:\n   - The deceleration in losses (7d and 14d less negative than 30d) suggests the downtrend may be moderating\n   - However, with negative momentum, high volatility, and bear market conditions, recovery is unlikely in the next 14 days\n   - Expected range: continued modest decline to stabilization\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.62, \"reasoning\": \"Bear market regime with negative 14-day momentum (-5.38%) and high volatility (63% annualized) suggests continued headwinds. The deceleration in losses provides modest confidence that the decline is moderating rather than accelerating. Annualizing the recent 14-day trend (-5.38% \u00f7 26 periods \u2248 -18%) reflects the expected near-term trajectory. Confidence is moderate due to macro uncertainty and the possibility of market sentiment shifts in volatile conditions.\"}\n```",
+  "date": "2024-07-31",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:28.345136+00:00"
+}

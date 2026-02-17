@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.3,
+  "confidence": 0.55,
+  "reasoning": "Bull market regime with positive protocol fundamentals (TVL growth, momentum) supports continued upside. 7-day return of +2.99% suggests acceleration, but high volatility (49.6%) and low Sharpe ratio (0.12) introduce uncertainty. Conservative estimate of 30% annualized return over 14 days, with moderate confidence reflecting volatility and potential momentum normalization.",
+  "raw_response": "Based on the provided market context and cluster metrics, I'll analyze the key factors to forecast the expected return for Cluster 6 over the next 14 days.\n\n## Analysis\n\n**Positive Indicators:**\n- Bull market regime with strong uptrend\n- Overall DeFi TVL growth of +12.4% (30-day)\n- Strong recent momentum: +2.99% (7-day), +2.42% (14-day)\n- Solid TVL growth across all tokens, especially LDO (+15.9%) and RPL (+14.3%)\n- Large TVL base ($33.3B combined), indicating stability and liquidity\n\n**Risk Factors:**\n- Low Sharpe ratio (0.12) indicates returns haven't adequately compensated for volatility\n- High volatility (49.6% annualized) introduces significant uncertainty\n- Recent 30-day return (+0.73%) has decelerated compared to 14-day/7-day returns\n- Significant max drawdown (-13.1%) shows recent pullback risk\n- Momentum may be normalizing after strong 7-day performance\n\n**Forecast Rationale:**\nThe cluster shows positive momentum in a bull market with solid protocol fundamentals. The 7-day return of +2.99% is notably stronger than the 30-day return of +0.73%, suggesting acceleration. However, the low Sharpe ratio and high volatility warrant caution. For a 14-day forecast, I expect momentum to persist but partially normalize from the exceptional 7-day performance.\n\nAnnualizing the recent 14-day return (+2.42%) would yield ~63% annualized, but this is likely unsustainable. A more conservative estimate accounting for volatility mean reversion suggests 25-35% annualized return over the next 14 days.\n\n```json\n{\"expected_return\": 0.30, \"confidence\": 0.55, \"reasoning\": \"Bull market regime with positive protocol fundamentals (TVL growth, momentum) supports continued upside. 7-day return of +2.99% suggests acceleration, but high volatility (49.6%) and low Sharpe ratio (0.12) introduce uncertainty. Conservative estimate of 30% annualized return over 14 days, with moderate confidence reflecting volatility and potential momentum normalization.\"}\n```",
+  "date": "2023-12-09",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:43.255030+00:00"
+}

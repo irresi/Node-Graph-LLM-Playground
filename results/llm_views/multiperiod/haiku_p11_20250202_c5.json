@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.42,
+  "reasoning": "Cluster 5 faces significant headwinds: bear market regime with -9.8% TVL decline, persistent negative momentum (-15.09% over 30d, -8.82% over 7d), and high volatility (65.4% annualized). While AAVE shows relative stability (-1.3% TVL change) as a market leader, BAL's -11.3% TVL decline signals weakness in the DEX category. The negative Sharpe ratio (-1.94) and -17.4% max drawdown indicate poor risk-adjusted returns. Near-term continuation of downtrend is likely given the strong bear regime, though oversold conditions and potential mean reversion limit confidence. Low confidence reflects high uncertainty in short-term DeFi market directions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 5 faces significant headwinds: bear market regime with -9.8% TVL decline, persistent negative momentum (-15.09% over 30d, -8.82% over 7d), and high volatility (65.4% annualized). While AAVE shows relative stability (-1.3% TVL change) as a market leader, BAL's -11.3% TVL decline signals weakness in the DEX category. The negative Sharpe ratio (-1.94) and -17.4% max drawdown indicate poor risk-adjusted returns. Near-term continuation of downtrend is likely given the strong bear regime, though oversold conditions and potential mean reversion limit confidence. Low confidence reflects high uncertainty in short-term DeFi market directions.\"\n}\n```",
+  "date": "2025-02-02",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:48.537336+00:00"
+}

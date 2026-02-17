@@ -1,0 +1,24 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Strong bear market regime with -45% TVL decline and -74.74% 30-day cluster returns indicate severe downside pressure. Recent 14-day return of -56.70% shows continued momentum losses. However, extreme drawdowns (-52.9% max) and severely depressed valuations suggest potential oversold conditions. The cluster's high volatility (84.4% annualized) creates asymmetric risk. Low confidence reflects uncertainty in bear market timing and potential capitulation bounce, offset by deteriorating fundamentals across lending, DEX, and yield protocols. Forecast assumes continued weakness with modest stabilization as panic selling exhausts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Strong bear market regime with -45% TVL decline and -74.74% 30-day cluster returns indicate severe downside pressure. Recent 14-day return of -56.70% shows continued momentum losses. However, extreme drawdowns (-52.9% max) and severely depressed valuations suggest potential oversold conditions. The cluster's high volatility (84.4% annualized) creates asymmetric risk. Low confidence reflects uncertainty in bear market timing and potential capitulation bounce, offset by deteriorating fundamentals across lending, DEX, and yield protocols. Forecast assumes continued weakness with modest stabilization as panic selling exhausts.\"\n}\n```",
+  "date": "2022-05-19",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:17:55.532676+00:00"
+}

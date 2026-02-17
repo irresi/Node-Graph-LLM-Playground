@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Recent 14-day positive momentum (+9.72%) suggests continued recovery from oversold conditions despite bear market regime. However, weak fundamentals, negative 30-day performance, high volatility (74%), and lack of TVL growth limit confidence. Infrastructure tokens are sentiment-driven; expect continued but potentially volatile upside with 18% annualized return over next 14 days.",
+  "raw_response": "Based on the market context and cluster data provided, let me analyze the key factors:\n\n**Key Analysis Points:**\n\n1. **Market Regime**: Bear market with strong downtrend - generally negative for risk assets\n2. **Cluster Performance**: \n   - 30-day return: -4.17% (negative)\n   - 14-day return: +9.72% (positive, showing recent momentum)\n   - 7-day return: -0.68% (slightly negative)\n3. **Volatility**: 74% annualized - very high, indicating significant risk\n4. **Sharpe Ratio**: -0.47 - negative risk-adjusted returns\n5. **Recent Momentum**: Positive 14-day return suggests some recovery after recent selloff, but this conflicts with the bear market regime\n\n**Forecast Reasoning:**\n\nThe cluster shows conflicting signals:\n- **Bearish factors**: Overall market in bear regime, negative 30-day performance, negative Sharpe ratio, high volatility\n- **Bullish factors**: Strong 14-day bounce (+9.72%), modest DeFi TVL growth (+3.9%), potential oversold conditions after -29.8% max drawdown\n\nThe positive 14-day momentum suggests a potential mean reversion or recovery bounce, but the bear market regime and weak fundamentals (no TVL for most tokens, LINK TVL unchanged) suggest this could be temporary. Given the infrastructure/L2 token composition, these are sentiment-driven rather than fundamental-driven assets.\n\nFor the next 14 days, I expect modest positive returns as momentum continues from the recent bounce, but with high uncertainty given the bear market context.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Recent 14-day positive momentum (+9.72%) suggests continued recovery from oversold conditions despite bear market regime. However, weak fundamentals, negative 30-day performance, high volatility (74%), and lack of TVL growth limit confidence. Infrastructure tokens are sentiment-driven; expect continued but potentially volatile upside with 18% annualized return over next 14 days.\"}\n```",
+  "date": "2025-07-06",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:21.758267+00:00"
+}

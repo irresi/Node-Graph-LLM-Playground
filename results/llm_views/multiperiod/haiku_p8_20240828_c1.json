@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with -22% TVL decline and -17.91% 30-day cluster loss. However, 14-day return of +0.05% suggests potential stabilization after severe 7-day drawdown (-4.26%). Negative Sharpe ratio (-2.50) and high volatility (60.1%) indicate risk, but cluster composition includes resilient protocols (UNI, AAVE, LINK). Expect continued downside pressure with limited recovery catalysts in near-term, but less severe than recent losses. 14-day forecast annualized to -35% reflects cautious outlook with moderate confidence due to potential mean reversion in oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bear market regime with -22% TVL decline and -17.91% 30-day cluster loss. However, 14-day return of +0.05% suggests potential stabilization after severe 7-day drawdown (-4.26%). Negative Sharpe ratio (-2.50) and high volatility (60.1%) indicate risk, but cluster composition includes resilient protocols (UNI, AAVE, LINK). Expect continued downside pressure with limited recovery catalysts in near-term, but less severe than recent losses. 14-day forecast annualized to -35% reflects cautious outlook with moderate confidence due to potential mean reversion in oversold conditions.\"\n}\n```",
+  "date": "2024-08-28",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:00.283504+00:00"
+}

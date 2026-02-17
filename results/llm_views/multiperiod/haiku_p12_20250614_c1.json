@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong recent momentum (+4.95% 7-day, +5.20% 14-day) suggesting potential reversal from bear regime. However, high volatility (65.2%), negative 30-day returns (-2.69%), low Sharpe ratio (-0.35), and significant max drawdown (-16.0%) indicate elevated risk. DEX sector faces headwinds in current bear market. CAKE TVL declining (-2.2%) while BAL stable (+2.8%). Annualizing recent 14-day gain (+5.20%) yields ~0.18 return, but confidence is low due to regime uncertainty and mean-reversion risk. Position favors tactical recovery bounce rather than sustained upside.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong recent momentum (+4.95% 7-day, +5.20% 14-day) suggesting potential reversal from bear regime. However, high volatility (65.2%), negative 30-day returns (-2.69%), low Sharpe ratio (-0.35), and significant max drawdown (-16.0%) indicate elevated risk. DEX sector faces headwinds in current bear market. CAKE TVL declining (-2.2%) while BAL stable (+2.8%). Annualizing recent 14-day gain (+5.20%) yields ~0.18 return, but confidence is low due to regime uncertainty and mean-reversion risk. Position favors tactical recovery bounce rather than sustained upside.\"\n}\n```",
+  "date": "2025-06-14",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:03.283611+00:00"
+}

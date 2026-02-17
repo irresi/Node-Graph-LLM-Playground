@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market regime with -34.73% 30-day decline and negative Sharpe ratio (-3.37). However, recent 7-day rebound (+3.49%) suggests potential mean reversion over 14-day horizon. TVL declines across major protocols (-14% to -21%) indicate fundamental weakness, limiting upside. Annualized forecast reflects modest recovery probability (0.62 confidence) with bearish near-term bias given continued market stress and elevated volatility (86.7% annualized).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with -34.73% 30-day decline and negative Sharpe ratio (-3.37). However, recent 7-day rebound (+3.49%) suggests potential mean reversion over 14-day horizon. TVL declines across major protocols (-14% to -21%) indicate fundamental weakness, limiting upside. Annualized forecast reflects modest recovery probability (0.62 confidence) with bearish near-term bias given continued market stress and elevated volatility (86.7% annualized).\"\n}\n```",
+  "date": "2024-05-08",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:47.693537+00:00"
+}

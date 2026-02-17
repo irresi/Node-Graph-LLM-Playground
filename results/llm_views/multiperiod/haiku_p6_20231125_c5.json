@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "The cluster shows strong recent momentum (67.87% over 30d, 9.80% over 14d) with a bull market regime and excellent Sharpe ratio (4.15). However, annualized projections from short-term momentum are inherently uncertain. The 14d return of 9.80% annualizes to ~259%, suggesting mean reversion is likely. Conservative estimate: 42% annualized return accounts for deceleration from recent exceptional performance while acknowledging positive fundamentals (growing TVL, bull sentiment). Moderate confidence reflects momentum sustainability risks and crypto volatility.",
+  "raw_response": "Based on the provided market data for Cluster 5 (SUSHI, CAKE), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"The cluster shows strong recent momentum (67.87% over 30d, 9.80% over 14d) with a bull market regime and excellent Sharpe ratio (4.15). However, annualized projections from short-term momentum are inherently uncertain. The 14d return of 9.80% annualizes to ~259%, suggesting mean reversion is likely. Conservative estimate: 42% annualized return accounts for deceleration from recent exceptional performance while acknowledging positive fundamentals (growing TVL, bull sentiment). Moderate confidence reflects momentum sustainability risks and crypto volatility.\"\n}\n```\n\n**Key Considerations:**\n- **Positive factors**: Bull market regime, strong 30-day TVL growth (+14.6% SUSHI, +2.7% CAKE), exceptional Sharpe ratio indicating risk-adjusted outperformance\n- **Risk factors**: Extreme volatility (137.3% annualized), recent performance may revert to mean, only 2 tokens in cluster (concentration risk)\n- **Approach**: Rather than mechanically annualizing the 14-day return, I've weighted the momentum positively but applied a conservative discount for expected mean reversion in crypto markets",
+  "date": "2023-11-25",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:07.802468+00:00"
+}

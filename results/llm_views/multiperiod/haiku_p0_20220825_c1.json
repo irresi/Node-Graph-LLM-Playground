@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows strong fundamentals and moderate bull regime, but faces headwinds from recent 14-day correction (-15.88%). Expect partial recovery from oversold conditions over next 14 days, but momentum remains fragile. High volatility (56% annualized) and mixed recent trends reduce confidence in directional forecast.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Overall DeFi market in moderate bull regime (+7.8% TVL growth)\n- Strong 30-day cluster performance (+23.65%)\n- Excellent Sharpe ratio (3.55) indicates good risk-adjusted returns\n- Several protocols showing solid TVL growth (GMX +30.4%, RPL +17.8%, CAKE +7.1%)\n- Diverse, high-quality tokens (infrastructure, DEX, derivatives, oracle, staking)\n\n**Negative Indicators:**\n- Recent momentum is deteriorating significantly\n- 7-day return: -3.51% (reversal from 30-day gains)\n- 14-day return: -15.88% (strong pullback)\n- Max drawdown of -23.6% shows volatility\n- High annualized volatility (56%) creates unpredictability\n\n**Analysis:**\nThe cluster shows a classic pattern of post-rally consolidation/correction. The 30-day return of +23.65% appears to have peaked, followed by a 14-day pullback of -15.88%. The 7-day deterioration suggests potential continued weakness or stabilization.\n\nGiven:\n- We're in a \"moderate bull\" regime (supportive)\n- The recent 14-day trend is strongly negative (-15.88%)\n- The cluster has likely experienced profit-taking\n- High volatility (56% annualized) makes predictions uncertain\n- 14-day lookback shows the correction is substantial\n\n**Forecast Logic:**\nAnnualizing the 14-day return of -15.88% gives us approximately -412% annualized, which is clearly unsustainable. However, the cluster is unlikely to continue falling at this pace. Given the moderate bull regime and strong fundamentals, I expect partial mean reversion with modest positive returns, tempered by the recent negative momentum.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows strong fundamentals and moderate bull regime, but faces headwinds from recent 14-day correction (-15.88%). Expect partial recovery from oversold conditions over next 14 days, but momentum remains fragile. High volatility (56% annualized) and mixed recent trends reduce confidence in directional forecast.\"\n}\n```",
+  "date": "2022-08-25",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:01.984673+00:00"
+}

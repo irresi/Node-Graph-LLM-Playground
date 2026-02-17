@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -27.73% 30-day loss and -3.86% 7-day decline. Strong downtrend momentum, elevated volatility (72.8%), and negative Sharpe ratio (-3.20) suggest continued weakness. DeFi TVL down 9.6% signals sector-wide headwinds. However, infrastructure tokens (OP, ARB) may stabilize near support levels, preventing steeper declines. Confidence moderated by potential capitulation bottom and mean-reversion dynamics in highly volatile assets. Annualized -45% reflects expected 14-day loss of ~1.7% scaled to annual timeframe.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -27.73% 30-day loss and -3.86% 7-day decline. Strong downtrend momentum, elevated volatility (72.8%), and negative Sharpe ratio (-3.20) suggest continued weakness. DeFi TVL down 9.6% signals sector-wide headwinds. However, infrastructure tokens (OP, ARB) may stabilize near support levels, preventing steeper declines. Confidence moderated by potential capitulation bottom and mean-reversion dynamics in highly volatile assets. Annualized -45% reflects expected 14-day loss of ~1.7% scaled to annual timeframe.\"\n}\n```",
+  "date": "2024-07-11",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:55.693289+00:00"
+}

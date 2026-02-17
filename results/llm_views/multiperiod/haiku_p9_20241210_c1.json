@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong recent momentum (+63.27% in 30d, +31.28% in 14d) with exceptional Sharpe ratio (3.82) in moderate bull regime. However, annualization of recent 14-day returns (+31.28%) suggests elevated expectations. High volatility (139.2%) and recent max drawdown (-21.4%) indicate mean reversion risk. CVX's strong TVL growth (+41.9%) supports optimism, but the cluster's strong recent outperformance suggests some reversion toward market averages. Confidence moderate due to momentum persistence vs. volatility normalization tension.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong recent momentum (+63.27% in 30d, +31.28% in 14d) with exceptional Sharpe ratio (3.82) in moderate bull regime. However, annualization of recent 14-day returns (+31.28%) suggests elevated expectations. High volatility (139.2%) and recent max drawdown (-21.4%) indicate mean reversion risk. CVX's strong TVL growth (+41.9%) supports optimism, but the cluster's strong recent outperformance suggests some reversion toward market averages. Confidence moderate due to momentum persistence vs. volatility normalization tension.\"\n}\n```",
+  "date": "2024-12-10",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:32.888371+00:00"
+}

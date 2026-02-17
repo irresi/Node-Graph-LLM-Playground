@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.52,
+  "reasoning": "Cluster faces bear market headwinds with accelerating 7-day momentum (-6.16% vs -4.74% 14d). Mixed protocol fundamentals (BAL +3%, SUSHI flat) insufficient to reverse trend. High volatility (64.3%) and negative Sharpe (-1.08) suggest continued weakness over 14 days. Annualized -28% reflects near-term downward pressure, but moderate confidence due to bear market volatility and potential recovery catalysts.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bear market regime with -3.5% DeFi TVL decline\n- Cluster significantly underperforming with -8.25% over 30 days\n- High volatility (64.3% annualized) and negative Sharpe ratio (-1.08)\n- Maximum drawdown of -19.3% indicates severe downside moves\n\n**Momentum Signals:**\n- 7-day return (-6.16%) is worse than 14-day (-4.74%) and 30-day (-8.25%) returns\n- This suggests acceleration of downward momentum in the most recent period\n- Negative momentum typically continues in bear markets without catalysts\n\n**Protocol Fundamentals:**\n- Mixed TVL dynamics: BAL (+3.0%) and CAKE (+1.1%) showing resilience\n- SUSHI flat (+0.1%) and SNX declining (-1.6%)\n- Overall TVL-weighted position is slightly positive, but insufficient to offset market headwinds\n- DEX and derivatives tokens particularly vulnerable in bear markets due to lower trading volume\n\n**14-Day Forecast Considerations:**\n- Recent 7-day momentum is negative and accelerating\n- Bear market regime typically continues unless significant positive catalyst emerges\n- Historical 14-day returns (-4.74%) suggest continued pressure\n- High volatility allows for both upside surprises and further downside\n\n**Expected Return Calculation:**\nGiven the accelerating negative momentum, bear market regime, and lack of positive catalysts, I expect continued weakness. However, 14-day forecasts are less certain than longer-term trends.\n\n```json\n{\"expected_return\": -0.28, \"confidence\": 0.52, \"reasoning\": \"Cluster faces bear market headwinds with accelerating 7-day momentum (-6.16% vs -4.74% 14d). Mixed protocol fundamentals (BAL +3%, SUSHI flat) insufficient to reverse trend. High volatility (64.3%) and negative Sharpe (-1.08) suggest continued weakness over 14 days. Annualized -28% reflects near-term downward pressure, but moderate confidence due to bear market volatility and potential recovery catalysts.\"}\n```",
+  "date": "2024-09-03",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:09.196554+00:00"
+}

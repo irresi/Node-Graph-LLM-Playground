@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows strong recent momentum (+29.71% over 14 days, +5.25% over 7 days) with attractive Sharpe ratio of 1.90, but faces headwinds: bear market regime, declining DeFi TVL (-9.3%), and concerning fundamental deterioration (MKR TVL -12.6%, CRV TVL -5.8%). The sharp 7-day outperformance (+5.25%) relative to 30-day trend (+20.17%) suggests momentum may be stabilizing after earlier gains rather than accelerating. Annualizing the 14-day return (+29.71%) yields ~95% annualized, but mean reversion in bear markets typically reduces forward-looking forecasts. High volatility (89.2%) and max drawdown (-27.2%) indicate significant downside risk. Forecast reflects optimism on recent momentum but discounts for macro headwinds and protocol fundamentals deterioration.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows strong recent momentum (+29.71% over 14 days, +5.25% over 7 days) with attractive Sharpe ratio of 1.90, but faces headwinds: bear market regime, declining DeFi TVL (-9.3%), and concerning fundamental deterioration (MKR TVL -12.6%, CRV TVL -5.8%). The sharp 7-day outperformance (+5.25%) relative to 30-day trend (+20.17%) suggests momentum may be stabilizing after earlier gains rather than accelerating. Annualizing the 14-day return (+29.71%) yields ~95% annualized, but mean reversion in bear markets typically reduces forward-looking forecasts. High volatility (89.2%) and max drawdown (-27.2%) indicate significant downside risk. Forecast reflects optimism on recent momentum but discounts for macro headwinds and protocol fundamentals deterioration.\"\n}\n```",
+  "date": "2025-04-21",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:09.047109+00:00"
+}

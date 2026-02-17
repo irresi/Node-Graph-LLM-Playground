@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows mixed signals: recent 7-day momentum (+1.02%) and 14-day performance (+0.79%) suggest recovery after 30-day drawdown (-3.18%). Bull market regime and strong TVL growth (AAVE +11.3%, UNI +13.5%, BAL +12.3%) support near-term upside. However, negative Sharpe ratio (-0.71) and elevated volatility (37.9%) indicate risk-return imbalance. High annualized volatility suggests 14-day forecasting uncertainty. Confidence moderated by recent underperformance relative to broader DeFi TVL growth (+12.4%), indicating potential sector rotation pressures. Expected return reflects bullish momentum and TVL fundamentals tempered by recent underperformance and volatility risks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows mixed signals: recent 7-day momentum (+1.02%) and 14-day performance (+0.79%) suggest recovery after 30-day drawdown (-3.18%). Bull market regime and strong TVL growth (AAVE +11.3%, UNI +13.5%, BAL +12.3%) support near-term upside. However, negative Sharpe ratio (-0.71) and elevated volatility (37.9%) indicate risk-return imbalance. High annualized volatility suggests 14-day forecasting uncertainty. Confidence moderated by recent underperformance relative to broader DeFi TVL growth (+12.4%), indicating potential sector rotation pressures. Expected return reflects bullish momentum and TVL fundamentals tempered by recent underperformance and volatility risks.\"\n}\n```",
+  "date": "2026-01-16",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:42.929925+00:00"
+}

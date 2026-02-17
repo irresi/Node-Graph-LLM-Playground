@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Liquid staking cluster in bear regime with negative 30d trend (-5.53%), but showing recent 7d bounce (+1.55%) suggesting potential stabilization. LDO TVL growth (+1.0%) provides modest fundamental support. High volatility (40.4%) and negative Sharpe ratio (-1.15) indicate elevated risk. 14d outlook reflects cautious recovery bias from mean reversion, but constrained by broader bear market headwinds and weak DeFi TVL trends (-3.2%). Confidence moderated by regime uncertainty and cluster's historical drawdown severity.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Liquid staking cluster in bear regime with negative 30d trend (-5.53%), but showing recent 7d bounce (+1.55%) suggesting potential stabilization. LDO TVL growth (+1.0%) provides modest fundamental support. High volatility (40.4%) and negative Sharpe ratio (-1.15) indicate elevated risk. 14d outlook reflects cautious recovery bias from mean reversion, but constrained by broader bear market headwinds and weak DeFi TVL trends (-3.2%). Confidence moderated by regime uncertainty and cluster's historical drawdown severity.\"\n}\n```",
+  "date": "2023-10-17",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:39:30.259403+00:00"
+}

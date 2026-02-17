@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum (+39.32% 30d, +23.74% 14d) with excellent Sharpe ratio (11.96) in bull market regime. However, annualizing 14-day forecast carries high uncertainty. The recent 7-day deceleration (+13.03% vs prior weeks) suggests momentum may be cooling. Bull market and positive TVL trends support continuation, but -1.8% max drawdown indicates volatility. Forecasting mean-reversion tendencies and reduced growth rate from recent peaks: expecting ~6-7% over next 14 days (~156-182% annualized). Conservative estimate at 85% annualized accounts for deceleration risk while maintaining bullish bias. Confidence tempered by 14-day prediction horizon challenges and momentum fragility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong momentum (+39.32% 30d, +23.74% 14d) with excellent Sharpe ratio (11.96) in bull market regime. However, annualizing 14-day forecast carries high uncertainty. The recent 7-day deceleration (+13.03% vs prior weeks) suggests momentum may be cooling. Bull market and positive TVL trends support continuation, but -1.8% max drawdown indicates volatility. Forecasting mean-reversion tendencies and reduced growth rate from recent peaks: expecting ~6-7% over next 14 days (~156-182% annualized). Conservative estimate at 85% annualized accounts for deceleration risk while maintaining bullish bias. Confidence tempered by 14-day prediction horizon challenges and momentum fragility.\"\n}\n```",
+  "date": "2024-03-02",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:29.044148+00:00"
+}

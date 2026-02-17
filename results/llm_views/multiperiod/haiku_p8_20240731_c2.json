@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 (DYDX) exhibits strong bearish momentum with -10.62% 30-day return and -3.92% 7-day return in a bear market regime. High volatility (66.5%) and negative Sharpe ratio (-1.34) indicate poor risk-adjusted returns. DYDX TVL declined 8.6% over 30 days, suggesting weakening protocol fundamentals. However, extreme drawdowns often lead to mean reversion. Annualizing the recent 7-day momentum (-3.92% / 7 * 365 \u2248 -204%) would be excessive, so we moderate to -85% annualized, reflecting continued weakness but with some mean reversion cushion over 14 days. Moderate confidence (0.62) due to high volatility and potential for sudden reversals in derivatives markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 (DYDX) exhibits strong bearish momentum with -10.62% 30-day return and -3.92% 7-day return in a bear market regime. High volatility (66.5%) and negative Sharpe ratio (-1.34) indicate poor risk-adjusted returns. DYDX TVL declined 8.6% over 30 days, suggesting weakening protocol fundamentals. However, extreme drawdowns often lead to mean reversion. Annualizing the recent 7-day momentum (-3.92% / 7 * 365 \u2248 -204%) would be excessive, so we moderate to -85% annualized, reflecting continued weakness but with some mean reversion cushion over 14 days. Moderate confidence (0.62) due to high volatility and potential for sudden reversals in derivatives markets.\"\n}\n```",
+  "date": "2024-07-31",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:32.539112+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with strong 30-day downtrend (-7.77%) outweighs recent 14-day bounce (+6.39%). CAKE shows modest TVL growth (+1.3%) but MKR's strong TVL growth (+11.4%) suggests underlying protocol health. High volatility (59.4%) and negative Sharpe ratio (-1.10) indicate elevated risk. Near-term momentum is positive but insufficient to overcome bearish macro conditions. Forecast annualizes the expected 14-day return, with moderate confidence due to high volatility and conflicting signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear market regime with strong 30-day downtrend (-7.77%) outweighs recent 14-day bounce (+6.39%). CAKE shows modest TVL growth (+1.3%) but MKR's strong TVL growth (+11.4%) suggests underlying protocol health. High volatility (59.4%) and negative Sharpe ratio (-1.10) indicate elevated risk. Near-term momentum is positive but insufficient to overcome bearish macro conditions. Forecast annualizes the expected 14-day return, with moderate confidence due to high volatility and conflicting signals.\"\n}\n```",
+  "date": "2025-12-11",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:33.319455+00:00"
+}

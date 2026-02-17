@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows strong 30-day momentum (+45.24%) but recent weakness (7-day: -8.28%) suggests mean reversion. Moderate bull regime supports positive outlook, but infrastructure tokens (OP, ENS, GRT) face headwinds. High volatility (85.9%) and missing TVL data reduce confidence. Expected 14-day return ~2.1% annualized to 18% based on mean of recent 14-day (+2.44%) and bull regime premium. Conservative confidence reflects conflicting signals and data gaps.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.55, \"reasoning\": \"Cluster shows strong 30-day momentum (+45.24%) but recent weakness (7-day: -8.28%) suggests mean reversion. Moderate bull regime supports positive outlook, but infrastructure tokens (OP, ENS, GRT) face headwinds. High volatility (85.9%) and missing TVL data reduce confidence. Expected 14-day return ~2.1% annualized to 18% based on mean of recent 14-day (+2.44%) and bull regime premium. Conservative confidence reflects conflicting signals and data gaps.\"}\n```",
+  "date": "2022-08-17",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:57.811924+00:00"
+}

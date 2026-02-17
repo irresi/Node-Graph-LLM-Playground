@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows strong 7-day momentum (+9.36%) but deteriorating trend over longer periods. Neutral market regime and high volatility (65.8%) suggest mean reversion likely. AAVE strength (+15% TVL growth) and solid DeFi tailwinds (+8.2%) provide modest support for modest positive returns. Forecast: ~12% annualized (2% absolute over 14 days) with moderate confidence due to regime uncertainty and volatility risk.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward expected return forecast.\n\n## Analysis\n\n**Current State Assessment:**\n- The cluster shows mixed momentum: strong 7-day performance (+9.36%) but moderating over longer periods (14d: +2.40%, 30d: +0.24%)\n- High volatility (65.8% annualized) with significant drawdown risk (-19.1% max drawdown)\n- Sharpe ratio of 0.03 indicates poor risk-adjusted returns recently\n- Market regime is neutral/range-bound, suggesting limited directional bias\n\n**Protocol Fundamentals:**\n- AAVE dominates the cluster (TVL-weighted) with strong 30-day growth (+15.0%)\n- SNX shows exceptional momentum (+85.9%) but from a small TVL base ($156M)\n- UNI (largest liquid DEX) showing modest growth (+4.0%)\n- DYDX declining (-5.8%), suggesting weakness in derivatives\n- Overall DeFi TVL growing (+8.2%), providing tailwind\n\n**Technical/Momentum Signals:**\n- The sharp 7-day rally (+9.36%) following neutral longer-term performance suggests possible mean reversion\n- Recent outperformance may have stretched valuations in a range-bound market\n- Volatility is elevated, creating both opportunity and risk\n\n**14-Day Forecast Rationale:**\n- Starting from a strong 7-day position, regression toward the mean is likely\n- Neutral market regime limits explosive upside\n- High volatility argues for moderate expected returns with meaningful downside risk\n- Fundamental TVL growth (+8.2% DeFi-wide) provides modest support\n- Expected reversion from +9.36% to closer to +1-3% annualized over 14 days\n\n```json\n{\"expected_return\": 0.12, \"confidence\": 0.55, \"reasoning\": \"Cluster shows strong 7-day momentum (+9.36%) but deteriorating trend over longer periods. Neutral market regime and high volatility (65.8%) suggest mean reversion likely. AAVE strength (+15% TVL growth) and solid DeFi tailwinds (+8.2%) provide modest support for modest positive returns. Forecast: ~12% annualized (2% absolute over 14 days) with moderate confidence due to regime uncertainty and volatility risk.\"}\n```",
+  "date": "2025-10-04",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:38.272902+00:00"
+}

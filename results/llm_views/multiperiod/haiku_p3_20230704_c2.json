@@ -1,0 +1,28 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows strong recent momentum (14-day: +15.08%, 7-day: +8.14%) following extended weakness (30-day: -1.33%), suggesting mean reversion in neutral market regime. However, high volatility (61.7% annualized) and negative Sharpe ratio (-0.18) create uncertainty. Mixed TVL trends (BAL +5.9% but CRV -11.1%, CAKE -15.7%) indicate uneven fundamentals. Annualized return of 42% reflects extrapolation of positive near-term momentum, but confidence is moderate due to regime neutrality and divergent protocol health metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows strong recent momentum (14-day: +15.08%, 7-day: +8.14%) following extended weakness (30-day: -1.33%), suggesting mean reversion in neutral market regime. However, high volatility (61.7% annualized) and negative Sharpe ratio (-0.18) create uncertainty. Mixed TVL trends (BAL +5.9% but CRV -11.1%, CAKE -15.7%) indicate uneven fundamentals. Annualized return of 42% reflects extrapolation of positive near-term momentum, but confidence is moderate due to regime neutrality and divergent protocol health metrics.\"\n}\n```",
+  "date": "2023-07-04",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:46.534930+00:00"
+}

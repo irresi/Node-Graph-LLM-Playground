@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows mixed signals: recent 7-day momentum (+5.29%) is positive and suggests potential mean reversion from 30-day decline (-2.25%), but overall market regime remains moderately bearish with TVL declining and high volatility (46.5% annualized). CAKE's steeper TVL decline (-9.3%) is concerning despite MKR's relative stability. The negative Sharpe ratio (-0.41) and substantial max drawdown (-12.4%) indicate weak risk-adjusted returns. Low confidence due to conflicting technical vs fundamental signals in a bear market; 14-day forecast heavily dependent on whether recent bounce sustains or reverses.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows mixed signals: recent 7-day momentum (+5.29%) is positive and suggests potential mean reversion from 30-day decline (-2.25%), but overall market regime remains moderately bearish with TVL declining and high volatility (46.5% annualized). CAKE's steeper TVL decline (-9.3%) is concerning despite MKR's relative stability. The negative Sharpe ratio (-0.41) and substantial max drawdown (-12.4%) indicate weak risk-adjusted returns. Low confidence due to conflicting technical vs fundamental signals in a bear market; 14-day forecast heavily dependent on whether recent bounce sustains or reverses.\"\n}\n```",
+  "date": "2026-01-08",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:19.225797+00:00"
+}

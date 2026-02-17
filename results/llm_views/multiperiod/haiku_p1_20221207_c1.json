@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Recent 14-day momentum of +8.75% provides some recovery signal, but strong bear market headwinds (TVL declining -22.6%), negative Sharpe ratio (-1.31), and protocol TVL declines limit conviction. High volatility (93.3%) creates symmetric risk. Annualized forecast of ~18% over next 14 days reflects cautious optimism on potential bounce, but low confidence (0.35) reflects bear regime uncertainty and high downside risk from continued liquidations or macroeconomic deterioration.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market with -22.6% TVL decline over 30 days\n- Cluster down -14.49% over 30 days, but showing recent recovery momentum\n- 7-day return of +5.70% and 14-day return of +8.75% suggest potential bottoming\n\n**Cluster Composition Analysis:**\n- Diversified across liquid staking (LDO, RPL), derivatives (SNX, GMX), and yield (CVX)\n- LDO dominates TVL-weighted composition ($6161M of $10,551M total = 58%)\n- Mixed TVL trends: LDO recovering better (-18.9% vs -29.5% for SNX)\n\n**Key Observations:**\n1. **Recent Momentum**: The +8.75% 14-day return after -14.49% 30-day loss suggests the cluster may have found temporary support\n2. **High Volatility**: 93.3% annualized volatility indicates significant swing potential in either direction\n3. **Bear Market Headwinds**: Overall DeFi TVL contraction limits upside in this regime\n4. **Protocol Health**: LDO's relative stability vs other tokens suggests some fundamental resilience\n5. **Negative Sharpe Ratio**: -1.31 indicates poor risk-adjusted returns historically\n\n**14-Day Forecast Considerations:**\n- Recent 14-day momentum (+8.75%) could continue if bear capitulation is complete\n- However, sustained recovery in bear market is uncertain\n- High volatility creates both upside and downside risk\n- TVL declines across protocols suggest headwinds, but may be slowing\n\n**Expected Return Calculation:**\nGiven the recent recovery momentum but persistent bear market conditions, I estimate modest positive returns with significant uncertainty. Annualizing the recent 14-day trend would suggest +252% (unsustainable), but mean reversion and bear regime constraints suggest more modest outcomes.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Recent 14-day momentum of +8.75% provides some recovery signal, but strong bear market headwinds (TVL declining -22.6%), negative Sharpe ratio (-1.31), and protocol TVL declines limit conviction. High volatility (93.3%) creates symmetric risk. Annualized forecast of ~18% over next 14 days reflects cautious optimism on potential bounce, but low confidence (0.35) reflects bear regime uncertainty and high downside risk from continued liquidations or macroeconomic deterioration.\"}\n```",
+  "date": "2022-12-07",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:52.685067+00:00"
+}

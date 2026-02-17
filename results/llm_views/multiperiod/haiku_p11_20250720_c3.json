@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Bull market regime and positive protocol TVL growth support continued gains, but recent 36% 14-day return suggests momentum will decelerate. Expected 8-12% 14-day return (~18-27% annualized), but high volatility and mean reversion risk limit confidence. Sharpe ratio of 3.40 is positive, but recent run-up likely reflects exceptional conditions. Moderate confidence due to macro momentum uncertainty and short forecasting horizon.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze the key factors to forecast the expected return for Cluster 3 over the next 14 days.\n\n## Analysis\n\n**Positive Factors:**\n1. **Strong Recent Momentum**: 14-day return of +36.06% and 7-day return of +19.60% indicate sustained upward momentum\n2. **Bull Market Regime**: Strong uptrend with moderate volatility provides favorable conditions\n3. **TVL Growth**: All protocols showing positive 30-day TVL changes (+12.4% to +25.2%), indicating growing usage and capital inflows\n4. **Exceptional Sharpe Ratio**: 3.40 Sharpe ratio shows excellent risk-adjusted returns\n5. **TVL Expansion**: Overall DeFi TVL up 33.9% in 30 days, creating favorable ecosystem dynamics\n\n**Risk Factors:**\n1. **Momentum Decay Risk**: After 36% 14-day gain, mean reversion is likely; clusters rarely sustain such high returns\n2. **High Annualized Volatility**: 65.5% annualized volatility suggests significant daily swings ahead\n3. **Drawdown History**: Max drawdown of -8.4% shows the cluster is exposed to sharp reversals\n4. **Market Froth**: Strong bull markets often precede consolidation or pullback periods\n5. **Short Time Horizon**: 14-day forecasts have inherently lower predictability\n\n**Return Calculation:**\n- Recent 14-day return was +36.06%, but this represents exceptional conditions unlikely to repeat\n- Annualized equivalent would be ~65.4% if sustained, but this is unrealistic\n- Bull market regime with strong protocols supports continued positive returns, but at moderate levels\n- Expecting a deceleration from recent momentum; likely range: 5-15% 14-day return\n- As annualized: ~9-27% range, with central estimate ~15-18%\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Bull market regime and positive protocol TVL growth support continued gains, but recent 36% 14-day return suggests momentum will decelerate. Expected 8-12% 14-day return (~18-27% annualized), but high volatility and mean reversion risk limit confidence. Sharpe ratio of 3.40 is positive, but recent run-up likely reflects exceptional conditions. Moderate confidence due to macro momentum uncertainty and short forecasting horizon.\"\n}\n```",
+  "date": "2025-07-20",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:07.807073+00:00"
+}

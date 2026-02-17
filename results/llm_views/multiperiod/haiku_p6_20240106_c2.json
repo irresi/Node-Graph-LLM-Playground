@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.55,
+  "reasoning": "DYDX shows strong negative momentum with -20.28% 14-day return and -16.74% 7-day return, indicating acceleration of losses. High volatility (77.3%) and negative Sharpe ratio (-1.89) suggest unfavorable risk-adjusted returns. However, moderate bull market regime and stable TVL (-2.7%) provide some support. Continued weakness expected over next 14 days, but elevated volatility creates recovery upside risk, limiting confidence to 0.55. Annualized forecast incorporates mean reversion tendency in derivatives tokens during uncertain periods.",
+  "raw_response": "Based on the market context provided for Cluster 2 (DYDX), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.55,\n  \"reasoning\": \"DYDX shows strong negative momentum with -20.28% 14-day return and -16.74% 7-day return, indicating acceleration of losses. High volatility (77.3%) and negative Sharpe ratio (-1.89) suggest unfavorable risk-adjusted returns. However, moderate bull market regime and stable TVL (-2.7%) provide some support. Continued weakness expected over next 14 days, but elevated volatility creates recovery upside risk, limiting confidence to 0.55. Annualized forecast incorporates mean reversion tendency in derivatives tokens during uncertain periods.\"\n}\n```\n\n**Key Considerations:**\n- **Negative Momentum**: Recent 14-day performance (-20.28%) significantly worse than 30-day (-17.39%), suggesting accelerating downtrend\n- **Risk Metrics**: High volatility and poor Sharpe ratio indicate risky asset with limited upside compensation\n- **Stabilizing Factors**: TVL relatively stable (-2.7% vs market -4.4%) and moderate bull regime provide floor\n- **Confidence Limitation**: High volatility and derivatives token characteristics create meaningful recovery risk, preventing high conviction on directional forecast",
+  "date": "2024-01-06",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:21.233461+00:00"
+}

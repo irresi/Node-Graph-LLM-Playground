@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.58,
+  "reasoning": "Deteriorating 7-day momentum (-3.29%) combined with neutral market regime and high volatility (58.5%) suggests near-term weakness. While 30-day trend is positive (+2.56%), recent pullback and poor Sharpe ratio (0.37) indicate limited upside catalyst. Neutral DeFi TVL trends provide no support. Moderate confidence due to high volatility and range-bound conditions creating uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\nLet me break down the key factors:\n\n**Analysis of Cluster 1 (LINK, OP, ARB, GRT):**\n\n1. **Recent Momentum Analysis:**\n   - 7-day return: -3.29% (negative trend)\n   - 14-day return: +1.36% (modest positive)\n   - 30-day return: +2.56% (slight positive)\n   - The trend shows deteriorating momentum, with recent 7-day performance reversing gains\n\n2. **Volatility & Risk Metrics:**\n   - Annualized volatility: 58.5% (high)\n   - Sharpe ratio: 0.37 (poor risk-adjusted returns)\n   - Max drawdown: -14.5% (significant downside risk)\n   - High volatility suggests unpredictable short-term movements\n\n3. **Market Context:**\n   - Overall DeFi TVL down 1.1% (30-day decline)\n   - Market regime: Neutral/Range-bound (no strong directional bias)\n   - This suggests a consolidation phase with limited catalysts\n\n4. **Cluster Composition:**\n   - Mix of oracles (LINK), L2s (OP, ARB), and indexing (GRT)\n   - Diverse fundamentals but all infrastructure-focused\n   - Limited TVL data suggests these are protocol/governance tokens rather than yield-bearing assets\n\n5. **Forecast Considerations:**\n   - The 7-day negative return (-3.29%) suggests momentum loss\n   - Neutral market regime provides no tailwind\n   - High volatility but poor Sharpe ratio indicates risk isn't compensated\n   - 14-day historical return (+1.36%) provides some baseline expectation\n\n**Forecast:** Given the deteriorating short-term momentum, high volatility, neutral market regime, and poor risk-adjusted returns, I expect modest negative returns over the next 14 days with moderate confidence.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.58, \"reasoning\": \"Deteriorating 7-day momentum (-3.29%) combined with neutral market regime and high volatility (58.5%) suggests near-term weakness. While 30-day trend is positive (+2.56%), recent pullback and poor Sharpe ratio (0.37) indicate limited upside catalyst. Neutral DeFi TVL trends provide no support. Moderate confidence due to high volatility and range-bound conditions creating uncertainty.\"}\n```",
+  "date": "2024-05-16",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:10.485544+00:00"
+}

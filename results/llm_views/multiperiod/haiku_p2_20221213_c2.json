@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.68,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing strong momentum (22.74% 30-day return) with excellent Sharpe ratio (4.52) and manageable volatility. Bull market regime supports continued upside. However, forecasting beyond 14 days faces headwinds: (1) recent returns are elevated relative to historical norms, suggesting potential mean reversion; (2) annualizing 14-day forecasts introduces compounding uncertainty; (3) while TVL growth is solid (LDO +6.6%, RPL +8.9%, GMX +14.5%), the sharp recent moves may have front-run some gains. 7-day momentum (+4.15%) is moderating vs. 14-day (+17.26%), indicating potential deceleration. Expected return is calculated from recent momentum trajectory (7-day annualized \u2248 215%+ down to realistic 68% when adjusted for mean reversion and volatility normalization). Confidence is moderate due to the difficulty of sustaining such elevated returns and execution risks in DeFi protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.68,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing strong momentum (22.74% 30-day return) with excellent Sharpe ratio (4.52) and manageable volatility. Bull market regime supports continued upside. However, forecasting beyond 14 days faces headwinds: (1) recent returns are elevated relative to historical norms, suggesting potential mean reversion; (2) annualizing 14-day forecasts introduces compounding uncertainty; (3) while TVL growth is solid (LDO +6.6%, RPL +8.9%, GMX +14.5%), the sharp recent moves may have front-run some gains. 7-day momentum (+4.15%) is moderating vs. 14-day (+17.26%), indicating potential deceleration. Expected return is calculated from recent momentum trajectory (7-day annualized \u2248 215%+ down to realistic 68% when adjusted for mean reversion and volatility normalization). Confidence is moderate due to the difficulty of sustaining such elevated returns and execution risks in DeFi protocols.\"\n}\n```",
+  "date": "2022-12-13",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:07.336046+00:00"
+}

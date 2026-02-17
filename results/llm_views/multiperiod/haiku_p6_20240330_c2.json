@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "DYDX shows strong TVL growth (+49.6%) and recent 7-day momentum (+4.76%) in moderate bull regime, supporting modest positive returns. However, high volatility (79%), poor risk-adjusted returns (Sharpe 0.35), significant drawdown risk (-29%), and recent 14-day weakness (-2.01%) create substantial uncertainty. Single-token cluster concentration adds risk. Moderate confidence reflects the bullish protocol fundamentals offset by derivatives market volatility.",
+  "raw_response": "Based on the provided market data for Cluster 2 (DYDX), I'll analyze the key factors to forecast the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Positive Factors:**\n- Strong TVL growth: DYDX TVL increased +49.6% in 30 days, indicating growing protocol adoption\n- Moderate Bull market regime with +4.1% overall DeFi TVL growth\n- Recent 7-day momentum is positive at +4.76%\n- Cluster has recovered from the 14-day dip (-2.01%)\n\n**Risk Factors:**\n- High volatility (79.0% annualized) indicates significant price swings\n- Derivatives protocols are inherently volatile and sensitive to market movements\n- Max drawdown of -29.0% in the last period shows downside risk potential\n- Low Sharpe ratio (0.35) suggests poor risk-adjusted returns\n- 14-day return was negative (-2.01%), showing recent weakness despite 7-day recovery\n- Single-token cluster concentrates risk (no diversification)\n\n**Market Context:**\n- We're forecasting from 2024-03-30 forward, in a moderate bull regime\n- The positive TVL growth suggests protocol fundamentals are improving\n- However, derivatives typically see mean reversion after strong moves\n\n**Forecast Rationale:**\nGiven the strong TVL fundamentals but high volatility and recent 14-day weakness, I expect modest positive returns over the next 14 days with moderate confidence. The 7-day recovery is encouraging, but derivatives markets are notoriously difficult to predict. The annualized return forecast accounts for the volatility while slightly favoring the positive TVL momentum.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.45, \"reasoning\": \"DYDX shows strong TVL growth (+49.6%) and recent 7-day momentum (+4.76%) in moderate bull regime, supporting modest positive returns. However, high volatility (79%), poor risk-adjusted returns (Sharpe 0.35), significant drawdown risk (-29%), and recent 14-day weakness (-2.01%) create substantial uncertainty. Single-token cluster concentration adds risk. Moderate confidence reflects the bullish protocol fundamentals offset by derivatives market volatility.\"}\n```",
+  "date": "2024-03-30",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:44.416147+00:00"
+}

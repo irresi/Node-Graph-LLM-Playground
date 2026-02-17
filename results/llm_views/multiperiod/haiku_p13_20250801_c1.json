@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+20.55%) with excellent Sharpe ratio (2.84), but recent 14-day pullback (-11.04%) suggests near-term consolidation or profit-taking. Bull market regime supports recovery, but elevated volatility (60.8% annualized) and -16.5% max drawdown indicate heightened risk. Mixed TVL trends (SNX declining -7.1%, DYDX growing +16.9%) reflect sector divergence. 14-day forecast annualizes recent positive momentum with reduced conviction given recent weakness and technical headwinds. Moderate confidence reflects uncertainty in mean reversion timing.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+20.55%) with excellent Sharpe ratio (2.84), but recent 14-day pullback (-11.04%) suggests near-term consolidation or profit-taking. Bull market regime supports recovery, but elevated volatility (60.8% annualized) and -16.5% max drawdown indicate heightened risk. Mixed TVL trends (SNX declining -7.1%, DYDX growing +16.9%) reflect sector divergence. 14-day forecast annualizes recent positive momentum with reduced conviction given recent weakness and technical headwinds. Moderate confidence reflects uncertainty in mean reversion timing.\"\n}\n```",
+  "date": "2025-08-01",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:12.733634+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows mixed signals: positive 7-day momentum (+2.27%) and growing TVL for COMP (+9.2%) and YFI (+8.3%) suggest near-term strength, but 14-day return (-0.07%) and neutral market regime indicate caution. Moderate volatility (40.2%) and low Sharpe ratio (0.08) reflect risk. The 14-day forecast balances recent bullish momentum against weak intermediate-term performance and neutral macro conditions. Confidence tempered by range-bound market and inconsistent protocol metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows mixed signals: positive 7-day momentum (+2.27%) and growing TVL for COMP (+9.2%) and YFI (+8.3%) suggest near-term strength, but 14-day return (-0.07%) and neutral market regime indicate caution. Moderate volatility (40.2%) and low Sharpe ratio (0.08) reflect risk. The 14-day forecast balances recent bullish momentum against weak intermediate-term performance and neutral macro conditions. Confidence tempered by range-bound market and inconsistent protocol metrics.\"\n}\n```",
+  "date": "2025-10-04",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:46.044041+00:00"
+}

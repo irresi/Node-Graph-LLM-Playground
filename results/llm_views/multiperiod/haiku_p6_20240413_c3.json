@@ -1,0 +1,16 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 (OP, ARB, ENS) exhibits severe bearish momentum in a declining DeFi market. 14-day return of -36.86% and extreme volatility (85.9% annualized) indicate strong downward pressure. However, the negative Sharpe ratio (-5.10) and -39.2% max drawdown suggest oversold conditions that may stabilize or reverse. L2 infrastructure tokens often decouple from macro sentiment during capitulation phases. Given the strong downtrend but potential mean reversion risk, forecasting -1.85 annualized return (approximately -0.71% over 14 days) reflects continued weakness with modest stabilization. Low confidence (0.35) due to high volatility and regime uncertainty in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 (OP, ARB, ENS) exhibits severe bearish momentum in a declining DeFi market. 14-day return of -36.86% and extreme volatility (85.9% annualized) indicate strong downward pressure. However, the negative Sharpe ratio (-5.10) and -39.2% max drawdown suggest oversold conditions that may stabilize or reverse. L2 infrastructure tokens often decouple from macro sentiment during capitulation phases. Given the strong downtrend but potential mean reversion risk, forecasting -1.85 annualized return (approximately -0.71% over 14 days) reflects continued weakness with modest stabilization. Low confidence (0.35) due to high volatility and regime uncertainty in bear markets.\"\n}\n```",
+  "date": "2024-04-13",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:22.169926+00:00"
+}

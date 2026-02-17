@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market momentum with cluster down 13.73% in 7 days suggests continued 14-day weakness. However, AAVE's TVL stability (-3.6% vs -15.87% token return) indicates some fundamental support limiting downside. Annualized estimate: -28% reflects bear regime with moderate mean-reversion potential. Moderate confidence due to high volatility (56.6%) and macroeconomic uncertainty in current market cycle.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n**Analysis of Cluster 5 (BAL, AAVE):**\n\n**Market Regime & Momentum:**\n- Strong bear market with -6.6% TVL decline across DeFi\n- Cluster down -15.87% over 30 days, -13.73% over 7 days\n- Negative momentum accelerating (7d worse than 30d average)\n- Max drawdown of -20.8% indicates significant selling pressure\n\n**Protocol Fundamentals:**\n- AAVE dominates cluster (97% of TVL at $23.7B) - still the largest lending protocol\n- BAL smaller but stable ($718M TVL)\n- AAVE TVL decline only -3.6% (30d) suggests relative stability vs cluster underperformance\n- Both protocols maintain strong institutional positions despite bear market\n\n**Key Factors:**\n1. **Negative short-term momentum**: 7-day return worse than 30-day suggests continued downside\n2. **Bear market regime**: DeFi-wide TVL contraction indicates risk-off sentiment\n3. **Volatility**: 56.6% annualized volatility with -2.36 Sharpe ratio shows poor risk-adjusted returns\n4. **Relative strength**: AAVE's modest TVL decline suggests some fundamental support\n5. **14-day outlook**: Intermediate timeframe between strong recent weakness and potential stabilization\n\nGiven the bear market conditions, negative momentum, but with some fundamental support from AAVE's TVL stability, I expect continued weakness over 14 days, but potentially at a decelerating pace.\n\n```json\n{\"expected_return\": -0.28, \"confidence\": 0.62, \"reasoning\": \"Strong bear market momentum with cluster down 13.73% in 7 days suggests continued 14-day weakness. However, AAVE's TVL stability (-3.6% vs -15.87% token return) indicates some fundamental support limiting downside. Annualized estimate: -28% reflects bear regime with moderate mean-reversion potential. Moderate confidence due to high volatility (56.6%) and macroeconomic uncertainty in current market cycle.\"}\n```",
+  "date": "2025-06-22",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:11.043295+00:00"
+}

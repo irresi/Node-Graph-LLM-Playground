@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows mixed signals: moderate bull regime with strong TVL growth (+22.1% overall DeFi, LDO +37.2%) suggests upside potential. However, recent 14-day return of -17.94% against 30-day +6.62% indicates weakness and momentum reversal. High volatility (88.3%) and max drawdown (-19.9%) create uncertainty. 7-day recovery (+4.21%) provides some optimism for near-term bounce. Annualized 0.18x return reflects modest positive bias over 14 days (~2.4% expected 2-week return) with below-average confidence due to elevated risk and recent volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows mixed signals: moderate bull regime with strong TVL growth (+22.1% overall DeFi, LDO +37.2%) suggests upside potential. However, recent 14-day return of -17.94% against 30-day +6.62% indicates weakness and momentum reversal. High volatility (88.3%) and max drawdown (-19.9%) create uncertainty. 7-day recovery (+4.21%) provides some optimism for near-term bounce. Annualized 0.18x return reflects modest positive bias over 14 days (~2.4% expected 2-week return) with below-average confidence due to elevated risk and recent volatility.\"\n}\n```",
+  "date": "2025-05-25",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:56.316915+00:00"
+}

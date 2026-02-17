@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum (+60% in 30d) with positive DeFi regime, but 7d deceleration suggests reversion risk. SNX tailwind supports upside. Expecting moderate continuation at ~2% over 14 days (annualized ~52%), with moderate confidence due to high volatility (79.7%) and sustainability concerns after explosive recent gains.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Current Cluster Dynamics:**\n- The cluster (SUSHI, CAKE, BAL, SNX) has shown exceptional recent performance: +60.32% (30d), +33.79% (14d), +7.63% (7d)\n- Strong momentum with a Sharpe ratio of 6.35 indicates risk-adjusted returns are excellent\n- However, the deceleration pattern (7d < 14d < 30d returns) suggests momentum may be moderating\n\n**Key Factors:**\n\n1. **Positive Indicators:**\n   - Moderate Bull market regime with +17.8% DeFi TVL growth supports continued upside\n   - SNX showing exceptional momentum (+97.8% TVL growth in 30d) provides cluster tailwind\n   - Strong risk-adjusted returns (Sharpe 6.35) indicate quality performance\n   - Overall DeFi ecosystem healthy with TVL expansion\n\n2. **Cautionary Signals:**\n   - Annualized volatility of 79.7% is extremely high - reversion risk is significant\n   - Max drawdown of -15.5% shows meaningful downside occurred recently\n   - Return deceleration pattern (7d > 14d > 30d relative performance) suggests momentum exhaustion\n   - After a +60% month, mean reversion becomes more likely\n   - DEX and derivatives protocols are cyclical and sensitive to market sentiment shifts\n\n3. **Forward-Looking Considerations:**\n   - A 14-day forecast requires annualization; explosive continued growth is unlikely given recent performance\n   - The cluster would need to maintain >5% daily gains to match 30d performance, which is unsustainable\n   - Realistic scenario: consolidation or modest retracement as markets digest gains\n\n**Forecast Methodology:**\nGiven the strong momentum but increasing mean reversion risk, I'm estimating moderate continued positive returns with reduced conviction. The 14-day period represents a \"cool-down\" from exceptional 30-day performance.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.62, \"reasoning\": \"Cluster shows strong momentum (+60% in 30d) with positive DeFi regime, but 7d deceleration suggests reversion risk. SNX tailwind supports upside. Expecting moderate continuation at ~2% over 14 days (annualized ~52%), with moderate confidence due to high volatility (79.7%) and sustainability concerns after explosive recent gains.\"}\n```",
+  "date": "2024-12-10",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:41.103058+00:00"
+}

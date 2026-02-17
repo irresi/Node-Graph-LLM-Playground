@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster shows strong 30-day momentum (+31.24%) with healthy 3.25 Sharpe ratio in moderate bull regime. However, recent 7-day pullback (-1.80%) and elevated volatility (80.8%) suggest mean reversion risk. TVL growth across major protocols (AAVE +31.8%, UNI +29%) supports fundamentals. 14-day forecast moderates near-term gains given momentum deceleration pattern, positioning for 42% annualized return with moderate-high confidence. TVL composition heavily weighted to AAVE (largest position) provides stability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+31.24%) with healthy 3.25 Sharpe ratio in moderate bull regime. However, recent 7-day pullback (-1.80%) and elevated volatility (80.8%) suggest mean reversion risk. TVL growth across major protocols (AAVE +31.8%, UNI +29%) supports fundamentals. 14-day forecast moderates near-term gains given momentum deceleration pattern, positioning for 42% annualized return with moderate-high confidence. TVL composition heavily weighted to AAVE (largest position) provides stability.\"\n}\n```",
+  "date": "2025-05-17",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:14.435078+00:00"
+}

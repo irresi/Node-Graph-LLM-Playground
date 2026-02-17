@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 4 faces significant headwinds: strong bear market regime, -12.2% DeFi TVL decline, and severe recent underperformance (-32.93% in 30d). The 7-day return of -17.98% suggests ongoing downward momentum despite the less negative 14-day reading (-2.89%), indicating potential deceleration. However, with 70% annualized volatility and extremely negative Sharpe ratio (-3.95), risk-adjusted returns are poor. Oracle/Infrastructure tokens (LINK, OP, ARB, ENS, GRT) typically lag in bear markets due to reduced protocol activity and lower yield opportunities. Limited protocol TVL data reduces conviction. Short-term technical indicators suggest continued weakness but potential consolidation. Low confidence reflects high uncertainty in near-term direction within a volatile, bearish regime.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.45, \"reasoning\": \"Cluster 4 faces significant headwinds: strong bear market regime, -12.2% DeFi TVL decline, and severe recent underperformance (-32.93% in 30d). The 7-day return of -17.98% suggests ongoing downward momentum despite the less negative 14-day reading (-2.89%), indicating potential deceleration. However, with 70% annualized volatility and extremely negative Sharpe ratio (-3.95), risk-adjusted returns are poor. Oracle/Infrastructure tokens (LINK, OP, ARB, ENS, GRT) typically lag in bear markets due to reduced protocol activity and lower yield opportunities. Limited protocol TVL data reduces conviction. Short-term technical indicators suggest continued weakness but potential consolidation. Low confidence reflects high uncertainty in near-term direction within a volatile, bearish regime.\"}\n```",
+  "date": "2025-01-13",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:29.344260+00:00"
+}

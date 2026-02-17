@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.55,
+  "reasoning": "YFI cluster faces headwinds from bear market regime (TVL down 7.6%) and persistent downtrend (10%+ losses over 7/14/30-day periods). High annualized volatility (32.2%) and negative Sharpe ratio (-2.76) indicate elevated risk. TVL decline of 7.3% suggests protocol stress. However, confidence is moderate due to: (1) YFI's established governance position may attract contrarian buying, (2) oversold conditions from consistent losses could trigger relief rally, (3) single-token cluster lacks diversification benefits but reduces idiosyncratic risk dispersion. Forecast assumes continued weakness near recent trend pace but with potential stabilization, hence moderate downside rather than acceleration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"YFI cluster faces headwinds from bear market regime (TVL down 7.6%) and persistent downtrend (10%+ losses over 7/14/30-day periods). High annualized volatility (32.2%) and negative Sharpe ratio (-2.76) indicate elevated risk. TVL decline of 7.3% suggests protocol stress. However, confidence is moderate due to: (1) YFI's established governance position may attract contrarian buying, (2) oversold conditions from consistent losses could trigger relief rally, (3) single-token cluster lacks diversification benefits but reduces idiosyncratic risk dispersion. Forecast assumes continued weakness near recent trend pace but with potential stabilization, hence moderate downside rather than acceleration.\"\n}\n```",
+  "date": "2025-09-26",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:58.421841+00:00"
+}

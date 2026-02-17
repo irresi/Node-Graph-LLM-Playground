@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows mixed signals: moderate bull regime with strong TVL growth (+22.1% market-wide, +25.3% UNI leadership) supports positive momentum. Recent 7-day return (+3.02%) indicates recovery from 14-day drawdown (-13.96%), suggesting mean reversion potential. However, elevated volatility (71.8% annualized) and modest Sharpe ratio (0.64) create uncertainty. The 30-day +5.46% return annualizes to ~66% but over-represents recent outperformance. Forward 14-day forecast of +18% annualized reflects: (1) continuation of recovery trend, (2) TVL growth fundamentals supporting protocol value, (3) moderate bull regime tailwinds, partially offset by (4) elevated drawdown risk and volatility. Confidence moderated by inherent 14-day forecasting uncertainty and concentration in liquid staking/DEX exposure.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows mixed signals: moderate bull regime with strong TVL growth (+22.1% market-wide, +25.3% UNI leadership) supports positive momentum. Recent 7-day return (+3.02%) indicates recovery from 14-day drawdown (-13.96%), suggesting mean reversion potential. However, elevated volatility (71.8% annualized) and modest Sharpe ratio (0.64) create uncertainty. The 30-day +5.46% return annualizes to ~66% but over-represents recent outperformance. Forward 14-day forecast of +18% annualized reflects: (1) continuation of recovery trend, (2) TVL growth fundamentals supporting protocol value, (3) moderate bull regime tailwinds, partially offset by (4) elevated drawdown risk and volatility. Confidence moderated by inherent 14-day forecasting uncertainty and concentration in liquid staking/DEX exposure.\"\n}\n```",
+  "date": "2025-05-25",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:51.842305+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.55,
+  "reasoning": "Cluster in severe downtrend with -16.87% 14-day return and negative Sharpe ratio (-0.92) indicating poor risk-adjusted returns. Bear market regime with declining TVL (-3.9% DeFi wide) suggests continued weakness. However, YFI's positive 30d momentum (+7.7%) provides some offset. High volatility (43.8%) and recent acceleration of losses (7d: -2.23% vs 30d: -4.80% annualized suggests deterioration) indicate elevated risk. Expect continued pressure but potential for mean reversion bounces. Moderate confidence due to regime uncertainty and mixed protocol fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in severe downtrend with -16.87% 14-day return and negative Sharpe ratio (-0.92) indicating poor risk-adjusted returns. Bear market regime with declining TVL (-3.9% DeFi wide) suggests continued weakness. However, YFI's positive 30d momentum (+7.7%) provides some offset. High volatility (43.8%) and recent acceleration of losses (7d: -2.23% vs 30d: -4.80% annualized suggests deterioration) indicate elevated risk. Expect continued pressure but potential for mean reversion bounces. Moderate confidence due to regime uncertainty and mixed protocol fundamentals.\"\n}\n```",
+  "date": "2023-05-02",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:52.489053+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "ARB faces headwinds from bear market regime and negative 30-day performance (-4.12%), partially offset by recent 14-day bounce (+5.17%). High volatility (68.5%) and poor risk-adjusted returns (Sharpe -0.50) suggest continued weakness is more likely than sustained gains. L2 tokens are sentiment-sensitive; expect slight negative returns over next 14 days as market regime normalizes. Low confidence due to extreme volatility and competing technical signals.",
+  "raw_response": "Based on the provided market context for Cluster 3 (ARB token), here is my analysis:\n\n**Key Observations:**\n1. **Market Regime**: Bear market with strong downtrend (-3.9% TVL change)\n2. **Recent Momentum**: Mixed signals - negative 7-day (-3.31%) and 30-day (-4.12%) returns, but positive 14-day return (+5.17%)\n3. **Volatility**: Extremely high annualized volatility at 68.5%, indicating significant price swings\n4. **Risk-Adjusted Performance**: Negative Sharpe ratio (-0.50) suggests poor risk-adjusted returns\n5. **Token Type**: ARB is an L2/infrastructure token with no TVL data, making it more speculative\n\n**Forecasting Considerations:**\n- The positive 14-day return (+5.17%) represents a recent bounce, but it's occurring within a broader bear market\n- The extreme volatility (68.5%) and recent downtrend suggest mean reversion could occur\n- L2 tokens are sentiment-driven and can be volatile during market downturns\n- The negative Sharpe ratio indicates unfavorable risk-reward dynamics\n\n**Forecast:**\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"ARB faces headwinds from bear market regime and negative 30-day performance (-4.12%), partially offset by recent 14-day bounce (+5.17%). High volatility (68.5%) and poor risk-adjusted returns (Sharpe -0.50) suggest continued weakness is more likely than sustained gains. L2 tokens are sentiment-sensitive; expect slight negative returns over next 14 days as market regime normalizes. Low confidence due to extreme volatility and competing technical signals.\"\n}\n```",
+  "date": "2023-06-06",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:19.261974+00:00"
+}

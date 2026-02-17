@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.72,
+  "reasoning": "Strong bear regime with -30.75% 30-day return and -9.03% 14-day return. Both tokens showing significant TVL outflows (-33-35%), indicating structural weakness. Negative 7-day momentum (-4.67%) suggests continued decline. Expect -35% annualized return (~-7% over 14 days) due to persistent market headwinds. Confidence is moderate (0.72) due to possibility of capitulation bounce or mean reversion, but downtrend momentum remains strong.",
+  "raw_response": "Based on the market context provided, I'll analyze this DeFi cluster to forecast expected returns.\n\n## Analysis\n\n**Market Regime & Momentum:**\n- Strong bear market with -7.7% TVL decline over 30 days\n- Cluster experiencing severe underperformance: -30.75% (30-day), -9.03% (14-day)\n- Negative momentum: -4.67% in last 7 days suggests continued weakness\n\n**Protocol Fundamentals:**\n- Both CRV and CVX showing significant TVL outflows (-34.7% and -33.9%)\n- Indicates loss of user confidence and capital exodus from yield/DEX protocols\n- TVL erosion is a bearish indicator for token performance\n\n**Risk Metrics:**\n- Extreme volatility (56.3% annualized) with very negative Sharpe ratio (-4.59)\n- Max drawdown of -26.3% demonstrates significant downside risk\n- Risk-adjusted returns are deeply negative\n\n**14-Day Forecast Considerations:**\n- Recent 14-day return of -9.03% suggests momentum is still downward\n- Bear market regime typically persists for multiple weeks\n- TVL declines suggest structural weakness, not temporary volatility\n- No positive catalysts evident in the data\n\nGiven the persistent downtrend, TVL deterioration, and negative momentum, I expect continued weakness over the next 14 days, though the rate of decline may moderate slightly from the extreme 30-day pace.\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear regime with -30.75% 30-day return and -9.03% 14-day return. Both tokens showing significant TVL outflows (-33-35%), indicating structural weakness. Negative 7-day momentum (-4.67%) suggests continued decline. Expect -35% annualized return (~-7% over 14 days) due to persistent market headwinds. Confidence is moderate (0.72) due to possibility of capitulation bounce or mean reversion, but downtrend momentum remains strong.\"\n}\n```",
+  "date": "2023-08-13",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:18.696104+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "ARB (Arbitrum) is an L2 infrastructure token with no TVL data provided. The cluster shows 0% returns over 30/14/7-day periods, indicating recent stagnation. However, the overall DeFi market is in a moderate bull regime (+5% TVL change) which provides some tailwind. L2 tokens typically benefit from ecosystem growth and adoption cycles. The low confidence reflects: (1) lack of protocol-specific metrics, (2) recent flat performance, (3) infrastructure tokens' lower correlation with protocol activity metrics. The +8% annualized forecast assumes modest participation in the broader DeFi recovery, but substantial uncertainty around ARB's specific catalysts over the next 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ARB (Arbitrum) is an L2 infrastructure token with no TVL data provided. The cluster shows 0% returns over 30/14/7-day periods, indicating recent stagnation. However, the overall DeFi market is in a moderate bull regime (+5% TVL change) which provides some tailwind. L2 tokens typically benefit from ecosystem growth and adoption cycles. The low confidence reflects: (1) lack of protocol-specific metrics, (2) recent flat performance, (3) infrastructure tokens' lower correlation with protocol activity metrics. The +8% annualized forecast assumes modest participation in the broader DeFi recovery, but substantial uncertainty around ARB's specific catalysts over the next 14 days.\"\n}\n```",
+  "date": "2023-02-13",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:17.966545+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster 2 (DEX/Yield/Lending) shows strong momentum with +38.47% 30-day return and +4.99% 14-day return in a bull market regime. TVL growth across major protocols (CRV +30.6%, BAL +27.6%, SUSHI +22.2%) indicates positive fundamentals. However, confidence is moderated by: (1) mean reversion risk after strong recent performance, (2) elevated 37.3% annualized volatility, (3) potential macro headwinds, and (4) -5.0% max drawdown showing vulnerability. The 14-day annualized projection extrapolates recent momentum conservatively, acknowledging that sustaining +4.99% bi-weekly returns (42% annualized) is challenging long-term. Bull regime and strong TVL metrics support upside, but the high Sharpe ratio (8.66) suggests potential overshooting.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster 2 (DEX/Yield/Lending) shows strong momentum with +38.47% 30-day return and +4.99% 14-day return in a bull market regime. TVL growth across major protocols (CRV +30.6%, BAL +27.6%, SUSHI +22.2%) indicates positive fundamentals. However, confidence is moderated by: (1) mean reversion risk after strong recent performance, (2) elevated 37.3% annualized volatility, (3) potential macro headwinds, and (4) -5.0% max drawdown showing vulnerability. The 14-day annualized projection extrapolates recent momentum conservatively, acknowledging that sustaining +4.99% bi-weekly returns (42% annualized) is challenging long-term. Bull regime and strong TVL metrics support upside, but the high Sharpe ratio (8.66) suggests potential overshooting.\"\n}\n```",
+  "date": "2023-02-01",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:03.924340+00:00"
+}

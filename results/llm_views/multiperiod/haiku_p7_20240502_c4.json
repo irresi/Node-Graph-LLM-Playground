@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -42.38% 30-day loss and elevated volatility (86.5%) suggests continued downside pressure. However, recent 14-day positive return (+0.97%) and stabilizing 7-day loss (-4.30%) indicate potential bottoming. Cluster composition in yield/lending/DEX faces headwinds from TVL decline across all constituents. Annualized -35% reflects cautious outlook on mean reversion within 14-day window while acknowledging bear regime persistence. Moderate confidence due to regime uncertainty and technical signals conflicting with macro fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -42.38% 30-day loss and elevated volatility (86.5%) suggests continued downside pressure. However, recent 14-day positive return (+0.97%) and stabilizing 7-day loss (-4.30%) indicate potential bottoming. Cluster composition in yield/lending/DEX faces headwinds from TVL decline across all constituents. Annualized -35% reflects cautious outlook on mean reversion within 14-day window while acknowledging bear regime persistence. Moderate confidence due to regime uncertainty and technical signals conflicting with macro fundamentals.\"\n}\n```",
+  "date": "2024-05-02",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:59.130213+00:00"
+}

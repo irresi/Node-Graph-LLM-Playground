@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster exhibits negative momentum with -17.81% 7-day and -8.85% 14-day returns in moderate bear market. However, recent deceleration from -17.81% (7d) to -8.85% (14d) suggests stabilization. COMP's +2.7% TVL growth provides some fundamental support. High volatility (50.6%) and negative Sharpe (-0.42) indicate elevated risk. Forecast assumes continued but moderating downside as market sentiment stabilizes, annualized from near-term weakness. Medium confidence due to regime uncertainty and infrastructure token sensitivity to market cycles.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster exhibits negative momentum with -17.81% 7-day and -8.85% 14-day returns in moderate bear market. However, recent deceleration from -17.81% (7d) to -8.85% (14d) suggests stabilization. COMP's +2.7% TVL growth provides some fundamental support. High volatility (50.6%) and negative Sharpe (-0.42) indicate elevated risk. Forecast assumes continued but moderating downside as market sentiment stabilizes, annualized from near-term weakness. Medium confidence due to regime uncertainty and infrastructure token sensitivity to market cycles.\"\n}\n```",
+  "date": "2023-04-24",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:24.910027+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.55,
+  "reasoning": "Cluster showing strong recent momentum (+13.69% over 14 days, +8.01% over 7 days) with positive 30-day return (+4.71%) despite neutral market regime. However, high volatility (49.6% annualized) and significant max drawdown (-20.2%) suggest mean reversion risk. Infrastructure/L2 tokens (OP, ARB, GRT) lack TVL data, limiting fundamental analysis. Annualized rate of 0.28 extrapolates recent 14-day performance but is tempered by moderate confidence due to momentum exhaustion risk in range-bound conditions and elevated drawdown risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster showing strong recent momentum (+13.69% over 14 days, +8.01% over 7 days) with positive 30-day return (+4.71%) despite neutral market regime. However, high volatility (49.6% annualized) and significant max drawdown (-20.2%) suggest mean reversion risk. Infrastructure/L2 tokens (OP, ARB, GRT) lack TVL data, limiting fundamental analysis. Annualized rate of 0.28 extrapolates recent 14-day performance but is tempered by moderate confidence due to momentum exhaustion risk in range-bound conditions and elevated drawdown risk.\"\n}\n```",
+  "date": "2024-02-08",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:12.060577+00:00"
+}

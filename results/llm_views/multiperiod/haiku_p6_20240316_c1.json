@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong TVL fundamentals (+24-31% 30d growth across protocols) supports upside. However, cluster momentum has decelerated significantly (26.71% 30d \u2192 1.21% 14d \u2192 -7.17% 7d), suggesting consolidation phase. Annualized return of 12% reflects modest positive outlook over 14-day period accounting for potential continued mean reversion, while strong structural fundamentals limit downside. Confidence moderate (0.62) due to short timeframe volatility and recent pullback uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bull market regime with strong uptrend (+30.3% TVL growth in 30 days)\n- Cluster significantly outperforming with +26.71% 30-day return\n- Elevated but reasonable volatility at 47.7% annualized\n- Strong Sharpe ratio of 4.70 indicates quality risk-adjusted returns\n\n**Momentum Analysis:**\n- 30-day return: +26.71% (strong)\n- 14-day return: +1.21% (modest, suggesting momentum deceleration)\n- 7-day return: -7.17% (pullback/consolidation)\n- Pattern suggests mean reversion or consolidation phase after strong rally\n\n**Cluster Composition Strengths:**\n- Diversified across yield farming (YFI, CVX), DEX (UNI, BAL, CRV), lending (MKR), derivatives (SNX)\n- All protocols show positive 30-day TVL growth (+21-31%)\n- Major protocols (UNI: $5.9B, MKR: $7.8B) provide stability\n- Strong TVL momentum indicates sustained protocol demand\n\n**Risk Factors:**\n- Max drawdown of -12.4% in past 30 days shows volatility spikes possible\n- Recent 7-day decline suggests pullback after strong rally\n- Market is overbought relative to historical metrics\n- Regulatory risks in DeFi space\n\n**Forecast Logic:**\nThe cluster is in a bull market but showing signs of consolidation/pullback (recent -7.17% in 7 days after strong 30-day gains). The positive 14-day return (+1.21%) suggests the pullback is stabilizing. Given:\n1. Bull market regime supports upside\n2. TVL fundamentals remain strong\n3. Recent consolidation suggests reduced downside risk\n4. But momentum has clearly decelerated from 30-day peaks\n5. 14-day horizon is short; mean reversion possible but structural bull case intact\n\nI forecast modest positive returns with moderate confidence, accounting for deceleration but maintaining bull thesis.\n\n```json\n{\"expected_return\": 0.12, \"confidence\": 0.62, \"reasoning\": \"Bull market regime with strong TVL fundamentals (+24-31% 30d growth across protocols) supports upside. However, cluster momentum has decelerated significantly (26.71% 30d \u2192 1.21% 14d \u2192 -7.17% 7d), suggesting consolidation phase. Annualized return of 12% reflects modest positive outlook over 14-day period accounting for potential continued mean reversion, while strong structural fundamentals limit downside. Confidence moderate (0.62) due to short timeframe volatility and recent pullback uncertainty.\"}\n```",
+  "date": "2024-03-16",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:01.930123+00:00"
+}

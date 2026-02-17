@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "DYDX faces significant headwinds: bear market regime with -13.5% DeFi TVL contraction, severe 30-day drawdown (-49.13%), and extreme volatility (131.3% annualized). However, positive 14-day momentum (+7.53%) and 7-day rebound (-6.84% vs -49.13% monthly) suggest potential near-term stabilization. The derivative protocol is highly sensitive to market sentiment and leverage cycles. Low confidence reflects high uncertainty in a volatile bear market; 14-day window too short to establish reliable directional bias given recent whipsaws. Expected return annualized to -0.85 based on mean reversion headwinds offsetting short-term positive momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX faces significant headwinds: bear market regime with -13.5% DeFi TVL contraction, severe 30-day drawdown (-49.13%), and extreme volatility (131.3% annualized). However, positive 14-day momentum (+7.53%) and 7-day rebound (-6.84% vs -49.13% monthly) suggest potential near-term stabilization. The derivative protocol is highly sensitive to market sentiment and leverage cycles. Low confidence reflects high uncertainty in a volatile bear market; 14-day window too short to establish reliable directional bias given recent whipsaws. Expected return annualized to -0.85 based on mean reversion headwinds offsetting short-term positive momentum.\"\n}\n```",
+  "date": "2024-04-27",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:48.184758+00:00"
+}

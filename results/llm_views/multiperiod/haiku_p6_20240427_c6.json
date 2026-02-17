@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 6 is in a severe bear market with -40.12% 30-day loss and strong downtrend momentum (-7.48% over 14 days). DeFi TVL declining -13.5% monthly signals sector weakness. High volatility (93% annualized) and negative Sharpe ratio (-3.62) indicate risk-reward unfavorable. Recent 7-day deceleration (-0.69%) suggests momentum may be stabilizing, but TVL contraction across all holdings (AAVE -7.8%, COMP -16.5%, GMX -15.4%, LDO -15.3%, RPL -13.2%) and broader market regime remain headwinds. Forecast is annualized return of approximately -85% over 14 days extrapolated, reflecting continued downside pressure with modest confidence due to potential mean reversion or capitulation bottom forming.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 6 is in a severe bear market with -40.12% 30-day loss and strong downtrend momentum (-7.48% over 14 days). DeFi TVL declining -13.5% monthly signals sector weakness. High volatility (93% annualized) and negative Sharpe ratio (-3.62) indicate risk-reward unfavorable. Recent 7-day deceleration (-0.69%) suggests momentum may be stabilizing, but TVL contraction across all holdings (AAVE -7.8%, COMP -16.5%, GMX -15.4%, LDO -15.3%, RPL -13.2%) and broader market regime remain headwinds. Forecast is annualized return of approximately -85% over 14 days extrapolated, reflecting continued downside pressure with modest confidence due to potential mean reversion or capitulation bottom forming.\"\n}\n```",
+  "date": "2024-04-27",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:07.931743+00:00"
+}

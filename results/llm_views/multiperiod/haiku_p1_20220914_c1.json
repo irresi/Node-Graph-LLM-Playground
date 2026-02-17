@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.1,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -15.2% TVL decline pressures downside. However, positive 14-day momentum (+4.0%) after -17.8% 30-day decline suggests potential stabilization/mean reversion. Recent 7-day flatness (-0.65%) indicates momentum may be fading. Mixed protocol metrics (GMX +9% vs SNX -27%) create uncertainty. High volatility (81.3%) and negative Sharpe ratio (-1.84) warrant low confidence. Modest 10% annualized return reflects cautious near-term stabilization scenario, not recovery.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Environment:**\n- Strong bear market with -15.2% DeFi TVL decline over 30 days\n- Cluster down -17.80% over 30 days, underperforming slightly worse than market\n- High volatility (81.3% annualized) and negative Sharpe ratio (-1.84)\n\n**Recent Momentum Signals:**\n- 7-day return: -0.65% (stabilizing but still negative)\n- 14-day return: +4.00% (positive reversal signal)\n- This suggests potential mean reversion or stabilization after sharp declines\n\n**Protocol-Level Analysis:**\n- Mixed signals across holdings:\n  - SNX: Severe decline (-27.0%), concerning\n  - GMX: Positive momentum (+9.0%), standing out\n  - CVX: Large TVL ($4.5B) but declining (-13.8%)\n  - LDO: Largest TVL ($7.0B) with moderate decline (-16.4%)\n  - RPL: Moderate decline (-14.8%)\n\n**Forecast Rationale:**\n1. The positive 14-day return (+4.00%) following severe 30-day decline (-17.80%) suggests potential stabilization\n2. However, we're in a strong bear market with persistent downward pressure\n3. The -7 day result (-0.65%) shows momentum has slowed, limiting upside\n4. Mean reversion is possible, but bear market regime limits recovery potential\n5. Cluster volatility is extremely high, making predictions uncertain\n\n**Annualized Return Calculation:**\n- 14-day forward view in a bear market with stabilizing signals\n- Expect modest positive return over 14 days, annualized to ~8-12%\n- High uncertainty due to volatile market conditions\n\n```json\n{\n  \"expected_return\": 0.10,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -15.2% TVL decline pressures downside. However, positive 14-day momentum (+4.0%) after -17.8% 30-day decline suggests potential stabilization/mean reversion. Recent 7-day flatness (-0.65%) indicates momentum may be fading. Mixed protocol metrics (GMX +9% vs SNX -27%) create uncertainty. High volatility (81.3%) and negative Sharpe ratio (-1.84) warrant low confidence. Modest 10% annualized return reflects cautious near-term stabilization scenario, not recovery.\"\n}\n```",
+  "date": "2022-09-14",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:20.025941+00:00"
+}

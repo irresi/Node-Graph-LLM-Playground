@@ -1,0 +1,30 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with -23% TVL decline and -42.25% cluster loss over 30 days. Recent momentum is severely negative (-27.9% 7d, -29.2% 14d), indicating continued downward pressure. Elevated volatility (54% annualized) and deeply negative Sharpe ratio (-6.57) suggest risk-reward is unfavorable. AAVE's 60% TVL dominance amid -19.1% TVL decline and broad protocol deleveraging pressures indicate structural headwinds. Mean reversion potential exists but current regime momentum dominates near-term outlook. Forecasting -1.85 annualized return (approximately -7% over 14 days) with moderate-high confidence, assuming partial stabilization from capitulation levels but not full reversal.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear market regime with -23% TVL decline and -42.25% cluster loss over 30 days. Recent momentum is severely negative (-27.9% 7d, -29.2% 14d), indicating continued downward pressure. Elevated volatility (54% annualized) and deeply negative Sharpe ratio (-6.57) suggest risk-reward is unfavorable. AAVE's 60% TVL dominance amid -19.1% TVL decline and broad protocol deleveraging pressures indicate structural headwinds. Mean reversion potential exists but current regime momentum dominates near-term outlook. Forecasting -1.85 annualized return (approximately -7% over 14 days) with moderate-high confidence, assuming partial stabilization from capitulation levels but not full reversal.\"\n}\n```",
+  "date": "2026-02-05",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:46.094077+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is in a severe bear market with -18.16% 30-day returns and deteriorating fundamentals (most protocols showing negative TVL changes). The 7-day momentum (-6.99%) is slightly improving relative to the 30-day trend, suggesting potential stabilization. However, the negative Sharpe ratio (-3.12), 48.9% volatility, and -26.9% max drawdown indicate continued elevated risk. Over 14 days, we expect further downside as the bear regime persists, but at a moderating pace. The improvement in BAL (+10.8% TVL change) provides marginal relief. Annualized forecast reflects extrapolating negative momentum with some mean-reversion discount.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is in a severe bear market with -18.16% 30-day returns and deteriorating fundamentals (most protocols showing negative TVL changes). The 7-day momentum (-6.99%) is slightly improving relative to the 30-day trend, suggesting potential stabilization. However, the negative Sharpe ratio (-3.12), 48.9% volatility, and -26.9% max drawdown indicate continued elevated risk. Over 14 days, we expect further downside as the bear regime persists, but at a moderating pace. The improvement in BAL (+10.8% TVL change) provides marginal relief. Annualized forecast reflects extrapolating negative momentum with some mean-reversion discount.\"\n}\n```",
+  "date": "2022-08-31",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:07.902891+00:00"
+}

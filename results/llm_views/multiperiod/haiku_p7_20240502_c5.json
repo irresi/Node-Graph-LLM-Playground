@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 faces significant headwinds: bear market regime, -47.55% 30-day decline, extreme volatility (86.7%), and negative 7-day momentum (-8.62%). However, recent 14-day return (-2.95%) shows deceleration in losses, suggesting potential stabilization. TVL metrics are mixed with AAVE relatively resilient (-5.2%) but CRV declining sharply (-20%). The negative Sharpe ratio (-4.61) indicates risk-adjusted returns are poor. Given the severe downtrend but some stabilization signals, I forecast continued decline but at a decelerating pace. Annualized -85% reflects near-term weakness, but moderate confidence (0.62) reflects uncertainty in whether bearish momentum persists or stabilizes.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 faces significant headwinds: bear market regime, -47.55% 30-day decline, extreme volatility (86.7%), and negative 7-day momentum (-8.62%). However, recent 14-day return (-2.95%) shows deceleration in losses, suggesting potential stabilization. TVL metrics are mixed with AAVE relatively resilient (-5.2%) but CRV declining sharply (-20%). The negative Sharpe ratio (-4.61) indicates risk-adjusted returns are poor. Given the severe downtrend but some stabilization signals, I forecast continued decline but at a decelerating pace. Annualized -85% reflects near-term weakness, but moderate confidence (0.62) reflects uncertainty in whether bearish momentum persists or stabilizes.\"\n}\n```",
+  "date": "2024-05-02",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:03.452674+00:00"
+}

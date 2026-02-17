@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime supports positive returns, but recent 7-day decline (-3.48%) after strong 30-day gains (+8.38%) suggests consolidation. Cluster shows quality fundamentals (Sharpe 1.78) with solid protocol TVL growth (especially SNX +16.6%, BAL +8.7%), supporting modest recovery over 14 days. However, high volatility (39.6% annualized) and max drawdown (-9%) create uncertainty. Forecast annualized 45% return reflects expected modest mean reversion upward from recent weakness within bull regime, with moderate confidence due to short-term uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Market regime is Bull with strong uptrend\n- 30-day cluster return of +8.38% shows positive momentum\n- 14-day return of +3.38% indicates recent bullish movement\n- Sharpe ratio of 1.78 is solid, showing good risk-adjusted returns\n- Most protocols show positive TVL changes (SNX +16.6%, BAL +8.7% particularly strong)\n- High Sharpe ratio suggests quality risk-return profile\n\n**Negative Indicators:**\n- Recent 7-day return is -3.48%, showing some weakness/pullback\n- Overall DeFi TVL relatively flat (-0.5% 30-day change)\n- Max drawdown of -9.0% indicates notable downside risk potential\n- High annualized volatility of 39.6% creates uncertainty\n\n**Analysis:**\nThe cluster shows a bull market regime with strong recent 30-day performance (+8.38%), but is experiencing a short-term pullback (-3.48% over 7 days). This suggests potential mean reversion or consolidation phase. The strong Sharpe ratio (1.78) indicates quality returns relative to risk.\n\nFor a 14-day forecast:\n- The recent 7-day decline after strong 30-day gains suggests the cluster may be due for consolidation or slight recovery\n- Given the bull regime, I expect modest positive returns over the next 14 days\n- The volatility and recent weakness argue for moderate rather than aggressive forecasting\n- Annualized return expectation should reflect the typical daily volatility and recent trend\n\n**Forecast Calculation:**\n- 14-day period represents ~2% of the year\n- Expected daily return considering recent trends: ~0.15-0.25% (annualized ~55-90%)\n- Conservative adjustment for consolidation phase and recent weakness\n- Bull regime supports positive bias\n\n```json\n{\"expected_return\": 0.45, \"confidence\": 0.62, \"reasoning\": \"Bull market regime supports positive returns, but recent 7-day decline (-3.48%) after strong 30-day gains (+8.38%) suggests consolidation. Cluster shows quality fundamentals (Sharpe 1.78) with solid protocol TVL growth (especially SNX +16.6%, BAL +8.7%), supporting modest recovery over 14 days. However, high volatility (39.6% annualized) and max drawdown (-9%) create uncertainty. Forecast annualized 45% return reflects expected modest mean reversion upward from recent weakness within bull regime, with moderate confidence due to short-term uncertainty.\"}\n```",
+  "date": "2022-12-13",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:15.562321+00:00"
+}

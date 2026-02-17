@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.58,
+  "reasoning": "Cluster 3 shows strong recent momentum (+31.49% in 30 days, +14.48% in last 7 days) within a bull market regime with expanding DeFi TVL (+20.6%). The exceptional Sharpe ratio (6.47) and modest max drawdown (-6.4%) suggest favorable risk-adjusted returns. However, confidence is moderate due to: (1) lack of TVL data for 3 of 4 tokens limiting fundamental analysis, (2) high annualized volatility (40.9%) creating mean-reversion risk, (3) extrapolating strong recent momentum over just 14 days may overestimate near-term returns. The forecast reflects positive momentum and bull regime, but tempers expectations given volatility and data limitations.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 3 shows strong recent momentum (+31.49% in 30 days, +14.48% in last 7 days) within a bull market regime with expanding DeFi TVL (+20.6%). The exceptional Sharpe ratio (6.47) and modest max drawdown (-6.4%) suggest favorable risk-adjusted returns. However, confidence is moderate due to: (1) lack of TVL data for 3 of 4 tokens limiting fundamental analysis, (2) high annualized volatility (40.9%) creating mean-reversion risk, (3) extrapolating strong recent momentum over just 14 days may overestimate near-term returns. The forecast reflects positive momentum and bull regime, but tempers expectations given volatility and data limitations.\"\n}\n```",
+  "date": "2023-01-18",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:50.986828+00:00"
+}

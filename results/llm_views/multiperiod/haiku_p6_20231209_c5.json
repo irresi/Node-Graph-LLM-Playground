@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "DEX cluster showing strong momentum with 23.55% 30-day return and positive Sharpe ratio (2.64) in bull market regime. However, confidence is moderated by: (1) CAKE's negative TVL trend (-0.8% 30d), suggesting potential sustainability concerns, (2) high volatility (75% annualized) creating mean-reversion risk, (3) -11.8% max drawdown indicating correction vulnerability. 7-14 day returns (~5%) suggest momentum may be decelerating. Annualized forecast of 42% reflects continued outperformance but below recent 30-day pace, accounting for potential consolidation after strong run-up.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"DEX cluster showing strong momentum with 23.55% 30-day return and positive Sharpe ratio (2.64) in bull market regime. However, confidence is moderated by: (1) CAKE's negative TVL trend (-0.8% 30d), suggesting potential sustainability concerns, (2) high volatility (75% annualized) creating mean-reversion risk, (3) -11.8% max drawdown indicating correction vulnerability. 7-14 day returns (~5%) suggest momentum may be decelerating. Annualized forecast of 42% reflects continued outperformance but below recent 30-day pace, accounting for potential consolidation after strong run-up.\"\n}\n```",
+  "date": "2023-12-09",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:36.470080+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with strong downtrend (-7.45% 30d, -9.81% 14d) despite recent 7d bounce (+6.11%). AAVE shows TVL stability (+1.5%) but high volatility (43.1% annualized) and negative Sharpe ratio (-1.45) indicate risk-adjusted returns remain poor. 14-day forward forecast incorporates mean reversion headwinds in bear market, elevated macro uncertainty post-FTX collapse (late 2022), and mixed momentum signals. AAVE represents 99%+ of cluster TVL; GRT infrastructure token adds uncertainty. Confidence moderate due to regime volatility and conflicting signals (positive TVL trend vs. negative price momentum).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bear market regime with strong downtrend (-7.45% 30d, -9.81% 14d) despite recent 7d bounce (+6.11%). AAVE shows TVL stability (+1.5%) but high volatility (43.1% annualized) and negative Sharpe ratio (-1.45) indicate risk-adjusted returns remain poor. 14-day forward forecast incorporates mean reversion headwinds in bear market, elevated macro uncertainty post-FTX collapse (late 2022), and mixed momentum signals. AAVE represents 99%+ of cluster TVL; GRT infrastructure token adds uncertainty. Confidence moderate due to regime volatility and conflicting signals (positive TVL trend vs. negative price momentum).\"\n}\n```",
+  "date": "2022-12-27",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:36.386815+00:00"
+}

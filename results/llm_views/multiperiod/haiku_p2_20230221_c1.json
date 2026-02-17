@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum (+40.47% 30d) in bullish DeFi market regime with healthy protocol fundamentals (AAVE TVL +6.7%). However, 7-day return deceleration suggests momentum plateauing. Expect continued positive returns but with mean reversion risk. Annualized 14-day forecast of 85% reflects momentum residuals offset by volatility risk (107.3%) and drawdown potential (-18.5%). Moderate confidence due to high volatility and late-stage momentum positioning.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Cluster Composition:**\n- AAVE: Major lending protocol with $4.985B TVL (+6.7% 30d)\n- GRT: Infrastructure token (The Graph)\n\n**Key Observations:**\n\n1. **Strong Recent Momentum**\n   - 30-day return: +40.47%\n   - 14-day return: +15.26%\n   - 7-day return: +12.46%\n   - The cluster shows consistent positive momentum over multiple timeframes\n\n2. **Market Conditions**\n   - Overall DeFi TVL up 8.1% (30d), indicating sector strength\n   - Moderate Bull regime supports continued growth\n   - AAVE TVL growing steadily (+6.7%), showing protocol health\n\n3. **Risk Considerations**\n   - High volatility: 107.3% annualized suggests significant price swings\n   - Max drawdown of -18.5% indicates downside risk\n   - Sharpe ratio of 3.17 is excellent, showing risk-adjusted returns are strong\n\n4. **Mean Reversion vs. Momentum**\n   - The cluster is up significantly over 30 days (+40.47%)\n   - Recent 14-day and 7-day returns suggest momentum is decelerating slightly\n   - Mean reversion risk exists, but market regime is still bullish\n\n5. **Forecast Rationale**\n   - The strong recent performance and bullish market regime support continued positive returns\n   - However, such strong 30-day returns (+40.47%) typically see some pullback\n   - The recent 7-day return (+12.46%) is moderating from the 14-day return (+15.26%), suggesting momentum is plateauing\n   - Annualized from 14-day forward returns: I expect moderate positive returns with elevated risk\n\n```json\n{\"expected_return\": 0.85, \"confidence\": 0.62, \"reasoning\": \"Cluster shows strong momentum (+40.47% 30d) in bullish DeFi market regime with healthy protocol fundamentals (AAVE TVL +6.7%). However, 7-day return deceleration suggests momentum plateauing. Expect continued positive returns but with mean reversion risk. Annualized 14-day forecast of 85% reflects momentum residuals offset by volatility risk (107.3%) and drawdown potential (-18.5%). Moderate confidence due to high volatility and late-stage momentum positioning.\"}\n```",
+  "date": "2023-02-21",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:30.784956+00:00"
+}

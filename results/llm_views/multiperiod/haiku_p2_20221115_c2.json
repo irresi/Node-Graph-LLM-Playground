@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Strong bear market regime with accelerating losses through mid-period, but recent momentum shows deceleration. LDO's stability provides some floor. Expect continued modest downside or stabilization over 14 days, annualizing to ~-8%. Low confidence due to high volatility and unpredictable bear market bottoming.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 2 (GMX, LDO, RPL) to forecast the expected 14-day return.\n\n## Analysis\n\n**Market Regime & Momentum:**\n- Strong bear market with -16.1% DeFi TVL decline over 30 days\n- Cluster down -11.60% (30d), -22.04% (14d), -12.07% (7d)\n- Recent momentum is sharply negative, suggesting continued downward pressure\n- High volatility (108.3% annualized) indicates elevated risk\n\n**Protocol Fundamentals:**\n- Mixed TVL trends: LDO stable (+0.1%), but GMX (-5.7%) and RPL (-2.7%) declining\n- LDO's large TVL ($5979M) provides some stability, but insufficient to offset cluster weakness\n- Max drawdown of -40.2% indicates severe recent stress\n\n**Key Considerations:**\n1. The 14-day return (-22.04%) is significantly worse than 30-day (-11.60%), suggesting accelerating losses\n2. Bear market regime typically sees continued downside before stabilization\n3. The negative Sharpe ratio (-0.90) indicates poor risk-adjusted returns\n4. However, at -22.04% over 14 days, the cluster has experienced substantial losses, potentially pricing in some distress\n\n**Forecast Logic:**\n- In bear markets, tokens often experience mean reversion after extreme moves, but velocity matters\n- The cluster's recent deceleration in losses (from -22.04% in 14d to -12.07% in 7d) suggests the sharp decline is moderating\n- However, given the broader market conditions, I don't expect recovery\u2014more likely stabilization or further modest decline\n- Annualizing a modest continued decline: estimate -5% to +2% return over next 14 days\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Strong bear market regime with accelerating losses through mid-period, but recent momentum shows deceleration. LDO's stability provides some floor. Expect continued modest downside or stabilization over 14 days, annualizing to ~-8%. Low confidence due to high volatility and unpredictable bear market bottoming.\"}\n```",
+  "date": "2022-11-15",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:20.534451+00:00"
+}

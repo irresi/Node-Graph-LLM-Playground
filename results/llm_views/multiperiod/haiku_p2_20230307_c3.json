@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.15,
+  "confidence": 0.62,
+  "reasoning": "Moderate bear regime and negative 14-day momentum (-4.70%) suggest continued downside pressure, but stabilizing 7-day trend (-2.04%) and strong BAL/SNX fundamentals indicate potential floor. High volatility (52.5%) creates recovery risk. Forecast reflects cautious outlook with meaningful downside bias. Confidence moderate due to regime uncertainty and mixed protocol-level signals.",
+  "raw_response": "Based on the provided market context and cluster metrics, I'll analyze the data to forecast the expected annualized return for Cluster 3 over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Moderate bear market with negative trend - headwinds for returns\n2. **Recent Momentum**: Negative across timeframes:\n   - 7-day return: -2.04%\n   - 14-day return: -4.70%\n   - 30-day return: -0.29%\n3. **Volatility Profile**: High annualized volatility (52.5%) suggests significant downside risk\n4. **Sharpe Ratio**: -0.05 indicates poor risk-adjusted returns\n5. **Max Drawdown**: -13.5% shows meaningful losses in recent period\n6. **Mixed TVL Signals**:\n   - Positive: BAL (+6.2%), SNX (+21.2%) showing protocol strength\n   - Negative: COMP (-3.7%), YFI (-3.0%) showing outflows\n   - Neutral: CRV (+1.4%), overall TVL slightly positive\n\n**Forecast Logic:**\n\nGiven the moderate bear regime and negative 14-day momentum (-4.70%), the cluster faces headwinds. However:\n- The 7-day decline (-2.04%) is less severe than the 14-day (-4.70%), suggesting potential stabilization\n- Some protocols (BAL, SNX) show strong TVL growth despite market weakness\n- High volatility creates both risk and mean-reversion opportunities\n\nThe cluster is likely to experience continued modest pressure, with recovery potential limited by the bear market regime.\n\n```json\n{\n  \"expected_return\": -0.15,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Moderate bear regime and negative 14-day momentum (-4.70%) suggest continued downside pressure, but stabilizing 7-day trend (-2.04%) and strong BAL/SNX fundamentals indicate potential floor. High volatility (52.5%) creates recovery risk. Forecast reflects cautious outlook with meaningful downside bias. Confidence moderate due to regime uncertainty and mixed protocol-level signals.\"\n}\n```",
+  "date": "2023-03-07",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:13.995667+00:00"
+}

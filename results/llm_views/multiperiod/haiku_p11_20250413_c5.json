@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (BAL/AAVE) faces significant headwinds: moderate bear market regime with -7.1% TVL decline, extreme volatility (103.9% annualized), and severe recent drawdowns (-42.5% max, -26.48% over 14 days). However, AAVE's TVL stability (+0.1% 30d) provides some defensive positioning against continued liquidation cascades. The -18.4% 7-day return suggests momentum may be stabilizing after initial shock. Negative Sharpe ratio (-2.21) indicates poor risk-adjusted returns. Given the bear regime, high volatility, and recent momentum, we forecast continued weakness over 14 days but with moderating losses as the market finds a floor. Confidence is moderate due to uncertainty around macro conditions and potential recovery catalysts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 (BAL/AAVE) faces significant headwinds: moderate bear market regime with -7.1% TVL decline, extreme volatility (103.9% annualized), and severe recent drawdowns (-42.5% max, -26.48% over 14 days). However, AAVE's TVL stability (+0.1% 30d) provides some defensive positioning against continued liquidation cascades. The -18.4% 7-day return suggests momentum may be stabilizing after initial shock. Negative Sharpe ratio (-2.21) indicates poor risk-adjusted returns. Given the bear regime, high volatility, and recent momentum, we forecast continued weakness over 14 days but with moderating losses as the market finds a floor. Confidence is moderate due to uncertainty around macro conditions and potential recovery catalysts.\"\n}\n```",
+  "date": "2025-04-13",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:17.199022+00:00"
+}

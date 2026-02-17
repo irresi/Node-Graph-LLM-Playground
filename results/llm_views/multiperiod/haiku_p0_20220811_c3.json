@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.35,
+  "reasoning": "OP (Optimism L2) shows strong recent momentum (+124.27% over 30 days, +39.75% over 14 days) in a moderate bull market with positive DeFi TVL trends (+38.5%). However, the 7-day return of -24.26% suggests recent pullback and profit-taking. The extremely high volatility (184.3% annualized) and recent drawdown indicate this is a high-risk, momentum-driven asset. Given the strong bull regime but recent weakness, I'm forecasting a moderate positive return annualized to ~45% over the next 14 days, but with LOW confidence (0.35) due to: (1) extreme volatility making near-term direction unpredictable, (2) recent reversal after strong gains, (3) L2 infrastructure tokens being sentiment-dependent, and (4) the difficulty of predicting mean reversion vs. continuation in such volatile assets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"OP (Optimism L2) shows strong recent momentum (+124.27% over 30 days, +39.75% over 14 days) in a moderate bull market with positive DeFi TVL trends (+38.5%). However, the 7-day return of -24.26% suggests recent pullback and profit-taking. The extremely high volatility (184.3% annualized) and recent drawdown indicate this is a high-risk, momentum-driven asset. Given the strong bull regime but recent weakness, I'm forecasting a moderate positive return annualized to ~45% over the next 14 days, but with LOW confidence (0.35) due to: (1) extreme volatility making near-term direction unpredictable, (2) recent reversal after strong gains, (3) L2 infrastructure tokens being sentiment-dependent, and (4) the difficulty of predicting mean reversion vs. continuation in such volatile assets.\"\n}\n```",
+  "date": "2022-08-11",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:55.161187+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.65,
+  "reasoning": "Cluster 3 exhibits severe downside momentum in a strong bear market. Recent 14-day return of -17.46% with 77% annualized volatility and negative Sharpe ratio (-3.45) indicates distressed conditions. TVL declines across all major tokens (UNI -30.7%, CVX -34.0%, COMP -18.0%) signal deteriorating protocol fundamentals and potential continued liquidations. Annualizing the 14-day trend (-17.46%) yields approximately -185% on an annualized basis, but mean reversion and stabilization are likely over a full 14-day period, suggesting moderation. Forecasted return of -1.85x annualized (roughly -26% over 14 days) reflects elevated downside risk tempered by probability of near-term stabilization. Confidence moderate due to regime uncertainty and potential cascade effects in derivatives/lending protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 3 exhibits severe downside momentum in a strong bear market. Recent 14-day return of -17.46% with 77% annualized volatility and negative Sharpe ratio (-3.45) indicates distressed conditions. TVL declines across all major tokens (UNI -30.7%, CVX -34.0%, COMP -18.0%) signal deteriorating protocol fundamentals and potential continued liquidations. Annualizing the 14-day trend (-17.46%) yields approximately -185% on an annualized basis, but mean reversion and stabilization are likely over a full 14-day period, suggesting moderation. Forecasted return of -1.85x annualized (roughly -26% over 14 days) reflects elevated downside risk tempered by probability of near-term stabilization. Confidence moderate due to regime uncertainty and potential cascade effects in derivatives/lending protocols.\"\n}\n```",
+  "date": "2025-03-02",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:33.718012+00:00"
+}

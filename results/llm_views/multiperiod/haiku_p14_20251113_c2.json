@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Bear market regime with -17.1% TVL decline and -24.8% 30-day cluster return. Recent 7-day bounce (+10.01%) suggests potential mean reversion, but 14-day decline (-2.81%) and negative Sharpe (-3.35) indicate underlying weakness. CAKE TVL declining (-6.4%) while MKR stable (+1.2%) provides mixed signals. High volatility (62.2%) and -29% max drawdown suggest continued downside risk despite short-term momentum. Conservative bearish outlook with low confidence due to unpredictable market transitions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Bear market regime with -17.1% TVL decline and -24.8% 30-day cluster return. Recent 7-day bounce (+10.01%) suggests potential mean reversion, but 14-day decline (-2.81%) and negative Sharpe (-3.35) indicate underlying weakness. CAKE TVL declining (-6.4%) while MKR stable (+1.2%) provides mixed signals. High volatility (62.2%) and -29% max drawdown suggest continued downside risk despite short-term momentum. Conservative bearish outlook with low confidence due to unpredictable market transitions.\"\n}\n```",
+  "date": "2025-11-13",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:08.197647+00:00"
+}

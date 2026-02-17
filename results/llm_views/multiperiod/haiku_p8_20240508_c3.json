@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 (MKR) faces significant headwinds: bear market regime, 30-day TVL decline of -15.7%, and poor recent performance (-29.94% last 30d, -8.15% last 14d). However, the 7-day rebound of +1.33% suggests potential short-term recovery. Given the 78.6% annualized volatility and negative Sharpe ratio (-3.20), forecasting 14-day returns is highly uncertain. The annualized projection assumes continued downward pressure but with mean reversion from recent volatility extremes. Low confidence reflects the challenging bear regime and single-token cluster concentration risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 (MKR) faces significant headwinds: bear market regime, 30-day TVL decline of -15.7%, and poor recent performance (-29.94% last 30d, -8.15% last 14d). However, the 7-day rebound of +1.33% suggests potential short-term recovery. Given the 78.6% annualized volatility and negative Sharpe ratio (-3.20), forecasting 14-day returns is highly uncertain. The annualized projection assumes continued downward pressure but with mean reversion from recent volatility extremes. Low confidence reflects the challenging bear regime and single-token cluster concentration risk.\"\n}\n```",
+  "date": "2024-05-08",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:57.020775+00:00"
+}

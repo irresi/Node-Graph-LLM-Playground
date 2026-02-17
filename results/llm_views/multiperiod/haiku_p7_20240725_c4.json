@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -6.16% 30-day return and -19.2% max drawdown. Recent 14-day momentum (+3.05%) suggests potential stabilization, but negative 7-day return (-1.70%) and weak Sharpe ratio (-0.86) indicate fragile recovery. Mixed protocol fundamentals: COMP and YFI showing strength (+2.0%, +3.5%), but CVX declining sharply (-10.8%), SUSHI and DYDX weakening. High volatility (59.9%) and bear market conditions suggest continued downside risk over next 14 days. Low confidence due to conflicting signals and macroeconomic uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": -0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market regime with -6.16% 30-day return and -19.2% max drawdown. Recent 14-day momentum (+3.05%) suggests potential stabilization, but negative 7-day return (-1.70%) and weak Sharpe ratio (-0.86) indicate fragile recovery. Mixed protocol fundamentals: COMP and YFI showing strength (+2.0%, +3.5%), but CVX declining sharply (-10.8%), SUSHI and DYDX weakening. High volatility (59.9%) and bear market conditions suggest continued downside risk over next 14 days. Low confidence due to conflicting signals and macroeconomic uncertainty.\"}\n```",
+  "date": "2024-07-25",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:35.469032+00:00"
+}

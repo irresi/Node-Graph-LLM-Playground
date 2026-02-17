@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.0,
+  "confidence": 0.2,
+  "reasoning": "ARB is an infrastructure/L2 token with no TVL data and zero returns across all timeframes (7/14/30-day), indicating stagnation or data collection issues. The market regime is neutral/range-bound with modest DeFi growth (+3.3% TVL). Without fundamental catalyst data, protocol metrics, or price momentum, a neutral forecast is appropriate. Low confidence due to lack of meaningful data points and the token's infrastructure nature, which may have different drivers than yield-bearing DeFi protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.0,\n  \"confidence\": 0.2,\n  \"reasoning\": \"ARB is an infrastructure/L2 token with no TVL data and zero returns across all timeframes (7/14/30-day), indicating stagnation or data collection issues. The market regime is neutral/range-bound with modest DeFi growth (+3.3% TVL). Without fundamental catalyst data, protocol metrics, or price momentum, a neutral forecast is appropriate. Low confidence due to lack of meaningful data points and the token's infrastructure nature, which may have different drivers than yield-bearing DeFi protocols.\"\n}\n```",
+  "date": "2023-03-13",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:49.636808+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "YFI is in a strong bear market with -14.06% 30-day return and -21.2% TVL decline. The 53.9% annualized volatility and negative Sharpe ratio (-2.19) indicate distressed conditions. Recent momentum shows consistent losses (-12.69% 7-day, -13.81% 14-day), suggesting downward trend continuation. However, moderate confidence reflects: (1) mean reversion potential after significant drawdown (-19.1% max), (2) DeFi TVL weakness may stabilize, and (3) single-token cluster limits diversification analysis. The forecasted -85% annualized return translates to ~-1.6% over 14 days, reflecting continued but decelerating losses as oversold conditions may attract value buyers.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"YFI is in a strong bear market with -14.06% 30-day return and -21.2% TVL decline. The 53.9% annualized volatility and negative Sharpe ratio (-2.19) indicate distressed conditions. Recent momentum shows consistent losses (-12.69% 7-day, -13.81% 14-day), suggesting downward trend continuation. However, moderate confidence reflects: (1) mean reversion potential after significant drawdown (-19.1% max), (2) DeFi TVL weakness may stabilize, and (3) single-token cluster limits diversification analysis. The forecasted -85% annualized return translates to ~-1.6% over 14 days, reflecting continued but decelerating losses as oversold conditions may attract value buyers.\"\n}\n```",
+  "date": "2025-11-21",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:28.808975+00:00"
+}

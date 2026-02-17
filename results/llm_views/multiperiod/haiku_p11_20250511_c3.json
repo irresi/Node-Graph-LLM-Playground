@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong 30-day momentum (+37.46%) and exceptional Sharpe ratio (4.94) suggest continued upside. However, recent deceleration in weekly returns (7d: +24.71%, 14d: +17.90%, 30d: +37.46%) indicates potential momentum loss. High volatility (63.7% annualized) and -9.6% max drawdown create tail risk. TVL growth remains solid across major protocols (UNI +41.7%, CVX +38.1%), supporting fundamentals. Forecasting moderate continuation with elevated uncertainty given extended rally and clustering of derivative/yield protocols in volatile market environment. Annualized 14-day return of 85% reflects probability-weighted bullish scenario tempered by momentum deceleration signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull market regime with strong 30-day momentum (+37.46%) and exceptional Sharpe ratio (4.94) suggest continued upside. However, recent deceleration in weekly returns (7d: +24.71%, 14d: +17.90%, 30d: +37.46%) indicates potential momentum loss. High volatility (63.7% annualized) and -9.6% max drawdown create tail risk. TVL growth remains solid across major protocols (UNI +41.7%, CVX +38.1%), supporting fundamentals. Forecasting moderate continuation with elevated uncertainty given extended rally and clustering of derivative/yield protocols in volatile market environment. Annualized 14-day return of 85% reflects probability-weighted bullish scenario tempered by momentum deceleration signals.\"\n}\n```",
+  "date": "2025-05-11",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:13.042623+00:00"
+}

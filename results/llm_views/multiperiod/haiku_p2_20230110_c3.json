@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing strong momentum recovery with +11.34% 7-day and +7.87% 14-day returns despite bearish 30-day backdrop (-8.38%). CRV leading with +2.3% TVL growth while others stabilizing. However, moderate bear market regime, elevated volatility (43.6%), and negative Sharpe ratio (-1.62) create headwinds. Annualizing recent 14-day momentum (+7.87%) yields ~0.42, but confidence tempered by regime weakness and max drawdown risk (-19.9%). Recovery appears correction-driven rather than fundamental-driven.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing strong momentum recovery with +11.34% 7-day and +7.87% 14-day returns despite bearish 30-day backdrop (-8.38%). CRV leading with +2.3% TVL growth while others stabilizing. However, moderate bear market regime, elevated volatility (43.6%), and negative Sharpe ratio (-1.62) create headwinds. Annualizing recent 14-day momentum (+7.87%) yields ~0.42, but confidence tempered by regime weakness and max drawdown risk (-19.9%). Recovery appears correction-driven rather than fundamental-driven.\"\n}\n```",
+  "date": "2023-01-10",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:14.339342+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 exhibits strong bearish momentum in a declining DeFi market. The 14-day return of -4.22% annualizes to approximately -28% over a full year, consistent with current volatility and negative trend. Mixed protocol fundamentals (AAVE +4.1% TVL vs MKR -15.6%) provide some stabilization, but the overall market regime, negative Sharpe ratio (-2.49), and recent acceleration of losses (-4.10% in last 7 days) suggest continued downward pressure. Moderate confidence due to bear market volatility and potential for reversal, but near-term bearish bias is justified.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 exhibits strong bearish momentum in a declining DeFi market. The 14-day return of -4.22% annualizes to approximately -28% over a full year, consistent with current volatility and negative trend. Mixed protocol fundamentals (AAVE +4.1% TVL vs MKR -15.6%) provide some stabilization, but the overall market regime, negative Sharpe ratio (-2.49), and recent acceleration of losses (-4.10% in last 7 days) suggest continued downward pressure. Moderate confidence due to bear market volatility and potential for reversal, but near-term bearish bias is justified.\"\n}\n```",
+  "date": "2024-10-29",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:43.477814+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.45,
+  "reasoning": "MKR faces headwinds from a strong bear market regime (DeFi TVL down 11.9% in 30 days) and recent negative momentum (-11.68% 7-day return, -9.08% 14-day return). However, MKR's lending protocol shows resilience with +1.5% TVL growth and positive 30-day return (+0.62%), suggesting some protocol strength. The low Sharpe ratio (0.08) and high volatility (63% annualized) indicate significant uncertainty. Given the opposing signals\u2014macro bear pressure vs. micro protocol strength\u2014confidence is moderate. The 14-day forecast suggests continued downward pressure as momentum remains negative, but protocol fundamentals provide some cushion against steeper declines. Annualized return reflects expected continued weakness over the 14-day period.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.45,\n  \"reasoning\": \"MKR faces headwinds from a strong bear market regime (DeFi TVL down 11.9% in 30 days) and recent negative momentum (-11.68% 7-day return, -9.08% 14-day return). However, MKR's lending protocol shows resilience with +1.5% TVL growth and positive 30-day return (+0.62%), suggesting some protocol strength. The low Sharpe ratio (0.08) and high volatility (63% annualized) indicate significant uncertainty. Given the opposing signals\u2014macro bear pressure vs. micro protocol strength\u2014confidence is moderate. The 14-day forecast suggests continued downward pressure as momentum remains negative, but protocol fundamentals provide some cushion against steeper declines. Annualized return reflects expected continued weakness over the 14-day period.\"\n}\n```",
+  "date": "2023-08-21",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:43.110567+00:00"
+}

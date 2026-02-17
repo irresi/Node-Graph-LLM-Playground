@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows strong recent 14-day momentum (+9.69%) reversing 30-day decline (-21.10%), suggesting potential mean reversion in bear market. However, confidence is low due to: (1) sustained bear regime with -16.7% TVL decline, (2) elevated volatility (86.8% annualized) creating high forecast uncertainty, (3) negative Sharpe ratio (-2.04) indicating poor risk-adjusted returns, (4) mixed protocol fundamentals with severe TVL declines (SNX -45.7%), and (5) mean reversion may not sustain given macro headwinds. Moderate positive forecast reflects recent momentum and potential relief rally, but heavily discounted for regime downside risks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows strong recent 14-day momentum (+9.69%) reversing 30-day decline (-21.10%), suggesting potential mean reversion in bear market. However, confidence is low due to: (1) sustained bear regime with -16.7% TVL decline, (2) elevated volatility (86.8% annualized) creating high forecast uncertainty, (3) negative Sharpe ratio (-2.04) indicating poor risk-adjusted returns, (4) mixed protocol fundamentals with severe TVL declines (SNX -45.7%), and (5) mean reversion may not sustain given macro headwinds. Moderate positive forecast reflects recent momentum and potential relief rally, but heavily discounted for regime downside risks.\"\n}\n```",
+  "date": "2025-03-24",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:25.792664+00:00"
+}

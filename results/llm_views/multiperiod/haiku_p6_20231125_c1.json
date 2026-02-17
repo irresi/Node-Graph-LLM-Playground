@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.11,
+  "confidence": 0.58,
+  "reasoning": "Strong fundamentals and bullish regime support continued gains, but recent 7-day deceleration and elevated volatility suggest momentum cooling. Forecasting modest performance (4.5% over 14 days, ~11% annualized) below recent pace. Confidence tempered by mean reversion risk after strong 30-day run and high volatility.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n1. **Strong Recent Momentum**: 14-day return of +7.21% and 30-day return of +26.52% show sustained uptrend\n2. **Bullish Market Regime**: Moderate bull market with +15.1% TVL growth overall\n3. **Excellent Risk-Adjusted Returns**: Sharpe ratio of 5.22 is exceptionally strong\n4. **Strong TVL Growth**: All major protocols showing positive 30-day TVL changes (UNI +11.9%, CRV +9.3%, BAL +9.9%, MKR +16.4%, SNX +55.5%)\n5. **High-Quality Protocols**: Mix of established DEX (UNI, BAL), lending (MKR), derivatives (SNX), and yield (CRV, YFI, CVX)\n\n**Risk Factors:**\n1. **Momentum Deceleration**: 7-day return (+1.62%) is significantly lower than 14-day (+7.21%), suggesting momentum may be cooling\n2. **Elevated Volatility**: 42.7% annualized volatility is high, creating mean reversion risk\n3. **Recent Performance**: After such strong 30-day gains, regression to mean is likely\n4. **Market Cycle**: Moderate bull, not strong bull - suggests limited runway for continued acceleration\n\n**Forecast Rationale:**\n- The cluster is in a strong uptrend but showing signs of deceleration\n- After +7.21% in 14 days, maintaining that pace seems unlikely over the next 14 days\n- A reasonable expectation would be 50-70% of the recent 14-day pace (3.5-5% over next 14 days)\n- Annualizing 4.5% over 14 days \u2248 0.117 (assuming 26 periods of 14 days per year)\n- However, high volatility and mean reversion risk suggest modest confidence\n\n```json\n{\"expected_return\": 0.11, \"confidence\": 0.58, \"reasoning\": \"Strong fundamentals and bullish regime support continued gains, but recent 7-day deceleration and elevated volatility suggest momentum cooling. Forecasting modest performance (4.5% over 14 days, ~11% annualized) below recent pace. Confidence tempered by mean reversion risk after strong 30-day run and high volatility.\"}\n```",
+  "date": "2023-11-25",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:48.981062+00:00"
+}

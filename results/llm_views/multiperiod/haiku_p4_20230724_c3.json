@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "Liquid staking cluster shows bearish momentum (-8.95% 30d) despite bull market and strong TVL fundamentals (LDO +6.7%, RPL +4.4%). Expected partial mean reversion over 14 days with modest positive returns, but low confidence due to sector-specific headwinds and recent consistent underperformance. High volatility (58.2%) and negative Sharpe ratio add uncertainty.",
+  "raw_response": "I'll analyze the Cluster 3 (LDO, RPL - Liquid Staking tokens) to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows consistent negative momentum across all timeframes (7d: -9.86%, 14d: -8.65%, 30d: -8.95%), suggesting a bearish short-term trend despite the bull market regime.\n\n2. **Fundamental Support**: \n   - LDO TVL is strong at $14.9B with positive 30-day growth (+6.7%)\n   - RPL TVL is growing (+4.4% in 30 days)\n   - Total cluster TVL is substantial and growing, indicating healthy protocol fundamentals\n\n3. **Volatility & Risk**:\n   - High annualized volatility (58.2%) indicates significant price swings\n   - Negative Sharpe ratio (-1.29) shows poor risk-adjusted returns recently\n   - Max drawdown of -17.6% demonstrates recent stress\n\n4. **Market Regime Conflict**:\n   - Overall market is in a bull regime, but this cluster is underperforming\n   - This suggests either sector-specific headwinds or relative weakness in liquid staking narratives\n   - Liquid staking has had regulatory/competitive pressures in 2023\n\n5. **Reversion Potential**:\n   - The negative momentum combined with fundamental strength and a bull market regime suggests potential mean reversion\n   - However, the consistent underperformance indicates weakness that may persist short-term\n   - Over 14 days, recovery might be partial\n\n**Forecast Rationale:**\nGiven the bearish short-term momentum (-8.95% 30d) but positive TVL fundamentals in a bull market, I expect partial recovery over 14 days. However, the consistent underperformance suggests caution. The 14-day outlook likely sees modest positive returns as the market stabilizes, but not a strong recovery given the recent selling pressure.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Liquid staking cluster shows bearish momentum (-8.95% 30d) despite bull market and strong TVL fundamentals (LDO +6.7%, RPL +4.4%). Expected partial mean reversion over 14 days with modest positive returns, but low confidence due to sector-specific headwinds and recent consistent underperformance. High volatility (58.2%) and negative Sharpe ratio add uncertainty.\"}\n```",
+  "date": "2023-07-24",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:57.185452+00:00"
+}

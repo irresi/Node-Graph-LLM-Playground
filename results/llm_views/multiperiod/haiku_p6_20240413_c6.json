@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 6 faces significant headwinds: bear market regime with -18.3% TVL decline, severe 30-day underperformance (-46.02%), and accelerating negative momentum (7-day: -21.18%, 14-day: -31.47%). High volatility (80% annualized) and negative Sharpe ratio (-4.83) indicate risk-adjusted returns are poor. However, confidence is moderate due to: (1) potential mean reversion after extreme drawdowns, (2) LDO's substantial TVL ($30.4B) may provide stability, (3) lending/staking protocols could benefit from rate stabilization. The -0.85 annualized return reflects continued downside bias over 14 days in this bear cycle, but with meaningful uncertainty given potential bounce or stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 6 faces significant headwinds: bear market regime with -18.3% TVL decline, severe 30-day underperformance (-46.02%), and accelerating negative momentum (7-day: -21.18%, 14-day: -31.47%). High volatility (80% annualized) and negative Sharpe ratio (-4.83) indicate risk-adjusted returns are poor. However, confidence is moderate due to: (1) potential mean reversion after extreme drawdowns, (2) LDO's substantial TVL ($30.4B) may provide stability, (3) lending/staking protocols could benefit from rate stabilization. The -0.85 annualized return reflects continued downside bias over 14 days in this bear cycle, but with meaningful uncertainty given potential bounce or stabilization.\"\n}\n```",
+  "date": "2024-04-13",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:39.283100+00:00"
+}

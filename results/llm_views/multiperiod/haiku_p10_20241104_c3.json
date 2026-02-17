@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.58,
+  "reasoning": "Bear market regime with strong negative momentum (-12.17% in 7d) suggests continued losses. However, solid TVL fundamentals (AAVE +12.3%) indicate protocol health, limiting severity. Expect modest additional 14-day decline in this regime, but high volatility and momentum shifts create meaningful uncertainty. Confidence moderated due to potential oversold conditions and protocol strength that could trigger bounce.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a forecast for the next 14 days.\n\n## Analysis\n\n**Market Context:**\n- Bear market regime with strong downtrend\n- DeFi TVL showing slight growth (+1.6% 30d), but token prices declining sharply\n- This suggests valuation compression despite stable/growing protocols\n\n**Cluster Performance Indicators:**\n- 7-day return: -12.17% (severe recent decline)\n- 14-day return: -15.91% (acceleration of losses)\n- 30-day return: -6.06% (longer-term trend less severe)\n- High volatility (48.8% annualized) with negative Sharpe ratio (-1.04)\n- Max drawdown of -15.8% indicates significant downside pressure\n\n**Protocol Fundamentals:**\n- UNI (Uniswap): Modest TVL growth (+0.7%), stable but not performing well\n- AAVE (Aave): Strong TVL growth (+12.3%), indicating protocol health despite token price weakness\n- This divergence (TVL growth vs. token decline) is typical in bear markets where protocol fundamentals decouple from valuations\n\n**Key Factors for 14-Day Forecast:**\n1. **Momentum**: Negative momentum is strong (-12.17% in last 7 days)\n2. **Market Regime**: Bear market typically persists for several weeks\n3. **Technical**: 14-day losses exceed 30-day losses, suggesting acceleration\n4. **Fundamentals**: TVL growth (especially AAVE's +12.3%) suggests eventual recovery potential, but near-term downside risks remain\n5. **Volatility**: High volatility (48.8%) increases downside risk in bear conditions\n\n**Forecast Rationale:**\nGiven the strong recent downtrend, bear market regime, and negative momentum, I expect continued downside pressure over the next 14 days. However, the protocol fundamentals (particularly AAVE's strong TVL growth) suggest this is not a fundamental collapse, limiting the severity of further declines. I anticipate a range-bound correction with modest additional losses.\n\n```json\n{\"expected_return\": -0.25, \"confidence\": 0.58, \"reasoning\": \"Bear market regime with strong negative momentum (-12.17% in 7d) suggests continued losses. However, solid TVL fundamentals (AAVE +12.3%) indicate protocol health, limiting severity. Expect modest additional 14-day decline in this regime, but high volatility and momentum shifts create meaningful uncertainty. Confidence moderated due to potential oversold conditions and protocol strength that could trigger bounce.\"}\n```",
+  "date": "2024-11-04",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:13.916747+00:00"
+}

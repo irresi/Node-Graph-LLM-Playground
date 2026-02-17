@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.62,
+  "reasoning": "Bull regime with strong fundamentals (4.89 Sharpe, +42.5% TVL growth) supports continued gains. However, momentum deceleration (7d < 30d returns) and extreme recent performance (+45.69%) suggest elevated reversion risk. Expected modest positive returns over 14 days, annualized to 0.32. Moderate confidence due to DeFi volatility and cyclical nature of momentum.",
+  "raw_response": "Looking at this DeFi cluster analysis, I need to evaluate the expected returns for Cluster 4 (SUSHI, CRV, LDO) over the next 14 days.\n\nLet me analyze the key factors:\n\n**Positive Indicators:**\n- Strong recent momentum: 7-day return of +27.25% and 14-day of +23.67%\n- Excellent risk-adjusted returns: Sharpe ratio of 4.89 indicates strong alpha generation\n- Bull market regime with strong DeFi TVL growth (+42.5% 30-day)\n- LDO showing exceptional growth (+58.2% 30-day TVL change) as liquid staking gains traction\n- All three protocols have positive TVL trajectories\n- Max drawdown of -9.9% is relatively controlled despite the bull move\n\n**Risk Factors & Headwinds:**\n- Regression to mean: The cluster is already +45.69% in 30 days, which is extremely strong\n- High volatility: 78.4% annualized volatility suggests reversal risk\n- Momentum is decelerating: 30-day return (45.69%) > 14-day (23.67%) > 7-day (27.25%), showing some loss of steam\n- Market maturation: After such a strong run, mean reversion is likely\n- DeFi momentum is cyclical and this cluster has already captured significant gains\n\n**Forecasting Logic:**\nThe cluster is in a strong bull phase, but faces increasing probability of consolidation or pullback. The deceleration in recent returns (slower in 7-day vs 14-day) suggests momentum may be waning. While the fundamental metrics (Sharpe ratio, TVL growth) support continued strength, the extreme returns make 14-day forward returns likely to be more modest than the recent 30-day performance.\n\nGiven the current momentum but accounting for mean reversion, I estimate forward returns should be positive but significantly lower than recent performance.\n\n```json\n{\"expected_return\": 0.32, \"confidence\": 0.62, \"reasoning\": \"Bull regime with strong fundamentals (4.89 Sharpe, +42.5% TVL growth) supports continued gains. However, momentum deceleration (7d < 30d returns) and extreme recent performance (+45.69%) suggest elevated reversion risk. Expected modest positive returns over 14 days, annualized to 0.32. Moderate confidence due to DeFi volatility and cyclical nature of momentum.\"}\n```",
+  "date": "2025-05-11",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:20.953664+00:00"
+}

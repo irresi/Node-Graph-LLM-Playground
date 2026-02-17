@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -35.94% 30-day decline and -5.06 Sharpe ratio. Recent momentum is strongly negative (-22.28% over 14 days). High volatility (59.6% annualized) and max drawdown of -28.4% indicate distressed conditions. However, CRV shows relative strength (+8.9% TVL change), and LDO's massive TVL ($24.8B) provides some stabilization. Mixed protocol fundamentals prevent higher confidence. Forecast reflects continued downside pressure but potential for mean reversion given extreme positioning. 14-day extrapolation of recent trends yields -85% annualized return; confidence reduced due to potential capitulation and bounce risk in deeply oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -35.94% 30-day decline and -5.06 Sharpe ratio. Recent momentum is strongly negative (-22.28% over 14 days). High volatility (59.6% annualized) and max drawdown of -28.4% indicate distressed conditions. However, CRV shows relative strength (+8.9% TVL change), and LDO's massive TVL ($24.8B) provides some stabilization. Mixed protocol fundamentals prevent higher confidence. Forecast reflects continued downside pressure but potential for mean reversion given extreme positioning. 14-day extrapolation of recent trends yields -85% annualized return; confidence reduced due to potential capitulation and bounce risk in deeply oversold conditions.\"\n}\n```",
+  "date": "2025-12-19",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:58.313805+00:00"
+}

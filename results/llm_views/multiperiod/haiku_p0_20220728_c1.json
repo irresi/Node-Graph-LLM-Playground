@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.95,
+  "confidence": 0.62,
+  "reasoning": "Strong 14-day momentum (+25.7%) and positive TVL trends support continued gains, but expect moderation after significant recent rally. Bull regime supports positive bias. High volatility (65.8%) and recent outperformance create mean reversion risks. Conservative forecast of +8-12% over 14 days (~95% annualized) with moderate confidence reflecting uncertainty in sustaining current momentum.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Strong Recent Momentum**: The cluster shows impressive 14-day (+25.70%) and 30-day (+31.95%) returns, indicating strong upward momentum in a moderate bull market.\n\n2. **Volatility Context**: At 65.8% annualized volatility with a Sharpe ratio of 4.08, this cluster demonstrates both high risk and strong risk-adjusted returns. The max drawdown of -10.7% suggests manageable downside within bull regime.\n\n3. **Protocol Fundamentals**:\n   - CAKE (largest position): Stable, modest growth (+2.0% TVL change)\n   - GMX: Strong momentum (+24.9% TVL growth)\n   - RPL: Exceptional growth (+54.8% TVL growth) - liquid staking tailwind\n   - Overall TVL growth across the cluster supports bullish thesis\n\n4. **Market Regime**: Moderate bull with +18.3% overall DeFi TVL growth supports continued positive performance.\n\n5. **Mean Reversion Considerations**: After +31.95% in 30 days, the cluster may face some normalization. However, the 7-day return of +10.57% shows momentum continues.\n\n6. **Forward 14-Day Projection**:\n   - The recent trend suggests continued but potentially moderating growth\n   - Bull regime and TVL growth support positive returns\n   - High volatility implies wider expected outcomes but positive skew given momentum\n   - Conservative estimate accounting for potential consolidation after strong run\n\n**Calculation**: \n- Annualizing the 14-day period (14/365 = 0.0384 years)\n- Forecasting moderated momentum: expect +8-12% over 14 days\n- This translates to ~95-140% annualized, but confidence is moderate due to mean reversion risk\n- Using +10% (14-day) as central estimate = ~260% annualized, adjusted down for realistic confidence\n\n```json\n{\"expected_return\": 0.95, \"confidence\": 0.62, \"reasoning\": \"Strong 14-day momentum (+25.7%) and positive TVL trends support continued gains, but expect moderation after significant recent rally. Bull regime supports positive bias. High volatility (65.8%) and recent outperformance create mean reversion risks. Conservative forecast of +8-12% over 14 days (~95% annualized) with moderate confidence reflecting uncertainty in sustaining current momentum.\"}\n```",
+  "date": "2022-07-28",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:22.744274+00:00"
+}

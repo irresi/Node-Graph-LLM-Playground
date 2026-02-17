@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows positive short-term momentum (7-day: +10.64%, 14-day: +6.99%) despite bearish overall market regime. However, high volatility (50.7% annualized) and low Sharpe ratio (0.29) indicate risk-adjusted returns are weak. The 30-day TVL data is minimal/absent for both tokens, limiting fundamental support for continuation. Recent momentum could persist 14 days in bear market rallies, but confidence is low given weak fundamentals and extreme volatility. Forecast assumes partial mean reversion from 7-day outperformance toward historical 30-day average.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows positive short-term momentum (7-day: +10.64%, 14-day: +6.99%) despite bearish overall market regime. However, high volatility (50.7% annualized) and low Sharpe ratio (0.29) indicate risk-adjusted returns are weak. The 30-day TVL data is minimal/absent for both tokens, limiting fundamental support for continuation. Recent momentum could persist 14 days in bear market rallies, but confidence is low given weak fundamentals and extreme volatility. Forecast assumes partial mean reversion from 7-day outperformance toward historical 30-day average.\"\n}\n```",
+  "date": "2024-02-03",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:32.052047+00:00"
+}

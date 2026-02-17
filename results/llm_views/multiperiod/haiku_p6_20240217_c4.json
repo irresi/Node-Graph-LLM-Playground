@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Strong bull market regime and infrastructure fundamentals support continued gains (+18% annualized projection for 14 days). However, recent momentum shows deceleration (31% \u2192 21% \u2192 15% over successive periods) suggesting mean reversion/consolidation likely. LINK/GRT have strong adoption tailwinds but price appreciation may slow after significant recent gains. Confidence tempered by momentum deceleration and elevated drawdown risk post-rally.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\n## Analysis\n\n**Cluster Composition & Strength:**\n- LINK (Chainlink) and GRT (The Graph) are foundational oracle/infrastructure protocols\n- These are essential services with strong adoption across DeFi\n- Combined, they represent critical DeFi infrastructure with proven demand\n\n**Performance Momentum:**\n- 30-day return: +31.09% (strong outperformance)\n- 14-day return: +20.98% (sustained momentum)\n- 7-day return: +15.41% (momentum continuing but decelerating)\n- Annualized volatility: 37.5% (moderate-high, typical for infrastructure tokens)\n- Sharpe ratio: 6.96 (excellent risk-adjusted returns)\n- Max drawdown: -7.4% (relatively contained during this bull run)\n\n**Market Context:**\n- Overall DeFi TVL up 12.1% (30-day), indicating healthy ecosystem growth\n- Bull market regime with strong uptrend and moderate volatility\n- Infrastructure tokens typically benefit from broader DeFi adoption\n\n**Mean Reversion Considerations:**\n- The cluster has appreciated significantly (+31% in 30 days)\n- Recent returns show deceleration (31.09% \u2192 20.98% \u2192 15.41%)\n- Some pullback or consolidation is likely after such strong moves\n- However, the bull market regime and strong fundamentals provide support\n\n**14-Day Forecast:**\nGiven the deceleration in recent returns and need for consolidation after a +31% move, combined with the supportive market backdrop, I expect moderate positive returns with elevated volatility.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bull market regime and infrastructure fundamentals support continued gains (+18% annualized projection for 14 days). However, recent momentum shows deceleration (31% \u2192 21% \u2192 15% over successive periods) suggesting mean reversion/consolidation likely. LINK/GRT have strong adoption tailwinds but price appreciation may slow after significant recent gains. Confidence tempered by momentum deceleration and elevated drawdown risk post-rally.\"\n}\n```",
+  "date": "2024-02-17",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:10.003949+00:00"
+}

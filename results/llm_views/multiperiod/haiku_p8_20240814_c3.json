@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "MKR faces severe headwinds: bear market regime (-16.4% DeFi TVL decline), cluster down -30% in 30d with extreme volatility (85.2% annualized), and deeply negative Sharpe ratio (-2.96). However, recent 7-day bounce (+13.87%) suggests short-term oversold conditions may provide minor relief. Over 14 days, expect continued weakness as the bear trend dominates, with potential mean reversion limited by macro downtrend. Low confidence reflects high volatility and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR faces severe headwinds: bear market regime (-16.4% DeFi TVL decline), cluster down -30% in 30d with extreme volatility (85.2% annualized), and deeply negative Sharpe ratio (-2.96). However, recent 7-day bounce (+13.87%) suggests short-term oversold conditions may provide minor relief. Over 14 days, expect continued weakness as the bear trend dominates, with potential mean reversion limited by macro downtrend. Low confidence reflects high volatility and regime uncertainty.\"\n}\n```",
+  "date": "2024-08-14",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:55.488624+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "L2 token (OP) in strong bear market with -48.24% 30-day loss and 112.3% annualized volatility. Recent 7-day bounce (+4.05%) suggests possible short-term relief, but macro headwinds persist with -7.2% DeFi TVL contraction. Sharpe ratio of -3.61 indicates poor risk-adjusted returns. Forecasting negative 14-day returns (-85% annualized equivalent) reflecting continued bear pressure, though extreme volatility creates significant forecast uncertainty. Low confidence (0.35) due to high volatility and unpredictable macro sentiment in bear regimes.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"L2 token (OP) in strong bear market with -48.24% 30-day loss and 112.3% annualized volatility. Recent 7-day bounce (+4.05%) suggests possible short-term relief, but macro headwinds persist with -7.2% DeFi TVL contraction. Sharpe ratio of -3.61 indicates poor risk-adjusted returns. Forecasting negative 14-day returns (-85% annualized equivalent) reflecting continued bear pressure, though extreme volatility creates significant forecast uncertainty. Low confidence (0.35) due to high volatility and unpredictable macro sentiment in bear regimes.\"\n}\n```",
+  "date": "2022-09-08",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:30.405138+00:00"
+}

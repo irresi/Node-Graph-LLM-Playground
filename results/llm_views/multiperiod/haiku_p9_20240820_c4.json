@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Recent 14-day rally (+13.97%) suggests near-term momentum and potential oversold bounce, but bear market regime (-21.5% TVL decline, negative Sharpe) limits upside. Annualized estimate of 18% assumes continuation of recent weekly pace with moderation due to market headwinds. Low confidence reflects structural weakness and high volatility in current environment.",
+  "raw_response": "Based on the market context and cluster data provided, I'll analyze the key factors to forecast the 14-day expected return:\n\n**Key Analysis Points:**\n\n1. **Market Regime**: Strong bear market with -21.5% TVL decline over 30 days, indicating negative sentiment and outflows.\n\n2. **Recent Momentum**: Positive short-term signals:\n   - 7-day return: +1.42%\n   - 14-day return: +13.97%\n   - This suggests potential recovery or stabilization after the severe 30-day decline of -19.10%\n\n3. **Volatility & Risk**: High annualized volatility of 54.8% with negative Sharpe ratio (-2.93) indicates risk-adjusted returns have been poor, reflecting the bear market conditions.\n\n4. **TVL Trends**: Mixed signals with AAVE and MKR showing moderate declines (-15.6%, -17.4%) while others like CRV show more resilience (-6.3%).\n\n5. **Mean Reversion Potential**: After a -19.10% 30-day decline, the recent 14-day rally of +13.97% could indicate oversold conditions, though the bear market context limits upside.\n\n**Forecast Rationale:**\n- The recent 14-day return of +13.97% annualizes to ~364% if sustained, which is unrealistic given market headwinds\n- The bear market regime suggests the rally may be temporary or consolidation before further declines\n- However, the positive 7 and 14-day returns suggest momentum may continue slightly in the near term\n- Conservative approach: expect modest positive returns with high uncertainty\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Recent 14-day rally (+13.97%) suggests near-term momentum and potential oversold bounce, but bear market regime (-21.5% TVL decline, negative Sharpe) limits upside. Annualized estimate of 18% assumes continuation of recent weekly pace with moderation due to market headwinds. Low confidence reflects structural weakness and high volatility in current environment.\"}\n```",
+  "date": "2024-08-20",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:57.048511+00:00"
+}

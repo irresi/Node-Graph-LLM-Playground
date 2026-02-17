@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "MKR faces headwinds from recent -9.08% 7-day underperformance despite bullish overall DeFi market (+22.3% TVL growth). However, strong protocol fundamentals (MKR TVL +17.1% YoY, lending category benefiting from bull regime) suggest mean reversion potential. High volatility (61.8% annualized) and negative Sharpe (-0.76) create significant uncertainty. Forecast reflects modest recovery expectation over 14 days, but low confidence due to recent momentum divergence and single-token cluster concentration risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"MKR faces headwinds from recent -9.08% 7-day underperformance despite bullish overall DeFi market (+22.3% TVL growth). However, strong protocol fundamentals (MKR TVL +17.1% YoY, lending category benefiting from bull regime) suggest mean reversion potential. High volatility (61.8% annualized) and negative Sharpe (-0.76) create significant uncertainty. Forecast reflects modest recovery expectation over 14 days, but low confidence due to recent momentum divergence and single-token cluster concentration risk.\"\n}\n```",
+  "date": "2024-05-30",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:40.231108+00:00"
+}

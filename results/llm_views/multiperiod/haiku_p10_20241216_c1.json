@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+94.71%) but recent 7-day pullback (-4.85%) signals potential mean reversion. Moderate bull regime supports continued gains, but elevated volatility (107.5%) and recent weakness suggest caution. TVL growth across components (especially CVX +51.1%) provides fundamental support. Annualized forecast reflects moderated expectations from recent highs while accounting for positive momentum and protocol strength. Confidence tempered by extended recent gains and typical profit-taking cycles in DeFi.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+94.71%) but recent 7-day pullback (-4.85%) signals potential mean reversion. Moderate bull regime supports continued gains, but elevated volatility (107.5%) and recent weakness suggest caution. TVL growth across components (especially CVX +51.1%) provides fundamental support. Annualized forecast reflects moderated expectations from recent highs while accounting for positive momentum and protocol strength. Confidence tempered by extended recent gains and typical profit-taking cycles in DeFi.\"\n}\n```",
+  "date": "2024-12-16",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:21.604044+00:00"
+}

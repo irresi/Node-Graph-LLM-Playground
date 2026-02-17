@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Expect modest recovery from oversold conditions (-25.05% 14d drop) with stabilization signals emerging (+3.22% 7d), but constrained by bear market regime and -5.9% DeFi TVL decline. CRV's strong TVL growth (+28.4%) provides some support. High volatility (105.6%) and macro headwinds limit conviction. Annualized return reflects potential for 2-4% absolute 14-day gain in mean-reversion scenario.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Overall DeFi market is in a **bear regime** with -5.9% TVL decline (30-day)\n- The cluster shows conflicting signals: +10.75% 30-day return but -25.05% 14-day return\n- This suggests strong recent volatility with a reversal pattern\n\n**Cluster-Specific Metrics:**\n- **TVL composition**: MKR dominates ($6403M), followed by CRV ($2344M) and CVX ($1266M)\n- **TVL trends**: Mixed - CRV strong (+28.4%), MKR weak (-6.8%), CVX moderate (+7.0%)\n- **Recent momentum**: Very negative 14-day return (-25.05%) vs positive 7-day (+3.22%) suggests potential stabilization or bounce\n- **Volatility**: Extremely high at 105.6% annualized (high risk)\n- **Risk metrics**: Sharpe ratio of 0.86 is reasonable given volatility, but max drawdown of -37.2% shows significant downside risk\n\n**14-Day Forecast Considerations:**\n\n1. **Mean reversion potential**: The -25.05% 14-day decline followed by +3.22% 7-day bounce suggests potential reversal or consolidation\n2. **Bearish macro context**: Overall DeFi market weakness constrains upside\n3. **Mixed fundamentals**: CRV's strong TVL growth is positive, but MKR's decline is concerning\n4. **Volatility regime**: High volatility cuts both ways; potential for quick moves in either direction\n5. **Timeframe**: 14 days is short-term; momentum shifts can occur quickly\n\n**Forecast Rationale:**\nGiven the severe 14-day drawdown (-25.05%) and nascent recovery signal (+3.22% in last 7 days), combined with weak macro conditions, I expect **modest recovery/consolidation** rather than strong gains. The cluster appears oversold but faces headwinds from the broader bear market.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Expect modest recovery from oversold conditions (-25.05% 14d drop) with stabilization signals emerging (+3.22% 7d), but constrained by bear market regime and -5.9% DeFi TVL decline. CRV's strong TVL growth (+28.4%) provides some support. High volatility (105.6%) and macro headwinds limit conviction. Annualized return reflects potential for 2-4% absolute 14-day gain in mean-reversion scenario.\"\n}\n```",
+  "date": "2024-12-30",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:50.708343+00:00"
+}

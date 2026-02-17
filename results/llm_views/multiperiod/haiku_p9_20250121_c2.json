@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear regime with -13.35% 14-day decline and negative Sharpe ratio (-0.39). However, recent 7-day +0.06% shows potential stabilization. BAL's +4.6% TVL growth provides slight upside, but SNX's -15.7% decline and moderate bear market persist. Mixed signals warrant moderate confidence with negative expected return over 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear regime with -13.35% 14-day decline and negative Sharpe ratio (-0.39). However, recent 7-day +0.06% shows potential stabilization. BAL's +4.6% TVL growth provides slight upside, but SNX's -15.7% decline and moderate bear market persist. Mixed signals warrant moderate confidence with negative expected return over 14 days.\"\n}\n```",
+  "date": "2025-01-21",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:48.872198+00:00"
+}

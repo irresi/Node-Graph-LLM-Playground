@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.42,
+  "reasoning": "The cluster shows positive short-term momentum (7-day: +15.52%, 14-day: +12.64%) but operates in a bear market regime with high volatility (93.3%). The recent strong recovery appears to be a tactical bounce rather than a regime shift, given the 30-day stagnation (+0.46%) and significant max drawdown (-22.3%). TVL composition is dominated by LDO (17B+, -4.7% 30d change), offsetting gains in CRV (1.7B, +5.3%). The low Sharpe ratio (0.04) indicates poor risk-adjusted returns. Annualizing the 14-day momentum suggests ~32% returns, but sustainability is questionable given the bear market context and high downside volatility. Confidence is moderate-to-low due to momentum reversal risk and lack of fundamental improvement in the market regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.42,\n  \"reasoning\": \"The cluster shows positive short-term momentum (7-day: +15.52%, 14-day: +12.64%) but operates in a bear market regime with high volatility (93.3%). The recent strong recovery appears to be a tactical bounce rather than a regime shift, given the 30-day stagnation (+0.46%) and significant max drawdown (-22.3%). TVL composition is dominated by LDO (17B+, -4.7% 30d change), offsetting gains in CRV (1.7B, +5.3%). The low Sharpe ratio (0.04) indicates poor risk-adjusted returns. Annualizing the 14-day momentum suggests ~32% returns, but sustainability is questionable given the bear market context and high downside volatility. Confidence is moderate-to-low due to momentum reversal risk and lack of fundamental improvement in the market regime.\"\n}\n```",
+  "date": "2025-04-27",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:38.094272+00:00"
+}

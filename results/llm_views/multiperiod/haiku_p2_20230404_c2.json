@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.58,
+  "reasoning": "Cluster showing positive momentum (+11.64% 7-day, +8.83% 30-day) with strong TVL growth in LDO (+18.5%) and RPL (+21.9%), suggesting underlying protocol strength. However, moderate bear market regime and high volatility (76.1% annualized) create headwinds. Mean reversion risk after 7-day outperformance. Annualized forecast of 42% accounts for 14-day timeframe extrapolation of recent +5.81% 14-day return (~145% annualized), discounted by bear regime and elevated drawdown risk (-14.7%). Confidence limited by market regime uncertainty and token-specific risks (GMX decline -1.7% suggests divergence within cluster).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster showing positive momentum (+11.64% 7-day, +8.83% 30-day) with strong TVL growth in LDO (+18.5%) and RPL (+21.9%), suggesting underlying protocol strength. However, moderate bear market regime and high volatility (76.1% annualized) create headwinds. Mean reversion risk after 7-day outperformance. Annualized forecast of 42% accounts for 14-day timeframe extrapolation of recent +5.81% 14-day return (~145% annualized), discounted by bear regime and elevated drawdown risk (-14.7%). Confidence limited by market regime uncertainty and token-specific risks (GMX decline -1.7% suggests divergence within cluster).\"\n}\n```",
+  "date": "2023-04-04",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:52.892637+00:00"
+}

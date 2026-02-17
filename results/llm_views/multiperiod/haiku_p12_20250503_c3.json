@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows positive 14-day momentum (+15.82%) despite recent 7-day pullback (-2.13%), indicating potential mean reversion upside. Strong AAVE TVL growth (+18.4%) and moderate bull regime support optimism. However, high volatility (75.2%) and -17.2% max drawdown create significant uncertainty. 30-day outperformance (+8.56% vs +5.3% TVL growth) suggests some overextension. Annualized 14-day forward return of +18% is tempered by near-term consolidation risk and macro sensitivity of DeFi assets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows positive 14-day momentum (+15.82%) despite recent 7-day pullback (-2.13%), indicating potential mean reversion upside. Strong AAVE TVL growth (+18.4%) and moderate bull regime support optimism. However, high volatility (75.2%) and -17.2% max drawdown create significant uncertainty. 30-day outperformance (+8.56% vs +5.3% TVL growth) suggests some overextension. Annualized 14-day forward return of +18% is tempered by near-term consolidation risk and macro sensitivity of DeFi assets.\"\n}\n```",
+  "date": "2025-05-03",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:42.642259+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear market with -38.29% monthly loss and -12.98% recent 7-day decline. Strong negative momentum, elevated volatility (78% annualized), and poor Sharpe ratio (-4.12) indicate continued downside risk. LDO's large TVL dominance ($20.5B) provides stability but cannot offset broader market deterioration. 14-day forward forecast annualized to -1.85 based on trend deceleration, but low confidence due to extreme market conditions and potential capitulation patterns that could either continue or reverse sharply.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear market with -38.29% monthly loss and -12.98% recent 7-day decline. Strong negative momentum, elevated volatility (78% annualized), and poor Sharpe ratio (-4.12) indicate continued downside risk. LDO's large TVL dominance ($20.5B) provides stability but cannot offset broader market deterioration. 14-day forward forecast annualized to -1.85 based on trend deceleration, but low confidence due to extreme market conditions and potential capitulation patterns that could either continue or reverse sharply.\"\n}\n```\n\n**Key Analytical Points:**\n\n1. **Momentum Analysis**: The accelerating losses (7d: -13% \u2192 30d: -38%) suggest momentum is shifting downward, but the deceleration between most recent data may indicate oversold conditions.\n\n2. **Volatility Risk**: 78% annualized volatility in a bear regime creates asymmetric downside risk. Mean reversion is possible but not probable in strong downtrends.\n\n3. **Portfolio Composition**: TVL-weighted by LDO (75.5%), which has -9.9% TVL change\u2014better than SUSHI (-12.7%) but the token price action is disconnected from TVL stability.\n\n4. **Confidence Justification**: Low confidence (0.35) reflects the high uncertainty inherent in forecasting during extreme bear markets where sentiment shifts and liquidation cascades dominate fundamentals.",
+  "date": "2025-06-22",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:03.850846+00:00"
+}

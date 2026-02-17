@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Recent -10.04% 14-day decline after +15.73% monthly gain suggests mean reversion opportunity. Strong underlying TVL growth (AAVE +27%, CAKE +22.6%) and positive DeFi regime support modest recovery. High volatility (54.5%) and uncertain near-term momentum limit confidence. Forecast annualized return of 18% reflects partial bounce-back potential over 14 days in bull regime.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast.\n\n## Analysis\n\n**Market Context:**\n- Overall DeFi market is in a moderate bull regime with +17.9% TVL growth (30-day)\n- The cluster has strong fundamental backing with diversified protocols across multiple DeFi segments\n\n**Recent Momentum Signals:**\n- 30-day return: +15.73% (strong)\n- 14-day return: -10.04% (pullback)\n- 7-day return: -14.52% (continued weakness)\n\nThis suggests we're in a **momentum reversal phase** - the cluster rallied significantly over 30 days but has experienced recent correction over the past 2 weeks.\n\n**Risk Metrics:**\n- Volatility (annualized): 54.5% (high)\n- Sharpe ratio: 2.42 (excellent risk-adjusted returns historically)\n- Max drawdown: -22.4% (significant but managed well given Sharpe ratio)\n\n**Protocol Fundamentals:**\n- AAVE showing strongest TVL growth: +27.0% (30-day) - indicates strong demand\n- CAKE also robust: +22.6% growth\n- Weighted average TVL growth across top 5 protocols: ~18.4% (outpacing overall DeFi)\n- Total cluster TVL: ~$23.7B (strong capital base)\n\n**14-Day Forecast Rationale:**\nThe recent 14-day decline of -10.04% after a strong 30-day rally of +15.73% suggests:\n1. **Mean reversion potential**: After a sharp correction, oversold conditions may create bounce opportunities\n2. **Positive macro tailwinds**: Overall DeFi TVL growth remains strong (+17.9%)\n3. **Strong protocol fundamentals**: AAVE, CAKE, and CRV growth metrics remain solid\n4. **Volatility risk**: High volatility (54.5%) creates both upside and downside potential\n\nGiven the recent pullback, stabilization in protocol metrics, and bullish market regime, I expect a **partial recovery** rather than sustained decline or continued strength.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Recent -10.04% 14-day decline after +15.73% monthly gain suggests mean reversion opportunity. Strong underlying TVL growth (AAVE +27%, CAKE +22.6%) and positive DeFi regime support modest recovery. High volatility (54.5%) and uncertain near-term momentum limit confidence. Forecast annualized return of 18% reflects partial bounce-back potential over 14 days in bull regime.\"}\n```",
+  "date": "2024-03-21",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:56.091800+00:00"
+}

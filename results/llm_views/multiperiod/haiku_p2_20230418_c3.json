@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong recent momentum (7d: +6.45%) supports continued upside, but elevated volatility (34.5% annualized) and recent gains create mean reversion risk. Forecast annualizes recent 14-day performance (+7.47%) accounting for normalization. Moderate confidence reflects uncertainty in sustained momentum vs. profit-taking pullbacks in bull markets.",
+  "raw_response": "Based on the provided market context and cluster analysis, I'll forecast the expected return for Cluster 3 over the next 14 days.\n\n**Analysis:**\n\n1. **Momentum Analysis**: The cluster shows strong recent momentum with 7-day (+6.45%) and 14-day (+7.47%) returns exceeding the 30-day return (+5.27%), suggesting accelerating positive momentum.\n\n2. **Market Regime**: Bull market with strong uptrend and moderate volatility, providing tailwinds for yield-bearing and DEX tokens.\n\n3. **Protocol Fundamentals**: \n   - Mixed TVL trends: COMP (+9.0%), YFI (+9.9%), and BAL (+7.9%) showing strong growth\n   - CRV (largest position at $4.5B) relatively stable (+0.3%)\n   - SNX declining (-0.8%), potential drag on returns\n\n4. **Risk Metrics**: \n   - Solid Sharpe ratio of 1.28 indicates good risk-adjusted returns\n   - Max drawdown of -9.5% shows manageable downside recently\n   - Annualized volatility of 34.5% is elevated but typical for this category\n\n5. **Forward-Looking Considerations**:\n   - Bull market momentum should continue supporting returns\n   - Recent 7-day outperformance suggests sustained positive flow\n   - However, the cluster is already up significantly; mean reversion risk exists\n\n**Forecast:**\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.62, \"reasoning\": \"Bull market regime with strong recent momentum (7d: +6.45%) supports continued upside, but elevated volatility (34.5% annualized) and recent gains create mean reversion risk. Forecast annualizes recent 14-day performance (+7.47%) accounting for normalization. Moderate confidence reflects uncertainty in sustained momentum vs. profit-taking pullbacks in bull markets.\"}\n```",
+  "date": "2023-04-18",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:26.682422+00:00"
+}

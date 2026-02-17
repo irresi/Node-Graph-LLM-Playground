@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.58,
+  "reasoning": "Cluster 5 (SUSHI/CAKE) shows strong 30-day performance (+31.35%) and excellent Sharpe ratio (4.33), indicating quality risk-adjusted returns in a moderate bull market. However, recent 14-day deceleration (+2.03% vs +31.35% monthly) and elevated volatility (60.8% annualized) suggest momentum is fading. The strong CAKE TVL growth (+26.9%) provides fundamental support, but the steep recent pullback in weekly returns (+12.12% 7-day vs +2.03% 14-day) indicates potential mean reversion. Annualizing the 14-day trend with a modest bullish adjustment for market regime yields ~42% expected annualized return, but confidence is moderate due to momentum deceleration and high volatility creating uncertainty over the next 14-day period.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 5 (SUSHI/CAKE) shows strong 30-day performance (+31.35%) and excellent Sharpe ratio (4.33), indicating quality risk-adjusted returns in a moderate bull market. However, recent 14-day deceleration (+2.03% vs +31.35% monthly) and elevated volatility (60.8% annualized) suggest momentum is fading. The strong CAKE TVL growth (+26.9%) provides fundamental support, but the steep recent pullback in weekly returns (+12.12% 7-day vs +2.03% 14-day) indicates potential mean reversion. Annualizing the 14-day trend with a modest bullish adjustment for market regime yields ~42% expected annualized return, but confidence is moderate due to momentum deceleration and high volatility creating uncertainty over the next 14-day period.\"\n}\n```",
+  "date": "2024-03-30",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:00.209078+00:00"
+}

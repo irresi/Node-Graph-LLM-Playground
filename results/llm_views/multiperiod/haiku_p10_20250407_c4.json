@@ -1,0 +1,18 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 faces severe headwinds: strong bear market regime with -16% DeFi TVL decline, devastating 30-day performance (-39.66%), high volatility (78.4%), and negative momentum across all timeframes (7d: -19.57%, 14d: -29.19%). The cluster comprises infrastructure/oracle tokens (LINK, OP, ARB, ENS, GRT) with minimal on-chain activity metrics. Extrapolating 14-day momentum (-29.19% annualized = -1.85 for next 14 days) reflects near-term downside continuation. However, low confidence (0.35) reflects uncertainty in bear market reversals, potential protocol catalysts, and mean-reversion risk. Infrastructure tokens may stabilize as oversold conditions become extreme.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 faces severe headwinds: strong bear market regime with -16% DeFi TVL decline, devastating 30-day performance (-39.66%), high volatility (78.4%), and negative momentum across all timeframes (7d: -19.57%, 14d: -29.19%). The cluster comprises infrastructure/oracle tokens (LINK, OP, ARB, ENS, GRT) with minimal on-chain activity metrics. Extrapolating 14-day momentum (-29.19% annualized = -1.85 for next 14 days) reflects near-term downside continuation. However, low confidence (0.35) reflects uncertainty in bear market reversals, potential protocol catalysts, and mean-reversion risk. Infrastructure tokens may stabilize as oversold conditions become extreme.\"\n}\n```",
+  "date": "2025-04-07",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:00.035185+00:00"
+}

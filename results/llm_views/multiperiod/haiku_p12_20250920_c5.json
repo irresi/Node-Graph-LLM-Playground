@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster 5 faces headwinds from the bear market regime and negative 7-day momentum (-3.02%), offsetting the positive 14-day return (+1.68%). While core protocols (MKR, COMP) show stable TVL growth, the -11.7% max drawdown and -0.33 Sharpe ratio indicate elevated risk. Annualized from 14-day forward, the momentum reversal from recent weakness and persistent bearish sentiment suggest modest negative returns over the next 14 days. Mixed protocol fundamentals (YFI +6.5% TVL vs GMX -2.4%) provide some diversification but insufficient to overcome macro headwinds. Low confidence reflects high volatility (47.1%) and uncertain regime duration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 5 faces headwinds from the bear market regime and negative 7-day momentum (-3.02%), offsetting the positive 14-day return (+1.68%). While core protocols (MKR, COMP) show stable TVL growth, the -11.7% max drawdown and -0.33 Sharpe ratio indicate elevated risk. Annualized from 14-day forward, the momentum reversal from recent weakness and persistent bearish sentiment suggest modest negative returns over the next 14 days. Mixed protocol fundamentals (YFI +6.5% TVL vs GMX -2.4%) provide some diversification but insufficient to overcome macro headwinds. Low confidence reflects high volatility (47.1%) and uncertain regime duration.\"\n}\n```",
+  "date": "2025-09-20",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:21.752207+00:00"
+}

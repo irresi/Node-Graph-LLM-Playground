@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear market with -22.71% 30-day decline and -9.58% 7-day momentum. Recent 14-day return (-1.66%) suggests some stabilization, but DeFi TVL declining (-8.6% 30d) and high volatility (96.8% annualized) create downside risk. LDO's -18.2% TVL change and negative Sharpe ratio (-1.97) indicate weak fundamentals. However, stabilization signals and technical oversold conditions (max DD -32%) provide some bounce potential, limiting confidence to moderate levels. Forecasting continued weakness but slower deterioration than recent 7-day pace.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear market with -22.71% 30-day decline and -9.58% 7-day momentum. Recent 14-day return (-1.66%) suggests some stabilization, but DeFi TVL declining (-8.6% 30d) and high volatility (96.8% annualized) create downside risk. LDO's -18.2% TVL change and negative Sharpe ratio (-1.97) indicate weak fundamentals. However, stabilization signals and technical oversold conditions (max DD -32%) provide some bounce potential, limiting confidence to moderate levels. Forecasting continued weakness but slower deterioration than recent 7-day pace.\"\n}\n```",
+  "date": "2025-03-30",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:37.112383+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.58,
+  "reasoning": "Strong bear regime with -33% 14-day momentum and -29.2% max drawdown. LDO TVL growth (+9.1%) provides modest support. Annualized -18% reflects continued weakness but moderated by oversold technicals. Low-to-moderate confidence due to extreme volatility and potential for sharp reversal in deleveraging cycle.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Environment Analysis:**\n- Strong bear market regime with -4.9% TVL decline\n- Cluster significantly underperforming with -28.4% 30-day return\n- Extreme volatility (76.5% annualized) and negative Sharpe ratio (-3.12)\n- Recent momentum is deeply negative (-33% over 14 days, -26.33% over 7 days)\n\n**Cluster Composition Insights:**\n- Heavily weighted toward LDO (TVL: $6.4B, ~50% of cluster) with +9.1% 30d TVL growth\n- CVX is second largest ($3.9B) but showing weakness (-17.9% TVL change)\n- Mixed fundamentals: LDO and RPL gaining TVL, but CVX and SNX struggling\n- Liquid staking and derivatives exposure in a deleveraging cycle\n\n**14-Day Forecast Considerations:**\n1. **Momentum**: The cluster is in a steep downtrend; reversal probability low in short term\n2. **Mean Reversion Potential**: Extreme drawdown (-29.2%) creates some technical oversold conditions\n3. **Protocol Strength**: LDO's TVL growth is a positive signal, but insufficient to offset broader weakness\n4. **Market Regime**: Bear market typically persists 7-14+ days without catalyst\n5. **Volatility**: High volatility cuts both ways, but downside pressure appears dominant\n\n**Forecast Rationale:**\nGiven the strong downtrend, negative momentum, bear regime, and oversold technicals with limited recovery catalysts visible, I expect continued weakness over the next 14 days, though not as severe as the recent 7-day drop. The extreme oversold conditions prevent a purely bearish outlook.\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Strong bear regime with -33% 14-day momentum and -29.2% max drawdown. LDO TVL growth (+9.1%) provides modest support. Annualized -18% reflects continued weakness but moderated by oversold technicals. Low-to-moderate confidence due to extreme volatility and potential for sharp reversal in deleveraging cycle.\"\n}\n```",
+  "date": "2022-11-09",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:21.959501+00:00"
+}

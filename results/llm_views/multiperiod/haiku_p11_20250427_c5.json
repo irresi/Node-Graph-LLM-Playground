@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.45,
+  "reasoning": "Recent 14-day momentum (+13.41%) suggests potential continuation, but strong bear market regime, high volatility (103.2%), and negative Sharpe ratio (-1.85) create significant headwinds. AAVE TVL strength (+8.3%) provides some support. Annualized forecast reflects moderate upside from momentum bounce with substantial uncertainty. Low confidence due to conflicting signals and extreme volatility in current market conditions.",
+  "raw_response": "I'll analyze this DeFi cluster forecast based on the provided market context and metrics.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -22.68% 30-day return, despite recent positive momentum\n2. **Momentum Reversal**: Recent 7-day (+12.68%) and 14-day (+13.41%) returns show strong recovery from the 30-day drawdown (-36.9% max)\n3. **Volatility Profile**: High annualized volatility (103.2%) indicates significant price swings and uncertainty\n4. **Protocol Health**:\n   - AAVE shows strength (+8.3% TVL 30d change, $19.75B TVL)\n   - BAL showing weakness (-1.5% TVL 30d change, smaller $667M TVL)\n5. **Sharpe Ratio**: -1.85 indicates poor risk-adjusted returns, suggesting the cluster has underperformed its volatility profile\n6. **Mixed Signals**: \n   - Negative: Bear regime, high volatility, poor Sharpe ratio\n   - Positive: Strong recent momentum, AAVE TVL growth, overall DeFi TVL slightly positive (+1.7%)\n\n**Forecast Reasoning:**\n\nThe cluster shows a technical bounce from oversold conditions (evident in the 14-day recovery), but the underlying bear market and high volatility suggest this may be a temporary relief rally rather than a sustained trend. The 14-day horizon is short enough that recent momentum matters, but the weak fundamentals (negative Sharpe ratio) and bear regime suggest caution.\n\nFor a 14-day annualized forecast, I'm moderating recent momentum gains against the structural bearishness of the market regime.\n\n```json\n{\"expected_return\": 0.35, \"confidence\": 0.45, \"reasoning\": \"Recent 14-day momentum (+13.41%) suggests potential continuation, but strong bear market regime, high volatility (103.2%), and negative Sharpe ratio (-1.85) create significant headwinds. AAVE TVL strength (+8.3%) provides some support. Annualized forecast reflects moderate upside from momentum bounce with substantial uncertainty. Low confidence due to conflicting signals and extreme volatility in current market conditions.\"}\n```",
+  "date": "2025-04-27",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:45.064356+00:00"
+}

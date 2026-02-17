@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market regime with -10.6% 30-day return and -32.7% max drawdown. Recent 14-day return of -6.54% suggests continued weakness, though slightly slower decline than 30-day trend. High volatility (82.5% annualized) and negative Sharpe ratio (-1.08) indicate poor risk-adjusted returns. Mixed protocol metrics: LDO's large TVL ($27.1B, -8.2% 30d) dominates but shows stabilization; CRV/CVX relatively stable; SUSHI/RPL declining sharply. 14-day forecast assumes -45% annualized return (-1.72% over 14 days) reflecting: (1) continued bear pressure with reduced momentum, (2) potential stabilization in large-cap protocols (LDO), (3) elevated downside risk from volatility. Confidence moderate due to unpredictable bear market dynamics and potential recovery catalysts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with -10.6% 30-day return and -32.7% max drawdown. Recent 14-day return of -6.54% suggests continued weakness, though slightly slower decline than 30-day trend. High volatility (82.5% annualized) and negative Sharpe ratio (-1.08) indicate poor risk-adjusted returns. Mixed protocol metrics: LDO's large TVL ($27.1B, -8.2% 30d) dominates but shows stabilization; CRV/CVX relatively stable; SUSHI/RPL declining sharply. 14-day forecast assumes -45% annualized return (-1.72% over 14 days) reflecting: (1) continued bear pressure with reduced momentum, (2) potential stabilization in large-cap protocols (LDO), (3) elevated downside risk from volatility. Confidence moderate due to unpredictable bear market dynamics and potential recovery catalysts.\"\n}\n```",
+  "date": "2025-12-05",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:38.145996+00:00"
+}

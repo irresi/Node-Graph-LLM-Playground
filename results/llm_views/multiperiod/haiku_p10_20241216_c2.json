@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 shows strong 30-day momentum (+60.41%) with excellent Sharpe ratio (6.99), but recent 7-day pullback (-6.07%) signals potential mean reversion. The moderate bull regime and TVL growth across protocols (especially SNX +119.8%) support continued strength. However, 72.6% annualized volatility and -15.2% max drawdown indicate significant downside risk. Annualized 14-day +22.34% trend, adjusted for volatility regime normalization and technical overbought conditions, yields 42% annualized return forecast with moderate confidence due to momentum vulnerability and macro uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows strong 30-day momentum (+60.41%) with excellent Sharpe ratio (6.99), but recent 7-day pullback (-6.07%) signals potential mean reversion. The moderate bull regime and TVL growth across protocols (especially SNX +119.8%) support continued strength. However, 72.6% annualized volatility and -15.2% max drawdown indicate significant downside risk. Annualized 14-day +22.34% trend, adjusted for volatility regime normalization and technical overbought conditions, yields 42% annualized return forecast with moderate confidence due to momentum vulnerability and macro uncertainty.\"\n}\n```",
+  "date": "2024-12-16",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:26.002710+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with persistent TVL declines suggests continued weakness, but momentum deceleration (-22.65% to -0.95%) indicates potential stabilization. Low confidence reflects high volatility, conflicting signals, and fundamental protocol weakness. Modest recovery expected near-term as oversold conditions ease, but risk-reward unfavorable in sustained downtrend.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market regime with DeFi TVL down 10.3% in 30 days\n- Cluster 1 significantly underperforming broader market (-22.65% vs -10.3%)\n- High volatility (37.1% annualized) and negative Sharpe ratio (-5.13)\n- Severe drawdown already experienced (-19.4% max drawdown)\n\n**Momentum Analysis:**\n- 30-day return: -22.65%\n- 14-day return: -3.83%\n- 7-day return: -0.95%\n- Momentum is decelerating (losses slowing) - potential stabilization signal\n\n**Protocol Fundamentals:**\n- Mixed TVL trends: COMP (-15.6%), MKR (-16.0%), SNX (-14.2%) all declining\n- Cluster composition spans critical DeFi infrastructure (oracles, lending, L2)\n- MKR with largest TVL ($5,038M) showing sustained decline\n\n**Forecast Considerations:**\n1. **Momentum reversal possibility**: The deceleration from -22.65% to -0.95% suggests the worst selling pressure may be subsiding\n2. **Bear market headwinds**: Overall negative regime persists; TVL contraction continues\n3. **Volatility risk**: High volatility could swing either direction, but currently pricing in distress\n4. **Fundamental weakness**: Consistent TVL declines across holdings indicate protocol stress\n5. **Positioning**: Cluster likely oversold given extreme negative returns; potential mean reversion\n\n**Forecast Decision:**\nGiven the stark contrast between recent severe losses and recent deceleration, I expect modest recovery in the next 14 days as panic selling exhausts. However, the bear regime and continued TVL declines limit upside. The cluster likely finds temporary support but faces headwinds.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market regime with persistent TVL declines suggests continued weakness, but momentum deceleration (-22.65% to -0.95%) indicates potential stabilization. Low confidence reflects high volatility, conflicting signals, and fundamental protocol weakness. Modest recovery expected near-term as oversold conditions ease, but risk-reward unfavorable in sustained downtrend.\"}\n```",
+  "date": "2023-09-10",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:54.483941+00:00"
+}

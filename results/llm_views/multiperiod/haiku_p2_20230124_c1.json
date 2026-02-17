@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 (AAVE, GRT) shows strong recent momentum (+29.14% over 14 days, +45.07% over 30 days) in a bull market regime with elevated TVL growth (+23.9% DeFi-wide). The exceptional Sharpe ratio of 7.68 and moderate max drawdown of -7.1% suggest quality risk-adjusted returns. However, confidence is moderate (0.62) due to: (1) high annualized volatility of 49.3% creates mean reversion risk, (2) recent 14-day return of +29.14% is already strong, making further 14-day gains at similar magnitude less likely, (3) infrastructure/lending tokens are sensitive to macro sentiment shifts, and (4) extrapolating historical momentum into uncertain future periods carries substantial uncertainty. The 0.28 annualized return reflects a deceleration from recent momentum but maintains bullish bias given market conditions and strong fundamentals.",
+  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 1 (AAVE, GRT) shows strong recent momentum (+29.14% over 14 days, +45.07% over 30 days) in a bull market regime with elevated TVL growth (+23.9% DeFi-wide). The exceptional Sharpe ratio of 7.68 and moderate max drawdown of -7.1% suggest quality risk-adjusted returns. However, confidence is moderate (0.62) due to: (1) high annualized volatility of 49.3% creates mean reversion risk, (2) recent 14-day return of +29.14% is already strong, making further 14-day gains at similar magnitude less likely, (3) infrastructure/lending tokens are sensitive to macro sentiment shifts, and (4) extrapolating historical momentum into uncertain future periods carries substantial uncertainty. The 0.28 annualized return reflects a deceleration from recent momentum but maintains bullish bias given market conditions and strong fundamentals.\"\n}\n```\n\nThis forecast accounts for:\n- **Momentum continuation**: The strong 14-day trend (+29.14%) suggests positive inertia\n- **Volatility normalization**: High volatility (49.3% annualized) suggests potential pullback\n- **Market regime**: Bull market conditions support continued strength, but with diminishing returns\n- **Risk management**: Moderate confidence reflects the uncertainty in extrapolating recent performance",
+  "date": "2023-01-24",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:29.131755+00:00"
+}

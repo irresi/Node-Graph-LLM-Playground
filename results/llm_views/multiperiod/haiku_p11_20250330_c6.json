@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "YFI faces significant headwinds: bear market regime with -8.6% DeFi TVL decline, -20.11% 30-day return, and elevated volatility (67.7%). However, YFI's TVL shows +20.1% growth, suggesting protocol strength despite market weakness. The negative 7/14-day momentum (-10.03%/-10.31%) and extreme Sharpe ratio (-2.49) indicate continued downside pressure. Forecasting -85% annualized return (~-2% for 14 days) reflects near-term weakness while acknowledging protocol fundamentals provide some stabilization. Low confidence (0.42) reflects high uncertainty in bear markets and the tension between protocol metrics and price action.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"YFI faces significant headwinds: bear market regime with -8.6% DeFi TVL decline, -20.11% 30-day return, and elevated volatility (67.7%). However, YFI's TVL shows +20.1% growth, suggesting protocol strength despite market weakness. The negative 7/14-day momentum (-10.03%/-10.31%) and extreme Sharpe ratio (-2.49) indicate continued downside pressure. Forecasting -85% annualized return (~-2% for 14 days) reflects near-term weakness while acknowledging protocol fundamentals provide some stabilization. Low confidence (0.42) reflects high uncertainty in bear markets and the tension between protocol metrics and price action.\"\n}\n```",
+  "date": "2025-03-30",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:45.592066+00:00"
+}

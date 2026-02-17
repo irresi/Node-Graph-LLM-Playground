@@ -1,0 +1,30 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -25.8% 30-day loss, negative 7/14-day momentum (-4.26%/-14.18%), and deteriorating TVL across major protocols (AAVE -17.9%, UNI -24.3%). High volatility (76.4%) and poor Sharpe ratio (-2.84) suggest continued downside risk. However, extreme drawdown (-27.5%) may indicate oversold conditions with potential mean reversion. 14-day forecast annualizes recent -14.18% performance. Medium confidence reflects uncertain macro regime and possible capitulation bounce, but preponderance of negative signals supports bearish outlook.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -25.8% 30-day loss, negative 7/14-day momentum (-4.26%/-14.18%), and deteriorating TVL across major protocols (AAVE -17.9%, UNI -24.3%). High volatility (76.4%) and poor Sharpe ratio (-2.84) suggest continued downside risk. However, extreme drawdown (-27.5%) may indicate oversold conditions with potential mean reversion. 14-day forecast annualizes recent -14.18% performance. Medium confidence reflects uncertain macro regime and possible capitulation bounce, but preponderance of negative signals supports bearish outlook.\"\n}\n```",
+  "date": "2025-11-27",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:16.727627+00:00"
+}

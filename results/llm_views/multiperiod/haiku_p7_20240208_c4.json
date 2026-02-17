@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows positive momentum (14-day: +6.11%, 7-day: +4.59%) with recent outperformance, but TVL metrics are concerning with significant declines across all holdings (DYDX -20.9%, COMP -8.4%, YFI -5.7%). In a neutral market regime, momentum typically reverts. The 34.6% annualized volatility and -10.5% max drawdown suggest high risk. Forward momentum justifies modest positive expected return (~18% annualized extrapolation from recent 14-day gains), but deteriorating fundamentals (declining TVL, protocol usage) limit confidence. The Sharpe ratio of 0.76 indicates suboptimal risk-adjusted returns.",
+  "raw_response": "Based on my analysis of Cluster 4's metrics and market conditions, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows positive momentum (14-day: +6.11%, 7-day: +4.59%) with recent outperformance, but TVL metrics are concerning with significant declines across all holdings (DYDX -20.9%, COMP -8.4%, YFI -5.7%). In a neutral market regime, momentum typically reverts. The 34.6% annualized volatility and -10.5% max drawdown suggest high risk. Forward momentum justifies modest positive expected return (~18% annualized extrapolation from recent 14-day gains), but deteriorating fundamentals (declining TVL, protocol usage) limit confidence. The Sharpe ratio of 0.76 indicates suboptimal risk-adjusted returns.\"\n}\n```\n\n**Key factors in this forecast:**\n\n**Bullish signals:**\n- Strong 14-day return (+6.11%) suggests positive momentum in next period\n- 7-day outperformance (+4.59%) indicates recent strength\n\n**Bearish signals:**\n- TVL declining across all tokens (especially DYDX at -20.9%)\n- Neutral/range-bound market regime limits upside\n- High volatility (34.6%) with recent -10.5% drawdown increases risk\n- TVL-weighted portfolio is heavily exposed to declining protocols (COMP 43% of TVL, CVX 32%)\n\n**Confidence rationale:**\nThe 0.62 confidence reflects the conflict between positive near-term momentum and deteriorating fundamental metrics. In a neutral regime, momentum-driven gains are less sustainable.",
+  "date": "2024-02-08",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:27.881300+00:00"
+}

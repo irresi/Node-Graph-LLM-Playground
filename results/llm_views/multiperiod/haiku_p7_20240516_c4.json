@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.52,
+  "reasoning": "Mixed signals: recent 7-day weakness (-3.53%) after 14-day strength (+3.05%) suggests consolidation. 4/5 protocols show declining TVL, but CVX strength (+20.9%) provides upside. Neutral market regime supports modest positive returns. Elevated volatility (51.1%) and modest Sharpe ratio (0.41) warrant moderate confidence. Expected annualized return of 8% reflects cautious optimism with structural headwinds.",
+  "raw_response": "I'll analyze this DeFi cluster (SUSHI, COMP, DYDX, YFI, CVX) to forecast the expected return over the next 14 days.\n\n**Key Analysis Points:**\n\n1. **Recent Momentum Divergence**: The 7-day return is -3.53%, but the 14-day return is +3.05%, suggesting recent weakness after a prior period of strength. This reversal pattern indicates potential consolidation.\n\n2. **TVL Trends Analysis**:\n   - Mixed signals: SUSHI (-6.2%), COMP (-4.6%), DYDX (-3.7%), YFI (-3.9%) all declining\n   - Strong outlier: CVX (+20.9%) showing significant growth\n   - Overall trend slightly negative (-1.1% market-wide), but CVX strength (highest weight at $1447M) provides some support\n\n3. **Volatility & Risk Metrics**:\n   - Annualized volatility of 51.1% is elevated but typical for DeFi\n   - Sharpe ratio of 0.41 indicates modest risk-adjusted returns\n   - Max drawdown of -13.2% shows meaningful downside risk recently realized\n\n4. **Market Regime**:\n   - Neutral/range-bound regime suggests mean reversion tendencies\n   - DeFi TVL slightly negative (-1.1% 30d) indicates modest headwinds\n   - Recent 7-day decline suggests short-term bearish sentiment\n\n5. **Forward Outlook**:\n   - The recent -3.53% 7-day decline after +3.05% 14-day gain suggests potential stabilization\n   - CVX's strength (+20.9% TVL) could provide some upside support\n   - Neutral regime typically leads to sideways/modest positive returns\n   - However, multiple declining protocols (4 of 5) indicate structural weakness\n\n**Forecast Rationale**:\nGiven the recent weakness, negative TVL trends in 4/5 protocols, but considering the neutral market regime and CVX strength, I expect modest positive returns with elevated downside risk. The 14-day forecast should be more pessimistic than the recent 14-day return given the emerging 7-day deterioration.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Mixed signals: recent 7-day weakness (-3.53%) after 14-day strength (+3.05%) suggests consolidation. 4/5 protocols show declining TVL, but CVX strength (+20.9%) provides upside. Neutral market regime supports modest positive returns. Elevated volatility (51.1%) and modest Sharpe ratio (0.41) warrant moderate confidence. Expected annualized return of 8% reflects cautious optimism with structural headwinds.\"\n}\n```",
+  "date": "2024-05-16",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:26.385590+00:00"
+}

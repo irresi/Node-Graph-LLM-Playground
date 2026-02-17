@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster faces headwinds from moderate bear market (-3.2% TVL decline) and negative 14-day momentum (-7.60%), partially offset by recent 7-day stabilization (+0.18%). AAVE's +3.2% TVL growth provides some support, but CRV's -20.4% decline signals protocol stress. High volatility (30.9%) and negative Sharpe ratio (-0.51) indicate challenging risk-adjusted environment. Forecast assumes continued but moderating downward pressure over next 14 days with mean reversion potential. Confidence tempered by regime uncertainty and mixed fundamental signals across holdings.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster faces headwinds from moderate bear market (-3.2% TVL decline) and negative 14-day momentum (-7.60%), partially offset by recent 7-day stabilization (+0.18%). AAVE's +3.2% TVL growth provides some support, but CRV's -20.4% decline signals protocol stress. High volatility (30.9%) and negative Sharpe ratio (-0.51) indicate challenging risk-adjusted environment. Forecast assumes continued but moderating downward pressure over next 14 days with mean reversion potential. Confidence tempered by regime uncertainty and mixed fundamental signals across holdings.\"\n}\n```",
+  "date": "2023-10-17",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:39:21.975772+00:00"
+}

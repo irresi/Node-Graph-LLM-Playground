@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.55,
+  "reasoning": "Cluster faces structural bearish headwinds (bear market, TVL decline, poor Sharpe ratio), but recent 7-day +3.16% rebound suggests potential stabilization. CAKE's stronger TVL position provides some support. Expecting continued weakness over 14 days, but with reduced downside from 30-day pace. Moderate confidence due to high volatility and regime uncertainty.",
+  "raw_response": "Based on the provided market data for Cluster 5 (SUSHI, CAKE), I'll analyze the key factors to forecast the 14-day expected annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -13.5% DeFi TVL decline over 30 days\n2. **Cluster Fundamentals**: \n   - Severe 30-day drawdown: -52.26%\n   - High volatility: 94.6% annualized\n   - Negative Sharpe ratio: -4.64 (poor risk-adjusted returns)\n3. **Protocol Health**:\n   - SUSHI TVL declined -29.6% (more severe than CAKE's -10.8%)\n   - CAKE has stronger position with $2.1B TVL vs SUSHI's $345M\n4. **Recent Momentum**:\n   - 7-day return: +3.16% (small rebound)\n   - 14-day return: -12.23% (still negative)\n   - The recent 3% bounce suggests potential stabilization, but within a downtrend\n\n**Forecast Reasoning:**\n- The cluster has experienced severe losses and now shows modest mean reversion (7-day +3.16%)\n- However, the broader market regime remains bearish with continued TVL outflows\n- DEX tokens are particularly sensitive to market volatility and trading volumes\n- The stabilization is likely temporary given the structural headwinds\n- Expected annualized return should reflect cautious optimism about mean reversion tempered by bearish fundamentals\n\n```json\n{\"expected_return\": -0.25, \"confidence\": 0.55, \"reasoning\": \"Cluster faces structural bearish headwinds (bear market, TVL decline, poor Sharpe ratio), but recent 7-day +3.16% rebound suggests potential stabilization. CAKE's stronger TVL position provides some support. Expecting continued weakness over 14 days, but with reduced downside from 30-day pace. Moderate confidence due to high volatility and regime uncertainty.\"}\n```",
+  "date": "2024-04-27",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:03.391805+00:00"
+}

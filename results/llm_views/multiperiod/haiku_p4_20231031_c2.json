@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "MKR shows mixed signals: negative 30-day return (-6.28%) and weak recent 7-day performance (-7.45%), but positive 14-day return (+0.05%) suggests potential reversal. Strong TVL growth (+3.6%) and bull market regime provide tailwinds, but high volatility (41.7%) and negative Sharpe ratio (-1.27) indicate elevated risk. Moderate confidence reflects uncertainty around momentum inflection and MKR's sensitivity to macro conditions in a single-token cluster. Annualized forecast based on modest 14-day recovery expectation.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR shows mixed signals: negative 30-day return (-6.28%) and weak recent 7-day performance (-7.45%), but positive 14-day return (+0.05%) suggests potential reversal. Strong TVL growth (+3.6%) and bull market regime provide tailwinds, but high volatility (41.7%) and negative Sharpe ratio (-1.27) indicate elevated risk. Moderate confidence reflects uncertainty around momentum inflection and MKR's sensitivity to macro conditions in a single-token cluster. Annualized forecast based on modest 14-day recovery expectation.\"\n}\n```",
+  "date": "2023-10-31",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:39:54.108734+00:00"
+}

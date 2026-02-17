@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -15.45% 30-day return and -23.3% max drawdown, but recent 7-day rebound (+8.37%) suggests potential mean reversion. 14-day outlook tempered by: (1) negative 14-day return (-4.63%) indicating near-term weakness, (2) high volatility (63.6% annualized) creating execution risk, (3) mixed TVL signals (UNI +5.1% vs BAL -12.9%), (4) Sharpe ratio of -2.04 indicating poor risk-adjusted returns. Moderate confidence due to sharp regime change uncertainty\u2014if bear market deepens, returns could be -40% to -50%; if rebound strengthens, could reach +10-15%. Annualized forecast reflects slight negative bias weighted toward recent 14-day trend over bullish 7-day rebound.",
+  "raw_response": "```json\n{\"expected_return\": -0.28, \"confidence\": 0.62, \"reasoning\": \"Cluster in bear market with -15.45% 30-day return and -23.3% max drawdown, but recent 7-day rebound (+8.37%) suggests potential mean reversion. 14-day outlook tempered by: (1) negative 14-day return (-4.63%) indicating near-term weakness, (2) high volatility (63.6% annualized) creating execution risk, (3) mixed TVL signals (UNI +5.1% vs BAL -12.9%), (4) Sharpe ratio of -2.04 indicating poor risk-adjusted returns. Moderate confidence due to sharp regime change uncertainty\u2014if bear market deepens, returns could be -40% to -50%; if rebound strengthens, could reach +10-15%. Annualized forecast reflects slight negative bias weighted toward recent 14-day trend over bullish 7-day rebound.\"}\n```",
+  "date": "2024-07-17",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:09.828009+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster in severe bear regime with -63.59% 30-day decline and -54.46% 14-day decline. Strong negative momentum, elevated volatility (79.3% annualized), and deeply negative Sharpe ratio (-6.74) suggest continued weakness. Major protocols (AAVE, CRV, UNI) showing significant TVL declines (-35% to -45%). However, extreme drawdown (-46.8%) and oversold conditions provide some mean-reversion potential, limiting confidence to 0.72. Expect continued downside but at potentially slower pace given severity of recent sell-off.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster in severe bear regime with -63.59% 30-day decline and -54.46% 14-day decline. Strong negative momentum, elevated volatility (79.3% annualized), and deeply negative Sharpe ratio (-6.74) suggest continued weakness. Major protocols (AAVE, CRV, UNI) showing significant TVL declines (-35% to -45%). However, extreme drawdown (-46.8%) and oversold conditions provide some mean-reversion potential, limiting confidence to 0.72. Expect continued downside but at potentially slower pace given severity of recent sell-off.\"\n}\n```",
+  "date": "2022-06-16",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:31.224298+00:00"
+}

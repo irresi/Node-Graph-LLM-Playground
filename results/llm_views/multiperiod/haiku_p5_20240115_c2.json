@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 (CRV/CVX) shows severe negative momentum with -18.94% 30-day return and -16.27% 14-day return, indicating strong downtrend. However, TVL is stabilizing (only -3.5% to -7.5% changes) and overall DeFi market is in moderate bull regime (+10.2% TVL growth), suggesting potential mean reversion. The 51.9% annualized volatility and -3.07 Sharpe ratio indicate distressed conditions but not terminal decline. Extrapolating recent 14-day performance (-16.27%) to annualized basis yields approximately -85% annualized return, but the divergence between negative token performance and positive market regime suggests some recovery potential in next 14 days. Confidence is moderate due to conflicting signals between local downtrend and macro bullish context.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 (CRV/CVX) shows severe negative momentum with -18.94% 30-day return and -16.27% 14-day return, indicating strong downtrend. However, TVL is stabilizing (only -3.5% to -7.5% changes) and overall DeFi market is in moderate bull regime (+10.2% TVL growth), suggesting potential mean reversion. The 51.9% annualized volatility and -3.07 Sharpe ratio indicate distressed conditions but not terminal decline. Extrapolating recent 14-day performance (-16.27%) to annualized basis yields approximately -85% annualized return, but the divergence between negative token performance and positive market regime suggests some recovery potential in next 14 days. Confidence is moderate due to conflicting signals between local downtrend and macro bullish context.\"\n}\n```",
+  "date": "2024-01-15",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:40.113168+00:00"
+}

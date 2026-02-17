@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with negative 7-day momentum (-2.67%) suggests continued headwinds, but strong 14-day positive return (+6.69%) and TVL growth across major protocols (CAKE +21.9%, BAL +15.1%) indicate underlying strength. UNI and AAVE show robust TVL expansion. However, cluster volatility (47.5%) and negative Sharpe ratio (-0.16) create significant uncertainty. Modest positive annualized forecast reflects recovery potential balanced against bear market structural weakness and elevated macro risk. Low confidence due to conflicting signals and market regime instability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with negative 7-day momentum (-2.67%) suggests continued headwinds, but strong 14-day positive return (+6.69%) and TVL growth across major protocols (CAKE +21.9%, BAL +15.1%) indicate underlying strength. UNI and AAVE show robust TVL expansion. However, cluster volatility (47.5%) and negative Sharpe ratio (-0.16) create significant uncertainty. Modest positive annualized forecast reflects recovery potential balanced against bear market structural weakness and elevated macro risk. Low confidence due to conflicting signals and market regime instability.\"\n}\n```",
+  "date": "2025-10-10",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:14.469580+00:00"
+}

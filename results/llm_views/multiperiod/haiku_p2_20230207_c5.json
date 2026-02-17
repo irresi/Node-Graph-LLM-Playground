@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 5 shows strong momentum with +29.89% 30-day return and +12.85% 7-day return in a bull market regime. The 6.55 Sharpe ratio indicates quality risk-adjusted performance. However, extrapolating recent momentum is risky: (1) the deceleration from 30-day to 7-day returns (-17.04pp) suggests momentum may be fading, (2) the -6.2% max drawdown indicates recent volatility, (3) TVL growth is moderating across tokens (CAKE +8.7%, MKR +13.5% vs. 22% DeFi average), and (4) DEX/lending tokens are cyclical and vulnerable to profit-taking after strong runs. The 0.42 annualized return (conservative extrapolation of recent 14-day +9.25% return) assumes some deceleration from the exceptional 30-day performance, with moderate confidence reflecting bull market support but uncertainty around momentum sustainability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 5 shows strong momentum with +29.89% 30-day return and +12.85% 7-day return in a bull market regime. The 6.55 Sharpe ratio indicates quality risk-adjusted performance. However, extrapolating recent momentum is risky: (1) the deceleration from 30-day to 7-day returns (-17.04pp) suggests momentum may be fading, (2) the -6.2% max drawdown indicates recent volatility, (3) TVL growth is moderating across tokens (CAKE +8.7%, MKR +13.5% vs. 22% DeFi average), and (4) DEX/lending tokens are cyclical and vulnerable to profit-taking after strong runs. The 0.42 annualized return (conservative extrapolation of recent 14-day +9.25% return) assumes some deceleration from the exceptional 30-day performance, with moderate confidence reflecting bull market support but uncertainty around momentum sustainability.\"\n}\n```",
+  "date": "2023-02-07",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:23.306712+00:00"
+}

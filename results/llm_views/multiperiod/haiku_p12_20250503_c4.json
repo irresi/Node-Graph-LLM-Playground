@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "CRV/CVX cluster shows strong 14-day momentum (+28.20%) within a moderate bull regime, supported by positive TVL trends (CRV +6.6%, CVX +22.4%) and exceptional Sharpe ratio (3.98). However, annualized forecast is moderated by: (1) high volatility (90.9%) suggesting mean reversion risk, (2) 7-day deceleration suggests momentum may be peaking, (3) max drawdown of -18.6% indicates significant downside vulnerability. The 42% annualized return reflects recent performance sustainability probability while accounting for elevated risk and mean reversion in high-volatility DEX/yield assets. Confidence is moderate due to regime sensitivity and potential pullback after strong run.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CRV/CVX cluster shows strong 14-day momentum (+28.20%) within a moderate bull regime, supported by positive TVL trends (CRV +6.6%, CVX +22.4%) and exceptional Sharpe ratio (3.98). However, annualized forecast is moderated by: (1) high volatility (90.9%) suggesting mean reversion risk, (2) 7-day deceleration suggests momentum may be peaking, (3) max drawdown of -18.6% indicates significant downside vulnerability. The 42% annualized return reflects recent performance sustainability probability while accounting for elevated risk and mean reversion in high-volatility DEX/yield assets. Confidence is moderate due to regime sensitivity and potential pullback after strong run.\"\n}\n```",
+  "date": "2025-05-03",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:46.658281+00:00"
+}

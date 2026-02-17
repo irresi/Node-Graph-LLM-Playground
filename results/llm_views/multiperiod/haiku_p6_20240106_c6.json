@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows positive 14-day momentum (+6.35%) despite recent 7-day pullback (-5.79%), suggesting mean reversion potential. Moderate Bull market regime and solid Sharpe ratio (1.03) support upside, but TVL headwinds (LDO -5.1%, COMP -4.8%) and high volatility (48.2%) create uncertainty. Mixed protocol fundamentals (AAVE +2.9%, GMX +3.1% offset by declines elsewhere) warrant cautious optimism. 14-day annualized extrapolation of recent positive trend with discount for volatility and macro headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows positive 14-day momentum (+6.35%) despite recent 7-day pullback (-5.79%), suggesting mean reversion potential. Moderate Bull market regime and solid Sharpe ratio (1.03) support upside, but TVL headwinds (LDO -5.1%, COMP -4.8%) and high volatility (48.2%) create uncertainty. Mixed protocol fundamentals (AAVE +2.9%, GMX +3.1% offset by declines elsewhere) warrant cautious optimism. 14-day annualized extrapolation of recent positive trend with discount for volatility and macro headwinds.\"\n}\n```",
+  "date": "2024-01-06",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:45.156981+00:00"
+}

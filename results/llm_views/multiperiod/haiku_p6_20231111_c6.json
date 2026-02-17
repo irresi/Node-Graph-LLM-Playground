@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 6 demonstrates strong bullish momentum with 42.43% 30-day returns and exceptional Sharpe ratio of 8.55 in a bull market regime. However, forecasting forward 14 days requires caution: (1) Recent 7-day return of 14.99% suggests potential mean reversion after strong 30-day rally, (2) Low max drawdown (-4.2%) indicates stretched valuations with limited downside protection, (3) High annualized volatility (41.7%) amplifies both upside and downside risks, (4) TVL growth across protocols (LDO +36.1%, RPL +38.3%, AAVE +34.5%) supports fundamental strength but may already be priced in. The 85% annualized return forecast represents ~3.2% expected 14-day return, balancing the cluster's momentum advantage against typical post-rally consolidation patterns and elevated valuations. Confidence is moderate (0.62) due to inherent difficulty in short-term crypto forecasting and uncertainty about whether the bull regime sustains.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 6 demonstrates strong bullish momentum with 42.43% 30-day returns and exceptional Sharpe ratio of 8.55 in a bull market regime. However, forecasting forward 14 days requires caution: (1) Recent 7-day return of 14.99% suggests potential mean reversion after strong 30-day rally, (2) Low max drawdown (-4.2%) indicates stretched valuations with limited downside protection, (3) High annualized volatility (41.7%) amplifies both upside and downside risks, (4) TVL growth across protocols (LDO +36.1%, RPL +38.3%, AAVE +34.5%) supports fundamental strength but may already be priced in. The 85% annualized return forecast represents ~3.2% expected 14-day return, balancing the cluster's momentum advantage against typical post-rally consolidation patterns and elevated valuations. Confidence is moderate (0.62) due to inherent difficulty in short-term crypto forecasting and uncertainty about whether the bull regime sustains.\"\n}\n```",
+  "date": "2023-11-11",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:41.349640+00:00"
+}

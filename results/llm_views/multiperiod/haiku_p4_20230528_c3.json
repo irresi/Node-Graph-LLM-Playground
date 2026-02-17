@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Liquid staking cluster (LDO, RPL) shows positive momentum (+3.74% in 30d, +2.20% in 14d) despite bear market regime. LDO's strong TVL growth (+7.0%) and dominant position ($12.7B TVL) provide fundamental support. However, bear market headwinds, elevated volatility (58.2% annualized), and modest Sharpe ratio (0.54) create downside risks. 14-day annualized return estimate of 0.18 reflects mean-reversion potential from recent outperformance, but confidence is moderate due to macro regime uncertainty and potential profit-taking. Max drawdown of -16.1% suggests cluster vulnerability to broader market shocks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Liquid staking cluster (LDO, RPL) shows positive momentum (+3.74% in 30d, +2.20% in 14d) despite bear market regime. LDO's strong TVL growth (+7.0%) and dominant position ($12.7B TVL) provide fundamental support. However, bear market headwinds, elevated volatility (58.2% annualized), and modest Sharpe ratio (0.54) create downside risks. 14-day annualized return estimate of 0.18 reflects mean-reversion potential from recent outperformance, but confidence is moderate due to macro regime uncertainty and potential profit-taking. Max drawdown of -16.1% suggests cluster vulnerability to broader market shocks.\"\n}\n```",
+  "date": "2023-05-28",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:02.144151+00:00"
+}

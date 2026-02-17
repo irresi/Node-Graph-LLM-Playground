@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear market with -36.57% 30-day loss and -6.79% 14-day loss. Strong negative momentum despite recent 7-day bounce (+0.49%). High volatility (73% annualized) and negative Sharpe ratio (-4.21) indicate risk-adjusted returns are poor. TVL declines across major protocols (UNI -7.5%, CRV -18.5%, BAL -17.6%, SNX -38%) signal weakening fundamentals. Overall DeFi TVL down 13.5% monthly in bear regime. Forecasting continued downside pressure with mean reversion potential limited by macro headwinds. Moderate confidence due to extreme volatility and potential for sharp reversals in depressed markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear market with -36.57% 30-day loss and -6.79% 14-day loss. Strong negative momentum despite recent 7-day bounce (+0.49%). High volatility (73% annualized) and negative Sharpe ratio (-4.21) indicate risk-adjusted returns are poor. TVL declines across major protocols (UNI -7.5%, CRV -18.5%, BAL -17.6%, SNX -38%) signal weakening fundamentals. Overall DeFi TVL down 13.5% monthly in bear regime. Forecasting continued downside pressure with mean reversion potential limited by macro headwinds. Moderate confidence due to extreme volatility and potential for sharp reversals in depressed markets.\"\n}\n```",
+  "date": "2024-04-27",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:43.855841+00:00"
+}

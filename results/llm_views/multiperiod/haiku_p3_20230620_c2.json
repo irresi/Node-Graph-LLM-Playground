@@ -1,0 +1,28 @@
+{
+  "expected_return": 0.65,
+  "confidence": 0.45,
+  "reasoning": "Bear market with oversold conditions suggests modest mean reversion bounce over 14 days (+2-3%), but weakening fundamentals (TVL decline) and negative regime limit conviction. High volatility and conflicting signals (7-day bounce vs. 14-30 day decline) create significant uncertainty. Annualized return ~65% reflects expected short-term bounce, not sustained recovery.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market with -4.8% TVL decline over 30 days\n- Cluster down -18.60% over 30 days with severe -23.7% max drawdown\n- High volatility (52% annualized) and poor risk-adjusted returns (Sharpe: -3.00)\n\n**Recent Momentum Signals:**\n- 7-day return: +4.88% (recent bounce)\n- 14-day return: -12.34% (still negative)\n- 30-day return: -18.60% (severe decline)\n- The recent +4.88% move suggests potential mean reversion or temporary relief rally\n\n**Protocol Fundamentals:**\n- TVL remains under pressure across all major tokens:\n  - UNI, CRV: -6.5% to -12.7% TVL decline\n  - CAKE: -24.6% (most severe)\n  - SUSHI, BAL: -8.7% to -11.7%\n- Fundamental deterioration alongside price decline indicates structural weakness\n\n**Key Considerations:**\n1. **Bear Market Regime:** Strong downtrend suggests continued pressure\n2. **Oversold Conditions:** Severe drawdown may create bounce opportunity\n3. **Conflicting Signals:** Recent 7-day bounce vs. persistent 14-30 day declines\n4. **TVL Erosion:** Ongoing decline in underlying protocol metrics is concerning\n\n**Forecast Logic:**\nGiven the bear market regime but recognizing the recent bounce, I expect modest mean reversion over the next 14 days. However, structural weakness in TVL metrics and the strong downtrend limit upside. The cluster likely experiences a relief rally following the sharp decline, but fundamental deterioration prevents sustained recovery.\n\nAnnualizing a modest 14-day gain (estimated 2-3%) into annual terms yields approximately 0.52-0.78.\n\n```json\n{\"expected_return\": 0.65, \"confidence\": 0.45, \"reasoning\": \"Bear market with oversold conditions suggests modest mean reversion bounce over 14 days (+2-3%), but weakening fundamentals (TVL decline) and negative regime limit conviction. High volatility and conflicting signals (7-day bounce vs. 14-30 day decline) create significant uncertainty. Annualized return ~65% reflects expected short-term bounce, not sustained recovery.\"}\n```",
+  "date": "2023-06-20",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:33.518942+00:00"
+}

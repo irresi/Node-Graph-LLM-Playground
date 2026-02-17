@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-02-17T06:30:55.615018+00:00",
+  "model": "haiku",
+  "n_periods": 15,
+  "stats": {
+    "total_calls": 817,
+    "cached_calls": 0,
+    "failed_calls": 0
+  },
+  "periods_processed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ]
+}

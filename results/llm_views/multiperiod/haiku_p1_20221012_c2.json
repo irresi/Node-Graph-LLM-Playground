@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster in strong bear market with -13.11% 30-day loss and negative Sharpe ratio (-2.40). Recent 14-day return of -1.07% shows deceleration of losses, suggesting potential stabilization. However, TVL decline across most protocols (UNI -6.8%, SUSHI -20.8%, BAL -7.3%) and elevated volatility (45.8% annualized) indicate continued downside risk. DeFi TVL down 10.3% month-over-month in weak macro environment. Modest confidence due to mixed signals: stabilizing momentum versus deteriorating fundamentals and persistent bear regime. Expect continued pressure but at slower pace than recent trend.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear market with -13.11% 30-day loss and negative Sharpe ratio (-2.40). Recent 14-day return of -1.07% shows deceleration of losses, suggesting potential stabilization. However, TVL decline across most protocols (UNI -6.8%, SUSHI -20.8%, BAL -7.3%) and elevated volatility (45.8% annualized) indicate continued downside risk. DeFi TVL down 10.3% month-over-month in weak macro environment. Modest confidence due to mixed signals: stabilizing momentum versus deteriorating fundamentals and persistent bear regime. Expect continued pressure but at slower pace than recent trend.\"\n}\n```",
+  "date": "2022-10-12",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:53.120952+00:00"
+}

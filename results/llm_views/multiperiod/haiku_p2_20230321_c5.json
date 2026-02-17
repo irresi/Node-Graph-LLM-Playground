@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with strong recent downtrend (-8.44% over 7 days, -11.16% over 30 days) suggests continued negative momentum. However, MKR's counter-trend TVL growth (+3.6%) and stabilization in 14-day returns (-7.08% vs -11.16% 30-day) indicate potential bottoming. High volatility (53.3%) and negative Sharpe ratio (-1.76) reflect stressed market conditions. Moderate confidence due to bear regime persistence but potential consolidation signals. Forecast annualizes the 14-day trend (-7.08% = ~-185% annualized, but adjusted downward for potential mean reversion and MKR stabilization to -45% annualized over next 14 days).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong recent downtrend (-8.44% over 7 days, -11.16% over 30 days) suggests continued negative momentum. However, MKR's counter-trend TVL growth (+3.6%) and stabilization in 14-day returns (-7.08% vs -11.16% 30-day) indicate potential bottoming. High volatility (53.3%) and negative Sharpe ratio (-1.76) reflect stressed market conditions. Moderate confidence due to bear regime persistence but potential consolidation signals. Forecast annualizes the 14-day trend (-7.08% = ~-185% annualized, but adjusted downward for potential mean reversion and MKR stabilization to -45% annualized over next 14 days).\"\n}\n```",
+  "date": "2023-03-21",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:44.550400+00:00"
+}

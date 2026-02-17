@@ -1,0 +1,16 @@
+{
+  "expected_return": 1.95,
+  "confidence": 0.62,
+  "reasoning": "Cluster exhibits strong 30-day momentum (+40.75%) with recent consolidation (-4.17% 7-day). Moderate bull regime supports continued gains, but high volatility (94.4% annualized) and recent pullback suggest mean reversion risk. Conservative estimate: ~10% 14-day return, annualized to 1.95x. Confidence tempered by elevated volatility and valuation extension after 40% run. COMP stable fundamentals provide downside support.",
+  "raw_response": "I'll analyze this cluster to provide a 14-day return forecast. Let me break down the key factors:\n\n**Analysis:**\n\n1. **Recent Momentum Analysis:**\n   - 30-day return: +40.75% (strong bullish momentum)\n   - 14-day return: +16.67% (continued positive trend)\n   - 7-day return: -4.17% (recent pullback/consolidation)\n   - Pattern suggests momentum is moderating but still positive\n\n2. **Volatility & Risk Profile:**\n   - Annualized volatility: 94.4% (very high)\n   - Sharpe ratio: 3.63 (excellent risk-adjusted returns recently)\n   - Max drawdown: -18.3% (meaningful correction risk)\n   - This indicates high volatility with positive recent risk-adjusted performance\n\n3. **Market Regime:**\n   - Moderate Bull market with +5.0% TVL growth\n   - Favorable macro conditions for DeFi\n\n4. **Cluster Composition:**\n   - COMP (Lending): Stable TVL ($1,846M, 0% change)\n   - OP & GRT (Infrastructure/L2): No TVL data but strategic tokens\n   - Diversified across lending, L2, and indexing protocols\n\n5. **Forward-Looking Considerations:**\n   - Recent 7-day pullback (-4.17%) after 40% 30-day run suggests mean reversion risk\n   - However, positive 14-day trend (+16.67%) indicates momentum not fully exhausted\n   - High volatility means significant variance in outcomes\n   - Bull market regime supports continued strength but valuations may be extended\n\n**Forecast Rationale:**\nGiven the strong recent performance but recent consolidation, combined with high volatility and a moderately bullish regime, I expect continued but moderating returns. The 7-day pullback suggests profit-taking, but the cluster remains in an uptrend. Annualizing a conservative 14-day return estimate of +8-12% accounts for momentum persistence balanced against mean reversion risk and volatility expansion.\n\n```json\n{\"expected_return\": 1.95, \"confidence\": 0.62, \"reasoning\": \"Cluster exhibits strong 30-day momentum (+40.75%) with recent consolidation (-4.17% 7-day). Moderate bull regime supports continued gains, but high volatility (94.4% annualized) and recent pullback suggest mean reversion risk. Conservative estimate: ~10% 14-day return, annualized to 1.95x. Confidence tempered by elevated volatility and valuation extension after 40% run. COMP stable fundamentals provide downside support.\"}\n```",
+  "date": "2023-02-13",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:09.395359+00:00"
+}

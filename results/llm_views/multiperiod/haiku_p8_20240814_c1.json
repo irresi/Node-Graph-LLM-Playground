@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market regime with -19.83% 30d return and -32% max drawdown, but showing strong 7d recovery (+11.96%). Recent 14d return of -17.38% suggests stabilization. High annualized volatility (58.8%) and negative Sharpe (-2.84) indicate risk outweighs returns. TVL metrics show mixed signals: UNI/SUSHI declining but CRV stable. Forecasting continued downside over next 14d as bear regime persists, though recovery momentum may moderate losses. Moderate confidence due to high volatility and regime uncertainty in DeFi markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with -19.83% 30d return and -32% max drawdown, but showing strong 7d recovery (+11.96%). Recent 14d return of -17.38% suggests stabilization. High annualized volatility (58.8%) and negative Sharpe (-2.84) indicate risk outweighs returns. TVL metrics show mixed signals: UNI/SUSHI declining but CRV stable. Forecasting continued downside over next 14d as bear regime persists, though recovery momentum may moderate losses. Moderate confidence due to high volatility and regime uncertainty in DeFi markets.\"\n}\n```",
+  "date": "2024-08-14",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:44.293491+00:00"
+}

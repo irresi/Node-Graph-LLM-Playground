@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 shows strong momentum with +58.42% 30-day return and excellent Sharpe ratio (7.45) in a bull market regime. However, the 14-day return (+30.14%) moderating from 7-day pace (+13.90%) suggests momentum may be decelerating. The +23.9% DeFi TVL growth supports positive near-term outlook. LDO's strong +38.3% TVL growth and RPL's +45.0% provide tailwinds, while GMX's modest +7.0% TVL change is a headwind. The -6.2% max drawdown indicates some volatility risk. Annualized projection of 0.85 (roughly 1.6% over 14 days) reflects sustained but moderating momentum. Confidence tempered by: (1) deceleration signals, (2) typical mean reversion after 58% run, (3) external macro risks in crypto. Bull regime and fundamental strength keep forecast positive but realistic.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows strong momentum with +58.42% 30-day return and excellent Sharpe ratio (7.45) in a bull market regime. However, the 14-day return (+30.14%) moderating from 7-day pace (+13.90%) suggests momentum may be decelerating. The +23.9% DeFi TVL growth supports positive near-term outlook. LDO's strong +38.3% TVL growth and RPL's +45.0% provide tailwinds, while GMX's modest +7.0% TVL change is a headwind. The -6.2% max drawdown indicates some volatility risk. Annualized projection of 0.85 (roughly 1.6% over 14 days) reflects sustained but moderating momentum. Confidence tempered by: (1) deceleration signals, (2) typical mean reversion after 58% run, (3) external macro risks in crypto. Bull regime and fundamental strength keep forecast positive but realistic.\"\n}\n```",
+  "date": "2023-01-24",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:34.359629+00:00"
+}

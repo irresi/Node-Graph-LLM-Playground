@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Strong bear regime with -33% 14-day drawdown and -4.03 Sharpe ratio indicates severe underperformance. DEX/derivatives tokens face headwinds from declining TVL (-13.6% market-wide, -29.9% SNX-specific). High volatility (55.1% annualized) and continued momentum deterioration (7d: -29.83%) suggest further downside likely. However, extreme pessimism and oversold conditions may provide some mean reversion support, limiting severity. Annualized estimate assumes continued but moderating decline over 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Strong bear regime with -33% 14-day drawdown and -4.03 Sharpe ratio indicates severe underperformance. DEX/derivatives tokens face headwinds from declining TVL (-13.6% market-wide, -29.9% SNX-specific). High volatility (55.1% annualized) and continued momentum deterioration (7d: -29.83%) suggest further downside likely. However, extreme pessimism and oversold conditions may provide some mean reversion support, limiting severity. Annualized estimate assumes continued but moderating decline over 14 days.\"\n}\n```",
+  "date": "2024-08-06",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:25.371732+00:00"
+}

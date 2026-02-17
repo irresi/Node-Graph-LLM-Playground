@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "YFI cluster faces headwinds from bear market regime (TVL down 4.9%) despite positive TVL fundamentals (+3.6%). Recent 7-day bounce (+2.50%) conflicts with 14-day decline (-10.68%), suggesting mean reversion attempts amid high volatility (57.6% annualized). Negative Sharpe ratio (-1.11) and -17.5% max drawdown indicate elevated risk. Over 14 days, expect continued weakness as bear trend reasserts, but TVL retention provides some support. Low confidence due to conflicting signals and high volatility.",
+  "raw_response": "Based on the market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"YFI cluster faces headwinds from bear market regime (TVL down 4.9%) despite positive TVL fundamentals (+3.6%). Recent 7-day bounce (+2.50%) conflicts with 14-day decline (-10.68%), suggesting mean reversion attempts amid high volatility (57.6% annualized). Negative Sharpe ratio (-1.11) and -17.5% max drawdown indicate elevated risk. Over 14 days, expect continued weakness as bear trend reasserts, but TVL retention provides some support. Low confidence due to conflicting signals and high volatility.\"\n}\n```\n\n**Key Considerations:**\n- **Bear Market Pressure**: Overall DeFi TVL declining (-4.9%) suggests continued downward pressure\n- **Positive Fundamentals**: YFI's +3.6% TVL growth shows protocol strength, providing some downside support\n- **Mixed Momentum**: Recent bounce contradicts longer-term decline, indicating volatility without clear direction\n- **High Risk Environment**: 57.6% annualized volatility and negative Sharpe ratio warrant low confidence in any forecast\n- **14-day Horizon**: The recent 14-day return (-10.68%) suggests momentum remains negative",
+  "date": "2025-10-24",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:44.309056+00:00"
+}

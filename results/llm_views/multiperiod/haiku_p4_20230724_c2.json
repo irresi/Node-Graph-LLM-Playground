@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.52,
+  "reasoning": "MKR shows strong recent momentum (+44.86% in 30 days, +15.62% in 14 days) in a bull market regime with excellent Sharpe ratio (4.34). However, confidence is moderate due to: (1) TVL declining -15.5% over 30 days indicating potential fundamental weakness, (2) high volatility (86.8% annualized) creating prediction uncertainty, (3) sustainability risk after 44.86% rally - potential mean reversion, and (4) single-token cluster lacks diversification. The 14-day forward projection annualizes recent momentum at ~28%, but this may not persist given TVL headwinds and high drawdown risk (-11.9% max).",
+  "raw_response": "Based on the provided market data for Cluster 2 (MKR), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.52,\n  \"reasoning\": \"MKR shows strong recent momentum (+44.86% in 30 days, +15.62% in 14 days) in a bull market regime with excellent Sharpe ratio (4.34). However, confidence is moderate due to: (1) TVL declining -15.5% over 30 days indicating potential fundamental weakness, (2) high volatility (86.8% annualized) creating prediction uncertainty, (3) sustainability risk after 44.86% rally - potential mean reversion, and (4) single-token cluster lacks diversification. The 14-day forward projection annualizes recent momentum at ~28%, but this may not persist given TVL headwinds and high drawdown risk (-11.9% max).\"\n}\n```\n\n**Key reasoning factors:**\n- **Bullish signals**: Strong recent returns, bull market regime, excellent risk-adjusted returns (Sharpe 4.34)\n- **Bearish signals**: Declining TVL (-15.5%), unsustainably high volatility, potential for mean reversion after 45% gain\n- **Moderate confidence**: The combination of positive momentum offset by TVL deterioration and elevated risk suggests reasonable but not high confidence in continuation",
+  "date": "2023-07-24",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:49.581469+00:00"
+}

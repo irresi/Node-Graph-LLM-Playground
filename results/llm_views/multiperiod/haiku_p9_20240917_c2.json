@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows mixed signals: positive 14-day momentum (+5.61%) and recovery from 7-day dip (-1.14%) suggest short-term upside, but fundamentals are weak with declining TVL across all protocols (-1.3% to -10.8%), negative market regime (-8.2% DeFi TVL decline), and high volatility (60% annualized). The 30-day Sharpe ratio of 0.34 indicates poor risk-adjusted returns. DEX/Derivatives tokens are sensitive to market risk-off conditions. Forecasting modest annualized return (~18% over 14 days) based on recent momentum, but low confidence due to headwinds from macro regime, TVL deterioration, and sector-wide pressure.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows mixed signals: positive 14-day momentum (+5.61%) and recovery from 7-day dip (-1.14%) suggest short-term upside, but fundamentals are weak with declining TVL across all protocols (-1.3% to -10.8%), negative market regime (-8.2% DeFi TVL decline), and high volatility (60% annualized). The 30-day Sharpe ratio of 0.34 indicates poor risk-adjusted returns. DEX/Derivatives tokens are sensitive to market risk-off conditions. Forecasting modest annualized return (~18% over 14 days) based on recent momentum, but low confidence due to headwinds from macro regime, TVL deterioration, and sector-wide pressure.\"\n}\n```",
+  "date": "2024-09-17",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:26.147064+00:00"
+}

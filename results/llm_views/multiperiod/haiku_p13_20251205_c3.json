@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows positive momentum (14-day +6.76%, 7-day +2.61%) despite bear market and declining TVL trends. Mixed fundamentals: AAVE stable (+1.4% TVL), CAKE growing (+2.9%), but UNI/BAL/COMP declining sharply (-9.5% to -15.3%). High volatility (62.3% annualized) and negative 30-day TVL trend (-3.1% DeFi-wide) create headwinds. Recent outperformance relative to market decline suggests selective strength in governance/lending tokens, but sustainability is uncertain. Moderate confidence due to bear regime conflict with positive recent returns and fundamental deterioration in key protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows positive momentum (14-day +6.76%, 7-day +2.61%) despite bear market and declining TVL trends. Mixed fundamentals: AAVE stable (+1.4% TVL), CAKE growing (+2.9%), but UNI/BAL/COMP declining sharply (-9.5% to -15.3%). High volatility (62.3% annualized) and negative 30-day TVL trend (-3.1% DeFi-wide) create headwinds. Recent outperformance relative to market decline suggests selective strength in governance/lending tokens, but sustainability is uncertain. Moderate confidence due to bear regime conflict with positive recent returns and fundamental deterioration in key protocols.\"\n}\n```",
+  "date": "2025-12-05",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:42.459112+00:00"
+}

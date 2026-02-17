@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "DEX cluster showing strong 30-day performance (+11.66%) despite recent 14-day headwinds (-1.48%), suggesting momentum reversal potential. Moderate bull market regime supports positive outlook. CAKE's strong TVL growth (+5.6%) and larger protocol size provide stability. However, elevated volatility (75.8%) and recent negative trend create uncertainty. Sharpe ratio of 1.29 indicates good risk-adjusted returns historically. Forecast reflects cautious optimism with near-term recovery potential, but recent weakness and high volatility limit confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"DEX cluster showing strong 30-day performance (+11.66%) despite recent 14-day headwinds (-1.48%), suggesting momentum reversal potential. Moderate bull market regime supports positive outlook. CAKE's strong TVL growth (+5.6%) and larger protocol size provide stability. However, elevated volatility (75.8%) and recent negative trend create uncertainty. Sharpe ratio of 1.29 indicates good risk-adjusted returns historically. Forecast reflects cautious optimism with near-term recovery potential, but recent weakness and high volatility limit confidence.\"\n}\n```",
+  "date": "2024-01-20",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:05.659919+00:00"
+}

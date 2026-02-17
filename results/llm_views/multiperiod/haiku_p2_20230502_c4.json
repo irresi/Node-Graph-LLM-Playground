@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with strong downtrend (-21.03% over 14 days, -3.72% over 7 days) suggests continued negative momentum. Cluster volatility at 47.8% annualized and max drawdown of -20.6% indicate elevated risk. LINK, OP, and ENS are infrastructure/oracle tokens sensitive to broader market sentiment. Negative Sharpe ratio (-1.02) and declining TVL environment support bearish outlook. However, confidence is moderate (0.62) due to potential oversold conditions and limited TVL data. Annualized return of -0.45 reflects short-term 14-day bearish pressure scaled to annual equivalence, accounting for recovery potential in stretched market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong downtrend (-21.03% over 14 days, -3.72% over 7 days) suggests continued negative momentum. Cluster volatility at 47.8% annualized and max drawdown of -20.6% indicate elevated risk. LINK, OP, and ENS are infrastructure/oracle tokens sensitive to broader market sentiment. Negative Sharpe ratio (-1.02) and declining TVL environment support bearish outlook. However, confidence is moderate (0.62) due to potential oversold conditions and limited TVL data. Annualized return of -0.45 reflects short-term 14-day bearish pressure scaled to annual equivalence, accounting for recovery potential in stretched market conditions.\"\n}\n```",
+  "date": "2023-05-02",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:57.285269+00:00"
+}

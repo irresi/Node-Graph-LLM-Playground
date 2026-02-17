@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with elevated volatility (74.8% annualized) and negative Sharpe ratio (-1.76) create headwinds. However, recent 14-day momentum is positive (+3.51%) and LDO shows strong TVL growth (+18.4% 30d). RPL also positive. Mixed signals in bear market justify modest positive forecast with low confidence. High volatility and max drawdown of -27.6% suggest significant downside risk despite recent bounce.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with elevated volatility (74.8% annualized) and negative Sharpe ratio (-1.76) create headwinds. However, recent 14-day momentum is positive (+3.51%) and LDO shows strong TVL growth (+18.4% 30d). RPL also positive. Mixed signals in bear market justify modest positive forecast with low confidence. High volatility and max drawdown of -27.6% suggest significant downside risk despite recent bounce.\"\n}\n```\n\n**Analysis Summary:**\n\n**Bearish Factors:**\n- Overall market in strong downtrend\n- 30-day return deeply negative (-15.63%)\n- Negative Sharpe ratio indicates poor risk-adjusted returns\n- High volatility (74.8%) and deep max drawdown (-27.6%)\n\n**Bullish Factors:**\n- Recent 14-day return positive (+3.51%) suggests early momentum reversal\n- LDO showing exceptional TVL growth (+18.4%)\n- RPL TVL growing (+6.3%)\n- Total DeFi TVL stabilizing (+1.3%)\n\n**Confidence Rationale:**\nLow confidence (0.35) reflects the contradictory signals - while recent momentum is positive, the broader bear market regime and structural weakness (negative Sharpe, poor risk-adjusted returns) suggest the bounce may be temporary. The forecast reflects a modest positive expectation with substantial uncertainty about sustainability.",
+  "date": "2023-03-21",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:30.979130+00:00"
+}

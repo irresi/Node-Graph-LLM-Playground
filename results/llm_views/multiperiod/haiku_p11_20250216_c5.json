@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.55,
+  "reasoning": "Cluster 5 (BAL/AAVE) faces headwinds from bear market regime (-16.7% TVL decline) and weak 30-day performance (-21.87%). However, 7-day rebound (+5.96%) suggests potential stabilization. AAVE's larger TVL ($19.9B) provides some fundamental support despite -10.3% TVL decline. High volatility (75.1%) and negative Sharpe ratio (-2.45) indicate elevated risk. The 14-day momentum (-14.83%) suggests downside bias may persist near-term. Forecasting -35% annualized return (roughly -1.7% over 14 days) reflecting ongoing market weakness with moderate confidence given conflicting signals between recent bounce and fundamental deterioration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 5 (BAL/AAVE) faces headwinds from bear market regime (-16.7% TVL decline) and weak 30-day performance (-21.87%). However, 7-day rebound (+5.96%) suggests potential stabilization. AAVE's larger TVL ($19.9B) provides some fundamental support despite -10.3% TVL decline. High volatility (75.1%) and negative Sharpe ratio (-2.45) indicate elevated risk. The 14-day momentum (-14.83%) suggests downside bias may persist near-term. Forecasting -35% annualized return (roughly -1.7% over 14 days) reflecting ongoing market weakness with moderate confidence given conflicting signals between recent bounce and fundamental deterioration.\"\n}\n```",
+  "date": "2025-02-16",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:16.506318+00:00"
+}

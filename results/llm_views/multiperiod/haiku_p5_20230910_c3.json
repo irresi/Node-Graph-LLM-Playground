@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 3 is in a severe bear market with -25.07% 30-day decline and deeply negative Sharpe ratio (-5.78). Recent momentum is deteriorating (7-day: -2.74%, 14-day: -7.69%), suggesting downtrend continuation. The -10.3% broader DeFi TVL contraction and significant protocol-level TVL declines (BAL -22.5%, SUSHI -17.7%) indicate fundamental weakness. However, the cluster remains a mix of essential infrastructure (UNI, AAVE) which may provide some floor. Forecasting -85% annualized return (~-1.6% over 14 days) assuming continued correction but at a moderated pace as markets approach deeper support levels. Confidence is moderate due to high volatility and potential for capitulation bottoming.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 3 is in a severe bear market with -25.07% 30-day decline and deeply negative Sharpe ratio (-5.78). Recent momentum is deteriorating (7-day: -2.74%, 14-day: -7.69%), suggesting downtrend continuation. The -10.3% broader DeFi TVL contraction and significant protocol-level TVL declines (BAL -22.5%, SUSHI -17.7%) indicate fundamental weakness. However, the cluster remains a mix of essential infrastructure (UNI, AAVE) which may provide some floor. Forecasting -85% annualized return (~-1.6% over 14 days) assuming continued correction but at a moderated pace as markets approach deeper support levels. Confidence is moderate due to high volatility and potential for capitulation bottoming.\"\n}\n```",
+  "date": "2023-09-10",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:07.898825+00:00"
+}

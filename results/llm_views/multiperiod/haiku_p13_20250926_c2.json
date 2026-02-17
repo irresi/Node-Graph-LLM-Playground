@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.55,
+  "reasoning": "Cluster in severe bear regime with -26.77% 30d return and -28% 7d return showing accelerating downside. Negative TVL trends across all protocols (CVX -18.1%, LDO -15.7%, RPL -15.8%) indicate weakening fundamentals. High volatility (62.3%) and negative Sharpe (-3.61) suggest continued distress. However, extreme drawdowns often precede bounce opportunities. 14-day forecast annualizes recent -24.59% 2-week performance. Moderate confidence due to bear regime clarity but vulnerability to technical rebounds or micro-cap volatility reversals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in severe bear regime with -26.77% 30d return and -28% 7d return showing accelerating downside. Negative TVL trends across all protocols (CVX -18.1%, LDO -15.7%, RPL -15.8%) indicate weakening fundamentals. High volatility (62.3%) and negative Sharpe (-3.61) suggest continued distress. However, extreme drawdowns often precede bounce opportunities. 14-day forecast annualizes recent -24.59% 2-week performance. Moderate confidence due to bear regime clarity but vulnerability to technical rebounds or micro-cap volatility reversals.\"\n}\n```",
+  "date": "2025-09-26",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:49.593616+00:00"
+}

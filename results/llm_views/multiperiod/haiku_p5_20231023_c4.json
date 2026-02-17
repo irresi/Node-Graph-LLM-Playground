@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "RPL shows momentum recovery (+1.49% 7d vs -2.67% 14d) with strong TVL fundamentals (+5.5% 30d). Bull market regime supports liquid staking. However, negative Sharpe ratio and high volatility (50.9%) create headwinds. Expect modest recovery toward mean but maintain caution on 14-day outlook.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n**Analysis of Cluster 4 (RPL - Liquid Staking):**\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows a recovery pattern - down 9.59% over 30 days, but positive 1.49% over 7 days and negative only 2.67% over 14 days, suggesting stabilization and momentum reversal.\n\n2. **Fundamentals**: RPL's TVL increased 5.5% over 30 days despite negative price performance, indicating strong protocol usage and user confidence in the underlying staking infrastructure.\n\n3. **Market Regime**: The broader DeFi market is in a bull regime with +1.9% TVL growth, providing tailwinds for recovery.\n\n4. **Volatility**: At 50.9% annualized, this is a volatile asset, but the negative Sharpe ratio (-1.58) reflects recent underperformance relative to risk taken.\n\n5. **Technical Setup**: The 7-day positive return (+1.49%) against the 14-day negative return (-2.67%) suggests momentum is turning positive - if this trend continues, we could see continued recovery.\n\n**Forecast Rationale:**\n\n- The positive 7-day return combined with strong TVL growth suggests the worst may be behind\n- Liquid staking should benefit from the bull market regime\n- However, the recent underperformance and high volatility warrant moderate expectations\n- Mean reversion from the -24.1% drawdown could provide upside\n- Conservative approach given the mixed recent signals\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.55, \"reasoning\": \"RPL shows momentum recovery (+1.49% 7d vs -2.67% 14d) with strong TVL fundamentals (+5.5% 30d). Bull market regime supports liquid staking. However, negative Sharpe ratio and high volatility (50.9%) create headwinds. Expect modest recovery toward mean but maintain caution on 14-day outlook.\"}\n```",
+  "date": "2023-10-23",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:42:20.736053+00:00"
+}

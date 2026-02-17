@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with strong downtrend momentum (-16.35% over 14d, -13.70% over 7d suggests acceleration). High volatility (93% annualized) and negative Sharpe (-1.41) indicate risk-adjusted returns are poor. Mixed fundamentals: MKR TVL recovering (+5.1%) provides slight support, but CRV and CVX declining (-7.3%, -11.2%). DeFi TVL down 16% overall. Over 14-day horizon, expect continued downward pressure but volatility may create intra-period trading opportunities. Annualized -45% reflects near-term bearish outlook, though mean reversion risk and potential stabilization limit full conviction.",
+  "raw_response": "Based on the market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with strong downtrend momentum (-16.35% over 14d, -13.70% over 7d suggests acceleration). High volatility (93% annualized) and negative Sharpe (-1.41) indicate risk-adjusted returns are poor. Mixed fundamentals: MKR TVL recovering (+5.1%) provides slight support, but CRV and CVX declining (-7.3%, -11.2%). DeFi TVL down 16% overall. Over 14-day horizon, expect continued downward pressure but volatility may create intra-period trading opportunities. Annualized -45% reflects near-term bearish outlook, though mean reversion risk and potential stabilization limit full conviction.\"\n}\n```",
+  "date": "2025-04-07",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:43.859049+00:00"
+}

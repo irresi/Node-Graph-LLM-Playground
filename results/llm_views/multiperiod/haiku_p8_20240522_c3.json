@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.55,
+  "reasoning": "MKR in bull market regime with strong 7-day (+13.47%) and 14-day (+12.77%) momentum, but 30-day underperformance (+1.96%) suggests momentum may be mean-reverting. TVL growth (+5.5%) supports fundamentals. High volatility (65.2%) and low Sharpe ratio (0.25) create uncertainty. Annualized projection of recent 14-day returns (~12.77%) yields ~0.42, but momentum exhaustion risk and elevated drawdown risk (-13.3%) moderate confidence to moderate levels.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"MKR in bull market regime with strong 7-day (+13.47%) and 14-day (+12.77%) momentum, but 30-day underperformance (+1.96%) suggests momentum may be mean-reverting. TVL growth (+5.5%) supports fundamentals. High volatility (65.2%) and low Sharpe ratio (0.25) create uncertainty. Annualized projection of recent 14-day returns (~12.77%) yields ~0.42, but momentum exhaustion risk and elevated drawdown risk (-13.3%) moderate confidence to moderate levels.\"\n}\n```",
+  "date": "2024-05-22",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:12.352741+00:00"
+}

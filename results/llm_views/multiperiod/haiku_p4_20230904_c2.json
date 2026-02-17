@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "MKR is in a bear market with significant downtrend (-9.76% over 30 days, -7.2% DeFi TVL decline). However, recent 7-day and 14-day returns show recovery momentum (+4.99% and +1.57% respectively), suggesting potential mean reversion. High volatility (57.5% annualized) and negative Sharpe ratio (-1.43) indicate elevated risk. The 14-day forecast annualizes recent momentum but is heavily tempered by the broader bear regime and weak fundamentals. Low confidence due to conflicting signals: positive short-term momentum against macro headwinds and poor risk-adjusted returns.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"MKR is in a bear market with significant downtrend (-9.76% over 30 days, -7.2% DeFi TVL decline). However, recent 7-day and 14-day returns show recovery momentum (+4.99% and +1.57% respectively), suggesting potential mean reversion. High volatility (57.5% annualized) and negative Sharpe ratio (-1.43) indicate elevated risk. The 14-day forecast annualizes recent momentum but is heavily tempered by the broader bear regime and weak fundamentals. Low confidence due to conflicting signals: positive short-term momentum against macro headwinds and poor risk-adjusted returns.\"\n}\n```",
+  "date": "2023-09-04",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:11.064569+00:00"
+}

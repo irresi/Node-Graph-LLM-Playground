@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster fundamentals (TVL growth in UNI, AAVE, BAL) support recovery from oversold conditions amid positive DeFi market regime, but recent negative momentum (-7.25% 7d, -5.29% 14d) and high volatility (50.7%) limit confidence. Mean reversion potential is moderate; annualized return assumes partial recovery over 14 days given supportive macro conditions but significant downside risks remain.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Current Market Conditions:**\n- Overall DeFi TVL is growing (+9.1% over 30 days) - positive fundamental signal\n- Market regime is Moderate Bull - supportive environment\n- However, the cluster itself has underperformed: -0.88% over 30 days\n\n**Cluster-Specific Analysis:**\n- Recent momentum is negative: -7.25% (7d), -5.29% (14d), -0.88% (30d)\n- High volatility (50.7% annualized) indicates significant risk\n- Negative Sharpe ratio (-0.15) suggests poor risk-adjusted returns recently\n- Max drawdown of -9.4% shows recent stress\n\n**Protocol Fundamentals (Mixed Signals):**\n- Strong performers: UNI (+12.5% TVL change), AAVE (+10.1%), BAL (+10.4%)\n- Weak performers: CAKE (-2.9%), SUSHI (-2.4%)\n- Weighted average TVL is substantial (~$2.9M average), providing liquidity\n\n**Key Insights:**\n1. The cluster underperformed despite positive DeFi market growth - suggests relative weakness\n2. The 14-day return (-5.29%) is worse than 30-day (-0.88%), indicating accelerating downward momentum\n3. However, fundamental TVL growth at major protocols (UNI, AAVE, BAL) suggests underlying strength\n4. High volatility creates mean-reversion opportunities if momentum reverses\n5. The positive market regime could support a recovery bounce\n\n**Forecast Rationale:**\n- The cluster is oversold relative to fundamental TVL growth\n- Mean reversion and the positive market regime support cautious optimism\n- However, recent momentum is concerning, limiting confidence\n- 14-day timeframe is shorter than typical mean reversion cycles\n- Annualizing a 14-day forecast introduces extrapolation uncertainty\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"Cluster fundamentals (TVL growth in UNI, AAVE, BAL) support recovery from oversold conditions amid positive DeFi market regime, but recent negative momentum (-7.25% 7d, -5.29% 14d) and high volatility (50.7%) limit confidence. Mean reversion potential is moderate; annualized return assumes partial recovery over 14 days given supportive macro conditions but significant downside risks remain.\"}\n```",
+  "date": "2023-12-18",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:43:59.597963+00:00"
+}

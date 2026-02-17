@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows severe bearish signals: -32.58% 14-day return, -14.99% 30-day return, high volatility (77% annualized), negative Sharpe ratio (-1.64), and strong bear market regime with -5.9% DeFi TVL contraction. Infrastructure/L2 tokens are underperforming in downturns. However, confidence is moderate (0.62) rather than high due to: (1) potential mean reversion after extreme -29.1% drawdown, (2) lack of protocol TVL data limiting fundamental analysis, and (3) possible oversold conditions that could trigger tactical bounces. The -0.85 annualized return forecast reflects continued weakness over 14 days while acknowledging non-trivial recovery probability.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows severe bearish signals: -32.58% 14-day return, -14.99% 30-day return, high volatility (77% annualized), negative Sharpe ratio (-1.64), and strong bear market regime with -5.9% DeFi TVL contraction. Infrastructure/L2 tokens are underperforming in downturns. However, confidence is moderate (0.62) rather than high due to: (1) potential mean reversion after extreme -29.1% drawdown, (2) lack of protocol TVL data limiting fundamental analysis, and (3) possible oversold conditions that could trigger tactical bounces. The -0.85 annualized return forecast reflects continued weakness over 14 days while acknowledging non-trivial recovery probability.\"\n}\n```",
+  "date": "2024-12-30",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:07.581592+00:00"
+}

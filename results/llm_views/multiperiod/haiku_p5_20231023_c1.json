@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 1 shows strong momentum (+13.76% in 7 days, +12.07% in 14 days) within a bull market regime. The exceptional Sharpe ratio (3.32) indicates risk-adjusted outperformance. However, forecasting next 14-day returns based on past momentum carries mean-reversion risk, especially given the -12.7% max drawdown suggesting volatility clusters. TVL metrics are mixed: COMP (+4.6%) and SNX (+6.0%) growing, but MKR declining (-1.5%). The 40.1% annualized volatility and recent performance suggest continued upside momentum, but confidence is moderate due to: (1) mean-reversion potential after strong runs, (2) incomplete protocol data (LINK/OP TVL unavailable), and (3) macro DeFi TVL growth slowing (+1.9% 30d). Expected return annualized from a projected 14-day gain of ~1.5-2% over the next 14 days (scaling historical momentum with some mean-reversion adjustment).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 1 shows strong momentum (+13.76% in 7 days, +12.07% in 14 days) within a bull market regime. The exceptional Sharpe ratio (3.32) indicates risk-adjusted outperformance. However, forecasting next 14-day returns based on past momentum carries mean-reversion risk, especially given the -12.7% max drawdown suggesting volatility clusters. TVL metrics are mixed: COMP (+4.6%) and SNX (+6.0%) growing, but MKR declining (-1.5%). The 40.1% annualized volatility and recent performance suggest continued upside momentum, but confidence is moderate due to: (1) mean-reversion potential after strong runs, (2) incomplete protocol data (LINK/OP TVL unavailable), and (3) macro DeFi TVL growth slowing (+1.9% 30d). Expected return annualized from a projected 14-day gain of ~1.5-2% over the next 14 days (scaling historical momentum with some mean-reversion adjustment).\"\n}\n```",
+  "date": "2023-10-23",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:42:04.309370+00:00"
+}

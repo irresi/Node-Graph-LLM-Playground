@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in strong bear market with negative momentum: -23.87% 30-day return, -8.79% 14-day return. High volatility (86.8% annualized) and negative Sharpe ratio (-2.31) indicate distressed conditions. Both tokens show declining TVL (CVX -1.2%, RPL -5.0%). However, extreme downside positioning and oversold conditions (max drawdown -22.9%) may provide some mean reversion support. Forecasting continued decline but at moderated pace, annualizing recent 14-day trend of -8.79% yields ~-65% annualized, adjusted upward for potential stabilization. Moderate confidence due to high volatility and regime uncertainty in bear market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear market with negative momentum: -23.87% 30-day return, -8.79% 14-day return. High volatility (86.8% annualized) and negative Sharpe ratio (-2.31) indicate distressed conditions. Both tokens show declining TVL (CVX -1.2%, RPL -5.0%). However, extreme downside positioning and oversold conditions (max drawdown -22.9%) may provide some mean reversion support. Forecasting continued decline but at moderated pace, annualizing recent 14-day trend of -8.79% yields ~-65% annualized, adjusted upward for potential stabilization. Moderate confidence due to high volatility and regime uncertainty in bear market.\"\n}\n```",
+  "date": "2024-09-03",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:01.311557+00:00"
+}

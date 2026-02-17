@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Bear market regime with strong downtrend (-35.4% in 30d, -12.09% in 7d). BAL and AAVE showing moderate TVL declines (-21.9% and -11.4% respectively). High volatility (92.4% annualized) and negative Sharpe ratio (-3.22) suggest continued pressure. However, extreme negative momentum may indicate oversold conditions providing some mean-reversion potential. Moderate confidence due to regime uncertainty and high volatility creating significant forecast risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Bear market regime with strong downtrend (-35.4% in 30d, -12.09% in 7d). BAL and AAVE showing moderate TVL declines (-21.9% and -11.4% respectively). High volatility (92.4% annualized) and negative Sharpe ratio (-3.22) suggest continued pressure. However, extreme negative momentum may indicate oversold conditions providing some mean-reversion potential. Moderate confidence due to regime uncertainty and high volatility creating significant forecast risk.\"\n}\n```",
+  "date": "2025-03-16",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:15.712895+00:00"
+}

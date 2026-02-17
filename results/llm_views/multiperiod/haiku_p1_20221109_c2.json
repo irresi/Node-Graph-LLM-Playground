@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 (DEX/Yield/Lending) shows severe bearish momentum with 14-day return of -22.92% and 7-day return of -19.82%, indicating accelerating downside. In the bear market regime with -4.9% TVL decline, negative Sharpe ratio (-2.13), and max drawdown of -26.3%, further near-term weakness is likely. High annualized volatility (64.1%) suggests continued price instability. Mixed TVL fundamentals (SUSHI +47.2%, CAKE +13.3% vs CRV -18.5%, UNI -6.9%) provide limited support. Over 14 days, expect continued downside pressure with annualized return around -85%. Confidence is moderate due to potential short-term oversold bounce risk and heterogeneous token performance within cluster.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 (DEX/Yield/Lending) shows severe bearish momentum with 14-day return of -22.92% and 7-day return of -19.82%, indicating accelerating downside. In the bear market regime with -4.9% TVL decline, negative Sharpe ratio (-2.13), and max drawdown of -26.3%, further near-term weakness is likely. High annualized volatility (64.1%) suggests continued price instability. Mixed TVL fundamentals (SUSHI +47.2%, CAKE +13.3% vs CRV -18.5%, UNI -6.9%) provide limited support. Over 14 days, expect continued downside pressure with annualized return around -85%. Confidence is moderate due to potential short-term oversold bounce risk and heterogeneous token performance within cluster.\"\n}\n```",
+  "date": "2022-11-09",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:26.214954+00:00"
+}

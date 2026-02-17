@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "SNX shows bearish momentum with -14.22% 14-day return despite +9.3% TVL growth. High volatility (72.5% annualized) and negative short-term trend (-14.17% 7-day) suggest continued downside pressure. However, neutral market regime and positive TVL change provide some support. The recent reversal from +1.08% 30-day return to negative recent returns indicates potential mean reversion headwinds. Low Sharpe ratio (0.13) and significant max drawdown (-22.7%) indicate weak risk-adjusted returns. Modest confidence due to high volatility and mixed fundamental/technical signals.",
+  "raw_response": "Based on the provided market context and cluster data for SNX, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"SNX shows bearish momentum with -14.22% 14-day return despite +9.3% TVL growth. High volatility (72.5% annualized) and negative short-term trend (-14.17% 7-day) suggest continued downside pressure. However, neutral market regime and positive TVL change provide some support. The recent reversal from +1.08% 30-day return to negative recent returns indicates potential mean reversion headwinds. Low Sharpe ratio (0.13) and significant max drawdown (-22.7%) indicate weak risk-adjusted returns. Modest confidence due to high volatility and mixed fundamental/technical signals.\"\n}\n```",
+  "date": "2026-01-22",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:41.273814+00:00"
+}

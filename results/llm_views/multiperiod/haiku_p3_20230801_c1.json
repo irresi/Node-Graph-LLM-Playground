@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows positive 30d momentum (+3.54%) with recent 7d strength (+6.21%), but 14d return is modest (+0.59%), suggesting momentum may be moderating. COMP's strong TVL growth (+10.8%) is a positive fundamental signal, but declining overall DeFi TVL (-12.8%) and neutral market regime create headwinds. High volatility (48.5%) and negative max drawdown (-12.9%) indicate risk. Forecast reflects cautious optimism from recent momentum and COMP fundamentals, balanced against macro softness and deceleration in cluster performance trends.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows positive 30d momentum (+3.54%) with recent 7d strength (+6.21%), but 14d return is modest (+0.59%), suggesting momentum may be moderating. COMP's strong TVL growth (+10.8%) is a positive fundamental signal, but declining overall DeFi TVL (-12.8%) and neutral market regime create headwinds. High volatility (48.5%) and negative max drawdown (-12.9%) indicate risk. Forecast reflects cautious optimism from recent momentum and COMP fundamentals, balanced against macro softness and deceleration in cluster performance trends.\"\n}\n```",
+  "date": "2023-08-01",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:13.018818+00:00"
+}

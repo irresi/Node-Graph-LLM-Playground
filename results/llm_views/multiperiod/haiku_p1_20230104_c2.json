@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with deteriorating momentum (7d: -0.60%, 14d: -2.06%, 30d: -20.50%) suggests continued downside pressure. However, the slowing decay rate (from -20.50% to -2.06% over past 14 days) indicates potential stabilization. TVL declines are moderate (-1.9% to -11.8%), suggesting fundamental stress but not critical. High volatility (35.5% annualized) and negative Sharpe ratio (-4.85) reflect challenging conditions. The cluster's yield-generating protocols (DEX, lending) face margin compression in bear markets. Moderate confidence due to persistent downtrend risk offset by stabilizing price action and fundamental resilience of major protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with deteriorating momentum (7d: -0.60%, 14d: -2.06%, 30d: -20.50%) suggests continued downside pressure. However, the slowing decay rate (from -20.50% to -2.06% over past 14 days) indicates potential stabilization. TVL declines are moderate (-1.9% to -11.8%), suggesting fundamental stress but not critical. High volatility (35.5% annualized) and negative Sharpe ratio (-4.85) reflect challenging conditions. The cluster's yield-generating protocols (DEX, lending) face margin compression in bear markets. Moderate confidence due to persistent downtrend risk offset by stabilizing price action and fundamental resilience of major protocols.\"\n}\n```",
+  "date": "2023-01-04",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:31.929961+00:00"
+}

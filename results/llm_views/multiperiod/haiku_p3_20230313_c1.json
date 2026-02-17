@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.32,
+  "confidence": 0.42,
+  "reasoning": "Cluster showing significant negative momentum (-13.46% over 14d, -10.05% over 30d) with elevated volatility (78.7% annualized). COMP TVL declining -12.2% suggests protocol stress. Negative Sharpe ratio (-1.07) and recent -2.39% weekly return indicate bearish sentiment. However, neutral market regime and recent stabilization (7d decline less severe than 14d) suggest potential reversion. Forecast reflects continued weakness but moderating pace, with low confidence due to volatile macro conditions and protocol fundamentals deterioration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster showing significant negative momentum (-13.46% over 14d, -10.05% over 30d) with elevated volatility (78.7% annualized). COMP TVL declining -12.2% suggests protocol stress. Negative Sharpe ratio (-1.07) and recent -2.39% weekly return indicate bearish sentiment. However, neutral market regime and recent stabilization (7d decline less severe than 14d) suggest potential reversion. Forecast reflects continued weakness but moderating pace, with low confidence due to volatile macro conditions and protocol fundamentals deterioration.\"\n}\n```",
+  "date": "2023-03-13",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:41.364024+00:00"
+}

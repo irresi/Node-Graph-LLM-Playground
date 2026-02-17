@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows sustained downtrend in strong bear market with -11.34% 7-day return and -32.47% 14-day return. High volatility (81%) and negative Sharpe (-5.39) suggest continued weakness ahead. Moderately negative outlook for next 14 days, but low confidence given extreme conditions and possible mean reversion. Annualized from 14-day forecast of approximately -8% daily equivalent.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -13.3% TVL decline over 30 days\n2. **Cluster Momentum**: Severe downtrend (-51.96% in 30 days, -32.47% in 14 days, -11.34% in 7 days)\n3. **Volatility**: Extremely high at 81.0% annualized, indicating significant price swings in a distressed environment\n4. **Protocol Health**: Mixed signals - CVX and CRV declining, MKR showing resilience (+3.1% TVL growth)\n5. **Risk Metrics**: Negative Sharpe ratio (-5.39) and severe max drawdown (-51.1%) indicate poor risk-adjusted returns\n\n**Forecast Rationale:**\n\nThe cluster has experienced sustained downward pressure with accelerating losses (7-day worse than 14-day, which was worse than 30-day). In bear markets, mean reversion is possible, but the negative momentum, high volatility, and TVL outflows suggest continued weakness. The recent 7-day acceleration suggests the bearish trend may persist into the next 14 days.\n\nHowever, the extreme negative performance and high volatility create some tail risk for mean reversion or temporary bounces.\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows sustained downtrend in strong bear market with -11.34% 7-day return and -32.47% 14-day return. High volatility (81%) and negative Sharpe (-5.39) suggest continued weakness ahead. Moderately negative outlook for next 14 days, but low confidence given extreme conditions and possible mean reversion. Annualized from 14-day forecast of approximately -8% daily equivalent.\"\n}\n```",
+  "date": "2025-02-10",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:05.998387+00:00"
+}

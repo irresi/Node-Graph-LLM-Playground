@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows strong bullish momentum with +49.17% 30-day return and exceptional Sharpe ratio of 7.77, indicating quality risk-adjusted returns. The bull market regime and positive 7-day (+9.05%) and 14-day (+15.02%) trends support continued strength. However, confidence is moderate due to: (1) high volatility (53.2% annualized) creating mean-reversion risk after strong rally, (2) limited TVL data availability for fundamental assessment, (3) infrastructure tokens (OP, ENS, GRT) lack direct protocol TVL metrics, and (4) the -6.6% max drawdown suggests vulnerability to corrections. The 14-day annualized forecast of 0.42 (~2.4% absolute return) reflects continued positive momentum but with downside risk premia factored in relative to the exceptional 30-day performance.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows strong bullish momentum with +49.17% 30-day return and exceptional Sharpe ratio of 7.77, indicating quality risk-adjusted returns. The bull market regime and positive 7-day (+9.05%) and 14-day (+15.02%) trends support continued strength. However, confidence is moderate due to: (1) high volatility (53.2% annualized) creating mean-reversion risk after strong rally, (2) limited TVL data availability for fundamental assessment, (3) infrastructure tokens (OP, ENS, GRT) lack direct protocol TVL metrics, and (4) the -6.6% max drawdown suggests vulnerability to corrections. The 14-day annualized forecast of 0.42 (~2.4% absolute return) reflects continued positive momentum but with downside risk premia factored in relative to the exceptional 30-day performance.\"\n}\n```",
+  "date": "2023-02-01",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:08.548005+00:00"
+}

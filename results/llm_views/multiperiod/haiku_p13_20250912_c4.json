@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "YFI shows recent 7-day momentum (+6.18%) suggesting potential short-term recovery, but bear market regime and negative 30-day returns (-6.63%) indicate structural weakness. High volatility (53.9%) and negative Sharpe ratio create significant uncertainty. Modest positive 14-day return forecasted based on near-term momentum, but low confidence due to macro headwinds and elevated downside risk.",
+  "raw_response": "Based on the provided market context for Cluster 4 (YFI), let me analyze the key factors:\n\n**Analysis:**\n\n1. **Market Regime**: Bear market with strong downtrend (-4.8% TVL change in DeFi)\n2. **Recent Momentum**: Mixed signals\n   - 7-day return: +6.18% (positive)\n   - 14-day return: +0.54% (slightly positive)\n   - 30-day return: -6.63% (negative)\n3. **Volatility**: High annualized volatility at 53.9%\n4. **Risk Metrics**: Negative Sharpe ratio (-1.03), significant max drawdown (-14.5%)\n5. **Fundamentals**: YFI TVL relatively stable (-1.4% change), suggesting some protocol resilience\n\n**Reasoning:**\n- The recent 7-day bounce (+6.18%) suggests short-term recovery momentum, but the bear market regime and negative 30-day performance indicate structural weakness\n- High volatility (53.9%) creates both upside and downside risk\n- The positive 7-14 day returns suggest potential mean reversion or stabilization, but this is against a broader downtrend\n- For a 14-day forecast in a bear market with recent positive momentum but high volatility, a modest positive return is plausible but confidence must be tempered\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"YFI shows recent 7-day momentum (+6.18%) suggesting potential short-term recovery, but bear market regime and negative 30-day returns (-6.63%) indicate structural weakness. High volatility (53.9%) and negative Sharpe ratio create significant uncertainty. Modest positive 14-day return forecasted based on near-term momentum, but low confidence due to macro headwinds and elevated downside risk.\"\n}\n```",
+  "date": "2025-09-12",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:41.021088+00:00"
+}

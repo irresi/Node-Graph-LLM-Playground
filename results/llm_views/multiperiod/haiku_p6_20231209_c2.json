@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "DYDX underperforming broader bull DeFi market despite +12.4% TVL growth. Recent 7-day decline (-8.54%) followed by stabilization suggests potential reversal. However, declining TVL (-3.2%), high volatility (43.2%), and negative Sharpe ratio indicate elevated risk. Modest positive return expected from mean reversion in bull regime, but low confidence due to protocol-specific weakness and high uncertainty in derivatives sector.",
+  "raw_response": "Looking at Cluster 2 (DYDX) with the provided data, I'll analyze the key factors:\n\n**Key Observations:**\n\n1. **Recent Momentum**: Negative and deteriorating\n   - 7-day return: -8.54% (sharp decline)\n   - 14-day and 30-day returns: -2.20% (stabilization after initial drop)\n   - Suggests recent weakness but potential bottoming\n\n2. **Volatility & Risk**: High\n   - Annualized volatility: 43.2%\n   - Negative Sharpe ratio: -0.43\n   - Max drawdown: -10.2%\n   - Indicates distressed conditions and high risk environment\n\n3. **Market Context**: Positive tailwind\n   - Overall DeFi TVL up +12.4% (30-day)\n   - Market regime: Bull market with strong uptrend\n   - This contradicts the cluster's underperformance\n\n4. **Protocol Fundamentals**: Weak\n   - DYDX TVL declining: -3.2% (30-day)\n   - Single token exposure (concentration risk)\n   - Derivatives category facing headwinds\n\n**Analysis:**\n\nDYDX appears to be underperforming the broader DeFi bull market, suggesting protocol-specific challenges. The 7-day sharp decline followed by stabilization indicates potential reversal, but the negative momentum and TVL contraction are concerning. The derivatives sector in bull markets typically performs well, but this token's underperformance is notable.\n\nGiven:\n- Negative momentum (though stabilizing)\n- Contrarian positioning vs. bull market\n- High volatility but potential mean reversion\n- Derivatives exposure in bullish DeFi environment\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"DYDX underperforming broader bull DeFi market despite +12.4% TVL growth. Recent 7-day decline (-8.54%) followed by stabilization suggests potential reversal. However, declining TVL (-3.2%), high volatility (43.2%), and negative Sharpe ratio indicate elevated risk. Modest positive return expected from mean reversion in bull regime, but low confidence due to protocol-specific weakness and high uncertainty in derivatives sector.\"}\n```",
+  "date": "2023-12-09",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:23.211747+00:00"
+}

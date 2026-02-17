@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.68,
+  "reasoning": "Strong bear market regime with accelerating TVL outflows and consistent negative momentum. DEX tokens face headwinds from reduced trading activity. High volatility and negative Sharpe ratio suggest elevated downside risk over 14 days. Annualized -45% return reflects continued pressure, though confidence is moderate due to inherent DeFi volatility and potential for mean reversion in oversold conditions.",
+  "raw_response": "I'll analyze the provided market data for Cluster 5 (SUSHI, CAKE) and generate a 14-day return forecast.\n\n## Analysis\n\n**Market Regime & Momentum:**\n- Strong bear market with consistent negative momentum across all timeframes\n- 7-day return (-2.13%) shows ongoing decline\n- 14-day return (-7.59%) indicates accelerating losses\n- 30-day return (-14.81%) confirms sustained downtrend\n\n**Cluster Fundamentals:**\n- DEX category tokens showing weakness\n- SUSHI TVL declining -3.6% (30d)\n- CAKE TVL declining -7.2% (30d) - more pronounced deterioration\n- TVL-weighted portfolio tilted toward CAKE, exposing cluster to stronger headwinds\n\n**Risk Metrics:**\n- High volatility (46.0% annualized) creates large swing potential\n- Sharpe ratio of -2.71 indicates poor risk-adjusted returns in current regime\n- Max drawdown of -14.6% shows cluster has already experienced significant losses\n\n**Forecast Considerations:**\n- Bear market regime typically extends 4-6 weeks; we're in week 4 of observed decline\n- DEX tokens particularly vulnerable as they profit from trading volume (declining in bear markets)\n- TVL outflows suggest user exodus from protocols\n- Momentum remains negative with acceleration in recent periods\n- However, extreme bear conditions can occasionally produce mean reversion bounces\n\n**Confidence Factors:**\n- Clear trend direction with consistent deterioration across all metrics\n- However, DeFi volatility creates uncertainty even in bear markets\n- 14-day timeframe is relatively short; bear exhaustion possible but unlikely\n\n```json\n{\"expected_return\": -0.45, \"confidence\": 0.68, \"reasoning\": \"Strong bear market regime with accelerating TVL outflows and consistent negative momentum. DEX tokens face headwinds from reduced trading activity. High volatility and negative Sharpe ratio suggest elevated downside risk over 14 days. Annualized -45% return reflects continued pressure, though confidence is moderate due to inherent DeFi volatility and potential for mean reversion in oversold conditions.\"}\n```",
+  "date": "2024-02-03",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:39.281826+00:00"
+}

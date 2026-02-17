@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "DYDX derivatives token faces headwinds: negative 30-day momentum (-9.22%), poor Sharpe ratio (-1.24), and high volatility (62.7% annualized). However, the broader DeFi market is bullish (+20% TVL growth) and DYDX TVL grew +4.7%, suggesting protocol health. The 7-day return stabilized (-0.45%) vs 14-day (-3.33%), indicating potential mean reversion. Forecast a modest negative return reflecting the token's recent underperformance relative to market, with low confidence due to high volatility and contradictory signals between token price action and protocol metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"DYDX derivatives token faces headwinds: negative 30-day momentum (-9.22%), poor Sharpe ratio (-1.24), and high volatility (62.7% annualized). However, the broader DeFi market is bullish (+20% TVL growth) and DYDX TVL grew +4.7%, suggesting protocol health. The 7-day return stabilized (-0.45%) vs 14-day (-3.33%), indicating potential mean reversion. Forecast a modest negative return reflecting the token's recent underperformance relative to market, with low confidence due to high volatility and contradictory signals between token price action and protocol metrics.\"\n}\n```",
+  "date": "2024-06-05",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:24.210234+00:00"
+}

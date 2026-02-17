@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster in bear market with -5.96% 30-day return and -14.1% max drawdown. Recent 7-day bounce (+0.61%) shows tentative recovery, but 14-day decline (-6.70%) suggests downtrend persistence. High volatility (45.1% annualized) and negative Sharpe ratio (-1.11) indicate risk-adjusted underperformance. SNX weakness (-16.5% TVL change) and mixed protocol fundamentals (MKR +1.7% vs COMP -4.9%) create uncertainty. Modest bear regime rebound expected over 14 days, but conviction is moderate given regime strength and portfolio heterogeneity. Annualized projection reflects continued mild downside pressure with elevated volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster in bear market with -5.96% 30-day return and -14.1% max drawdown. Recent 7-day bounce (+0.61%) shows tentative recovery, but 14-day decline (-6.70%) suggests downtrend persistence. High volatility (45.1% annualized) and negative Sharpe ratio (-1.11) indicate risk-adjusted underperformance. SNX weakness (-16.5% TVL change) and mixed protocol fundamentals (MKR +1.7% vs COMP -4.9%) create uncertainty. Modest bear regime rebound expected over 14 days, but conviction is moderate given regime strength and portfolio heterogeneity. Annualized projection reflects continued mild downside pressure with elevated volatility.\"\n}\n```",
+  "date": "2024-01-29",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:58.703948+00:00"
+}

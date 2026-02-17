@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "DYDX shows positive TVL growth (+15.8% 30d) in a bull market regime (+31% DeFi TVL), suggesting underlying protocol strength. However, the cluster's zero returns over 7/14/30 days despite favorable market conditions indicates potential stagnation or measurement issues. Low confidence reflects: (1) single-token cluster limiting diversification analysis, (2) disconnect between protocol TVL growth and price performance, (3) derivatives market volatility in current conditions. Forecast moderately bullish (12% annualized) based on TVL momentum and bull regime, but significant uncertainty remains.",
+  "raw_response": "```json\n{\"expected_return\": 0.12, \"confidence\": 0.35, \"reasoning\": \"DYDX shows positive TVL growth (+15.8% 30d) in a bull market regime (+31% DeFi TVL), suggesting underlying protocol strength. However, the cluster's zero returns over 7/14/30 days despite favorable market conditions indicates potential stagnation or measurement issues. Low confidence reflects: (1) single-token cluster limiting diversification analysis, (2) disconnect between protocol TVL growth and price performance, (3) derivatives market volatility in current conditions. Forecast moderately bullish (12% annualized) based on TVL momentum and bull regime, but significant uncertainty remains.\"}\n```",
+  "date": "2023-11-11",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:22.771767+00:00"
+}

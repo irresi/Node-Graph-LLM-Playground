@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.55,
+  "reasoning": "RPL shows strong 30-day momentum (+36.09%) with excellent Sharpe ratio (3.47) in bullish DeFi market (+22.8% TVL growth). However, -10.03% 7-day pullback and -15.6% max drawdown signal volatility concerns. High annualized volatility (87.4%) and single-token concentration create uncertainty. Over 14 days, expect continued upside from positive regime and protocol fundamentals (TVL +26.4%), but with elevated risk of mean reversion. Confidence moderated by recent weakness and liquidity concerns in single-token cluster.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"RPL shows strong 30-day momentum (+36.09%) with excellent Sharpe ratio (3.47) in bullish DeFi market (+22.8% TVL growth). However, -10.03% 7-day pullback and -15.6% max drawdown signal volatility concerns. High annualized volatility (87.4%) and single-token concentration create uncertainty. Over 14 days, expect continued upside from positive regime and protocol fundamentals (TVL +26.4%), but with elevated risk of mean reversion. Confidence moderated by recent weakness and liquidity concerns in single-token cluster.\"\n}\n```",
+  "date": "2023-11-20",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:43:09.086475+00:00"
+}

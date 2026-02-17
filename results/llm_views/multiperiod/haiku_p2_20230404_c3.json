@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Recent 7-day bounce (+7.57%) suggests short-term momentum, but bear market regime and negative 30-day trend (-3.88%) limit upside. Mixed TVL trends (BAL/COMP up, SNX/CRV down) provide modest support. High volatility (61.9%) creates uncertainty. Expect modest positive drift over 14 days with consolidation likely.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Current Market Context:**\n- Overall DeFi market is in a moderate bear regime with positive TVL growth (+6.2%)\n- The cluster is underperforming with negative 30-day returns (-3.88%)\n- High volatility (61.9% annualized) indicates significant risk\n\n**Cluster Composition Analysis:**\n- Mix of yield farming (CRV, YFI), DEX (BAL), lending (COMP), and derivatives (SNX)\n- TVL-weighted by major protocols (CRV dominant at $4.6B)\n\n**Recent Performance Signals:**\n- 7-day return: +7.57% (strong recent bounce)\n- 14-day return: -1.91% (mixed over 2 weeks)\n- 30-day return: -3.88% (bearish longer-term trend)\n- The positive 7-day contrasts with negative 14-day, suggesting recent recovery from a deeper drawdown\n\n**Protocol Fundamentals:**\n- Mixed TVL trends: BAL (+10.0%) and COMP (+5.7%) showing strength\n- Weakness in SNX (-16.2%) and CRV (-6.9%) offsetting gains\n- Overall cluster TVL relatively stable despite negative price performance\n\n**Analysis:**\nThe cluster shows signs of a potential recovery with the strong 7-day bounce (+7.57%), but this comes after weakness. The bear market regime and negative 30-day trend suggest caution. However, the positive TVL changes in major protocols (BAL, COMP) indicate underlying protocol health. The high volatility suggests outsized moves are possible in either direction.\n\nGiven the recent positive momentum but weak fundamental backdrop, I forecast modest positive returns over the next 14 days, but with moderate-to-low confidence due to the prevailing bear regime.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.42, \"reasoning\": \"Recent 7-day bounce (+7.57%) suggests short-term momentum, but bear market regime and negative 30-day trend (-3.88%) limit upside. Mixed TVL trends (BAL/COMP up, SNX/CRV down) provide modest support. High volatility (61.9%) creates uncertainty. Expect modest positive drift over 14 days with consolidation likely.\"}\n```",
+  "date": "2023-04-04",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:00.260098+00:00"
+}

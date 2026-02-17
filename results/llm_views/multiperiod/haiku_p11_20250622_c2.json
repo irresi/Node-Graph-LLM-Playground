@@ -1,0 +1,16 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.42,
+  "reasoning": "Cluster in severe bear market with negative momentum across 7d (-16%), 14d (-14.81%), and 30d (-23.66%) periods. Strong downtrend indicated by -6.6% TVL decline and -2.95 Sharpe ratio. SNX particularly weak (-25.5% TVL change). However, extreme volatility (67.3%) and max drawdown (-24.9%) suggest potential mean reversion bounce. Conservative forecast reflects ongoing market stress with modest recovery potential, but weak confidence due to bear regime persistence and fundamental weakness in lending/derivatives sector.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in severe bear market with negative momentum across 7d (-16%), 14d (-14.81%), and 30d (-23.66%) periods. Strong downtrend indicated by -6.6% TVL decline and -2.95 Sharpe ratio. SNX particularly weak (-25.5% TVL change). However, extreme volatility (67.3%) and max drawdown (-24.9%) suggest potential mean reversion bounce. Conservative forecast reflects ongoing market stress with modest recovery potential, but weak confidence due to bear regime persistence and fundamental weakness in lending/derivatives sector.\"\n}\n```",
+  "date": "2025-06-22",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:52.512320+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.42,
+  "reasoning": "Cluster 3 faces severe headwinds: strong bear market (-9.8% TVL decline), extreme negative momentum (-48.84% in 30d, -31.47% in 14d), and high volatility (66.8% annualized). Recent deceleration in losses (7d: -18.43%) suggests potential stabilization, but fundamentals remain weak with most tokens showing TVL contraction. The -2.15 annualized return (roughly -0.8% over 14d) reflects cautious mean reversion from recent crashes while acknowledging continued downside risk. Low confidence (0.42) reflects high uncertainty in bear regime and volatile DeFi markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -2.15,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 3 faces severe headwinds: strong bear market (-9.8% TVL decline), extreme negative momentum (-48.84% in 30d, -31.47% in 14d), and high volatility (66.8% annualized). Recent deceleration in losses (7d: -18.43%) suggests potential stabilization, but fundamentals remain weak with most tokens showing TVL contraction. The -2.15 annualized return (roughly -0.8% over 14d) reflects cautious mean reversion from recent crashes while acknowledging continued downside risk. Low confidence (0.42) reflects high uncertainty in bear regime and volatile DeFi markets.\"\n}\n```",
+  "date": "2025-02-02",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:40.039028+00:00"
+}

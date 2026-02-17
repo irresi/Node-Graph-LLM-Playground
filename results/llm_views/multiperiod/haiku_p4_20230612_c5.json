@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.55,
+  "reasoning": "Cluster remains in strong bear regime with deteriorating fundamentals (TVL down 26.6%). Recent momentum shows moderation in decline rate, suggesting potential stabilization. However, negative directional bias persists due to market regime and protocol TVL outflows. Forecast -35% annualized return (approximately -0.8% for 14 days). Moderate confidence due to high volatility and potential for mean reversion volatility swings in downtrends.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze Cluster 5 (CAKE token) to forecast its 14-day expected return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -4.9% TVL decline over 30 days\n2. **Cluster Performance**: Severe downtrend\n   - 30-day return: -29.32%\n   - 14-day return: -21.87%\n   - 7-day return: -14.46%\n   - Volatility: 67.6% (annualized)\n\n3. **Momentum Analysis**: Deteriorating momentum trend\n   - 7-day return (-14.46%) is less negative than 14-day return (-21.87%)\n   - This suggests recent slight recovery, but still deeply negative\n   - Max drawdown of -28.2% indicates extreme volatility\n\n4. **Protocol Fundamentals**: \n   - CAKE TVL at $1.54B with -26.6% 30-day decline\n   - Significant loss of user confidence/capital\n   - Negative fundamental trajectory\n\n5. **Sharpe Ratio**: -3.64 indicates poor risk-adjusted returns in this regime\n\n**Forecast Reasoning:**\n- The token is in a bear regime with strong downward momentum\n- Recent 7-day performance (-14.46%) suggests ongoing pressure, though rate of decline is moderating\n- High volatility (67.6%) creates uncertainty, but directional bias remains negative\n- No catalyst evident for reversal in the next 14 days\n- Mean reversion in crypto often takes weeks; continued pressure likely\n\n```json\n{\"expected_return\": -0.35, \"confidence\": 0.55, \"reasoning\": \"Cluster remains in strong bear regime with deteriorating fundamentals (TVL down 26.6%). Recent momentum shows moderation in decline rate, suggesting potential stabilization. However, negative directional bias persists due to market regime and protocol TVL outflows. Forecast -35% annualized return (approximately -0.8% for 14 days). Moderate confidence due to high volatility and potential for mean reversion volatility swings in downtrends.\"}\n```",
+  "date": "2023-06-12",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:42.407140+00:00"
+}

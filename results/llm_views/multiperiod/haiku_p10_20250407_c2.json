@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Cluster 2 faces significant headwinds: bear market regime with -16% TVL decline, -33.44% 30-day loss, and -31.45% 14-day decline indicating sustained downward momentum. Negative Sharpe ratio (-3.91) and high volatility (71.9%) signal risk without compensation. However, some stabilization signals emerge: 7-day return (-16.98%) shows slower deterioration than 14-day trend, suggesting possible mean reversion. Moderate confidence (0.65) reflects uncertainty between continued downtrend vs. technical bounce, with downside bias from deteriorating protocol TVLs (SNX -53.8%, BAL -22.5%) offset partially by CAKE stability (-3.0%).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 faces significant headwinds: bear market regime with -16% TVL decline, -33.44% 30-day loss, and -31.45% 14-day decline indicating sustained downward momentum. Negative Sharpe ratio (-3.91) and high volatility (71.9%) signal risk without compensation. However, some stabilization signals emerge: 7-day return (-16.98%) shows slower deterioration than 14-day trend, suggesting possible mean reversion. Moderate confidence (0.65) reflects uncertainty between continued downtrend vs. technical bounce, with downside bias from deteriorating protocol TVLs (SNX -53.8%, BAL -22.5%) offset partially by CAKE stability (-3.0%).\"\n}\n```",
+  "date": "2025-04-07",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:48.122413+00:00"
+}

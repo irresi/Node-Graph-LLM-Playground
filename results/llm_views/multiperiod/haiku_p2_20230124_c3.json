@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.48,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong TVL growth and exceptional Sharpe ratio (9.11) support continued outperformance. However, recent 14-day return of +36.13% suggests momentum may decelerate toward more sustainable 8-12% over next 14 days (~48% annualized). High volatility (40.5%) and potential mean reversion create moderate confidence. Large established protocols (CRV, COMP, BAL) with strong fundamentals mitigate downside risk.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong bull market regime with +23.9% TVL growth overall\n- Exceptional recent performance: +43.89% (30d), +36.13% (14d), +10.03% (7d)\n- Excellent risk-adjusted returns: Sharpe ratio of 9.11 is exceptional\n- Strong TVL growth across tokens (SNX +63.7%, CRV +25.7%, YFI +24.9%)\n- Large, established protocols with significant TVL bases ($1-4.5B range)\n- Low max drawdown (-5.7%) despite high returns indicates quality momentum\n\n**Risk Factors:**\n- High volatility (40.5% annualized) means significant price swings\n- Momentum-driven performance may face mean reversion\n- Already strong 14-day return (+36.13%) suggests elevated valuations\n- Market regime can shift, especially in volatile DeFi sector\n\n**Forecast Methodology:**\nGiven the strong momentum but elevated volatility, I'll apply a regression-toward-mean adjustment. The 14-day return of +36.13% is significantly above normal. A reasonable expectation for the *next* 14 days would be:\n- Base case: Lower than recent momentum but still positive in bull regime\n- Annualization factor: 14 days = 1/26 of a year, so multiply by ~26\n\nRecent 7-day performance suggests some deceleration from peak momentum. Applying a conservative adjustment:\n- Expect 8-15% return over next 14 days\n- Annualized: approximately 0.40-0.60 (40-60%)\n\nConfidence is moderate because:\n- Strong fundamentals and market regime support further gains\n- But recent performance may be unsustainable without continued catalyst\n- High volatility creates uncertainty\n\n```json\n{\"expected_return\": 0.48, \"confidence\": 0.62, \"reasoning\": \"Bull market regime with strong TVL growth and exceptional Sharpe ratio (9.11) support continued outperformance. However, recent 14-day return of +36.13% suggests momentum may decelerate toward more sustainable 8-12% over next 14 days (~48% annualized). High volatility (40.5%) and potential mean reversion create moderate confidence. Large established protocols (CRV, COMP, BAL) with strong fundamentals mitigate downside risk.\"}\n```",
+  "date": "2023-01-24",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:42.566919+00:00"
+}

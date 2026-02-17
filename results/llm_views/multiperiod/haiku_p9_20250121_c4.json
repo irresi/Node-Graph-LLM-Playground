@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 shows mixed signals: recent 7-day momentum is positive (+3.06%) after severe 14-day decline (-8.34%), suggesting potential mean reversion. However, moderate bear market regime and elevated volatility (57.9%) present headwinds. Strong TVL growth in AAVE (+9.2%), MKR (+9.8%), and COMP (+7.0%) indicates protocol fundamentals remain solid despite price weakness. The cluster's negative Sharpe ratio (-0.72) and recent underperformance suggest valuations may be attractive. Forecast reflects cautious optimism on mean reversion over 14 days, but substantial uncertainty due to macro bear conditions and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 shows mixed signals: recent 7-day momentum is positive (+3.06%) after severe 14-day decline (-8.34%), suggesting potential mean reversion. However, moderate bear market regime and elevated volatility (57.9%) present headwinds. Strong TVL growth in AAVE (+9.2%), MKR (+9.8%), and COMP (+7.0%) indicates protocol fundamentals remain solid despite price weakness. The cluster's negative Sharpe ratio (-0.72) and recent underperformance suggest valuations may be attractive. Forecast reflects cautious optimism on mean reversion over 14 days, but substantial uncertainty due to macro bear conditions and high volatility.\"\n}\n```",
+  "date": "2025-01-21",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:57.048173+00:00"
+}

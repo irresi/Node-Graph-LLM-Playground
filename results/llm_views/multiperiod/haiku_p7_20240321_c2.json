@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "MKR cluster shows strong momentum with 34.21% 30-day return and elevated 14-day return of 36.89%. However, annualized volatility of 98.7% and recent 7-day slowdown (4.57%) suggest mean reversion risk. The moderate bull regime and 8.8% TVL growth provide fundamental support, but the high Sharpe ratio (2.91) and -15.4% max drawdown indicate concentration risk. Forecasting continued but moderated upside with 45% annualized return over 14 days, reflecting momentum persistence tempered by volatility concerns and potential consolidation after strong recent rallies.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"MKR cluster shows strong momentum with 34.21% 30-day return and elevated 14-day return of 36.89%. However, annualized volatility of 98.7% and recent 7-day slowdown (4.57%) suggest mean reversion risk. The moderate bull regime and 8.8% TVL growth provide fundamental support, but the high Sharpe ratio (2.91) and -15.4% max drawdown indicate concentration risk. Forecasting continued but moderated upside with 45% annualized return over 14 days, reflecting momentum persistence tempered by volatility concerns and potential consolidation after strong recent rallies.\"\n}\n```",
+  "date": "2024-03-21",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:35.607967+00:00"
+}

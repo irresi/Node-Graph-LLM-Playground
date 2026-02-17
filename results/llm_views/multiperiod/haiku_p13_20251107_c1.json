@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Bear market with severe TVL declines (-26% overall, -49.51% cluster). Recent momentum shows slight stabilization (7d: -11.71% vs 14d: -19.76%), suggesting potential bounce from oversold conditions. However, weak protocol fundamentals (declining TVL) and extreme volatility (127.6%) limit upside. Expect modest recovery toward 8% annualized return over 14 days with low confidence due to high uncertainty and persistent downtrend pressures.",
+  "raw_response": "I'll analyze the market context and cluster metrics to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bear market regime with strong downtrend (-26% TVL change in 30 days)\n- Cluster has significantly underperformed: -49.51% in 30 days vs. overall market decline\n- Extreme volatility at 127.6% annualized indicates high uncertainty and risk\n\n**Recent Momentum:**\n- 7-day return: -11.71%\n- 14-day return: -19.76%\n- The acceleration from 14-day to 7-day deterioration (-19.76% \u2192 -11.71%) suggests the downtrend may be stabilizing or slowing\n- Negative Sharpe ratio (-3.26) indicates risk-adjusted returns are severely negative\n\n**Protocol Fundamentals:**\n- TVL declining across the board (SNX -28.7%, DYDX -23.6%)\n- Mixed exposure: Oracle infrastructure (LINK), derivatives (SNX, DYDX), Layer 2s (OP, ARB), governance/ENS/GRT\n- No immediate positive catalysts evident in the metrics\n\n**Forecast Rationale:**\nIn bear markets with severe drawdowns, mean reversion tends to occur, but given:\n1. The cluster still underperforming broader market\n2. High volatility continues to persist\n3. TVL metrics remain weak\n4. 14-day outlook is relatively short for fundamental recovery\n\nI expect modest bounce-back from oversold conditions, but continued weakness. The cluster may see some recovery from its low point, but remains likely to underperform stable assets.\n\nFor the next 14 days annualized:\n- Base case: Small positive to flat return from current depressed levels\n- Risk: Continued weakness if market deteriorates further\n- Upside: Bounce-back rally from oversold conditions\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market with severe TVL declines (-26% overall, -49.51% cluster). Recent momentum shows slight stabilization (7d: -11.71% vs 14d: -19.76%), suggesting potential bounce from oversold conditions. However, weak protocol fundamentals (declining TVL) and extreme volatility (127.6%) limit upside. Expect modest recovery toward 8% annualized return over 14 days with low confidence due to high uncertainty and persistent downtrend pressures.\"}\n```",
+  "date": "2025-11-07",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:52.358543+00:00"
+}

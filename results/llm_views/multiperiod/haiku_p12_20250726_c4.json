@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (CRV/CVX) shows strong momentum with +72% 30-day return in bull market regime. However, extreme recent gains (+51.93% in 14 days) and high annualized volatility (86.2%) suggest mean reversion risk over next 14 days. The exceptional 7.03 Sharpe ratio indicates quality performance, but extrapolating 14-day returns (+51.93%) to annualized rates (85%+) is unsustainable. TVL growth (+19.5-41.3%) supports fundamentals, but overbought technical conditions warrant moderate confidence. Forecast conservatively at 85% annualized (\u22481.6% over 14 days) with elevated uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows strong momentum with +72% 30-day return in bull market regime. However, extreme recent gains (+51.93% in 14 days) and high annualized volatility (86.2%) suggest mean reversion risk over next 14 days. The exceptional 7.03 Sharpe ratio indicates quality performance, but extrapolating 14-day returns (+51.93%) to annualized rates (85%+) is unsustainable. TVL growth (+19.5-41.3%) supports fundamentals, but overbought technical conditions warrant moderate confidence. Forecast conservatively at 85% annualized (\u22481.6% over 14 days) with elevated uncertainty.\"\n}\n```\n\n**Key Analysis:**\n- **Momentum Factor**: Exceptional recent performance (+14% in 7d, +52% in 14d) provides positive catalyst\n- **Mean Reversion Risk**: Extreme gains suggest pullback likely in near term\n- **Volatility & Risk**: 86.2% annualized volatility with -8.8% max drawdown indicates sharp corrections possible\n- **Fundamentals**: Solid TVL growth and bull regime support longer-term outlook but don't justify continued explosive growth\n- **Confidence Rationale**: Lower confidence (0.62) reflects difficulty predicting mean reversion timing in momentum markets",
+  "date": "2025-07-26",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:33.670074+00:00"
+}

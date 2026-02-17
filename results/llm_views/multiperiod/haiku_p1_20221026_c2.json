@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.72,
+  "reasoning": "Cluster 2 shows strong fundamentals with +12.05% 30-day return and exceptional Sharpe ratio of 4.16, indicating risk-adjusted outperformance. Bull market regime supports continued upside. However, deceleration is evident (7-day: +2.12%, 14-day: +9.40%, suggesting momentum fade). Mixed TVL trends (UNI/CRV declining, SUSHI/BAL surging) indicate sector rotation within cluster. Conservative 14-day annualization (~18% APR) accounts for pullback risk after strong run, recent -5% drawdown, and 24.4% volatility. Moderate confidence reflects uncertainty in sustaining momentum post-rally.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 2 shows strong fundamentals with +12.05% 30-day return and exceptional Sharpe ratio of 4.16, indicating risk-adjusted outperformance. Bull market regime supports continued upside. However, deceleration is evident (7-day: +2.12%, 14-day: +9.40%, suggesting momentum fade). Mixed TVL trends (UNI/CRV declining, SUSHI/BAL surging) indicate sector rotation within cluster. Conservative 14-day annualization (~18% APR) accounts for pullback risk after strong run, recent -5% drawdown, and 24.4% volatility. Moderate confidence reflects uncertainty in sustaining momentum post-rally.\"\n}\n```",
+  "date": "2022-10-26",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:09.586758+00:00"
+}

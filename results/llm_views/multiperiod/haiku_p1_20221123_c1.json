@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -19.9% TVL decline and cluster down -18.49% in 30 days. However, recent 14-day return of +4.25% suggests potential mean reversion or stabilization. High volatility (95.3%) and negative Sharpe ratio (-1.63) indicate elevated risk. Mixed signals: CVX showing severe -34.2% TVL decline vs GMX stability at -4.6%. LDO's dominant weight ($5.5B TVL) and liquid staking exposure provide some downside protection. Annualized forecast reflects bear bias while accounting for short-term recovery attempts. Confidence moderate due to high volatility and regime uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": -0.35, \"confidence\": 0.62, \"reasoning\": \"Bear market regime with -19.9% TVL decline and cluster down -18.49% in 30 days. However, recent 14-day return of +4.25% suggests potential mean reversion or stabilization. High volatility (95.3%) and negative Sharpe ratio (-1.63) indicate elevated risk. Mixed signals: CVX showing severe -34.2% TVL decline vs GMX stability at -4.6%. LDO's dominant weight ($5.5B TVL) and liquid staking exposure provide some downside protection. Annualized forecast reflects bear bias while accounting for short-term recovery attempts. Confidence moderate due to high volatility and regime uncertainty.\"}\n```",
+  "date": "2022-11-23",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:34.839603+00:00"
+}

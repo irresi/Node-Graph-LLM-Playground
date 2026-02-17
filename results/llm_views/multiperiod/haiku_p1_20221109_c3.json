@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 faces severe headwinds in current bear market: -28.60% 30-day loss, -26.63% 14-day loss, extreme volatility (101.8% annualized), and negative Sharpe ratio (-2.36). The 7-day acceleration to -25.13% suggests continued downward momentum. With DeFi TVL declining 4.9% over 30 days and max drawdown of -35.1%, mean reversion upward is possible but unlikely near-term given bearish regime. Annualized -85% return (~-3.3% over 14 days) reflects persistent bear pressure, though low confidence (0.35) reflects high uncertainty in crash scenarios and potential capitulation bounces.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 faces severe headwinds in current bear market: -28.60% 30-day loss, -26.63% 14-day loss, extreme volatility (101.8% annualized), and negative Sharpe ratio (-2.36). The 7-day acceleration to -25.13% suggests continued downward momentum. With DeFi TVL declining 4.9% over 30 days and max drawdown of -35.1%, mean reversion upward is possible but unlikely near-term given bearish regime. Annualized -85% return (~-3.3% over 14 days) reflects persistent bear pressure, though low confidence (0.35) reflects high uncertainty in crash scenarios and potential capitulation bounces.\"\n}\n```",
+  "date": "2022-11-09",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:30.564262+00:00"
+}

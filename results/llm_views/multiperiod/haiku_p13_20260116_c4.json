@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "YFI showing positive 14-day momentum (+4.58%) despite recent 7-day weakness (-1.69%), suggesting consolidation in bull market. TVL stability (-0.1%) indicates protocol health. However, high volatility (50.6% annualized) and modest Sharpe ratio (0.59) warrant moderate confidence. Bull regime supports upside, but recent pullback suggests potential mean reversion. Annualizing 14-day return of +4.58% over next 14 days yields ~28% annualized return, moderated by volatility and consolidation patterns.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"YFI showing positive 14-day momentum (+4.58%) despite recent 7-day weakness (-1.69%), suggesting consolidation in bull market. TVL stability (-0.1%) indicates protocol health. However, high volatility (50.6% annualized) and modest Sharpe ratio (0.59) warrant moderate confidence. Bull regime supports upside, but recent pullback suggests potential mean reversion. Annualizing 14-day return of +4.58% over next 14 days yields ~28% annualized return, moderated by volatility and consolidation patterns.\"\n}\n```",
+  "date": "2026-01-16",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:47.085459+00:00"
+}

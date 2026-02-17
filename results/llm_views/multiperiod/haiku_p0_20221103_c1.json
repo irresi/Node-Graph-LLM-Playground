@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows positive 14-day momentum (+4.90%) within moderate bull market, supported by strong TVL growth in key protocols (RPL +15.6%, GMX +6.8%). However, 30-day negative return (-2.44%), high volatility (45.8%), and negative Sharpe ratio indicate fragile momentum. Conservative 18% annualized return reflects modest upside potential with significant mean reversion risk. Moderate confidence due to high volatility and historical drawdown (-15.7%).",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Overall DeFi market in moderate bull regime (+2.3% TVL growth)\n- Strong recent momentum: +4.90% over 14 days, +0.97% over 7 days\n- Several protocols showing solid TVL growth (RPL +15.6%, GMX +6.8%, CAKE +4.8%)\n- Diversified exposure across critical DeFi infrastructure (DEX, derivatives, oracle, staking)\n\n**Negative Indicators:**\n- 30-day return is negative (-2.44%), suggesting recent headwinds\n- High volatility (45.8% annualized) indicates significant risk\n- Negative Sharpe ratio (-0.45) shows poor risk-adjusted returns recently\n- Substantial max drawdown (-15.7%) demonstrates vulnerability\n\n**Analysis:**\nThe cluster shows a recovery pattern: -2.44% over 30 days, but +4.90% over 14 days and +0.97% over 7 days. This suggests a recent reversal from losses to gains, consistent with the moderate bull market regime. However, the high volatility and negative Sharpe ratio indicate this momentum is fragile.\n\nFor a 14-day annualized forecast, I need to consider:\n- The recent 7-day momentum (+0.97%) is positive but modest\n- The 14-day return (+4.90%) is stronger but not explosive\n- Market regime supports modest upside but doesn't guarantee continuation\n- High volatility makes directional bets risky\n\nAnnualizing the recent 14-day performance (+4.90%) would suggest ~128% annualized return, but this is unrealistic given volatility and the negative 30-day backdrop. A more conservative approach accounts for mean reversion and volatility drag.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster shows positive 14-day momentum (+4.90%) within moderate bull market, supported by strong TVL growth in key protocols (RPL +15.6%, GMX +6.8%). However, 30-day negative return (-2.44%), high volatility (45.8%), and negative Sharpe ratio indicate fragile momentum. Conservative 18% annualized return reflects modest upside potential with significant mean reversion risk. Moderate confidence due to high volatility and historical drawdown (-15.7%).\"\n}\n```",
+  "date": "2022-11-03",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:32.165876+00:00"
+}

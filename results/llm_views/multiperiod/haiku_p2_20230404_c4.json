@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster 4 shows mixed signals in a moderate bear market. The 7-day recovery (+4.66%) suggests short-term momentum, but negative 14-day (-4.84%) and 30-day (-1.92%) returns indicate underlying weakness. High volatility (59.7%) and negative Sharpe ratio (-0.27) suggest risk-adjusted returns are poor. The cluster comprises Oracle (LINK), L2 (OP), and Infrastructure (ENS) tokens\u2014typically correlated with broader market sentiment and DeFi adoption. With TVL growing (+6.2% in DeFi overall) but the market in bear regime, expect continued modest downside over 14 days. Confidence is moderate due to high volatility and incomplete TVL data for some tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster 4 shows mixed signals in a moderate bear market. The 7-day recovery (+4.66%) suggests short-term momentum, but negative 14-day (-4.84%) and 30-day (-1.92%) returns indicate underlying weakness. High volatility (59.7%) and negative Sharpe ratio (-0.27) suggest risk-adjusted returns are poor. The cluster comprises Oracle (LINK), L2 (OP), and Infrastructure (ENS) tokens\u2014typically correlated with broader market sentiment and DeFi adoption. With TVL growing (+6.2% in DeFi overall) but the market in bear regime, expect continued modest downside over 14 days. Confidence is moderate due to high volatility and incomplete TVL data for some tokens.\"\n}\n```",
+  "date": "2023-04-04",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:04.575935+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime with healthy TVL growth supports continued gains. However, decelerating momentum (7-day <14-day <30-day returns) and strong recent performance suggest mean reversion. Annualized 12% return reflects moderated 2-3% 14-day return. Confidence limited by momentum uncertainty and volatility environment.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Strong Recent Momentum**: The cluster has delivered +20.06% over 30 days with a strong Sharpe ratio of 4.90, indicating risk-adjusted returns are excellent.\n\n2. **Bullish Market Regime**: With 12.6% TVL growth in DeFi overall and a bull market classification, the macro backdrop is supportive.\n\n3. **Momentum Trajectory**: \n   - 30-day: +20.06%\n   - 14-day: +10.01%\n   - 7-day: +6.90%\n   \n   The decelerating momentum pattern (from 20% to 10% to 7%) suggests we may be in the later stages of a bull run within this 30-day window.\n\n4. **Risk Metrics**: \n   - Volatility of 34.4% (annualized) is moderate-to-high\n   - Max drawdown of -5.8% shows reasonable downside protection\n   - The high Sharpe ratio suggests strong risk-adjusted performance\n\n5. **Protocol Fundamentals**: TVL growth across COMP (+13.2%), MKR (+14.5%), and SNX (+27.6%) indicates healthy protocol adoption, though growth is moderating.\n\n6. **Forward-Looking Considerations**:\n   - Momentum appears to be decelerating (smaller 7-day returns than 14-day)\n   - 14-day annualized equivalent would be ~260% if continued, which is unlikely to sustain\n   - Mean reversion is possible after strong moves\n\n**Forecast Rationale:**\n\nGiven the strong but decelerating momentum, bullish regime, and healthy protocol metrics, I expect moderate positive returns over the next 14 days, but at a lower rate than the recent 7-day pace. The cluster has already captured significant gains; continued momentum at current rates is unlikely.\n\n```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bull market regime with healthy TVL growth supports continued gains. However, decelerating momentum (7-day <14-day <30-day returns) and strong recent performance suggest mean reversion. Annualized 12% return reflects moderated 2-3% 14-day return. Confidence limited by momentum uncertainty and volatility environment.\"\n}\n```",
+  "date": "2023-11-06",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:42:29.138654+00:00"
+}

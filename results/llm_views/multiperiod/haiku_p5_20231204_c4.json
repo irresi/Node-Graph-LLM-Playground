@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "RPL shows strong momentum with 28.75% 30-day return and positive 7/14-day trends (+15.58%/+12.15%), supported by rising TVL (+20.4%) in a moderate bull market. However, high annualized volatility (86.1%) and recent max drawdown (-21.4%) create execution risk. The forecast reflects mean reversion from recent outperformance while accounting for momentum continuation. Confidence is moderate due to single-token cluster concentration and macro sensitivity of liquid staking protocols.",
+  "raw_response": "Based on the provided market data for Cluster 4 (RPL - Liquid Staking), here is my forecast:\n\n```json\n{\"expected_return\": 0.42, \"confidence\": 0.65, \"reasoning\": \"RPL shows strong momentum with 28.75% 30-day return and positive 7/14-day trends (+15.58%/+12.15%), supported by rising TVL (+20.4%) in a moderate bull market. However, high annualized volatility (86.1%) and recent max drawdown (-21.4%) create execution risk. The forecast reflects mean reversion from recent outperformance while accounting for momentum continuation. Confidence is moderate due to single-token cluster concentration and macro sensitivity of liquid staking protocols.\"}\n```\n\n**Key factors in this forecast:**\n\n1. **Positive Momentum**: Consistent positive returns across 7d, 14d, and 30d periods suggest sustained buying interest\n2. **Strong Sharpe Ratio (2.80)**: Excellent risk-adjusted returns indicate quality outperformance\n3. **TVL Growth**: +20.4% TVL increase shows fundamental strength in the liquid staking narrative\n4. **Bull Regime**: The moderate bull market backdrop supports continued upside\n5. **Risk Factors**: \n   - High volatility (86.1%) could produce sharp reversals\n   - Single token concentration limits diversification\n   - Mean reversion dynamics after 28.75% monthly run-up\n   - Liquid staking sector sensitivity to ETH price action and regulatory developments\n\nThe 42% annualized return reflects a balanced view expecting continued strength over 14 days but accounting for increased reversion probability after the strong recent rally.",
+  "date": "2023-12-04",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:43:36.324974+00:00"
+}

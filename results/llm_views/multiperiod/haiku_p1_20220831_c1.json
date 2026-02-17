@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with negative 14-day momentum (-14.69%) and elevated volatility (78% annualized). CVX's strong TVL growth (+9.8%) and GMX's positive momentum (+15.1%) provide some upside support, but SNX weakness (-13.8%), LDO decline (-4.7%), and overall DeFi TVL contraction (-4.5%) indicate sustained downward pressure. The negative Sharpe ratio (-1.30) and -30.9% max drawdown reflect poor risk-adjusted returns. Moderate confidence due to bear regime uncertainty and mixed protocol fundamentals within the cluster.",
+  "raw_response": "Based on the provided market context and cluster data, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with negative 14-day momentum (-14.69%) and elevated volatility (78% annualized). CVX's strong TVL growth (+9.8%) and GMX's positive momentum (+15.1%) provide some upside support, but SNX weakness (-13.8%), LDO decline (-4.7%), and overall DeFi TVL contraction (-4.5%) indicate sustained downward pressure. The negative Sharpe ratio (-1.30) and -30.9% max drawdown reflect poor risk-adjusted returns. Moderate confidence due to bear regime uncertainty and mixed protocol fundamentals within the cluster.\"\n}\n```\n\n**Key analytical points:**\n\n1. **Regime Factor**: Strong bear market with -4.5% TVL decline signals macro headwinds continuing\n2. **Momentum Signal**: -14.69% over 14 days suggests negative continuation risk in near-term\n3. **Cluster Divergence**: CVX and GMX show relative strength, but SNX/LDO/RPL show weakness - mixed signals reduce confidence\n4. **Risk Metrics**: High volatility (78%) and poor Sharpe ratio (-1.30) indicate elevated downside risk\n5. **14-day Outlook**: Annualized return of -45% reflects the bear momentum scaling to 14 days, but discounted confidence due to potential reversal or mean reversion in liquid staking tokens (LDO strength in protocols)",
+  "date": "2022-08-31",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:03.637395+00:00"
+}

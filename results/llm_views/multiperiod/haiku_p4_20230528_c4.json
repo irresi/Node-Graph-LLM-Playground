@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 shows strong recent momentum (7-day: +5.12%, 14-day: +3.36%) reversing a sharp 30-day decline (-13.06%), suggesting potential oversold recovery in a bear market. However, confidence is low due to: (1) bear market regime limiting upside, (2) high volatility (48.8% annualized) and negative Sharpe ratio (-2.25) indicating risk-unrewarded moves, (3) lack of TVL fundamentals for 4 of 5 tokens limiting analysis, (4) infrastructure/L2 tokens sensitive to broader market sentiment. The modest positive forecast reflects mean-reversion potential from oversold conditions, but elevated uncertainty warrants caution.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (7-day: +5.12%, 14-day: +3.36%) reversing a sharp 30-day decline (-13.06%), suggesting potential oversold recovery in a bear market. However, confidence is low due to: (1) bear market regime limiting upside, (2) high volatility (48.8% annualized) and negative Sharpe ratio (-2.25) indicating risk-unrewarded moves, (3) lack of TVL fundamentals for 4 of 5 tokens limiting analysis, (4) infrastructure/L2 tokens sensitive to broader market sentiment. The modest positive forecast reflects mean-reversion potential from oversold conditions, but elevated uncertainty warrants caution.\"\n}\n```",
+  "date": "2023-05-28",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:06.115113+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "expected_return": 0.39,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime supports continued growth, but recent 14-day weakness (-0.73%) and momentum deceleration suggest consolidation phase. Strong 30-day foundation (+18.88%) and positive 7-day rebound (+3.87%) indicate support, but TVL growth is mixed. Expect modest positive returns with moderate confidence given conflicting signals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong 30-day return (+18.88%) shows upward momentum\n- Bull market regime with strong uptrend\n- High Sharpe ratio (3.32) indicates good risk-adjusted returns\n- TVL growth across most protocols (UNI +1.6%, SUSHI +4.1%, CAKE +4.2%, BAL +11.5%)\n- Overall DeFi TVL up 10.3% over 30 days\n- Cluster volatility at 47.7% is elevated but manageable in bull regime\n\n**Negative Indicators:**\n- Recent 14-day return is negative (-0.73%), suggesting momentum reversal\n- 7-day return (+3.87%) is lower than 14-day trend, indicating deceleration\n- CRV showing weakness (-7.0% TVL change)\n- Max drawdown of -7.4% shows downside risk exists\n- The sharp drop from +18.88% (30d) to -0.73% (14d) to +3.87% (7d) shows volatility\n\n**Analysis:**\nThe cluster shows strong recent history but concerning near-term momentum. The negative 14-day return despite positive 30-day performance suggests the rally may be losing steam. However, the bull market regime and positive 7-day rebound provide some support. \n\nFor the next 14 days, I expect:\n- Mean reversion toward longer-term trend (not continuation of -0.73%)\n- Bull regime support limiting downside\n- Potential consolidation after strong 30-day run\n- Moderate growth likely, but not explosive\n\n**Expected Annualized Return Calculation:**\nIf the cluster returns approximately 2-3% over the next 14 days (accounting for consolidation in bull market), the annualized equivalent would be: 2.5% \u00d7 (365/14) \u2248 0.65 or 65%\n\nHowever, given the recent weakness and deceleration, I'll be more conservative: ~1.5% over 14 days = 0.39 annualized\n\n```json\n{\"expected_return\": 0.39, \"confidence\": 0.62, \"reasoning\": \"Bull market regime supports continued growth, but recent 14-day weakness (-0.73%) and momentum deceleration suggest consolidation phase. Strong 30-day foundation (+18.88%) and positive 7-day rebound (+3.87%) indicate support, but TVL growth is mixed. Expect modest positive returns with moderate confidence given conflicting signals.\"}\n```",
+  "date": "2023-07-18",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:02.176049+00:00"
+}

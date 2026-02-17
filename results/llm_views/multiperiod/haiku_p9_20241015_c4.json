@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows mixed signals: strong 30-day momentum (+4.94%) and bull market regime support positive outlook, but recent 14-day underperformance (-0.39%) and elevated volatility (42.7% annualized) create headwinds. TVL growth across major protocols (UNI +13.6%, AAVE +14.8%, MKR +10.7%) indicates fundamental strength. The 7-day rebound (+5.13%) suggests recovery momentum. However, the -17.4% max drawdown and moderate Sharpe ratio (0.97) suggest caution. Forecasting 32% annualized return (~1.6% over 14 days) balances the positive DeFi TVL trends (+11.3% overall) against short-term volatility risks and recent consolidation. Confidence moderate due to unpredictable crypto market dynamics and the divergence between 7-day and 14-day returns.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows mixed signals: strong 30-day momentum (+4.94%) and bull market regime support positive outlook, but recent 14-day underperformance (-0.39%) and elevated volatility (42.7% annualized) create headwinds. TVL growth across major protocols (UNI +13.6%, AAVE +14.8%, MKR +10.7%) indicates fundamental strength. The 7-day rebound (+5.13%) suggests recovery momentum. However, the -17.4% max drawdown and moderate Sharpe ratio (0.97) suggest caution. Forecasting 32% annualized return (~1.6% over 14 days) balances the positive DeFi TVL trends (+11.3% overall) against short-term volatility risks and recent consolidation. Confidence moderate due to unpredictable crypto market dynamics and the divergence between 7-day and 14-day returns.\"\n}\n```",
+  "date": "2024-10-15",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:26.179031+00:00"
+}

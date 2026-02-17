@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in strong bear regime with -38.85% 30-day decline and -19.73% 7-day momentum. High volatility (81.2% annualized) and negative Sharpe (-4.02) indicate stressed conditions. However, mixed TVL fundamentals (CRV +1.3%, MKR +3.3% vs CVX -24.4%) and recent deceleration of losses (14d: -10.77% vs 7d: -19.73%) suggest potential stabilization. DeFi-wide TVL decline (-12.2%) indicates sector headwinds persisting near-term. Forecast assumes continued downward pressure with potential for mean-reversion bounce, annualizing 14-day outlook. Moderate confidence reflects high volatility and unpredictable bear market dynamics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear regime with -38.85% 30-day decline and -19.73% 7-day momentum. High volatility (81.2% annualized) and negative Sharpe (-4.02) indicate stressed conditions. However, mixed TVL fundamentals (CRV +1.3%, MKR +3.3% vs CVX -24.4%) and recent deceleration of losses (14d: -10.77% vs 7d: -19.73%) suggest potential stabilization. DeFi-wide TVL decline (-12.2%) indicates sector headwinds persisting near-term. Forecast assumes continued downward pressure with potential for mean-reversion bounce, annualizing 14-day outlook. Moderate confidence reflects high volatility and unpredictable bear market dynamics.\"\n}\n```",
+  "date": "2025-01-13",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:16.065635+00:00"
+}

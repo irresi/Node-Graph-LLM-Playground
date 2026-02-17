@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows oversold conditions (-7.75% in 7d) with potential mean reversion in bull market regime. However, TVL declines across major protocols (UNI -5.7%, MKR -2.5%) and negative Sharpe ratio (-0.61) create headwinds. Expect modest recovery over 14 days as momentum stabilizes, but high volatility (36.3%) and recent -12.2% drawdown suggest continued uncertainty. Annualized return of ~8% reflects partial bounce-back without full V-recovery, given mixed protocol fundamentals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum is Negative**\n   - 7-day return: -7.75% (steep decline)\n   - 14-day return: -3.77% (moderate decline)\n   - 30-day return: -2.64% (stabilizing)\n   - Trend suggests some stabilization after sharp recent losses\n\n2. **Market Regime Context**\n   - Bull market regime with strong uptrend\n   - Moderate volatility environment\n   - This contrasts with cluster's recent negative performance (potential mean reversion opportunity)\n\n3. **Protocol Health Mixed**\n   - MKR has largest TVL ($6.5B) but declined 2.5%\n   - UNI largest decline (-5.7%) despite being major DEX protocol\n   - SUSHI showing strength (+4.8% TVL growth)\n   - CAKE relatively stable (-3.7%)\n   - Overall TVL showing resilience despite recent price decline\n\n4. **Volatility & Risk**\n   - High annualized volatility: 36.3%\n   - Negative Sharpe ratio: -0.61 (risk-adjusted returns poor)\n   - Max drawdown: -12.2% (significant downside already realized)\n\n5. **14-Day Forward View**\n   - The steep 7-day decline followed by less severe 14-day decline suggests momentum may be abating\n   - Bull market backdrop should provide support\n   - High volatility creates both risk and opportunity\n   - Recent strong drawdown may attract value investors\n   - However, negative Sharpe ratio and protocol TVL pressures suggest caution\n\n**Forecast Rationale:**\n- **Base case**: Modest recovery from oversold conditions in bull market, but headwinds from TVL declines and protocol challenges persist\n- **Annualized conversion**: 14-day forecast needs to account for mean reversion partial recovery but not full reversal\n- **Confidence**: Moderate - external bull market support vs. internal cluster weakness create uncertainty\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Cluster shows oversold conditions (-7.75% in 7d) with potential mean reversion in bull market regime. However, TVL declines across major protocols (UNI -5.7%, MKR -2.5%) and negative Sharpe ratio (-0.61) create headwinds. Expect modest recovery over 14 days as momentum stabilizes, but high volatility (36.3%) and recent -12.2% drawdown suggest continued uncertainty. Annualized return of ~8% reflects partial bounce-back without full V-recovery, given mixed protocol fundamentals.\"}\n```",
+  "date": "2022-12-13",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:32.059404+00:00"
+}

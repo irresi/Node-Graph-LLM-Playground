@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -41.18% 30-day loss and -19.75% 14-day decline. High volatility (70.8% annualized) and negative Sharpe ratio (-4.88) indicate distressed conditions. Recent 7-day momentum (-15.41%) remains negative. Infrastructure/L2 tokens typically correlate with broader market sentiment during downturns. While oversold conditions may trigger some mean-reversion relief, the sustained downtrend and weak overall DeFi TVL (-6.6% 30d) suggest continued pressure. Forecasting -85% annualized return (approximately -4.6% over 14 days) reflects continued downside with modest recovery probability. Moderate confidence due to extreme volatility and potential for capitulation-driven bounces.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -41.18% 30-day loss and -19.75% 14-day decline. High volatility (70.8% annualized) and negative Sharpe ratio (-4.88) indicate distressed conditions. Recent 7-day momentum (-15.41%) remains negative. Infrastructure/L2 tokens typically correlate with broader market sentiment during downturns. While oversold conditions may trigger some mean-reversion relief, the sustained downtrend and weak overall DeFi TVL (-6.6% 30d) suggest continued pressure. Forecasting -85% annualized return (approximately -4.6% over 14 days) reflects continued downside with modest recovery probability. Moderate confidence due to extreme volatility and potential for capitulation-driven bounces.\"\n}\n```",
+  "date": "2025-06-22",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:48.733355+00:00"
+}

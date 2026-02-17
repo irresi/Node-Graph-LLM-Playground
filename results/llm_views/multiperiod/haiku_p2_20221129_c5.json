@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "Cluster in bear market with strong negative 30-day momentum (-25.95%), elevated volatility (96.9%), and deteriorating TVL across protocols. However, recent 7-day rebound (+7.79%) suggests potential short-term recovery. The next 14 days likely see continued weakness given macro DeFi headwinds (-26.9% TVL decline), but oversold conditions and mean reversion could provide modest relief. Annualized return assumes continued downside pressure with high uncertainty due to extreme volatility and regime instability.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in bear market with strong negative 30-day momentum (-25.95%), elevated volatility (96.9%), and deteriorating TVL across protocols. However, recent 7-day rebound (+7.79%) suggests potential short-term recovery. The next 14 days likely see continued weakness given macro DeFi headwinds (-26.9% TVL decline), but oversold conditions and mean reversion could provide modest relief. Annualized return assumes continued downside pressure with high uncertainty due to extreme volatility and regime instability.\"\n}\n```\n\n**Key Analysis:**\n\n1. **Bear Market Regime**: Strong downtrend with -26.9% TVL decline signals structural weakness across DeFi\n2. **Negative Momentum**: 30-day return of -25.95% and max drawdown of -33.7% indicate momentum remains bearish\n3. **Mixed Signals**: 7-day rebound (+7.79%) vs 14-day decline (-3.71%) suggests volatility without clear direction\n4. **TVL Deterioration**: All protocols showing significant TVL losses (SUSHI worst at -44.7%), indicating user exodus\n5. **High Volatility**: 96.9% annualized volatility with -2.25 Sharpe ratio reflects poor risk-adjusted returns\n6. **Moderate Confidence**: Despite clear bearish setup, extreme volatility and recent bounce create uncertainty about 14-day direction\n\nThe forecast assumes continued but potentially moderating downside over the next 14 days in a bear market environment.",
+  "date": "2022-11-29",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:58.226361+00:00"
+}

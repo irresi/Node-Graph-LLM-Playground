@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Modest positive momentum (7d: +1.15%) and strong TVL growth (+19.9%) support slight recovery, but neutral market regime, high volatility (67%), low Sharpe ratio (0.06), and recent correction (-2.22% over 14d) limit conviction. Annualized return estimate based on 7-day momentum extrapolation with significant downward adjustment for macro headwinds and volatility.",
+  "raw_response": "Based on the market context provided for Cluster 4 (YFI), here's my analysis:\n\n**Key Observations:**\n1. **Momentum**: Conflicting signals - strong 7-day return (+1.15%) but negative 14-day return (-2.22%), suggesting recent bounce-back after weakness\n2. **Volatility**: High annualized volatility of 67.0% indicates significant risk\n3. **Sharpe Ratio**: Very low at 0.06, indicating poor risk-adjusted returns\n4. **TVL Growth**: Strong +19.9% TVL increase shows underlying protocol strength\n5. **Market Regime**: Neutral/Range-bound with +13.3% DeFi TVL growth suggests cautious conditions\n6. **Max Drawdown**: -12.4% over 30 days shows recent significant correction\n\n**Analysis:**\n- YFI's recent performance is mixed with higher volatility and low Sharpe ratio\n- The recent +1.15% 7-day bounce suggests some recovery momentum\n- Strong TVL growth (+19.9%) is a positive fundamental signal\n- However, the neutral market regime and range-bound conditions suggest limited upside\n- High volatility makes directional forecasts uncertain\n\n**Forecast:**\nThe cluster shows modest positive momentum from recent recovery, supported by strong TVL fundamentals, but the neutral market regime and elevated volatility constrain conviction.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.42, \"reasoning\": \"Modest positive momentum (7d: +1.15%) and strong TVL growth (+19.9%) support slight recovery, but neutral market regime, high volatility (67%), low Sharpe ratio (0.06), and recent correction (-2.22% over 14d) limit conviction. Annualized return estimate based on 7-day momentum extrapolation with significant downward adjustment for macro headwinds and volatility.\"}\n```",
+  "date": "2025-08-29",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:20.817759+00:00"
+}

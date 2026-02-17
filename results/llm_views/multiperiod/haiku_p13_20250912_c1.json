@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows conflicting signals: recent 7-day momentum is strong (+11.15%), suggesting potential mean reversion from bear regime, but fundamental deterioration (TVL declining across SNX, DYDX; overall market down -4.8%) and negative Sharpe ratio (-0.08) indicate underlying weakness. High volatility (75.8% annualized) and -17.2% max drawdown suggest significant tail risks. The 14-day forecast is anchored to modest positive momentum (+1.36% over 14 days) with probability of continued recovery offset by macro bear regime headwinds. Low confidence reflects uncertainty in sustainability of recent bounce and potential for reversion to downtrend.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows conflicting signals: recent 7-day momentum is strong (+11.15%), suggesting potential mean reversion from bear regime, but fundamental deterioration (TVL declining across SNX, DYDX; overall market down -4.8%) and negative Sharpe ratio (-0.08) indicate underlying weakness. High volatility (75.8% annualized) and -17.2% max drawdown suggest significant tail risks. The 14-day forecast is anchored to modest positive momentum (+1.36% over 14 days) with probability of continued recovery offset by macro bear regime headwinds. Low confidence reflects uncertainty in sustainability of recent bounce and potential for reversion to downtrend.\"\n}\n```",
+  "date": "2025-09-12",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:25.804959+00:00"
+}

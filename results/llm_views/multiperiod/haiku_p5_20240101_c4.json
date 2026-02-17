@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "RPL in bull market regime with strong recent momentum (12.14% over 14d, 8.49% over 7d). However, high annualized volatility (62%) and recent max drawdown (-17.1%) suggest mean reversion risk. Liquid staking sector benefits from rising ETH staking demand, but valuation compression post-rally is likely. TVL growth of 6.9% (30d) supports fundamentals. Forward forecast incorporates momentum decay, elevated volatility, and sector-specific risks. Confidence moderated by single-token cluster concentration and high drawdown history.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"RPL in bull market regime with strong recent momentum (12.14% over 14d, 8.49% over 7d). However, high annualized volatility (62%) and recent max drawdown (-17.1%) suggest mean reversion risk. Liquid staking sector benefits from rising ETH staking demand, but valuation compression post-rally is likely. TVL growth of 6.9% (30d) supports fundamentals. Forward forecast incorporates momentum decay, elevated volatility, and sector-specific risks. Confidence moderated by single-token cluster concentration and high drawdown history.\"\n}\n```",
+  "date": "2024-01-01",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:28.673101+00:00"
+}

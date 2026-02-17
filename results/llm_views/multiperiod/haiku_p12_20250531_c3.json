@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Cluster faces headwinds from recent 14-day decline (-9.08%) despite positive DeFi market regime and strong TVL growth in major components (AAVE, UNI). Expect modest recovery from mean reversion over next 14 days, but significant uncertainty given high volatility (86.5%) and weak Sharpe ratio (0.49). Positive TVL trends and protocol fundamentals provide some support for upside, but near-term momentum remains negative.",
+  "raw_response": "Based on the provided market data for Cluster 3, let me analyze the key factors:\n\n**Analysis:**\n\n1. **Recent Momentum (Bearish Signal)**\n   - 7-day return: -6.83%\n   - 14-day return: -9.08%\n   - This shows strong recent weakness despite positive 30-day performance\n\n2. **Market Regime (Supportive)**\n   - Overall DeFi TVL up 19.6% (30-day)\n   - Market in moderate bull phase\n   - Underlying positive sentiment\n\n3. **Cluster Characteristics**\n   - 30-day return: +5.05% (positive but modest)\n   - Volatility: 86.5% annualized (very high)\n   - Sharpe ratio: 0.49 (weak risk-adjusted returns)\n   - Max drawdown: -20.7% (significant downside risk)\n\n4. **Protocol Fundamentals (Mixed)**\n   - AAVE: Strong TVL growth +19.6% (largest component at $24.3B)\n   - UNI: Solid +17.2% TVL growth ($4.8B)\n   - DYDX: Good momentum +14.9% ($284M)\n   - SNX: Weakness with -1.7% TVL change\n   - Recent trend reversal suggests potential mean reversion, but momentum remains negative\n\n5. **14-Day Outlook**\n   - The cluster has been in a downtrend over the last 14 days (-9.08%)\n   - Mean reversion could occur given strong underlying DeFi fundamentals\n   - However, near-term momentum is decidedly negative\n   - High volatility suggests significant uncertainty\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.42, \"reasoning\": \"Cluster faces headwinds from recent 14-day decline (-9.08%) despite positive DeFi market regime and strong TVL growth in major components (AAVE, UNI). Expect modest recovery from mean reversion over next 14 days, but significant uncertainty given high volatility (86.5%) and weak Sharpe ratio (0.49). Positive TVL trends and protocol fundamentals provide some support for upside, but near-term momentum remains negative.\"}\n```",
+  "date": "2025-05-31",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:47.911032+00:00"
+}

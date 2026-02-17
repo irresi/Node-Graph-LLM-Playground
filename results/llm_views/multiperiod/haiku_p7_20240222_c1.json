@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum with 32% 30-day return and excellent 9.58 Sharpe ratio in bull market. Recent 14-day return of +16.95% suggests sustained uptrend. However, confidence is moderated by: (1) high annualized volatility (28.1%) creates mean-reversion risk, (2) minimal drawdown (-2.5%) may indicate exhaustion, (3) infrastructure tokens (OP, ARB) lack direct TVL metrics, making fundamental analysis limited. Forecasted 14-day return of ~1.7% annualizes to 45% given current trajectory, but bull markets frequently decelerate. Conservative bias applied due to elevated valuations and recent strong moves.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong momentum with 32% 30-day return and excellent 9.58 Sharpe ratio in bull market. Recent 14-day return of +16.95% suggests sustained uptrend. However, confidence is moderated by: (1) high annualized volatility (28.1%) creates mean-reversion risk, (2) minimal drawdown (-2.5%) may indicate exhaustion, (3) infrastructure tokens (OP, ARB) lack direct TVL metrics, making fundamental analysis limited. Forecasted 14-day return of ~1.7% annualizes to 45% given current trajectory, but bull markets frequently decelerate. Conservative bias applied due to elevated valuations and recent strong moves.\"\n}\n```",
+  "date": "2024-02-22",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:37.264620+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -21.97% monthly decline and -24.3% max drawdown. However, recent 7-day recovery (+5.60%) suggests potential short-term bounce. 14-day outlook shows -9.13% loss, indicating choppy consolidation. High volatility (75.3% annualized) and weak Sharpe ratio (-2.45) suggest downside risk persists. TVL declines across major protocols (AAVE -20%, UNI -24.3%, BAL -64.3%) reflect fundamental weakness. 14-day forecast assumes continued bearish pressure with modest recovery attempts, but overall expected negative annualized return. Moderate confidence due to high volatility and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -21.97% monthly decline and -24.3% max drawdown. However, recent 7-day recovery (+5.60%) suggests potential short-term bounce. 14-day outlook shows -9.13% loss, indicating choppy consolidation. High volatility (75.3% annualized) and weak Sharpe ratio (-2.45) suggest downside risk persists. TVL declines across major protocols (AAVE -20%, UNI -24.3%, BAL -64.3%) reflect fundamental weakness. 14-day forecast assumes continued bearish pressure with modest recovery attempts, but overall expected negative annualized return. Moderate confidence due to high volatility and regime uncertainty.\"\n}\n```",
+  "date": "2025-11-13",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:04.381655+00:00"
+}

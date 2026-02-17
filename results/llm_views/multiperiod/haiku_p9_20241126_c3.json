@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (LINK, OP, ARB, ENS, GRT) shows strong recent momentum with +41.45% 30-day return and excellent Sharpe ratio of 5.34, supported by positive market regime (DeFi TVL +32.8%). However, forecast is moderated by: (1) High volatility (65.2% annualized) creates mean reversion risk, (2) Decelerating returns pattern (7d: +16.49% \u2192 14d: +25.21% \u2192 30d: +41.45%) suggests momentum may be plateauing, (3) Limited protocol fundamentals visibility (most tokens are infrastructure/L2 with no TVL data), (4) Max drawdown of -15.3% indicates elevated downside risk. Extrapolating recent 14-day momentum (+25.21%) to annualized (~93%) but applying a 10% discount for mean reversion and volatility regime suggests realistic expectation of ~85% annualized, with moderate confidence reflecting both strong technicals and elevated uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 (LINK, OP, ARB, ENS, GRT) shows strong recent momentum with +41.45% 30-day return and excellent Sharpe ratio of 5.34, supported by positive market regime (DeFi TVL +32.8%). However, forecast is moderated by: (1) High volatility (65.2% annualized) creates mean reversion risk, (2) Decelerating returns pattern (7d: +16.49% \u2192 14d: +25.21% \u2192 30d: +41.45%) suggests momentum may be plateauing, (3) Limited protocol fundamentals visibility (most tokens are infrastructure/L2 with no TVL data), (4) Max drawdown of -15.3% indicates elevated downside risk. Extrapolating recent 14-day momentum (+25.21%) to annualized (~93%) but applying a 10% discount for mean reversion and volatility regime suggests realistic expectation of ~85% annualized, with moderate confidence reflecting both strong technicals and elevated uncertainty.\"\n}\n```",
+  "date": "2024-11-26",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:24.275336+00:00"
+}

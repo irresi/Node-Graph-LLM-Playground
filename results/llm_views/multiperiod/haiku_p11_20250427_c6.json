@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Recent 7-day (+24%) and 14-day (+20%) momentum suggest continued upside in near-term, but bear market regime and declining TVL (-11.8%) create headwinds. Annualized 18% return reflects partial momentum persistence with mean reversion expectations. Moderate confidence due to high volatility (63.9%), structural TVL decline, and regime uncertainty.",
+  "raw_response": "I'll analyze the market context and cluster metrics to provide a forecast for Cluster 6 (YFI) over the next 14 days.\n\n## Analysis:\n\n**Positive Factors:**\n- Strong recent momentum: 7-day return of +24.02% and 14-day return of +20.29% indicate upward price action\n- Solid 30-day return of +9.20% with a Sharpe ratio of 1.21 suggests risk-adjusted returns are reasonable\n- YFI is a established yield farming protocol with $205M TVL\n- The token has demonstrated resilience despite the bear market regime\n\n**Risk Factors:**\n- Bear market regime: The overall market is in a strong downtrend, which typically limits upside\n- TVL decline: YFI's TVL decreased 11.8% over 30 days, suggesting reduced protocol activity\n- High volatility: 63.9% annualized volatility indicates significant price swings\n- Large drawdown: -11.9% max drawdown shows material downside risk\n- Momentum mean reversion risk: The exceptional recent returns (+24% in 7 days) may not sustain\n\n**14-Day Forecast Considerations:**\n- Recent momentum has been strong, but typically doesn't persist at this magnitude\n- The bear market regime suggests caution on sustained bullish extrapolation\n- Declining TVL is a fundamental concern for a yield protocol\n- Mean reversion from the +24% 7-day return is likely\n\nGiven the strong near-term momentum tempered by structural headwinds (bear market, declining TVL) and mean reversion risk, I expect a positive but moderated return over the next 14 days, with moderate confidence due to the high volatility and uncertain market regime sustainability.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.58, \"reasoning\": \"Recent 7-day (+24%) and 14-day (+20%) momentum suggest continued upside in near-term, but bear market regime and declining TVL (-11.8%) create headwinds. Annualized 18% return reflects partial momentum persistence with mean reversion expectations. Moderate confidence due to high volatility (63.9%), structural TVL decline, and regime uncertainty.\"}\n```",
+  "date": "2025-04-27",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:52.224158+00:00"
+}

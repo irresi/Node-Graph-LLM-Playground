@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.65,
+  "reasoning": "Cluster in bull market regime with strong TVL growth (+8.8% DeFi-wide). Recent 7-day momentum positive (+3.11%) suggests recovery from 14-day drawdown (-4.99%). SNX exceptional growth (+26.7% TVL) and MKR strength (+8.1%) offset CRV weakness (-2.0%). Annualized 37.6% volatility and 1.11 Sharpe ratio indicate healthy risk-adjusted returns. However, moderate confidence reflects 14-day momentum reversal risk and high volatility in DeFi sector.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster in bull market regime with strong TVL growth (+8.8% DeFi-wide). Recent 7-day momentum positive (+3.11%) suggests recovery from 14-day drawdown (-4.99%). SNX exceptional growth (+26.7% TVL) and MKR strength (+8.1%) offset CRV weakness (-2.0%). Annualized 37.6% volatility and 1.11 Sharpe ratio indicate healthy risk-adjusted returns. However, moderate confidence reflects 14-day momentum reversal risk and high volatility in DeFi sector.\"\n}\n```",
+  "date": "2023-12-23",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:47.006021+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.58,
+  "reasoning": "Cluster in bear regime with negative momentum (-8.05% over 7d, -24.16% over 14d). High volatility (89.7%) and negative Sharpe ratio (-0.95) indicate risk-adjusted returns deteriorating. TVL metrics stable but insufficient to reverse trend. 14-day lookback shows continued downside pressure. Moderate confidence due to high volatility and bear market conditions that could worsen or stabilize unpredictably.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster in bear regime with negative momentum (-8.05% over 7d, -24.16% over 14d). High volatility (89.7%) and negative Sharpe ratio (-0.95) indicate risk-adjusted returns deteriorating. TVL metrics stable but insufficient to reverse trend. 14-day lookback shows continued downside pressure. Moderate confidence due to high volatility and bear market conditions that could worsen or stabilize unpredictably.\"\n}\n```",
+  "date": "2025-01-21",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:45.184398+00:00"
+}

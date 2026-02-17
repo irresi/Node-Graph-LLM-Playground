@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows fundamental strength (growing TVL in LDO, RPL, CVX) but faces near-term headwinds from -10.64% 14d momentum reversal. Expecting partial recovery toward 30-day mean (+4.03%) with continued volatility. Neutral market regime and late-2022 macro uncertainty limit confidence. 14-day forward annualized return estimate balances downside momentum against underlying protocol strength and typical mean-reversion patterns.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward-looking return forecast.\n\n## Analysis\n\n**Market Context Assessment:**\n- Overall DeFi TVL is stable (flat -0.3% 30d change) with a neutral market regime\n- The cluster shows mixed momentum: strong 30-day return (+4.03%) but concerning recent weakness (-12.71% 7d, -10.64% 14d)\n\n**Cluster Composition Strengths:**\n- Diversified across liquid staking (LDO, RPL), derivatives (GMX, SNX), and governance (CVX)\n- TVL-weighted portfolio is substantial ($10.2B aggregate)\n- Strong fundamental growth in core positions: LDO (+10.0% 30d TVL), RPL (+12.1%), CVX (+6.9%)\n\n**Risk Factors:**\n- Sharp recent reversal: 14-day return is significantly negative (-10.64%) despite positive 30-day trend, suggesting momentum loss\n- Market transition period (late 2022): This period historically showed DeFi volatility and liquidity concerns\n- Volatility elevated at 44.2% annualized, indicating high uncertainty\n- Max drawdown of -15.0% shows recent downside pressure\n\n**Forecast Rationale:**\nGiven the strong negative momentum over 7-14 days combined with neutral market regime, the cluster is likely entering a consolidation phase. However, the fundamental TVL growth (especially in LDO and RPL) and the positive 30-day return suggest underlying strength. The next 14 days will likely see recovery attempts but with continued volatility.\n\nAssuming mean reversion from the recent -10.64% drawdown toward the +4.03% 30-day trend, but accounting for near-term headwinds and macro uncertainty.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.52, \"reasoning\": \"Cluster shows fundamental strength (growing TVL in LDO, RPL, CVX) but faces near-term headwinds from -10.64% 14d momentum reversal. Expecting partial recovery toward 30-day mean (+4.03%) with continued volatility. Neutral market regime and late-2022 macro uncertainty limit confidence. 14-day forward annualized return estimate balances downside momentum against underlying protocol strength and typical mean-reversion patterns.\"}\n```",
+  "date": "2022-12-21",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:10.027565+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -41.31% 30-day cluster return and -36.52% 7-day return indicates strong downward momentum. High volatility (76.9% annualized) and negative Sharpe ratio (-4.51) suggest continued risk. TVL declines across CAKE (-24.9%), GMX (-24.5%), RPL (-38.4%) indicate weakening fundamentals. However, extreme drawdowns may signal oversold conditions with potential bounce. Forecasting -1.85 annualized return (approximately -0.7% over 14 days) reflecting bear pressure but accounting for mean reversion risk in volatile downturns. Low confidence (0.35) due to regime uncertainty and potential capitulation bounces in distressed markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -41.31% 30-day cluster return and -36.52% 7-day return indicates strong downward momentum. High volatility (76.9% annualized) and negative Sharpe ratio (-4.51) suggest continued risk. TVL declines across CAKE (-24.9%), GMX (-24.5%), RPL (-38.4%) indicate weakening fundamentals. However, extreme drawdowns may signal oversold conditions with potential bounce. Forecasting -1.85 annualized return (approximately -0.7% over 14 days) reflecting bear pressure but accounting for mean reversion risk in volatile downturns. Low confidence (0.35) due to regime uncertainty and potential capitulation bounces in distressed markets.\"\n}\n```",
+  "date": "2022-06-16",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:27.327920+00:00"
+}

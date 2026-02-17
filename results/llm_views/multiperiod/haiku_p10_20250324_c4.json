@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 shows mixed signals in a bear market: severe 30-day drawdown (-28.69%) with high volatility (95.1%), but recent 7-day momentum is positive (+5.27%), suggesting potential mean reversion. However, low confidence due to: (1) bearish overall DeFi regime (-16.7% TVL decline), (2) most tokens lack direct TVL metrics limiting fundamental analysis, (3) negative Sharpe ratio (-2.53) indicates returns don't compensate for risk, (4) infrastructure/L2 tokens are highly speculative. Modest positive forecast reflects short-term bounce potential but acknowledges significant downside risks in current market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 shows mixed signals in a bear market: severe 30-day drawdown (-28.69%) with high volatility (95.1%), but recent 7-day momentum is positive (+5.27%), suggesting potential mean reversion. However, low confidence due to: (1) bearish overall DeFi regime (-16.7% TVL decline), (2) most tokens lack direct TVL metrics limiting fundamental analysis, (3) negative Sharpe ratio (-2.53) indicates returns don't compensate for risk, (4) infrastructure/L2 tokens are highly speculative. Modest positive forecast reflects short-term bounce potential but acknowledges significant downside risks in current market conditions.\"\n}\n```",
+  "date": "2025-03-24",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:34.074795+00:00"
+}

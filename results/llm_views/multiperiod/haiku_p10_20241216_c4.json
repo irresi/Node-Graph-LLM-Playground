@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong recent momentum (+54.47% in 30 days, +8.64% in 7 days) with excellent Sharpe ratio (6.54) in a moderate bull market regime. However, forward-looking forecast is moderated by: (1) mean reversion risk after outsized recent gains, (2) high annualized volatility (69.9%) creating noise, (3) decelerating returns (14d: 5.28% vs 7d: 8.64%), (4) infrastructure/oracle tokens' cyclical nature. The 28% annualized return (~1.07% over 14 days) reflects continued positive momentum but assumes normalization from exceptional recent performance. Medium confidence due to momentum-dependent forecast in volatile asset class with limited fundamental TVL data.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (+54.47% in 30 days, +8.64% in 7 days) with excellent Sharpe ratio (6.54) in a moderate bull market regime. However, forward-looking forecast is moderated by: (1) mean reversion risk after outsized recent gains, (2) high annualized volatility (69.9%) creating noise, (3) decelerating returns (14d: 5.28% vs 7d: 8.64%), (4) infrastructure/oracle tokens' cyclical nature. The 28% annualized return (~1.07% over 14 days) reflects continued positive momentum but assumes normalization from exceptional recent performance. Medium confidence due to momentum-dependent forecast in volatile asset class with limited fundamental TVL data.\"\n}\n```",
+  "date": "2024-12-16",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:34.809532+00:00"
+}

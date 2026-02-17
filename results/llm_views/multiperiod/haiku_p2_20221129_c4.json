@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with strong 30-day downtrend (-16.81%) despite recent 7-day bounce (+10.94%). Cluster volatility is extreme (102.4% annualized), creating significant uncertainty. Infrastructure tokens (LINK, OP, ENS) are sensitive to risk-on sentiment and macro conditions. The negative Sharpe ratio (-1.38) and -34.1% max drawdown indicate poor risk-adjusted returns. The recent short-term momentum reversal (+10.94% 7-day vs -16.81% 30-day) suggests potential consolidation, but sustained bear pressure likely dominates over a 14-day horizon. Low confidence reflects high volatility and unpredictable short-term movements in this regime.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bear market regime with strong 30-day downtrend (-16.81%) despite recent 7-day bounce (+10.94%). Cluster volatility is extreme (102.4% annualized), creating significant uncertainty. Infrastructure tokens (LINK, OP, ENS) are sensitive to risk-on sentiment and macro conditions. The negative Sharpe ratio (-1.38) and -34.1% max drawdown indicate poor risk-adjusted returns. The recent short-term momentum reversal (+10.94% 7-day vs -16.81% 30-day) suggests potential consolidation, but sustained bear pressure likely dominates over a 14-day horizon. Low confidence reflects high volatility and unpredictable short-term movements in this regime.\"\n}\n```\n\n**Key factors in this forecast:**\n\n1. **Market Regime Risk**: Strong bear market with -26.9% TVL decline suggests risk-off sentiment across DeFi\n2. **Momentum Deterioration**: While 7-day return is positive, the 30-day trend is deeply negative, indicating the bounce may be temporary\n3. **Volatility & Uncertainty**: 102.4% annualized volatility makes 14-day predictions inherently unreliable\n4. **Token Characteristics**: Oracle and L2/infrastructure tokens tend to underperform in extended bear markets when liquidity and usage decline\n5. **Confidence Limitation**: The low 0.45 confidence reflects the chaotic nature of crypto markets in bear regimes where technical and sentiment factors often overwhelm fundamentals",
+  "date": "2022-11-29",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:52.536389+00:00"
+}

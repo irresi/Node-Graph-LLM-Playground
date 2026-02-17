@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with -15% TVL decline and -18.54% cluster loss over 30 days. Accelerating downtrend evident in 7-day (-12.13%) and 14-day (-17.22%) returns showing momentum deterioration. High volatility (56.6% annualized) and negative Sharpe ratio (-2.75) indicate risk-adjusted losses. Multiple major protocols (SUSHI -32.2%, AAVE -17.5%, UNI -16.5%) show weakness. Extrapolating recent 14-day momentum (-17.22%) with slight moderation for mean reversion in extreme downturns suggests continued decline but potentially less severe than recent pace. High confidence in negative direction given clear trend, lower confidence in magnitude due to potential stabilization in oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear market regime with -15% TVL decline and -18.54% cluster loss over 30 days. Accelerating downtrend evident in 7-day (-12.13%) and 14-day (-17.22%) returns showing momentum deterioration. High volatility (56.6% annualized) and negative Sharpe ratio (-2.75) indicate risk-adjusted losses. Multiple major protocols (SUSHI -32.2%, AAVE -17.5%, UNI -16.5%) show weakness. Extrapolating recent 14-day momentum (-17.22%) with slight moderation for mean reversion in extreme downturns suggests continued decline but potentially less severe than recent pace. High confidence in negative direction given clear trend, lower confidence in magnitude due to potential stabilization in oversold conditions.\"\n}\n```",
+  "date": "2022-09-22",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:40.231015+00:00"
+}

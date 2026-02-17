@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "YFI faces headwinds from a severe bear market (-19.8% DeFi TVL decline) and negative momentum (14-day return -5.33%, 7-day -1.92%). The protocol's TVL declined 12.1% in 30 days, indicating reduced yield generation potential. However, YFI as a mature yield aggregator has some defensive characteristics. The high volatility (65.6%) and negative Sharpe ratio (-1.84) suggest continued stress, but oversold conditions may limit further downside. Forecasting -45% annualized (approximately -1.7% over 14 days) reflects the bearish regime while accounting for potential stabilization. Moderate confidence due to macro uncertainty and potential mean-reversion in a single-token cluster.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"YFI faces headwinds from a severe bear market (-19.8% DeFi TVL decline) and negative momentum (14-day return -5.33%, 7-day -1.92%). The protocol's TVL declined 12.1% in 30 days, indicating reduced yield generation potential. However, YFI as a mature yield aggregator has some defensive characteristics. The high volatility (65.6%) and negative Sharpe ratio (-1.84) suggest continued stress, but oversold conditions may limit further downside. Forecasting -45% annualized (approximately -1.7% over 14 days) reflects the bearish regime while accounting for potential stabilization. Moderate confidence due to macro uncertainty and potential mean-reversion in a single-token cluster.\"\n}\n```",
+  "date": "2025-03-16",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:20.279297+00:00"
+}

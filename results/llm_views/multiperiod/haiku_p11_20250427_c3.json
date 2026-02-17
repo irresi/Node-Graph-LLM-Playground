@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows strong short-term momentum (+11.74% 7-day, +12.31% 14-day) contrasting with longer-term weakness (-6.31% 30-day), suggesting potential mean reversion in a bear market. Mixed protocol fundamentals: COMP (+9.5%), CVX (+17.3%), and CAKE (+2.7%) show strength, while DYDX (-7.1%) lags. However, high volatility (75.7%), negative Sharpe ratio (-0.70), and bear market regime create significant headwinds. Moderate confidence due to momentum conflicting with macro conditions and elevated drawdown risk (-22.7% max).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+11.74% 7-day, +12.31% 14-day) contrasting with longer-term weakness (-6.31% 30-day), suggesting potential mean reversion in a bear market. Mixed protocol fundamentals: COMP (+9.5%), CVX (+17.3%), and CAKE (+2.7%) show strength, while DYDX (-7.1%) lags. However, high volatility (75.7%), negative Sharpe ratio (-0.70), and bear market regime create significant headwinds. Moderate confidence due to momentum conflicting with macro conditions and elevated drawdown risk (-22.7% max).\"\n}\n```",
+  "date": "2025-04-27",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:33.344847+00:00"
+}

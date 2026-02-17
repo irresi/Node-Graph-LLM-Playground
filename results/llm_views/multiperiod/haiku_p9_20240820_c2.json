@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market regime with -26.78% monthly decline and -21.5% TVL contraction. However, recent 14-day recovery (+8.76%) and positive 7-day momentum (+0.33%) suggest potential mean reversion bounce. All constituent tokens show TVL erosion (-12.6% to -25.3%), indicating structural weakness. High volatility (55.5% annualized) and severely negative Sharpe ratio (-4.06) suggest elevated downside risk. Near-term technical bounce possible, but fundamental deterioration and bear regime favor continued downside. Forecast annualizes the 14-day momentum but discounts it heavily for regime risk and underlying weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with -26.78% monthly decline and -21.5% TVL contraction. However, recent 14-day recovery (+8.76%) and positive 7-day momentum (+0.33%) suggest potential mean reversion bounce. All constituent tokens show TVL erosion (-12.6% to -25.3%), indicating structural weakness. High volatility (55.5% annualized) and severely negative Sharpe ratio (-4.06) suggest elevated downside risk. Near-term technical bounce possible, but fundamental deterioration and bear regime favor continued downside. Forecast annualizes the 14-day momentum but discounts it heavily for regime risk and underlying weakness.\"\n}\n```",
+  "date": "2024-08-20",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:45.914970+00:00"
+}

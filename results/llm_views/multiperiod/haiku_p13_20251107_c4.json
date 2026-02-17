@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 (YFI) faces headwinds from a bear market regime with DeFi TVL down 26% over 30 days. YFI's TVL declined 24.3%, indicating reduced protocol activity and potential user exodus. The 30-day return of -12.01% with high volatility (58.6%) and negative Sharpe ratio (-1.72) suggest sustained downward pressure. However, recent 7-day momentum (+3.60%) indicates potential short-term recovery, partially offsetting bearish fundamentals. The 14-day return of +0.20% suggests stabilization. Over the next 14 days, expect continued downside risk with annualized return around -18%, though moderate recovery is possible. Confidence is moderate due to volatile regime, limited token diversification (single token), and conflicting signals between fundamental deterioration and positive recent momentum.",
+  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 (YFI) faces headwinds from a bear market regime with DeFi TVL down 26% over 30 days. YFI's TVL declined 24.3%, indicating reduced protocol activity and potential user exodus. The 30-day return of -12.01% with high volatility (58.6%) and negative Sharpe ratio (-1.72) suggest sustained downward pressure. However, recent 7-day momentum (+3.60%) indicates potential short-term recovery, partially offsetting bearish fundamentals. The 14-day return of +0.20% suggests stabilization. Over the next 14 days, expect continued downside risk with annualized return around -18%, though moderate recovery is possible. Confidence is moderate due to volatile regime, limited token diversification (single token), and conflicting signals between fundamental deterioration and positive recent momentum.\"\n}\n```",
+  "date": "2025-11-07",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:07.332981+00:00"
+}

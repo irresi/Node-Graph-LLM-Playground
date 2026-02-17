@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong short-term momentum (+18.23% over 7 days, +19.73% over 14 days) despite bear market regime and negative 30-day returns (-1.09%), suggesting potential mean reversion or localized recovery. However, high volatility (72.7% annualized), negative Sharpe ratio (-0.13), and severe max drawdown (-21.2%) indicate elevated risk. The infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL metrics, reducing fundamental conviction. Extrapolating recent 14-day momentum (~19.73% over 14 days \u2248 0.515 annualized) is tempered by the bear market regime and likelihood of volatility normalization. Low confidence reflects uncertainty about momentum sustainability in a bear market and limited protocol fundamentals visibility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+18.23% over 7 days, +19.73% over 14 days) despite bear market regime and negative 30-day returns (-1.09%), suggesting potential mean reversion or localized recovery. However, high volatility (72.7% annualized), negative Sharpe ratio (-0.13), and severe max drawdown (-21.2%) indicate elevated risk. The infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL metrics, reducing fundamental conviction. Extrapolating recent 14-day momentum (~19.73% over 14 days \u2248 0.515 annualized) is tempered by the bear market regime and likelihood of volatility normalization. Low confidence reflects uncertainty about momentum sustainability in a bear market and limited protocol fundamentals visibility.\"\n}\n```",
+  "date": "2025-07-12",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:58.071789+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear market with -34.4% 30-day return and strong downtrend momentum (-20.73% 7-day). High volatility (74.2% annualized) and negative Sharpe ratio (-3.90) indicate risk-adjusted returns are deeply negative. Overall DeFi TVL declining (-9.8% 30d) suggests sector-wide headwinds. However, infrastructure tokens (OP, ARB, ENS) and oracles (LINK, GRT) may stabilize if market finds support. Forecasting -85% annualized return (-3.3% over 14 days) reflects continued weakness with modest mean reversion potential from oversold conditions. Confidence moderate due to regime shift possibilities in volatile markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear market with -34.4% 30-day return and strong downtrend momentum (-20.73% 7-day). High volatility (74.2% annualized) and negative Sharpe ratio (-3.90) indicate risk-adjusted returns are deeply negative. Overall DeFi TVL declining (-9.8% 30d) suggests sector-wide headwinds. However, infrastructure tokens (OP, ARB, ENS) and oracles (LINK, GRT) may stabilize if market finds support. Forecasting -85% annualized return (-3.3% over 14 days) reflects continued weakness with modest mean reversion potential from oversold conditions. Confidence moderate due to regime shift possibilities in volatile markets.\"\n}\n```",
+  "date": "2025-02-02",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:30.256853+00:00"
+}

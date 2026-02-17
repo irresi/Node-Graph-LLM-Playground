@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 (LINK, GRT) shows negative momentum with -5.31% 7-day and -9.36% 14-day returns despite moderate bull regime. Negative Sharpe ratio (-0.05) and high volatility (67.1%) indicate risk-reward mismatch. However, LINK and GRT are foundational infrastructure tokens with strong fundamentals. The -13.7% max drawdown suggests oversold conditions that may support mean reversion. Forecasting modest negative returns annualized over 14 days as near-term headwinds persist, but confidence is moderate due to infrastructure token resilience and potential technical bounce.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 (LINK, GRT) shows negative momentum with -5.31% 7-day and -9.36% 14-day returns despite moderate bull regime. Negative Sharpe ratio (-0.05) and high volatility (67.1%) indicate risk-reward mismatch. However, LINK and GRT are foundational infrastructure tokens with strong fundamentals. The -13.7% max drawdown suggests oversold conditions that may support mean reversion. Forecasting modest negative returns annualized over 14 days as near-term headwinds persist, but confidence is moderate due to infrastructure token resilience and potential technical bounce.\"\n}\n```",
+  "date": "2024-01-06",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:34.295988+00:00"
+}

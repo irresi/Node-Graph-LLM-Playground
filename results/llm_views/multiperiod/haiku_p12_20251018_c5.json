@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear regime with -29.54% 30-day loss and -3.12 Sharpe ratio. Recent 7-day bounce (+2.55%) suggests potential short-term relief, but fundamental headwinds persist: overall DeFi TVL down 11.2%, constituent TVLs declining (GMX -19.9%, COMP -14.4%), and high annualized volatility (79.6%) indicates extreme market stress. Yield/lending/derivatives tokens particularly vulnerable in downturns. Forecasting continued weakness over 14 days despite modest recent momentum, with high uncertainty given regime volatility and potential for sharp reversals either direction.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -29.54% 30-day loss and -3.12 Sharpe ratio. Recent 7-day bounce (+2.55%) suggests potential short-term relief, but fundamental headwinds persist: overall DeFi TVL down 11.2%, constituent TVLs declining (GMX -19.9%, COMP -14.4%), and high annualized volatility (79.6%) indicates extreme market stress. Yield/lending/derivatives tokens particularly vulnerable in downturns. Forecasting continued weakness over 14 days despite modest recent momentum, with high uncertainty given regime volatility and potential for sharp reversals either direction.\"\n}\n```",
+  "date": "2025-10-18",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:08.683550+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -38% monthly decline and -21% 7-day momentum. TVL contracting across all protocols (-7.5% to -26.7% monthly). Negative Sharpe ratio (-4.80) and 66.6% annualized volatility indicate distressed conditions. 14-day return of -32% shows accelerating downtrend. Bear market regime typically persists 2-4 weeks; assuming partial reversion from 7-day trend (-21%) to 30-day average (-38%), expect continued weakness. Moderate confidence due to potential mean reversion bounce and macro uncertainty, but structural weakness in DeFi TVL (-18.3%) and protocol fundamentals limit upside.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -38% monthly decline and -21% 7-day momentum. TVL contracting across all protocols (-7.5% to -26.7% monthly). Negative Sharpe ratio (-4.80) and 66.6% annualized volatility indicate distressed conditions. 14-day return of -32% shows accelerating downtrend. Bear market regime typically persists 2-4 weeks; assuming partial reversion from 7-day trend (-21%) to 30-day average (-38%), expect continued weakness. Moderate confidence due to potential mean reversion bounce and macro uncertainty, but structural weakness in DeFi TVL (-18.3%) and protocol fundamentals limit upside.\"\n}\n```",
+  "date": "2024-04-13",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:12.765505+00:00"
+}

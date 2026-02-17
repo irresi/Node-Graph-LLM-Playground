@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.65,
+  "reasoning": "Cluster 1 (CAKE/BAL) shows mixed signals: positive 30-day momentum (+11.45%) and strong Sharpe ratio (1.15) supported by moderate bull market regime and growing TVL (+19.6% DeFi-wide). However, recent 7-14 day returns are negative (-2.33% to -2.46%), suggesting potential pullback or consolidation phase. High annualized volatility (83.3%) and -13.5% max drawdown indicate risk. For the 14-day forecast, expect modest positive returns as the market digests recent weakness, with TVL growth providing fundamental support, but downside volatility remains a concern. Confidence moderated due to short-term momentum divergence from longer-term trend.",
+  "raw_response": "Based on the market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 1 (CAKE/BAL) shows mixed signals: positive 30-day momentum (+11.45%) and strong Sharpe ratio (1.15) supported by moderate bull market regime and growing TVL (+19.6% DeFi-wide). However, recent 7-14 day returns are negative (-2.33% to -2.46%), suggesting potential pullback or consolidation phase. High annualized volatility (83.3%) and -13.5% max drawdown indicate risk. For the 14-day forecast, expect modest positive returns as the market digests recent weakness, with TVL growth providing fundamental support, but downside volatility remains a concern. Confidence moderated due to short-term momentum divergence from longer-term trend.\"\n}\n```\n\n**Key Rationale:**\n1. **Bull Market Support**: Moderate bull regime + 19.6% DeFi TVL growth provide tailwinds\n2. **Fundamental Strength**: Both protocols show TVL growth (CAKE +4.8%, BAL +16.5%)\n3. **Momentum Divergence**: Recent weakness (-2.33% to -2.46%) conflicts with strong 30-day performance, suggesting volatility and mean-reversion potential\n4. **Risk Factors**: High volatility (83.3% annualized) and recent drawdown limit confidence; DEX tokens sensitive to broader market sentiment\n5. **14-Day Outlook**: Expecting modest recovery rather than strong acceleration, with reasonable upside from current levels but tempered by near-term weakness",
+  "date": "2025-05-31",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:36.682198+00:00"
+}

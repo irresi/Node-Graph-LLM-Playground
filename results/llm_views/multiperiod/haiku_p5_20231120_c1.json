@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong recent momentum (+31.95% over 30d, +12.93% over 14d) with improving fundamentals (MKR +30.3%, SNX +74.3% TVL growth). However, annualization of short-term returns is inherently uncertain. The moderate bull regime and positive TVL trends support continued strength, but high volatility (43.9% annualized) and -7.1% max drawdown signal elevated risk. Sharpe ratio of 6.11 indicates quality returns relative to risk. Projected 14-day return of ~4.7% annualizes to ~0.18, but confidence is moderate (0.62) due to: (1) reversion risk after 31% 30d gain, (2) LINK data gaps limiting full analysis, (3) OP lacking TVL data, and (4) inherent uncertainty in short-term forecasting. Upside supported by sustained bull regime and protocol metrics, downside risk from profit-taking after strong run.",
+  "raw_response": "I'll analyze this DeFi cluster data to provide a 14-day expected return forecast.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong recent momentum (+31.95% over 30d, +12.93% over 14d) with improving fundamentals (MKR +30.3%, SNX +74.3% TVL growth). However, annualization of short-term returns is inherently uncertain. The moderate bull regime and positive TVL trends support continued strength, but high volatility (43.9% annualized) and -7.1% max drawdown signal elevated risk. Sharpe ratio of 6.11 indicates quality returns relative to risk. Projected 14-day return of ~4.7% annualizes to ~0.18, but confidence is moderate (0.62) due to: (1) reversion risk after 31% 30d gain, (2) LINK data gaps limiting full analysis, (3) OP lacking TVL data, and (4) inherent uncertainty in short-term forecasting. Upside supported by sustained bull regime and protocol metrics, downside risk from profit-taking after strong run.\"\n}\n```",
+  "date": "2023-11-20",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:42:50.195043+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 faces severe headwinds: bear market regime with -25.5% TVL decline, -52.6% 30-day loss, and -19.3% 7-day decline indicating negative momentum. The -4.92 Sharpe ratio and 89.8% volatility reflect extreme risk. However, oversold conditions (max drawdown -42.8%) and large TVL base in LDO ($20.9B) suggest potential stabilization. Forecasting continued weakness over 14 days but at a decelerating pace from recent trends. Moderate confidence due to high volatility and potential mean reversion against persistent bearish fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 faces severe headwinds: bear market regime with -25.5% TVL decline, -52.6% 30-day loss, and -19.3% 7-day decline indicating negative momentum. The -4.92 Sharpe ratio and 89.8% volatility reflect extreme risk. However, oversold conditions (max drawdown -42.8%) and large TVL base in LDO ($20.9B) suggest potential stabilization. Forecasting continued weakness over 14 days but at a decelerating pace from recent trends. Moderate confidence due to high volatility and potential mean reversion against persistent bearish fundamentals.\"\n}\n```",
+  "date": "2025-03-02",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:37.969958+00:00"
+}

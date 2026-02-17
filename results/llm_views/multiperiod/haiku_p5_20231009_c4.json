@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.065,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong negative 7-day momentum (-14.03%) but oversold conditions with positive TVL fundamentals (RPL +1.0% TVL growth). Moderate Bull market regime may support modest recovery from depressed levels, but near-term risks remain elevated. Low confidence reflects high volatility and conflicting technical vs. fundamental signals.",
+  "raw_response": "I'll analyze the market context and cluster data to provide a 14-day expected return forecast for Cluster 4 (RPL - Liquid Staking).\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows strong negative momentum\n   - 30-day return: -16.13%\n   - 14-day return: -5.70%\n   - 7-day return: -14.03% (recent acceleration of decline)\n\n2. **Volatility Profile**: High annualized volatility at 34.1% with negative Sharpe ratio (-3.97), indicating poor risk-adjusted returns recently\n\n3. **Fundamental Support**: RPL TVL grew +1.0% over 30 days despite price decline, suggesting underlying protocol health is intact\n\n4. **Market Regime**: Moderate Bull overall DeFi market (+0.9% TVL change), which could support recovery\n\n5. **Technical Setup**: After -16.13% decline over 30 days, the cluster may be approaching oversold conditions, potentially setting up for mean reversion\n\n**Forecast Rationale:**\n\nThe recent sharp 7-day decline (-14.03%) following a more modest 14-day decline (-5.70%) suggests accelerating downside momentum. However, several factors support partial recovery over the next 14 days:\n- Positive TVL growth despite price weakness indicates strong fundamentals\n- Moderate Bull market regime could provide support\n- Oversold conditions may attract buying\n\nHowever, the near-term momentum is decidedly negative, and liquid staking tokens are sensitive to Ethereum staking yield dynamics. I'm forecasting modest recovery but with meaningful uncertainty given conflicting signals.\n\n**Converting to Annualized Return:**\n- Expected 14-day return: ~+2.5% (modest recovery from oversold)\n- Annualized: 2.5% \u00d7 (365/14) \u2248 0.065 or 6.5%\n\n```json\n{\n  \"expected_return\": 0.065,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong negative 7-day momentum (-14.03%) but oversold conditions with positive TVL fundamentals (RPL +1.0% TVL growth). Moderate Bull market regime may support modest recovery from depressed levels, but near-term risks remain elevated. Low confidence reflects high volatility and conflicting technical vs. fundamental signals.\"\n}\n```",
+  "date": "2023-10-09",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:59.334112+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.68,
+  "reasoning": "Strong bull regime momentum with +9.29% 7-day returns and excellent risk-adjusted metrics (Sharpe 3.18) support continued upside. Annualized 14-day forecast of 28% reflects sustained but moderately tempered momentum, accounting for typical mean reversion in bull markets. Confidence moderate due to lack of TVL fundamentals for ARB and absence of specific near-term catalysts.",
+  "raw_response": "Based on the market context provided for Cluster 3 (ARB - Arbitrum L2 token), I'll analyze the key factors:\n\n**Analysis:**\n\n1. **Recent Momentum**: Strong performance with +22.24% (30-day), +9.29% (7-day), and +7.53% (14-day) returns showing sustained uptrend momentum\n\n2. **Market Regime**: Bull market with strong uptrend and moderate volatility - favorable conditions for continued gains\n\n3. **Risk Metrics**: \n   - High volatility (58.7% annualized) but offset by strong Sharpe ratio of 3.18\n   - Max drawdown of -10.2% is reasonable for a bull regime\n   - Risk-adjusted returns are excellent\n\n4. **Token Type**: ARB is an infrastructure/L2 token with no direct TVL metrics, but positioned in a growing layer 2 ecosystem experiencing strong TVL growth (+10.3% 30-day DeFi TVL change)\n\n5. **Forward-Looking Considerations**:\n   - Recent 7-day return (+9.29%) is stronger than 14-day (+7.53%), suggesting momentum may be accelerating\n   - Bull regime typically doesn't sustain extreme returns over medium-term horizons\n   - 14-day forecast window is shorter than momentum horizon, so partial reversion possible but uptrend likely to continue\n\n**Forecast Methodology**: Blending the recent 14-day performance with momentum indicators and accounting for mean reversion in a bull regime without fundamental catalysts specified.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.68, \"reasoning\": \"Strong bull regime momentum with +9.29% 7-day returns and excellent risk-adjusted metrics (Sharpe 3.18) support continued upside. Annualized 14-day forecast of 28% reflects sustained but moderately tempered momentum, accounting for typical mean reversion in bull markets. Confidence moderate due to lack of TVL fundamentals for ARB and absence of specific near-term catalysts.\"}\n```",
+  "date": "2023-07-18",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:08.860223+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Expect partial mean reversion from recent -12.37% 7-day decline in neutral market regime. Mixed TVL trends and negative Sharpe ratio limit confidence. High volatility (47.7%) suggests recovery potential but uncertain direction. Forecast ~18% annualized (modest 14-day improvement) with moderate confidence due to conflicting signals from momentum reversal versus weak protocol fundamentals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Current Market Conditions:**\n- Overall DeFi TVL is relatively stable (+2.1% 30-day change)\n- Market regime is neutral/range-bound - not showing strong directional bias\n- The cluster has underperformed with -0.90% return over 30 days\n\n**Cluster-Specific Metrics:**\n- Recent momentum is negative: -12.37% (7-day), -9.86% (14-day), -0.90% (30-day)\n- High volatility at 47.7% annualized suggests significant price swings\n- Negative Sharpe ratio (-0.16) indicates poor risk-adjusted returns\n- Max drawdown of -15% shows recent pain in the portfolio\n- TVL trends are mixed: AAVE stable (+0.5%), UNI declining (-1.7%), CRV declining (-3.7%), but BAL growing (+7.4%)\n\n**Analysis:**\n1. **Negative momentum reversion potential**: The cluster is down 12.37% over 7 days, which is severe. In range-bound markets, extreme moves often see some mean reversion\n2. **Protocol health**: Large positions like AAVE (TVL $33.5B) showing stability, though smaller protocols showing mixed signals\n3. **Volatility environment**: At 47.7% annualized volatility, this cluster is highly sensitive to sentiment shifts\n4. **Neutral regime constraint**: Range-bound markets limit upside but also cap downside over 14 days\n\n**14-Day Forecast Rationale:**\nGiven the recent sharp decline (-12.37% in 7 days), I expect partial mean reversion over the next 14 days in this neutral regime. However, the negative Sharpe ratio and declining TVL in major protocols (UNI, CRV) suggest headwinds persist. The high volatility means recovery could be choppy.\n\nI estimate a modest positive return from mean reversion, but with moderate confidence given the mixed fundamentals.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.52, \"reasoning\": \"Expect partial mean reversion from recent -12.37% 7-day decline in neutral market regime. Mixed TVL trends and negative Sharpe ratio limit confidence. High volatility (47.7%) suggests recovery potential but uncertain direction. Forecast ~18% annualized (modest 14-day improvement) with moderate confidence due to conflicting signals from momentum reversal versus weak protocol fundamentals.\"}\n```",
+  "date": "2026-01-22",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:31.430467+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.65,
+  "reasoning": "MKR is in a bull market regime with strong TVL growth (+12.5% in 30 days) and positive 14-day momentum (+5.56%). However, recent 7-day performance (-2.02%) suggests some consolidation. The 39.4% annualized volatility and -8.6% max drawdown indicate elevated risk. Extrapolating the 14-day return to annual rates (~131% annualized) is unrealistic, so moderating to 18% reflects the bull regime, strong fundamentals, but near-term pullback risk. Confidence is moderate due to single-token cluster concentration and recent directional uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"MKR is in a bull market regime with strong TVL growth (+12.5% in 30 days) and positive 14-day momentum (+5.56%). However, recent 7-day performance (-2.02%) suggests some consolidation. The 39.4% annualized volatility and -8.6% max drawdown indicate elevated risk. Extrapolating the 14-day return to annual rates (~131% annualized) is unrealistic, so moderating to 18% reflects the bull regime, strong fundamentals, but near-term pullback risk. Confidence is moderate due to single-token cluster concentration and recent directional uncertainty.\"\n}\n```",
+  "date": "2024-02-22",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:41.203459+00:00"
+}

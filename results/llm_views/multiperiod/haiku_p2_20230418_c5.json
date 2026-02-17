@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.72,
+  "confidence": 0.58,
+  "reasoning": "Strong 7-day (+4.90%) and 14-day (+5.72%) momentum in bull market support continued upside, but mean reversion risk and modest 30-day performance (+1.48%) suggest deceleration. Annualized return ~72% reflects 2.0% expected 14-day gain with moderate confidence due to momentum sustainability uncertainty and 27.9% volatility.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Positive Factors:**\n1. **Strong Recent Momentum**: 14-day return of +5.72% and 7-day return of +4.90% show strong uptrend\n2. **Bull Market Regime**: Strong uptrend with moderate volatility provides tailwinds\n3. **TVL Growth**: UNI (+15.9%) and MKR (+3.0%) showing positive fundamentals; overall DeFi TVL up 8.5%\n4. **Diversified Composition**: Mix of DEX tokens (UNI, SUSHI, CAKE) and lending (MKR) provides balance\n\n**Risk Factors:**\n1. **Mean Reversion Risk**: 14-day return of +5.72% following 30-day return of only +1.48% suggests potential pullback\n2. **Mixed Signals**: SUSHI showing -3.3% TVL decline despite overall cluster strength\n3. **Volatility**: 27.9% annualized volatility indicates significant downside risk in corrections\n4. **Moderate Sharpe Ratio**: 0.45 Sharpe ratio suggests risk-adjusted returns are not exceptional\n5. **Technical Setup**: Recent momentum may face resistance after 5.72% gain over 14 days\n\n**Forecast Rationale:**\n- The cluster has shown strong near-term momentum (4.90% in last 7 days)\n- However, this follows a relatively flat 30-day performance (+1.48%), suggesting momentum may be temporary\n- Bull market regime supports continued upside, but at a decelerating pace\n- Over the next 14 days, I expect moderate continuation with some profit-taking\n\n**Expected Return Calculation:**\n- Annualizing the 14-day momentum directly would be overly optimistic (~149% annualized)\n- Accounting for mean reversion and recent volatility, expect 30-50% of recent momentum to continue\n- This suggests a 14-day return of 1.5-2.5%, or approximately **55-90% annualized**\n\n```json\n{\n  \"expected_return\": 0.72,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Strong 7-day (+4.90%) and 14-day (+5.72%) momentum in bull market support continued upside, but mean reversion risk and modest 30-day performance (+1.48%) suggest deceleration. Annualized return ~72% reflects 2.0% expected 14-day gain with moderate confidence due to momentum sustainability uncertainty and 27.9% volatility.\"\n}\n```",
+  "date": "2023-04-18",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:39.615907+00:00"
+}

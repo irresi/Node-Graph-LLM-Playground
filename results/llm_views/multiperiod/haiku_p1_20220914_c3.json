@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster in bear market with -16.71% 30-day loss and high volatility (67.5% annualized), but showing recent recovery momentum (+9.45% over 14 days, +3.43% over 7 days). Oracle/infrastructure tokens (LINK, OP, ENS, GRT) are facing macro headwinds and reduced demand, but recent short-term bounce suggests potential oversold conditions. Negative 14-day forecast reflects structural bear market pressure and elevated volatility despite bounce. Moderate confidence due to limited TVL data and conflicting signals between recent momentum and fundamental weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in bear market with -16.71% 30-day loss and high volatility (67.5% annualized), but showing recent recovery momentum (+9.45% over 14 days, +3.43% over 7 days). Oracle/infrastructure tokens (LINK, OP, ENS, GRT) are facing macro headwinds and reduced demand, but recent short-term bounce suggests potential oversold conditions. Negative 14-day forecast reflects structural bear market pressure and elevated volatility despite bounce. Moderate confidence due to limited TVL data and conflicting signals between recent momentum and fundamental weakness.\"\n}\n```",
+  "date": "2022-09-14",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:28.387244+00:00"
+}

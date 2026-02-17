@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.55,
+  "reasoning": "Expect partial mean reversion from -21.05% 14-day decline in neutral market regime. Positive TVL growth (+9.0%) diverges from price weakness, suggesting potential accumulation. However, high volatility (54.3%) and negative momentum reduce confidence. Forecasted 14-day annualized return of 28% reflects modest recovery expectations with significant uncertainty due to extreme recent underperformance and single-token cluster concentration risk.",
+  "raw_response": "I'll analyze this DeFi cluster (MKR - Maker Protocol) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: Strongly negative\n   - 14-day return: -21.05%\n   - 7-day return: -4.73%\n   - 30-day return: -16.73%\n   - This indicates sustained downward pressure\n\n2. **Volatility Profile**: Very high\n   - Annualized volatility: 54.3%\n   - Max drawdown: -28.4%\n   - Suggests significant price swings and risk\n\n3. **Protocol Fundamentals**: Mixed signals\n   - MKR TVL: $5,363M with +9.0% 30-day growth\n   - TVL is growing (positive), but price is declining (negative divergence)\n   - This suggests potential accumulation phase despite price weakness\n\n4. **Market Regime**: Neutral/Range-bound\n   - Overall DeFi TVL down -6.6% (30d)\n   - Macro environment not strongly bullish or bearish\n   - Suggests mean reversion potential from extreme drawdowns\n\n5. **Risk Metrics**: Poor recent performance\n   - Sharpe ratio of -2.59 indicates risk-adjusted returns are severely negative\n   - The cluster has been in a downtrend with high volatility\n\n**Forecast Rationale:**\n\nGiven the severe recent underperformance but positive TVL growth, I expect partial mean reversion over the next 14 days. The -21% 14-day decline is likely unsustainable in a neutral regime. However, the high volatility and negative momentum temper bullish expectations. The growing TVL at MKR suggests institutional confidence despite price weakness, which is a constructive signal for recovery.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.55, \"reasoning\": \"Expect partial mean reversion from -21.05% 14-day decline in neutral market regime. Positive TVL growth (+9.0%) diverges from price weakness, suggesting potential accumulation. However, high volatility (54.3%) and negative momentum reduce confidence. Forecasted 14-day annualized return of 28% reflects modest recovery expectations with significant uncertainty due to extreme recent underperformance and single-token cluster concentration risk.\"}\n```",
+  "date": "2024-09-11",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:27.770763+00:00"
+}

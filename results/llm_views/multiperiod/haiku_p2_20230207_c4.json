@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 4 (LINK, OP, ENS) shows strong momentum with +44% 30-day returns and excellent Sharpe ratio of 6.11 in a bull market regime. However, forecasting 14-day returns involves mean reversion risk after such strong performance. The 7-day and 14-day returns (+10.49%, +11.84%) suggest deceleration from the 30-day pace. Annualizing the 14-day return (~11.84%) yields ~42% expected return, but confidence is moderate (0.65) due to: (1) infrastructure/L2 tokens having high volatility and no TVL data for fundamental anchoring, (2) risk of mean reversion after outsized 30-day gains, (3) bull market regime sustainability uncertainty. Position sizing and risk management recommended given the high volatility (60.6% annualized).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 4 (LINK, OP, ENS) shows strong momentum with +44% 30-day returns and excellent Sharpe ratio of 6.11 in a bull market regime. However, forecasting 14-day returns involves mean reversion risk after such strong performance. The 7-day and 14-day returns (+10.49%, +11.84%) suggest deceleration from the 30-day pace. Annualizing the 14-day return (~11.84%) yields ~42% expected return, but confidence is moderate (0.65) due to: (1) infrastructure/L2 tokens having high volatility and no TVL data for fundamental anchoring, (2) risk of mean reversion after outsized 30-day gains, (3) bull market regime sustainability uncertainty. Position sizing and risk management recommended given the high volatility (60.6% annualized).\"\n}\n```",
+  "date": "2023-02-07",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:18.269033+00:00"
+}

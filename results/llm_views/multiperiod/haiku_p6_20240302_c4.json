@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (LINK, GRT) shows strong recent momentum with 44.37% 30-day return and exceptional Sharpe ratio of 8.54, indicating strong risk-adjusted performance. The bull market regime supports continued upside. However, the forecast is moderated by: (1) recent 7-day return of 15.30% suggests momentum may be decelerating, (2) high volatility (43.6% annualized) creates execution risk, (3) max drawdown of -4.3% indicates pullback vulnerability, and (4) limited TVL data for GRT constrains fundamental analysis. Annualized return assumes 14-day continuation of ~1% daily gains, but mean reversion risks are present after such strong recent performance. Confidence is moderate due to unclear sustainability of momentum in volatile infrastructure assets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (LINK, GRT) shows strong recent momentum with 44.37% 30-day return and exceptional Sharpe ratio of 8.54, indicating strong risk-adjusted performance. The bull market regime supports continued upside. However, the forecast is moderated by: (1) recent 7-day return of 15.30% suggests momentum may be decelerating, (2) high volatility (43.6% annualized) creates execution risk, (3) max drawdown of -4.3% indicates pullback vulnerability, and (4) limited TVL data for GRT constrains fundamental analysis. Annualized return assumes 14-day continuation of ~1% daily gains, but mean reversion risks are present after such strong recent performance. Confidence is moderate due to unclear sustainability of momentum in volatile infrastructure assets.\"\n}\n```",
+  "date": "2024-03-02",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:41.659811+00:00"
+}

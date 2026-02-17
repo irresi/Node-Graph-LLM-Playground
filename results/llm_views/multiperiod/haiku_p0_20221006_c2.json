@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.45,
+  "reasoning": "Recent 14-day momentum (+9.16%) suggests oversold recovery in bear market, but negative Sharpe ratio (-0.63) and high volatility (50.3%) limit confidence. Mixed TVL trends (CRV/BAL up, UNI/AAVE down) create uncertainty. Expecting moderated positive returns over next 14 days, annualized to ~85%, but low confidence (0.45) due to volatile regime and conflicting fundamentals.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected annualized return over the next 14 days.\n\nLet me break down the key factors:\n\n**Current Market Environment:**\n- Overall DeFi market in moderate bear regime (-2.9% TVL change)\n- However, the 7-day return (+1.85%) and 14-day return (+9.16%) show recent positive momentum\n- This suggests potential mean reversion or stabilization after the 30-day decline (-3.80%)\n\n**Cluster-Specific Signals:**\n1. **Momentum**: Strong 14-day return (+9.16%) vs negative 30-day (-3.80%) indicates recent recovery\n2. **Volatility**: High annualized volatility (50.3%) with concerning max drawdown (-21.1%) suggests elevated risk\n3. **Risk-adjusted returns**: Negative Sharpe ratio (-0.63) indicates poor recent risk-adjusted performance\n4. **TVL Divergence**: Mixed TVL trends - CRV and BAL up, but UNI, SUSHI, AAVE down; weighted average still negative\n\n**Protocol Health:**\n- Major protocols (UNI, AAVE, CRV) maintain substantial TVL ($4-6B range)\n- CRV showing strength (+9.6% TVL growth) despite market headwinds\n- SUSHI weakness (-15.4%) is concerning but offset by other holdings\n\n**Forecast Rationale:**\n- Recent positive momentum (14-day: +9.16%) suggests oversold conditions may be reversing\n- However, the bear market regime and high volatility limit upside potential\n- The 7-14 day outperformance vs 30-day decline suggests mean reversion could accelerate\n- Annualizing 14-day momentum directly would be excessive; expect moderation\n\n**Annualization Calculation:**\n- 14-day return of +9.16% annualizes to approximately 240% (overly optimistic)\n- Adjusting for: bear market regime, volatility, and mean reversion sustainability\n- Expected 14-day return: ~4-6% (conservative relative to recent 14-day trend)\n- Annualized equivalent: ~70-110%\n\nGiven the conflicting signals but acknowledging recent momentum, I estimate:\n\n```json\n{\"expected_return\": 0.85, \"confidence\": 0.45, \"reasoning\": \"Recent 14-day momentum (+9.16%) suggests oversold recovery in bear market, but negative Sharpe ratio (-0.63) and high volatility (50.3%) limit confidence. Mixed TVL trends (CRV/BAL up, UNI/AAVE down) create uncertainty. Expecting moderated positive returns over next 14 days, annualized to ~85%, but low confidence (0.45) due to volatile regime and conflicting fundamentals.\"}\n```",
+  "date": "2022-10-06",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:00.992953+00:00"
+}

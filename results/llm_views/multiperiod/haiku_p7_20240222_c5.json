@@ -1,0 +1,22 @@
+{
+  "expected_return": 1.25,
+  "confidence": 0.68,
+  "reasoning": "Bull market regime with strong TVL growth supports continued upside. Recent 14-day return of +8.08% serves as baseline, but 7-day consolidation (-0.33%) suggests moderation. Annualized estimate of 125% reflects 6-7% expected 14-day return, accounting for profit-taking risk and elevated volatility. Confidence tempered by recent momentum loss and mean-reversion dynamics.",
+  "raw_response": "Based on the market context and cluster metrics provided, I'll analyze Cluster 5 to forecast its expected 14-day return.\n\n## Analysis\n\n**Positive Factors:**\n- Strong bull market regime with +27.5% DeFi TVL growth (30d)\n- Excellent recent performance: +11.11% (30d), +8.08% (14d)\n- High Sharpe ratio (3.82) indicates strong risk-adjusted returns\n- Positive TVL momentum across major constituents (UNI +21.5%, CAKE +22.8%, AAVE +27.7%)\n- Large aggregate TVL base (~$18.7B across top 5 protocols) provides liquidity and stability\n\n**Cautionary Factors:**\n- Recent 7-day return is negative (-0.33%), suggesting potential near-term consolidation\n- Elevated annualized volatility (24.4%) indicates risk during this forecast period\n- Max drawdown of -6.5% shows vulnerability to corrections\n- Cluster may face profit-taking after 30-day rally of +11.11%\n\n**Forecast Rationale:**\nGiven the strong bull regime and positive TVL trends, the cluster should continue appreciating, but the recent negative 7-day trend and elevated volatility suggest moderation from the 30-day pace. The 14-day period (which showed +8.08% return) is a more realistic benchmark than the full 30-day return for the next 14 days.\n\nAnnualizing an 8% 14-day return would yield approximately 200%+ annualized, but accounting for mean reversion and volatility expansion risk, I estimate the next 14 days will capture 50-60% of the recent momentum trajectory.\n\n```json\n{\"expected_return\": 1.25, \"confidence\": 0.68, \"reasoning\": \"Bull market regime with strong TVL growth supports continued upside. Recent 14-day return of +8.08% serves as baseline, but 7-day consolidation (-0.33%) suggests moderation. Annualized estimate of 125% reflects 6-7% expected 14-day return, accounting for profit-taking risk and elevated volatility. Confidence tempered by recent momentum loss and mean-reversion dynamics.\"}\n```",
+  "date": "2024-02-22",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:56.759254+00:00"
+}

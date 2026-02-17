@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows positive 14-day momentum (+5.23%) despite bear market regime and declining TVL fundamentals. However, confidence is low due to: (1) extreme volatility (29.5% annualized) suggesting price instability, (2) weak 30-day performance (+0.02%) indicating momentum may be unsustainable, (3) declining TVL across major protocols (MKR -6.8%, SNX -5.5%) signaling weakening fundamentals, (4) very low Sharpe ratio (0.01) indicating poor risk-adjusted returns. The 14-day rally appears to be a counter-trend bounce in a bear market rather than fundamental improvement. Annualized extrapolation of recent 14-day performance suggests ~18% returns, but this is likely mean-reverting back to downward trend given deteriorating protocol metrics and market regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows positive 14-day momentum (+5.23%) despite bear market regime and declining TVL fundamentals. However, confidence is low due to: (1) extreme volatility (29.5% annualized) suggesting price instability, (2) weak 30-day performance (+0.02%) indicating momentum may be unsustainable, (3) declining TVL across major protocols (MKR -6.8%, SNX -5.5%) signaling weakening fundamentals, (4) very low Sharpe ratio (0.01) indicating poor risk-adjusted returns. The 14-day rally appears to be a counter-trend bounce in a bear market rather than fundamental improvement. Annualized extrapolation of recent 14-day performance suggests ~18% returns, but this is likely mean-reverting back to downward trend given deteriorating protocol metrics and market regime.\"\n}\n```",
+  "date": "2023-09-25",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:16.525183+00:00"
+}

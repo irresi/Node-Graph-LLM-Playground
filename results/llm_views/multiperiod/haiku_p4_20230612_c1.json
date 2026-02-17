@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market regime with severe negative momentum (-26.86% 14-day return) and elevated volatility (52.8% annualized). AAVE showing resilience (+1.3% TVL) provides modest support. Expect continued decline with potential stabilization, reflecting oversold conditions. Confidence moderate due to regime uncertainty and high volatility creating unpredictability. Annualized return reflects expected continued weakness over next 14 days.",
+  "raw_response": "Based on the provided market data and cluster metrics, I'll analyze the factors to generate a forecast for Cluster 1 over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -4.9% TVL decline and -24.31% cluster return over 30 days\n2. **Recent Momentum**: Severe negative momentum with -26.86% 14-day return and -14.89% 7-day return\n3. **Volatility**: Extremely high annualized volatility (52.8%) with -25.7% max drawdown\n4. **Protocol Fundamentals**: Mixed signals - AAVE showing slight growth (+1.3%), but most others declining (SUSHI -11.3%, BAL -12.1%)\n5. **Risk Metrics**: Negative Sharpe ratio (-3.87) indicates returns not compensating for risk\n\n**Forecast Rationale:**\n\nGiven the strong downtrend, elevated volatility, and negative momentum, the cluster is likely to experience continued weakness. However, the extreme drawdown (-25.7%) and negative sentiment may create some mean-reversion opportunity. The 7-day return being less negative than 14-day return suggests potential stabilization.\n\nFor a 14-day forward forecast annualized:\n- Current momentum is strongly negative but potentially oversold\n- Expect continued volatility and downside pressure\n- Limited upside catalysts in current bear regime\n- Some mean-reversion possible from extreme drawdown levels\n\n```json\n{\"expected_return\": -0.85, \"confidence\": 0.62, \"reasoning\": \"Strong bear market regime with severe negative momentum (-26.86% 14-day return) and elevated volatility (52.8% annualized). AAVE showing resilience (+1.3% TVL) provides modest support. Expect continued decline with potential stabilization, reflecting oversold conditions. Confidence moderate due to regime uncertainty and high volatility creating unpredictability. Annualized return reflects expected continued weakness over next 14 days.\"}\n```",
+  "date": "2023-06-12",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:16.855998+00:00"
+}

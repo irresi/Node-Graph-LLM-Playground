@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "MKR showing strong momentum with 23.99% 30-day return and 9.51% 7-day return in bull market regime. However, TVL declining -10.2% over 30 days presents a fundamental concern\u2014decreasing protocol value may limit upside. The cluster's high Sharpe ratio (4.15) and moderate volatility (48.6%) suggest quality returns, but the TVL headwind introduces uncertainty. Projecting 14-day returns at ~16% annualized (0.28x) reflects continued momentum while discounting recent TVL deterioration. Confidence moderate due to TVL-return divergence and single-token cluster concentration risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"MKR showing strong momentum with 23.99% 30-day return and 9.51% 7-day return in bull market regime. However, TVL declining -10.2% over 30 days presents a fundamental concern\u2014decreasing protocol value may limit upside. The cluster's high Sharpe ratio (4.15) and moderate volatility (48.6%) suggest quality returns, but the TVL headwind introduces uncertainty. Projecting 14-day returns at ~16% annualized (0.28x) reflects continued momentum while discounting recent TVL deterioration. Confidence moderate due to TVL-return divergence and single-token cluster concentration risk.\"\n}\n```",
+  "date": "2023-10-03",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:39:02.095756+00:00"
+}

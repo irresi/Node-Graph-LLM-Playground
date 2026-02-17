@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 (OP/L2) is in severe distress with -73.7% 30-day loss and extreme volatility (175.3% annualized). In the bear market regime with -32.8% DeFi TVL decline, L2 tokens are particularly vulnerable as they depend on ecosystem growth. However, at -73.7% already, some mean reversion is possible, but the negative momentum (-33.41% in last 7 days) and high volatility suggest continued downside risk. Forecasting -1.85 annualized (roughly -0.7% for 14 days) reflects bear regime persistence but with slightly reduced decline rate. Low confidence (0.35) due to extreme market conditions and L2 token dependency on broader market recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 (OP/L2) is in severe distress with -73.7% 30-day loss and extreme volatility (175.3% annualized). In the bear market regime with -32.8% DeFi TVL decline, L2 tokens are particularly vulnerable as they depend on ecosystem growth. However, at -73.7% already, some mean reversion is possible, but the negative momentum (-33.41% in last 7 days) and high volatility suggest continued downside risk. Forecasting -1.85 annualized (roughly -0.7% for 14 days) reflects bear regime persistence but with slightly reduced decline rate. Low confidence (0.35) due to extreme market conditions and L2 token dependency on broader market recovery.\"\n}\n```",
+  "date": "2022-06-16",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:36.046160+00:00"
+}

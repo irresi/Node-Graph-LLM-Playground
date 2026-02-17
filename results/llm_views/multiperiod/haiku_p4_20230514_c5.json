@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.35,
+  "reasoning": "CAKE faces extreme headwinds in bear market with -66.87% 30-day loss. However, oversold conditions may prompt brief relief bounce in 14-day window. Low confidence due to high volatility and unpredictable short-term movements in distressed assets. Annualized return of -25% reflects expectation of continued weakness with possibility of stabilization, but downside risk remains significant given market regime.",
+  "raw_response": "I'll analyze this DeFi token cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 5 (CAKE)\n\n**Current Market Context:**\n- Strong bear market with -10.5% TVL decline over 30 days\n- Extreme negative momentum: -66.87% return over last 30 days\n- Very high volatility (68.4% annualized)\n- Negative Sharpe ratio (-8.21) indicates poor risk-adjusted returns\n\n**Token-Specific Metrics:**\n- CAKE (DEX token) TVL: $2,099M with -11.0% 30-day change\n- Recent acceleration of losses: 7-day return of -10.21%, 14-day of -36.52%\n- Maximum drawdown of -50.7% suggests continued selling pressure\n\n**Key Observations:**\n1. **Momentum**: Accelerating downtrend with losses intensifying over shorter timeframes (36.52% loss in 14 days vs -66.87% in 30 days suggests deceleration in losses, but still highly negative)\n2. **Volatility**: 68.4% annualized volatility indicates extreme price swings in both directions\n3. **Market Regime**: Pronounced bear market typically sees brief oversold bounces amid the downtrend\n4. **Technical Position**: After a 66.87% decline, the token may be approaching support levels where some mean reversion or stabilization could occur\n\n**Forecast Rationale:**\nGiven the severe bear market conditions and the magnitude of recent losses, I expect:\n- Some stabilization or modest recovery in the near term (oversold conditions often lead to relief bounces)\n- However, the negative market regime limits upside potential\n- 14-day horizon is too short for fundamentals to meaningfully improve\n- Annualizing a 14-day forecast over this period is challenging, but I'll estimate modest recovery offset by ongoing market headwinds\n\n```json\n{\"expected_return\": -0.25, \"confidence\": 0.35, \"reasoning\": \"CAKE faces extreme headwinds in bear market with -66.87% 30-day loss. However, oversold conditions may prompt brief relief bounce in 14-day window. Low confidence due to high volatility and unpredictable short-term movements in distressed assets. Annualized return of -25% reflects expectation of continued weakness with possibility of stabilization, but downside risk remains significant given market regime.\"}\n```",
+  "date": "2023-05-14",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:49.692471+00:00"
+}

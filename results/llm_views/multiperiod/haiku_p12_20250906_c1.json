@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster 1 (CAKE/BAL) shows negative momentum with 14-day return of -16.08% and high volatility (65.6%). However, CAKE's strong TVL growth (+5.7% in 30d) suggests fundamental strength despite price weakness, indicating potential mean reversion. The neutral market regime and negative Sharpe ratio (-0.98) suggest downside risk, but the divergence between TVL growth (CAKE) and price decline may provide support. High volatility and recent drawdown limit confidence. Annualized forecast reflects near-term weakness with modest recovery probability given mixed signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 1 (CAKE/BAL) shows negative momentum with 14-day return of -16.08% and high volatility (65.6%). However, CAKE's strong TVL growth (+5.7% in 30d) suggests fundamental strength despite price weakness, indicating potential mean reversion. The neutral market regime and negative Sharpe ratio (-0.98) suggest downside risk, but the divergence between TVL growth (CAKE) and price decline may provide support. High volatility and recent drawdown limit confidence. Annualized forecast reflects near-term weakness with modest recovery probability given mixed signals.\"\n}\n```",
+  "date": "2025-09-06",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:37.477359+00:00"
+}

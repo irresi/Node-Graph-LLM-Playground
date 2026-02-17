@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with strong downtrend momentum (-30.34% over 14 days) suggests continued weakness. Recent 7-day slowdown hints at potential stabilization, but insufficient to reverse trend. High volatility (125.7%) and negative Sharpe ratio indicate poor risk-adjusted outlook. SNX TVL strength provides limited counterweight. Expecting moderate continued decline over next 14 days, annualized to -18%, with moderate confidence due to macro uncertainty and potential capitulation/reversal.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -4.9% TVL decline, indicating risk-off sentiment\n2. **Cluster Momentum**: Severe negative momentum\n   - 14-day return: -30.34% (sharp decline)\n   - 7-day return: -2.75% (slowing decline rate, potential stabilization)\n   - 30-day return: -22.31% (consistent underperformance)\n\n3. **Volatility & Risk**: Extremely high annualized volatility (125.7%) with negative Sharpe ratio (-1.49) and deep max drawdown (-32.7%) indicates high risk with poor risk-adjusted returns\n\n4. **Protocol Fundamentals (Mixed Signals)**:\n   - SNX showing strength: +36.1% TVL growth (contrarian positive signal)\n   - DYDX weakening: -23.4% TVL decline (concerning)\n   - LINK, OP, ARB: Limited TVL data (less clear fundamental picture)\n\n5. **Technical Pattern**: The recent 7-day slowdown in losses (-2.75% vs -30.34% over 14 days) suggests potential bottoming or consolidation, but this is weak evidence in a strong downtrend\n\n6. **Risk Factors**:\n   - Cluster consists of growth/infrastructure tokens highly sensitive to macro sentiment\n   - Bear market regime typically sees continued pressure on risk assets\n   - High volatility suggests further drawdowns are likely\n\n**Forecast Rationale:**\n\nGiven the strong downtrend, bear market conditions, and extreme volatility, I expect continued weakness over the next 14 days, though the rate of decline may moderate slightly. SNX's TVL strength provides limited support. The 14-day lookback showing -30% decline suggests mean reversion is unlikely in the near term given macro headwinds.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.62, \"reasoning\": \"Bear market regime with strong downtrend momentum (-30.34% over 14 days) suggests continued weakness. Recent 7-day slowdown hints at potential stabilization, but insufficient to reverse trend. High volatility (125.7%) and negative Sharpe ratio indicate poor risk-adjusted outlook. SNX TVL strength provides limited counterweight. Expecting moderate continued decline over next 14 days, annualized to -18%, with moderate confidence due to macro uncertainty and potential capitulation/reversal.\"}\n```",
+  "date": "2025-10-24",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:26.887614+00:00"
+}

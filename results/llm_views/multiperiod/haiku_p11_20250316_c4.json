@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Strong bear market regime with DeFi TVL down 19.8% and cluster down 38.21% in 30 days. Recent 14-day return of -16.40% suggests continued downward momentum. High volatility (101.5% annualized) and extremely negative Sharpe ratio (-3.16) indicate risk-reward is unfavorable. CRV and LDO's significant TVL declines (-16.1% and -29.2%) suggest user flight and reduced protocol utility. However, low confidence (0.35) reflects the high uncertainty in bear markets and potential for mean reversion or stabilization. 14-day forecast extrapolated from recent momentum with adjustment for elevated risk environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Strong bear market regime with DeFi TVL down 19.8% and cluster down 38.21% in 30 days. Recent 14-day return of -16.40% suggests continued downward momentum. High volatility (101.5% annualized) and extremely negative Sharpe ratio (-3.16) indicate risk-reward is unfavorable. CRV and LDO's significant TVL declines (-16.1% and -29.2%) suggest user flight and reduced protocol utility. However, low confidence (0.35) reflects the high uncertainty in bear markets and potential for mean reversion or stabilization. 14-day forecast extrapolated from recent momentum with adjustment for elevated risk environment.\"\n}\n```\n\n**Key Analytical Notes:**\n\n1. **Momentum Continuation**: The 7-day return (-5.09%) remains negative but less severe than 14-day (-16.40%), suggesting some deceleration in losses, though not reversal.\n\n2. **Fundamental Deterioration**: TVL declines across all three tokens indicate user withdrawals and reduced protocol activity\u2014a concerning sign for token valuations.\n\n3. **Volatility Risk**: At 101.5% annualized volatility, this cluster exhibits extreme price swings, making any point estimate highly uncertain. A -85% annualized return over 14 days reflects continued bear market stress.\n\n4. **Low Confidence Rationale**: The negative Sharpe ratio and max drawdown of -40.1% indicate we're in a regime where traditional models break down. Confidence is capped at 0.35 due to potential for black swan events, sudden liquidity crunches, or rapid regime shifts in crypto markets.\n\n5. **Downside Risk Premium**: The forecast incorporates a bear market discount, but is tempered by recognition that losses cannot exceed -100% and markets occasionally stabilize unexpectedly.",
+  "date": "2025-03-16",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:12.151989+00:00"
+}

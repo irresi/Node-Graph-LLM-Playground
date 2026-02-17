@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.42,
+  "reasoning": "RPL in bear market regime with -17.15% 30-day return and negative Sharpe ratio (-3.11). However, 7-day momentum shows +4.19% recovery suggesting short-term bounce. TVL stable (-10.5% 30d) indicates protocol fundamentals holding. Annualizing 14-day return (+0.35%) yields modest positive bias, but overall bear trend, high volatility (46.4%), and weak confidence from conflicting signals (negative 30d vs positive 7d) suggest cautious forecast with low confidence. Near-term range-bound with downside risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"RPL in bear market regime with -17.15% 30-day return and negative Sharpe ratio (-3.11). However, 7-day momentum shows +4.19% recovery suggesting short-term bounce. TVL stable (-10.5% 30d) indicates protocol fundamentals holding. Annualizing 14-day return (+0.35%) yields modest positive bias, but overall bear trend, high volatility (46.4%), and weak confidence from conflicting signals (negative 30d vs positive 7d) suggest cautious forecast with low confidence. Near-term range-bound with downside risk.\"\n}\n```",
+  "date": "2023-09-10",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:12.226130+00:00"
+}

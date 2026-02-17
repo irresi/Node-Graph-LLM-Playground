@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear regime with -7.39% 30-day decline and negative Sharpe ratio (-2.15). However, recent 14-day momentum shows +0.28% recovery vs 7-day -1.23%, suggesting potential stabilization. Large-cap protocols (AAVE $4.5B, UNI $3.1B) showing modest TVL stability. Moderate confidence due to: (1) strong downtrend persistence, (2) elevated volatility (28.8%), (3) conflicting short-term signals, (4) macro bear conditions. Forecast -18% annualized return reflects continuation of pressure with slight recovery probability built in.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear regime with -7.39% 30-day decline and negative Sharpe ratio (-2.15). However, recent 14-day momentum shows +0.28% recovery vs 7-day -1.23%, suggesting potential stabilization. Large-cap protocols (AAVE $4.5B, UNI $3.1B) showing modest TVL stability. Moderate confidence due to: (1) strong downtrend persistence, (2) elevated volatility (28.8%), (3) conflicting short-term signals, (4) macro bear conditions. Forecast -18% annualized return reflects continuation of pressure with slight recovery probability built in.\"\n}\n```",
+  "date": "2023-09-25",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:25.619998+00:00"
+}

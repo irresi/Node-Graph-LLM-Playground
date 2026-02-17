@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 4 (LINK, OP, ENS) faces severe headwinds in the current bear market regime. The 7-day return of -15.86% and 14-day return of -18.05% indicate strong downward momentum. With annualized volatility at 103.6% and a negative Sharpe ratio (-0.70), the risk-adjusted outlook is poor. The broader DeFi TVL decline of -16.1% compounds concerns. However, confidence is moderate (0.45) due to: (1) extreme volatility creating potential mean-reversion risk, (2) LINK and OP's infrastructure importance providing some downside support, and (3) difficulty predicting short-term movements in bear markets. The annualized forecast of -85% reflects the negative momentum and regime, scaled conservatively for a 14-day horizon assuming some stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 4 (LINK, OP, ENS) faces severe headwinds in the current bear market regime. The 7-day return of -15.86% and 14-day return of -18.05% indicate strong downward momentum. With annualized volatility at 103.6% and a negative Sharpe ratio (-0.70), the risk-adjusted outlook is poor. The broader DeFi TVL decline of -16.1% compounds concerns. However, confidence is moderate (0.45) due to: (1) extreme volatility creating potential mean-reversion risk, (2) LINK and OP's infrastructure importance providing some downside support, and (3) difficulty predicting short-term movements in bear markets. The annualized forecast of -85% reflects the negative momentum and regime, scaled conservatively for a 14-day horizon assuming some stabilization.\"\n}\n```",
+  "date": "2022-11-15",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:29.274664+00:00"
+}

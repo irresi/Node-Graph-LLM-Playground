@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "RPL in bear market with strong negative momentum (-25.27% 30d, -15.61% 14d). Liquid staking sector under pressure as TVL declining (-9.3%). High volatility (50.1%) and negative Sharpe ratio (-4.23) indicate unfavorable risk-adjusted returns. However, low confidence due to liquid staking's structural importance and potential mean reversion. Annualized 14-day forecast based on recent -15.61% trend suggests continued weakness but at decelerating pace in recovery scenario.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"RPL in bear market with strong negative momentum (-25.27% 30d, -15.61% 14d). Liquid staking sector under pressure as TVL declining (-9.3%). High volatility (50.1%) and negative Sharpe ratio (-4.23) indicate unfavorable risk-adjusted returns. However, low confidence due to liquid staking's structural importance and potential mean reversion. Annualized 14-day forecast based on recent -15.61% trend suggests continued weakness but at decelerating pace in recovery scenario.\"\n}\n```",
+  "date": "2023-08-27",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:46.825376+00:00"
+}

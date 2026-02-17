@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime and strong 14-day momentum (+11.27%) support elevated returns, but mean reversion and high volatility (60.7%) warrant moderation from unsustainable recent pace. Annualized forecast of 85% reflects momentum continuation with realistic normalization. Moderate confidence due to DeFi sector volatility and cryptocurrency price unpredictability over 14-day horizon.",
+  "raw_response": "Based on the provided market context and cluster metrics, I'll analyze the data to forecast the expected annualized return for Cluster 2 (MKR, SNX, GMX) over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Positive Momentum**: The cluster shows strong recent performance:\n   - 7-day return: +8.59%\n   - 14-day return: +11.27%\n   - 30-day return: +6.17%\n   - The 14-day outperformance suggests accelerating momentum\n\n2. **Bull Market Regime**: The overall DeFi market is in a strong uptrend with +33.9% TVL growth over 30 days, providing tailwinds for the cluster.\n\n3. **Protocol Health**: \n   - MKR shows strong TVL growth (+13.9%), indicating healthy protocol fundamentals\n   - SNX has robust growth (+20.1%)\n   - GMX shows moderate growth (+1.8%), suggesting maturity but less explosive growth\n\n4. **Risk Metrics**:\n   - Volatility at 60.7% (annualized) is elevated, typical for DeFi derivatives/lending protocols\n   - Sharpe ratio of 0.85 indicates decent risk-adjusted returns\n   - Max drawdown of -9.0% shows manageable downside in recent period\n\n5. **Mean Reversion Consideration**: The 14-day return (+11.27%) exceeding 30-day return (+6.17%) suggests momentum may be subject to some mean reversion, though bull market conditions could sustain elevated returns.\n\n**Forecast Rationale:**\n- Recent 14-day performance annualizes to approximately 294% (11.27% * 26 periods), but this is unsustainably high\n- More realistic projection: momentum continues at a moderately elevated pace but with some normalization\n- Bull regime supports continued positive returns, but likely at a more sustainable rate than recent spikes\n- The cluster's 60.7% volatility suggests significant uncertainty bounds\n\n```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull market regime and strong 14-day momentum (+11.27%) support elevated returns, but mean reversion and high volatility (60.7%) warrant moderation from unsustainable recent pace. Annualized forecast of 85% reflects momentum continuation with realistic normalization. Moderate confidence due to DeFi sector volatility and cryptocurrency price unpredictability over 14-day horizon.\"\n}\n```",
+  "date": "2025-07-20",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:59.500305+00:00"
+}

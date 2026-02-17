@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "DYDX is in a severe downtrend with -57.82% 30-day loss and -37.65% 14-day loss in a bear market. High volatility (93.6%) and negative Sharpe ratio (-5.19) suggest continued weakness. However, extreme drawdowns (-50.9%) may indicate oversold conditions with potential mean-reversion. TVL decline (-16.1%) reflects reduced protocol activity. Forecasting continued negative momentum over 14 days but with lower confidence due to possible capitulation bounce. Annualized return assumes current daily volatility persists.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"DYDX is in a severe downtrend with -57.82% 30-day loss and -37.65% 14-day loss in a bear market. High volatility (93.6%) and negative Sharpe ratio (-5.19) suggest continued weakness. However, extreme drawdowns (-50.9%) may indicate oversold conditions with potential mean-reversion. TVL decline (-16.1%) reflects reduced protocol activity. Forecasting continued negative momentum over 14 days but with lower confidence due to possible capitulation bounce. Annualized return assumes current daily volatility persists.\"\n}\n```",
+  "date": "2025-02-10",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:24.308562+00:00"
+}

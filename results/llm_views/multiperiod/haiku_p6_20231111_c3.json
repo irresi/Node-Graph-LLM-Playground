@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.55,
+  "reasoning": "Cluster 3 (OP, ARB, ENS) shows strong recent momentum with +33.33% 30-day return and exceptional Sharpe ratio of 7.43 in a bull market regime with rising TVL (+31%). However, confidence is moderate due to: (1) Infrastructure/L2 tokens are sentiment-driven rather than fundamentally anchored, (2) extreme recent performance (+13.37% in 7 days) suggests potential mean reversion, (3) low max drawdown (-3.7%) may indicate underpriced volatility risk, (4) limited protocol metrics restrict fundamental analysis. Annualized forecast of 85% reflects momentum continuation partially offset by reversion risk and elevated valuations typical of bull market peaks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 3 (OP, ARB, ENS) shows strong recent momentum with +33.33% 30-day return and exceptional Sharpe ratio of 7.43 in a bull market regime with rising TVL (+31%). However, confidence is moderate due to: (1) Infrastructure/L2 tokens are sentiment-driven rather than fundamentally anchored, (2) extreme recent performance (+13.37% in 7 days) suggests potential mean reversion, (3) low max drawdown (-3.7%) may indicate underpriced volatility risk, (4) limited protocol metrics restrict fundamental analysis. Annualized forecast of 85% reflects momentum continuation partially offset by reversion risk and elevated valuations typical of bull market peaks.\"\n}\n```",
+  "date": "2023-11-11",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:27.097212+00:00"
+}

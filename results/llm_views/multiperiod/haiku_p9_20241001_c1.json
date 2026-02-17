@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows negative recent momentum (-12.16% over 7 days) despite bull market regime and positive TVL growth. CVX and RPL are yield/staking tokens with moderate fundamentals (CVX +3.4% TVL, RPL +8.0% TVL). However, high volatility (72% annualized) and negative Sharpe ratio (-0.54) indicate risk-reward imbalance. The 14-day positive return (+0.33%) suggests potential mean reversion, but the 7-day drawdown is concerning. Mean reversion from oversold conditions in a bull market justifies modest positive forecast, but low confidence reflects the disconnect between macro bullish conditions and micro underperformance, plus execution uncertainty over the 14-day horizon.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows negative recent momentum (-12.16% over 7 days) despite bull market regime and positive TVL growth. CVX and RPL are yield/staking tokens with moderate fundamentals (CVX +3.4% TVL, RPL +8.0% TVL). However, high volatility (72% annualized) and negative Sharpe ratio (-0.54) indicate risk-reward imbalance. The 14-day positive return (+0.33%) suggests potential mean reversion, but the 7-day drawdown is concerning. Mean reversion from oversold conditions in a bull market justifies modest positive forecast, but low confidence reflects the disconnect between macro bullish conditions and micro underperformance, plus execution uncertainty over the 14-day horizon.\"\n}\n```",
+  "date": "2024-10-01",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:41.894739+00:00"
+}

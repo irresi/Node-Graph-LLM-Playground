@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.35,
+  "reasoning": "ENS shows strong negative momentum (-18.76% over 14 days) diverging from bull market conditions (+17.9% TVL growth). High volatility (72.3%) and poor risk-adjusted returns (Sharpe: -1.05) suggest continued weakness in near term, though extreme drawdown may indicate mean reversion potential. Low confidence due to lack of ENS-specific catalysts and infrastructure token characteristics making traditional metrics less applicable.",
+  "raw_response": "I'll analyze the provided market data for Cluster 3 (ENS token) to forecast the expected return over the next 14 days.\n\n## Analysis:\n\n**Current Situation:**\n- ENS is an infrastructure/governance token with no TVL metrics (as expected for non-protocol tokens)\n- Strong negative momentum: -16.25% (7-day), -18.76% (14-day), -9.04% (30-day)\n- High volatility at 72.3% annualized\n- Negative Sharpe ratio (-1.05) indicates risk-adjusted returns are poor\n- Max drawdown of -19.4% shows significant recent losses\n\n**Market Context:**\n- Overall DeFi market is in a moderate bull regime with +17.9% TVL growth\n- However, this cluster is severely underperforming the broader market\n- The divergence suggests ENS-specific weakness despite positive macro conditions\n\n**Key Considerations:**\n1. **Momentum**: Deeply negative across all timeframes (7, 14, 30-day periods all negative)\n2. **Volatility**: High volatility (72.3%) suggests elevated risk and potential for continued whipsaws\n3. **Regime Mismatch**: Cluster declining while DeFi TVL grows indicates potential mean reversion OR fundamental weakness\n4. **Time Horizon**: 14-day forecast is short-term; negative momentum typically persists in short windows\n5. **Confidence**: Low confidence due to limited visibility on ENS-specific catalysts and the infrastructure token nature making it less tied to TVL metrics\n\n**Forecast Rationale:**\nGiven the persistent negative momentum and no obvious catalysts visible in the data, I expect continued weakness in the near term. However, the divergence from the broader bull market and extreme drawdown suggest potential for mean reversion. I'm assigning a modest negative expected return with low-to-moderate confidence.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.35, \"reasoning\": \"ENS shows strong negative momentum (-18.76% over 14 days) diverging from bull market conditions (+17.9% TVL growth). High volatility (72.3%) and poor risk-adjusted returns (Sharpe: -1.05) suggest continued weakness in near term, though extreme drawdown may indicate mean reversion potential. Low confidence due to lack of ENS-specific catalysts and infrastructure token characteristics making traditional metrics less applicable.\"}\n```",
+  "date": "2024-03-21",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:43.231776+00:00"
+}

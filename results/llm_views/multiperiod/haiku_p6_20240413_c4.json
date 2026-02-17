@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster in severe downtrend (-40.3% in 30d) within bear market regime. Accelerating recent losses suggest further weakness, but technical oversold conditions may induce stabilization bounce. Limited confidence due to macro bearish pressure and infrastructure category volatility. Low TVL data limits fundamental analysis.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 4 (LINK, GRT) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Market Environment:**\n- Strong bearish regime with -18.3% TVL decline over 30 days\n- The cluster is in severe downtrend with -40.40% 30-day return\n- High volatility (68.8% annualized) indicating market stress\n- Negative Sharpe ratio (-4.93) reflects poor risk-adjusted returns\n\n**Cluster Characteristics:**\n- Oracle and infrastructure tokens (LINK, GRT) - essential but not discretionary\n- Recent momentum is deeply negative: -30.32% (14-day), -17.84% (7-day)\n- Max drawdown of -33.2% shows significant capitulation\n- TVL data is limited/unavailable, suggesting these are core infrastructure tokens less dependent on TVL metrics\n\n**Forecast Rationale:**\n1. **Mean Reversion Potential:** After a -40% decline, some technical bounce is likely in the near term, though without fundamental catalyst\n2. **Bear Market Context:** The -18.3% DeFi TVL decline continues, limiting upside\n3. **Momentum Deterioration:** 7-day decline (-17.84%) is worse than 14-day decline (-30.32%), suggesting acceleration downward\n4. **Infrastructure Resilience:** Oracle/infrastructure tokens tend to stabilize before discretionary tokens in bear markets\n\n**Expected 14-day Annualized Return Estimate:**\n- Given continued bear pressure but slight stabilization likelihood\n- Projected 14-day return: approximately -8% to -12%\n- Annualized equivalent: approximately -2.0 to -3.2 (roughly -200% to -320% annualized)\n- However, realistic view: slight bounce from oversold conditions to -0.5 to 0.0 annualized range\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Cluster in severe downtrend (-40.3% in 30d) within bear market regime. Accelerating recent losses suggest further weakness, but technical oversold conditions may induce stabilization bounce. Limited confidence due to macro bearish pressure and infrastructure category volatility. Low TVL data limits fundamental analysis.\"}\n```",
+  "date": "2024-04-13",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:29.833550+00:00"
+}

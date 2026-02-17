@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is in a strong bear market with -21.96% 30-day return and -15.2% DeFi TVL decline. However, recent 14-day momentum (+1.29%) and 7-day recovery (+0.75%) suggest potential stabilization or capitulation bottom. The annualized volatility of 54.7% and negative Sharpe ratio (-3.37) indicate elevated risk. While the recent bounce offers some optimism, the overall macro regime remains bearish with continued TVL contraction across major protocols (UNI -18.1%, SUSHI -26.3%, CRV -14.9%). The 14-day forecast assumes partial mean reversion from the -21.96% monthly loss but staying negative due to persistent downtrend pressures. Moderate confidence reflects conflicting signals between negative fundamentals and positive recent momentum.",
+  "raw_response": "Based on the market context and cluster data provided, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is in a strong bear market with -21.96% 30-day return and -15.2% DeFi TVL decline. However, recent 14-day momentum (+1.29%) and 7-day recovery (+0.75%) suggest potential stabilization or capitulation bottom. The annualized volatility of 54.7% and negative Sharpe ratio (-3.37) indicate elevated risk. While the recent bounce offers some optimism, the overall macro regime remains bearish with continued TVL contraction across major protocols (UNI -18.1%, SUSHI -26.3%, CRV -14.9%). The 14-day forecast assumes partial mean reversion from the -21.96% monthly loss but staying negative due to persistent downtrend pressures. Moderate confidence reflects conflicting signals between negative fundamentals and positive recent momentum.\"\n}\n```",
+  "date": "2022-09-14",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:24.364309+00:00"
+}

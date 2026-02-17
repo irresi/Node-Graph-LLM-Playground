@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows positive 30-day returns (+3.37%) but concerning recent reversal with -10.42% 14-day decline. Strong bear market regime with declining DeFi TVL (-2.0%) offsets individual protocol strength (all protocols showing TVL growth). High volatility (42.9%) and negative short-term momentum suggest continued downside risk. Mixed signals from positive 7-day rebound (+3.43%) warrant moderate confidence. Forecast reflects bear market headwinds with some stabilization potential from protocol fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows positive 30-day returns (+3.37%) but concerning recent reversal with -10.42% 14-day decline. Strong bear market regime with declining DeFi TVL (-2.0%) offsets individual protocol strength (all protocols showing TVL growth). High volatility (42.9%) and negative short-term momentum suggest continued downside risk. Mixed signals from positive 7-day rebound (+3.43%) warrant moderate confidence. Forecast reflects bear market headwinds with some stabilization potential from protocol fundamentals.\"\n}\n```",
+  "date": "2022-12-27",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:41.047876+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows strong recent momentum (+6.59% in 7d, +7.13% in 14d) in a bull market regime, but this contrasts with weak 30-day performance (+1.07%) and low Sharpe ratio (0.19), suggesting momentum may be unsustainable. High volatility (46.3% annualized) and -15.3% max drawdown indicate elevated risk. Infrastructure/Oracle tokens (LINK, OP, ENS, GRT) are cyclical and sensitive to macro conditions. Annualizing the recent 14-day trend (+7.13%) yields ~26% annually, but mean reversion and valuation constraints in a post-bull rally environment suggest 42% annualized return (forecasting sustained but moderated momentum) with moderate-to-low confidence due to high uncertainty in sustained trajectory.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows strong recent momentum (+6.59% in 7d, +7.13% in 14d) in a bull market regime, but this contrasts with weak 30-day performance (+1.07%) and low Sharpe ratio (0.19), suggesting momentum may be unsustainable. High volatility (46.3% annualized) and -15.3% max drawdown indicate elevated risk. Infrastructure/Oracle tokens (LINK, OP, ENS, GRT) are cyclical and sensitive to macro conditions. Annualizing the recent 14-day trend (+7.13%) yields ~26% annually, but mean reversion and valuation constraints in a post-bull rally environment suggest 42% annualized return (forecasting sustained but moderated momentum) with moderate-to-low confidence due to high uncertainty in sustained trajectory.\"\n}\n```",
+  "date": "2022-10-26",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:14.194583+00:00"
+}

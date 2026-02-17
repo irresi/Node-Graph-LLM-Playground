@@ -1,0 +1,31 @@
+{
+  "expected_return": 0.085,
+  "confidence": 0.68,
+  "reasoning": "Bull market regime with +13.7% TVL growth supports positive returns. However, momentum deceleration (21.7% \u2192 15.4% \u2192 8.1% over 7/14/30 days) suggests normalization ahead. Expect 8.5% annualized return (~1.6% 14-day) based on decelerating momentum, elevated volatility (62.1%), and mixed protocol fundamentals. Moderate confidence due to unpredictable DeFi dynamics and tail-risk events.",
+  "raw_response": "I'll analyze the market context and cluster metrics to provide a 14-day expected return forecast for Cluster 1.\n\n**Analysis:**\n\n1. **Recent Momentum & Trends:**\n   - 7-day return: +21.70% (very strong)\n   - 14-day return: +15.43% (strong)\n   - 30-day return: +8.06% (solid)\n   - Clear deceleration trend suggests momentum may be cooling\n\n2. **Market Regime:**\n   - Bull market with strong uptrend and moderate volatility\n   - TVL growth of +13.7% indicates healthy ecosystem expansion\n   - Favorable macro conditions supporting DeFi\n\n3. **Volatility & Risk Metrics:**\n   - Annualized volatility: 62.1% (high, typical for DeFi)\n   - Sharpe ratio: 1.09 (reasonable risk-adjusted returns)\n   - Max drawdown: -15.7% (indicates significant downside risk exists)\n\n4. **Protocol Fundamentals:**\n   - UNI dominates cluster with $6.3B TVL (+9.3% 30d growth)\n   - CRV with $2.07B TVL shows moderate growth (+3.8%)\n   - Mixed signals: SUSHI declining (-1.5%), CAKE declining (-4.2%)\n   - BAL showing strength (+6.1%)\n\n5. **Forward-Looking Assessment:**\n   - The deceleration from 7-day to 14-day to 30-day returns suggests momentum is plateauing\n   - Bull regime is positive but extreme 7-day returns are unlikely to persist\n   - Reversion to more moderate growth expected in next 14 days\n   - Reasonable to expect 6-10% annualized return over next 14 days\n\n```json\n{\"expected_return\": 0.085, \"confidence\": 0.68, \"reasoning\": \"Bull market regime with +13.7% TVL growth supports positive returns. However, momentum deceleration (21.7% \u2192 15.4% \u2192 8.1% over 7/14/30 days) suggests normalization ahead. Expect 8.5% annualized return (~1.6% 14-day) based on decelerating momentum, elevated volatility (62.1%), and mixed protocol fundamentals. Moderate confidence due to unpredictable DeFi dynamics and tail-risk events.\"}\n```",
+  "date": "2024-05-22",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:03.920135+00:00"
+}

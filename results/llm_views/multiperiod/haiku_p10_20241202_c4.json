@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 (LINK, OP, ARB, ENS, GRT) shows strong recent momentum with 71.38% 30-day returns and an exceptional 8.41 Sharpe ratio in a moderate bull market regime. However, confidence is moderate due to: (1) mean-reversion risk after 46.86% 14-day gains, (2) high annualized volatility (71.3%) suggesting potential pullback, (3) limited TVL data for most tokens (infrastructure/L2 focus reduces fundamental anchors), (4) technical overbought conditions likely after such strong performance. The 85% annualized forecast reflects continued bullish momentum tempered by elevated drawdown risk (-9.9% max drawdown indicates recent corrections). Positive factors: strong Sharpe ratio, positive market regime, and blockchain infrastructure tailwinds. Negative factors: stretched valuations after rapid gains and macro uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 (LINK, OP, ARB, ENS, GRT) shows strong recent momentum with 71.38% 30-day returns and an exceptional 8.41 Sharpe ratio in a moderate bull market regime. However, confidence is moderate due to: (1) mean-reversion risk after 46.86% 14-day gains, (2) high annualized volatility (71.3%) suggesting potential pullback, (3) limited TVL data for most tokens (infrastructure/L2 focus reduces fundamental anchors), (4) technical overbought conditions likely after such strong performance. The 85% annualized forecast reflects continued bullish momentum tempered by elevated drawdown risk (-9.9% max drawdown indicates recent corrections). Positive factors: strong Sharpe ratio, positive market regime, and blockchain infrastructure tailwinds. Negative factors: stretched valuations after rapid gains and macro uncertainty.\"\n}\n```",
+  "date": "2024-12-02",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:13.182875+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster in bear market with severe recent downtrend (-33.27% over 14 days, -4.42% over 7 days), indicating strong negative momentum. High volatility (85.9% annualized) and negative Sharpe ratio (-0.86) suggest risk-adjusted returns are poor. However, some stabilization signals: BAL +4% TVL, cluster return (-8.81%) better than 14-day (-33.27%), suggesting potential mean reversion. Mixed protocol fundamentals with TVL declines across most assets (SNX -19.4%, SUSHI -11.6%) but CAKE relatively stable (-2.0%). Forecast -42% annualized return over next 14 days reflecting continued weakness but slightly less severe than recent 7-day trend. Confidence moderate (0.65) due to bear regime volatility and potential for mean reversion, but downside bias from weak fundamentals and TVL trends.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.65, \"reasoning\": \"Cluster in bear market with severe recent downtrend (-33.27% over 14 days, -4.42% over 7 days), indicating strong negative momentum. High volatility (85.9% annualized) and negative Sharpe ratio (-0.86) suggest risk-adjusted returns are poor. However, some stabilization signals: BAL +4% TVL, cluster return (-8.81%) better than 14-day (-33.27%), suggesting potential mean reversion. Mixed protocol fundamentals with TVL declines across most assets (SNX -19.4%, SUSHI -11.6%) but CAKE relatively stable (-2.0%). Forecast -42% annualized return over next 14 days reflecting continued weakness but slightly less severe than recent 7-day trend. Confidence moderate (0.65) due to bear regime volatility and potential for mean reversion, but downside bias from weak fundamentals and TVL trends.\"}\n```",
+  "date": "2024-12-30",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:55.473367+00:00"
+}

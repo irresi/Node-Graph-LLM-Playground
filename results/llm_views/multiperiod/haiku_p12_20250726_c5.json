@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong TVL growth (+37.7%) and positive 14-day momentum (+5.15%) support near-term gains. However, recent 7-day pullback (-1.80%), high volatility (43.1%), and mean reversion risk after +6.37% monthly gain warrant moderate confidence. Expected modest positive returns over 14 days, annualized to 0.18, reflecting both bullish fundamentals and elevated near-term uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 5 (COMP, MKR, GMX, YFI)\n\n**Positive Factors:**\n1. **Strong Market Regime**: Bull market with +37.7% TVL growth over 30 days indicates strong DeFi adoption\n2. **Solid Recent Performance**: 14-day return of +5.15% shows positive momentum, despite recent 7-day pullback of -1.80%\n3. **TVL Growth**: Significant growth across holdings - MKR (+16.7%), COMP (+16.9%), YFI (+71.6%)\n4. **Risk-Adjusted Returns**: Sharpe ratio of 1.24 indicates good risk-adjusted performance\n5. **Diversified Exposure**: Mix of lending (COMP, MKR), derivatives (GMX), and yield farming (YFI)\n\n**Negative Factors:**\n1. **Recent Momentum Reversal**: 7-day return of -1.80% suggests recent pullback after 14-day gains\n2. **High Volatility**: 43.1% annualized volatility is elevated, creating noise in near-term forecasts\n3. **Mixed Protocol Health**: GMX showing minimal growth (+2.7%) may indicate saturation\n4. **Mean Reversion Risk**: After +6.37% monthly gain, pullback is possible\n\n**Technical Observations:**\n- The cluster gained +5.15% over 14 days but lost -1.80% in the last 7 days, suggesting consolidation or temporary correction\n- The +37.7% TVL growth in the broader market provides tailwinds, but individual token performance may diverge\n\n**Forecast Rationale:**\nGiven the bull market regime and strong fundamentals, I expect modest positive returns over the next 14 days. However, the recent pullback and high volatility warrant caution. The cluster is likely consolidating after strong monthly gains.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Bull market regime with strong TVL growth (+37.7%) and positive 14-day momentum (+5.15%) support near-term gains. However, recent 7-day pullback (-1.80%), high volatility (43.1%), and mean reversion risk after +6.37% monthly gain warrant moderate confidence. Expected modest positive returns over 14 days, annualized to 0.18, reflecting both bullish fundamentals and elevated near-term uncertainty.\"}\n```",
+  "date": "2025-07-26",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:40.954417+00:00"
+}

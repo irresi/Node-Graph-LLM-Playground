@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "CAKE operating in bear market regime with -18.56% 30-day return and -3.37% 14-day return. Negative momentum continues with -2.81% 7-day return. TVL declining (-8.4% 30d) signals weakening protocol fundamentals. High volatility (34.1% annualized) and negative Sharpe ratio (-4.57) indicate risk-adjusted returns remain poor. Forecast annualized return of -85% (\u2248-1.6% over 14 days) reflects continued bearish pressure, though single-token cluster limits diversification benefits. Moderate confidence due to regime uncertainty and potential mean reversion, but near-term downside bias dominates.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"CAKE operating in bear market regime with -18.56% 30-day return and -3.37% 14-day return. Negative momentum continues with -2.81% 7-day return. TVL declining (-8.4% 30d) signals weakening protocol fundamentals. High volatility (34.1% annualized) and negative Sharpe ratio (-4.57) indicate risk-adjusted returns remain poor. Forecast annualized return of -85% (\u2248-1.6% over 14 days) reflects continued bearish pressure, though single-token cluster limits diversification benefits. Moderate confidence due to regime uncertainty and potential mean reversion, but near-term downside bias dominates.\"\n}\n```",
+  "date": "2023-09-04",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:26.032516+00:00"
+}

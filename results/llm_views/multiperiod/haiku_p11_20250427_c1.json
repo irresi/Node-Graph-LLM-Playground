@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster showing strong short-term momentum (+18.78% in 7d, +17.73% in 14d) after bear market stress, suggesting potential oversold bounce. However, confidence is low due to: (1) strong bear market regime with overall DeFi TVL barely recovering (+1.7%), (2) high volatility (81.1% annualized) and significant max drawdown (-25.3%) indicating fragile uptrend, (3) infrastructure/L2 tokens lack TVL fundamentals, (4) recent gains may face resistance. 14-day annualization of recent momentum (~18% in 14d = ~90% annualized) is elevated; conservative adjustment to 45% reflects reversion risk and market headwinds in persistent bear conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster showing strong short-term momentum (+18.78% in 7d, +17.73% in 14d) after bear market stress, suggesting potential oversold bounce. However, confidence is low due to: (1) strong bear market regime with overall DeFi TVL barely recovering (+1.7%), (2) high volatility (81.1% annualized) and significant max drawdown (-25.3%) indicating fragile uptrend, (3) infrastructure/L2 tokens lack TVL fundamentals, (4) recent gains may face resistance. 14-day annualization of recent momentum (~18% in 14d = ~90% annualized) is elevated; conservative adjustment to 45% reflects reversion risk and market headwinds in persistent bear conditions.\"\n}\n```",
+  "date": "2025-04-27",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:25.470202+00:00"
+}

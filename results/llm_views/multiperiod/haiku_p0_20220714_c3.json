@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.42,
+  "reasoning": "OP (Optimism L2) faces headwinds from bearish momentum (-15.75% in 7 days, -8.92% in 30 days) and elevated volatility (118.5% annualized). The negative Sharpe ratio (-0.63) indicates poor risk-adjusted returns. However, moderate bull market regime and L2 infrastructure positioning provide some support. Low confidence reflects high volatility, limited TVL fundamentals for infrastructure tokens, and difficulty predicting L2 token movements in uncertain macro environment. Downside bias from recent weakness, but reversion risk exists.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"OP (Optimism L2) faces headwinds from bearish momentum (-15.75% in 7 days, -8.92% in 30 days) and elevated volatility (118.5% annualized). The negative Sharpe ratio (-0.63) indicates poor risk-adjusted returns. However, moderate bull market regime and L2 infrastructure positioning provide some support. Low confidence reflects high volatility, limited TVL fundamentals for infrastructure tokens, and difficulty predicting L2 token movements in uncertain macro environment. Downside bias from recent weakness, but reversion risk exists.\"\n}\n```",
+  "date": "2022-07-14",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:14.165011+00:00"
+}

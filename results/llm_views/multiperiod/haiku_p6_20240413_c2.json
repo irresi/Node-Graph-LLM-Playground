@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "DYDX in bear regime with -68.82% 30-day return and -55.50% 14-day return indicates severe downtrend momentum. However, TVL grew +20.2% (30d) suggesting protocol fundamentals remain intact despite price collapse. Extremely high volatility (131.7% annualized) and negative Sharpe ratio (-4.39) indicate risk/reward is unfavorable. Near-term outlook: likely continued weakness but potential mean reversion bounce given extreme drawdown (-49.8% max). Annualized forecast reflects expected stabilization over 14 days rather than continued -40%+ weekly declines. Low confidence due to unpredictable short-term dynamics in distressed bear markets and potential liquidation cascades.",
+  "raw_response": "```json\n{\n  \"expected_return\": -2.15,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX in bear regime with -68.82% 30-day return and -55.50% 14-day return indicates severe downtrend momentum. However, TVL grew +20.2% (30d) suggesting protocol fundamentals remain intact despite price collapse. Extremely high volatility (131.7% annualized) and negative Sharpe ratio (-4.39) indicate risk/reward is unfavorable. Near-term outlook: likely continued weakness but potential mean reversion bounce given extreme drawdown (-49.8% max). Annualized forecast reflects expected stabilization over 14 days rather than continued -40%+ weekly declines. Low confidence due to unpredictable short-term dynamics in distressed bear markets and potential liquidation cascades.\"\n}\n```",
+  "date": "2024-04-13",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:17.232815+00:00"
+}

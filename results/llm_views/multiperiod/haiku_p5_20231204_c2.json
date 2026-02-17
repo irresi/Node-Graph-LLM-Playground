@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.65,
+  "reasoning": "Cluster 2 (CRV/CVX) shows strong recent momentum with 15.75% 30-day returns and a healthy 2.66 Sharpe ratio in a moderate bull market. The 7-day and 14-day returns (4.17%, 5.89%) suggest sustained positive trajectory. However, confidence is moderated by: (1) high annualized volatility of 49.8% creating mean reversion risk, (2) -10% max drawdown indicating recent volatility, (3) decelerating 14-day vs 30-day returns suggesting momentum may be plateauing, and (4) TVL growth slowing relative to overall DeFi (+16.3% vs CRV's +6.6%). The yield/DEX category typically shows cyclical patterns. Annualized 22% reflects extrapolation of 14-day momentum (5.89% over 14 days \u2248 153% annualized, discounted by ~85% for mean reversion and volatility regime normalization).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.22,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 (CRV/CVX) shows strong recent momentum with 15.75% 30-day returns and a healthy 2.66 Sharpe ratio in a moderate bull market. The 7-day and 14-day returns (4.17%, 5.89%) suggest sustained positive trajectory. However, confidence is moderated by: (1) high annualized volatility of 49.8% creating mean reversion risk, (2) -10% max drawdown indicating recent volatility, (3) decelerating 14-day vs 30-day returns suggesting momentum may be plateauing, and (4) TVL growth slowing relative to overall DeFi (+16.3% vs CRV's +6.6%). The yield/DEX category typically shows cyclical patterns. Annualized 22% reflects extrapolation of 14-day momentum (5.89% over 14 days \u2248 153% annualized, discounted by ~85% for mean reversion and volatility regime normalization).\"\n}\n```",
+  "date": "2023-12-04",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:43:21.608433+00:00"
+}

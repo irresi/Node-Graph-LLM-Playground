@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "ENS (Ethereum Name Service) is a single-token infrastructure cluster with high volatility (80.7% annualized). Recent 14-day performance (-0.79%) suggests momentum weakness despite positive 30-day returns (+6.29%). With neutral market regime and no TVL data, forecasting relies on technical momentum and volatility metrics. The positive Sharpe ratio (0.66) and recent 7-day decline (-1.20%) suggest potential mean reversion upside, but the -19.7% max drawdown indicates downside risk. Infrastructure tokens are less correlated with TVL metrics and more sensitive to adoption narratives and broader market sentiment. Low confidence (0.45) reflects the single-token concentration risk, volatile nature, and limited fundamental anchors for a 14-day horizon.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.45, \"reasoning\": \"ENS (Ethereum Name Service) is a single-token infrastructure cluster with high volatility (80.7% annualized). Recent 14-day performance (-0.79%) suggests momentum weakness despite positive 30-day returns (+6.29%). With neutral market regime and no TVL data, forecasting relies on technical momentum and volatility metrics. The positive Sharpe ratio (0.66) and recent 7-day decline (-1.20%) suggest potential mean reversion upside, but the -19.7% max drawdown indicates downside risk. Infrastructure tokens are less correlated with TVL metrics and more sensitive to adoption narratives and broader market sentiment. Low confidence (0.45) reflects the single-token concentration risk, volatile nature, and limited fundamental anchors for a 14-day horizon.\"}\n```",
+  "date": "2024-05-16",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:18.447212+00:00"
+}

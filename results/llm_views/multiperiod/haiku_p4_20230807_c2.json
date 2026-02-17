@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "MKR shows strong 14-day momentum (+13.04%) and exceptional recent performance (26.52% over 30 days) with an impressive Sharpe ratio of 3.33. However, several headwinds create moderate confidence: (1) recent negative 7-day returns (-0.78%) suggest momentum may be fading, (2) overall DeFi TVL declining (-8.3% 30-day) indicates sector weakness, (3) MKR's TVL down -7.9% reflects weaker fundamentals, (4) neutral/range-bound market regime limits upside, and (5) high volatility (66.9% annualized) increases forecasting uncertainty. Annualized 14-day return of +13.04% is approximately 0.50 annualized (52 weeks / 14 days), but discounted to 0.18 due to momentum reversal signals and sector headwinds. The positive technical picture is tempered by deteriorating fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"MKR shows strong 14-day momentum (+13.04%) and exceptional recent performance (26.52% over 30 days) with an impressive Sharpe ratio of 3.33. However, several headwinds create moderate confidence: (1) recent negative 7-day returns (-0.78%) suggest momentum may be fading, (2) overall DeFi TVL declining (-8.3% 30-day) indicates sector weakness, (3) MKR's TVL down -7.9% reflects weaker fundamentals, (4) neutral/range-bound market regime limits upside, and (5) high volatility (66.9% annualized) increases forecasting uncertainty. Annualized 14-day return of +13.04% is approximately 0.50 annualized (52 weeks / 14 days), but discounted to 0.18 due to momentum reversal signals and sector headwinds. The positive technical picture is tempered by deteriorating fundamentals.\"\n}\n```",
+  "date": "2023-08-07",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:19.249121+00:00"
+}

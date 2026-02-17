@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -24.55% 30-day return and -9.3% TVL decline. However, positive 14-day momentum (+5.80%) suggests potential mean reversion in short term. High volatility (83.1%) and negative Sharpe ratio (-2.48) indicate elevated risk. UNI and AAVE have divergent TVL trends (UNI -2.6% vs AAVE +0.2%), reducing conviction. Conservative forecast assumes partial retracement of recent bounce amid broader DeFi headwinds. Low confidence due to high uncertainty in bear market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -24.55% 30-day return and -9.3% TVL decline. However, positive 14-day momentum (+5.80%) suggests potential mean reversion in short term. High volatility (83.1%) and negative Sharpe ratio (-2.48) indicate elevated risk. UNI and AAVE have divergent TVL trends (UNI -2.6% vs AAVE +0.2%), reducing conviction. Conservative forecast assumes partial retracement of recent bounce amid broader DeFi headwinds. Low confidence due to high uncertainty in bear market conditions.\"\n}\n```",
+  "date": "2025-04-21",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:17.903250+00:00"
+}

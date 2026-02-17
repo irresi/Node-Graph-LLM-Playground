@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows mixed signals: positive 30-day return (+1.07%) and strong TVL growth in major protocols (UNI +7.0%, MKR +8.6%) support moderate upside. However, recent momentum is negative (7-day: -5.17%, 14-day: -1.13%), suggesting near-term headwinds. High volatility (44.0% annualized) and weak Sharpe ratio (0.20) indicate elevated risk. Moderate bull regime and +6.8% DeFi TVL growth provide structural support, but SNX weakness (-12.1%) and CRV decline (-4.8%) show divergence within cluster. Conservative 8% annualized return reflects cautious optimism with meaningful uncertainty about near-term direction recovery.",
+  "raw_response": "Based on the market context and cluster analysis provided, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows mixed signals: positive 30-day return (+1.07%) and strong TVL growth in major protocols (UNI +7.0%, MKR +8.6%) support moderate upside. However, recent momentum is negative (7-day: -5.17%, 14-day: -1.13%), suggesting near-term headwinds. High volatility (44.0% annualized) and weak Sharpe ratio (0.20) indicate elevated risk. Moderate bull regime and +6.8% DeFi TVL growth provide structural support, but SNX weakness (-12.1%) and CRV decline (-4.8%) show divergence within cluster. Conservative 8% annualized return reflects cautious optimism with meaningful uncertainty about near-term direction recovery.\"\n}\n```",
+  "date": "2024-01-20",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:49.274645+00:00"
+}

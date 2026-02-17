@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.55,
+  "reasoning": "ARB (Arbitrum L2 token) shows mixed signals: positive 7-day momentum (+7.53%) and strong bull market regime (+19.1% TVL growth) support recovery, but negative 14/30-day returns (-3.17%/-7.76%), high volatility (67.5%), and weak Sharpe ratio (-0.97) indicate downside risk. L2 tokens are sentiment-driven and infrastructure-focused rather than fundamentals-based, creating uncertainty. The forecast reflects potential mean-reversion upside from recent 7-day strength while accounting for elevated downside risk. Moderate confidence due to limited protocol metrics and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"ARB (Arbitrum L2 token) shows mixed signals: positive 7-day momentum (+7.53%) and strong bull market regime (+19.1% TVL growth) support recovery, but negative 14/30-day returns (-3.17%/-7.76%), high volatility (67.5%), and weak Sharpe ratio (-0.97) indicate downside risk. L2 tokens are sentiment-driven and infrastructure-focused rather than fundamentals-based, creating uncertainty. The forecast reflects potential mean-reversion upside from recent 7-day strength while accounting for elevated downside risk. Moderate confidence due to limited protocol metrics and high volatility.\"\n}\n```",
+  "date": "2023-04-10",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:21.043373+00:00"
+}

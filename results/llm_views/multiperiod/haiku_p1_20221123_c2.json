@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.65,
+  "reasoning": "Cluster 2 faces significant headwinds: bear market regime with -19.9% DeFi TVL decline, severe recent underperformance (-24.07% last 30d, -5.05% last 14d), and elevated volatility (88.5% annualized). Key protocols show mixed TVL trends with Curve (-34.2%) and Sushi (-36.8%) in steep decline, offsetting Cake's modest stability. High negative Sharpe ratio (-2.28) and -34% max drawdown indicate risk-adjusted returns are deeply negative. 7-day momentum remains weak (-3.98%), suggesting continued downward pressure. However, 0.65 confidence reflects uncertainty in short-term market reversals and potential stabilization of TVL metrics. The annualized -45% return reflects the severe 14-day forward momentum extrapolation within this sustained bear regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 faces significant headwinds: bear market regime with -19.9% DeFi TVL decline, severe recent underperformance (-24.07% last 30d, -5.05% last 14d), and elevated volatility (88.5% annualized). Key protocols show mixed TVL trends with Curve (-34.2%) and Sushi (-36.8%) in steep decline, offsetting Cake's modest stability. High negative Sharpe ratio (-2.28) and -34% max drawdown indicate risk-adjusted returns are deeply negative. 7-day momentum remains weak (-3.98%), suggesting continued downward pressure. However, 0.65 confidence reflects uncertainty in short-term market reversals and potential stabilization of TVL metrics. The annualized -45% return reflects the severe 14-day forward momentum extrapolation within this sustained bear regime.\"\n}\n```",
+  "date": "2022-11-23",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:40.098388+00:00"
+}

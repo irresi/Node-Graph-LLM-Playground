@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing strong recent momentum (+39.47% in 30d, +24.55% in 14d, +10.36% in 7d) with moderate bull market regime and positive TVL trends across major protocols (UNI +25.1%, CRV +15.0%, BAL +47.2%, AAVE +3.7%). However, high annualized volatility (78.2%) and recent max drawdown (-13.0%) suggest mean reversion risk. Annualizing the 14-day momentum (+24.55%) yields ~0.65 annualized, but recent acceleration in 7-day returns (+10.36%) and strong Sharpe ratio (4.24) suggest slightly higher forward expectations. Confidence is moderate due to momentum-driven nature of forecast and elevated volatility creating reversal risk in next 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing strong recent momentum (+39.47% in 30d, +24.55% in 14d, +10.36% in 7d) with moderate bull market regime and positive TVL trends across major protocols (UNI +25.1%, CRV +15.0%, BAL +47.2%, AAVE +3.7%). However, high annualized volatility (78.2%) and recent max drawdown (-13.0%) suggest mean reversion risk. Annualizing the 14-day momentum (+24.55%) yields ~0.65 annualized, but recent acceleration in 7-day returns (+10.36%) and strong Sharpe ratio (4.24) suggest slightly higher forward expectations. Confidence is moderate due to momentum-driven nature of forecast and elevated volatility creating reversal risk in next 14 days.\"\n}\n```",
+  "date": "2022-07-28",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:27.299336+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster 4 (CRV/CVX) shows mixed signals: negative 30-day return (-5.79%) and high volatility (94.8%) suggest downside risk, but the 7-day recovery (+5.51%) indicates momentum reversal. Overall bull market (+22% TVL growth) and CVX's strong TVL growth (+8.7%) provide tailwinds. However, the negative Sharpe ratio (-0.51) and recent drawdown (-31.1%) suggest substantial execution risk. Forecast reflects potential for mean reversion upside over 14 days, tempered by structural underperformance and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows mixed signals: negative 30-day return (-5.79%) and high volatility (94.8%) suggest downside risk, but the 7-day recovery (+5.51%) indicates momentum reversal. Overall bull market (+22% TVL growth) and CVX's strong TVL growth (+8.7%) provide tailwinds. However, the negative Sharpe ratio (-0.51) and recent drawdown (-31.1%) suggest substantial execution risk. Forecast reflects potential for mean reversion upside over 14 days, tempered by structural underperformance and high volatility.\"\n}\n```",
+  "date": "2025-08-23",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:25.659317+00:00"
+}

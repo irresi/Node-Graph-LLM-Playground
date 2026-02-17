@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+16.84%) with excellent Sharpe ratio (2.62) in bullish DeFi market (+15.1% TVL growth). However, recent 14-day pullback (-2.27%) and high volatility (53.9%) suggest mean reversion risk. LDO's exceptional performance (+20.5% TVL change) is offset by COMP's weakness (+4.0%). Moderate confidence reflects tension between positive macro trends and near-term technical weakness, with forecast annualized over 14-day window.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+16.84%) with excellent Sharpe ratio (2.62) in bullish DeFi market (+15.1% TVL growth). However, recent 14-day pullback (-2.27%) and high volatility (53.9%) suggest mean reversion risk. LDO's exceptional performance (+20.5% TVL change) is offset by COMP's weakness (+4.0%). Moderate confidence reflects tension between positive macro trends and near-term technical weakness, with forecast annualized over 14-day window.\"\n}\n```",
+  "date": "2023-11-25",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:11.808320+00:00"
+}

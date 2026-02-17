@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Bullish DeFi regime (+34.9% TVL growth) and solid protocol fundamentals (CAKE TVL +12.3%, BAL TVL +34.4%) support positive 14-day returns. However, recent 7-day decline (-5.72%) after strong 30-day run (+20.66%) suggests market consolidation phase. Expect continued upside from sector momentum but with elevated near-term uncertainty. Annualized forecast of 18% reflects ~3.4% 14-day return expectation, balanced against 71.3% volatility and -12.2% max drawdown risk.",
+  "raw_response": "I'll analyze this DeFi cluster (CAKE and BAL) to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Positive Factors:**\n1. **Strong 30-day performance**: +20.66% return with a Sharpe ratio of 2.43 indicates quality risk-adjusted returns\n2. **Bullish market regime**: Overall DeFi TVL up 34.9% in 30 days suggests strong sector momentum\n3. **TVL growth**: Both protocols showing solid TVL expansion (CAKE +12.3%, BAL +34.4% YoY)\n4. **Manageable volatility**: While annualized volatility is 71.3%, the Sharpe ratio suggests this is well-compensated\n5. **Positive 14-day trend**: +2.14% return in last 14 days despite recent 7-day weakness\n\n**Concerning Factors:**\n1. **Recent momentum reversal**: -5.72% in last 7 days suggests a pullback after strong 30-day run\n2. **Max drawdown**: -12.2% indicates meaningful downside risk, typical for DEX tokens\n3. **Potential consolidation**: The divergence between 30-day (+20.66%) and 7-day (-5.72%) suggests possible mean reversion\n4. **Market dependency**: DEX performance heavily tied to overall crypto market sentiment and trading volumes\n\n**14-Day Forecast Rationale:**\nGiven the strong fundamental tailwinds (bull market regime, TVL growth) but recent weakness suggesting consolidation, I expect moderate positive returns with elevated uncertainty. The cluster should benefit from continued DeFi adoption, but the recent 7-day pullback suggests near-term caution is warranted.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Bullish DeFi regime (+34.9% TVL growth) and solid protocol fundamentals (CAKE TVL +12.3%, BAL TVL +34.4%) support positive 14-day returns. However, recent 7-day decline (-5.72%) after strong 30-day run (+20.66%) suggests market consolidation phase. Expect continued upside from sector momentum but with elevated near-term uncertainty. Annualized forecast of 18% reflects ~3.4% 14-day return expectation, balanced against 71.3% volatility and -12.2% max drawdown risk.\"}\n```",
+  "date": "2025-05-17",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:02.640801+00:00"
+}

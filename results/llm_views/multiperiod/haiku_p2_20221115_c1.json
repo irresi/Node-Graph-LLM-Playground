@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Strong bear market regime with -34.84% 7-day decline and -28.28% 14-day decline. DeFi TVL down 16.1% in 30 days with negative Sharpe ratio (-1.23). AAVE TVL declining (-15.7%) suggests fundamental weakness in lending protocols. However, extreme drawdowns (-39.7%) and high volatility (149.7%) create mean-reversion risk. Forecasting continued downside but with lower confidence due to potential capitulation bounce. Annualized return of -85% extrapolates recent 14-day trend (-28.28%) over a full year given sustained bearish conditions, though this assumes no reversal within 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Strong bear market regime with -34.84% 7-day decline and -28.28% 14-day decline. DeFi TVL down 16.1% in 30 days with negative Sharpe ratio (-1.23). AAVE TVL declining (-15.7%) suggests fundamental weakness in lending protocols. However, extreme drawdowns (-39.7%) and high volatility (149.7%) create mean-reversion risk. Forecasting continued downside but with lower confidence due to potential capitulation bounce. Annualized return of -85% extrapolates recent 14-day trend (-28.28%) over a full year given sustained bearish conditions, though this assumes no reversal within 14 days.\"\n}\n```",
+  "date": "2022-11-15",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:12.566611+00:00"
+}

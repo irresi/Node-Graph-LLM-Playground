@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.58,
+  "reasoning": "After strong 30d rally (+20.6%), cluster shows momentum reversal with recent weakness (-8.78% 7d, -3.58% 14d). Expect consolidation and near-term sideways to slightly negative performance. Strong TVL growth and bull regime provide some support, but overbought conditions and profit-taking likely to dominate next 14 days. Moderate confidence due to inherent volatility and difficulty timing reversals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a return forecast for the next 14 days.\n\n## Analysis\n\n**Current Market Dynamics:**\n- Overall DeFi in moderate bull regime with strong TVL growth (+34.9% 30d)\n- CRV/CVX cluster delivered +20.60% over 30 days with excellent risk-adjusted returns (Sharpe: 2.26)\n- Both protocols showing strong TVL momentum (CRV +25.2%, CVX +31.2%)\n\n**Recent Momentum Analysis:**\n- 30-day return: +20.60% (strong)\n- 14-day return: -3.58% (recent pullback)\n- 7-day return: -8.78% (significant recent weakness)\n\nThis shows a clear deceleration pattern - the cluster is experiencing mean reversion after a strong 30-day rally. The recent 7-day and 14-day negative returns suggest profit-taking and consolidation.\n\n**Key Considerations:**\n1. **Momentum Reversal Risk**: The sharp decline from +20.6% (30d) to -8.78% (7d) indicates overbought conditions and profit-taking\n2. **Volatility**: 76.4% annualized volatility is elevated, creating both opportunity and risk\n3. **Fundamental Support**: Strong TVL growth (+25-31%) provides a floor, but protocol metrics don't guarantee near-term price appreciation\n4. **Market Regime**: Moderate bull regime is supportive, but not strong enough to override local overbought signals\n5. **Reversion Pattern**: Clusters tend to consolidate after sharp 20%+ runs, with sideways-to-slightly-negative returns typical\n\n**14-Day Forecast Rationale:**\n- Conservative outlook due to recent momentum reversal and overbought technicals\n- Expect consolidation with slight negative drift over next 14 days\n- TVL fundamentals provide downside support but insufficient to drive gains in near-term\n- Annualized conversion of likely -2% to +3% return over 14 days\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.58, \"reasoning\": \"After strong 30d rally (+20.6%), cluster shows momentum reversal with recent weakness (-8.78% 7d, -3.58% 14d). Expect consolidation and near-term sideways to slightly negative performance. Strong TVL growth and bull regime provide some support, but overbought conditions and profit-taking likely to dominate next 14 days. Moderate confidence due to inherent volatility and difficulty timing reversals.\"}\n```",
+  "date": "2025-05-17",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:22.481399+00:00"
+}

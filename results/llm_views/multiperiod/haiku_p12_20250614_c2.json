@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 2 (LINK, OP, ARB, ENS, GRT) faces headwinds: bear market regime, -24.53% 30-day decline, and -2.75 Sharpe ratio indicate poor risk-adjusted returns. However, recent 7-day momentum (+0.42%) suggests potential stabilization after heavy losses. Infrastructure/L2 tokens typically show mean-reversion in bear markets. The negative 14-day return (-2.51%) indicates sustained weakness. Annualized forecast of -85% reflects continued downside pressure typical of bear cycles, but confidence is moderate (0.45) due to potential bounce-back risk and limited TVL data visibility for most tokens in the cluster.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 2 (LINK, OP, ARB, ENS, GRT) faces headwinds: bear market regime, -24.53% 30-day decline, and -2.75 Sharpe ratio indicate poor risk-adjusted returns. However, recent 7-day momentum (+0.42%) suggests potential stabilization after heavy losses. Infrastructure/L2 tokens typically show mean-reversion in bear markets. The negative 14-day return (-2.51%) indicates sustained weakness. Annualized forecast of -85% reflects continued downside pressure typical of bear cycles, but confidence is moderate (0.45) due to potential bounce-back risk and limited TVL data visibility for most tokens in the cluster.\"\n}\n```",
+  "date": "2025-06-14",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:07.286868+00:00"
+}

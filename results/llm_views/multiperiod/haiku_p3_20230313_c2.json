@@ -1,0 +1,28 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows negative short-term momentum (-7.46% over 14 days, -2.44% last 7 days) despite positive 30-day return (+2.47%), indicating recent weakness. Key protocols like CRV (-15.5% TVL 30d) and CAKE (-11.9% TVL 30d) are experiencing TVL outflows. Neutral market regime and elevated volatility (52.3% annualized) create headwinds. However, BAL's +10.4% TVL growth and cluster's infrastructure quality (UNI, AAVE, LINK, LDO) provide some support. Conservative negative forecast reflects bearish momentum with moderate confidence given macro uncertainty and mixed protocol-level signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows negative short-term momentum (-7.46% over 14 days, -2.44% last 7 days) despite positive 30-day return (+2.47%), indicating recent weakness. Key protocols like CRV (-15.5% TVL 30d) and CAKE (-11.9% TVL 30d) are experiencing TVL outflows. Neutral market regime and elevated volatility (52.3% annualized) create headwinds. However, BAL's +10.4% TVL growth and cluster's infrastructure quality (UNI, AAVE, LINK, LDO) provide some support. Conservative negative forecast reflects bearish momentum with moderate confidence given macro uncertainty and mixed protocol-level signals.\"\n}\n```",
+  "date": "2023-03-13",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:45.856244+00:00"
+}

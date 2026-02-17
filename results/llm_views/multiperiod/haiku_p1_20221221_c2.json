@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows severe recent losses (-16.56% over 14 days) in a neutral market regime. While oversold conditions suggest potential mean reversion recovery, negative momentum and high volatility (40.8% annualized) limit confidence. Forecast modest recovery over next 14 days annualized, but with low confidence due to uncertain macro conditions and deteriorating protocol fundamentals for major tokens like CAKE and UNI.",
+  "raw_response": "Based on the provided market context and cluster metrics, I'll analyze the factors to forecast the expected return for Cluster 2 over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Negative Momentum**: The cluster shows deteriorating performance over successive periods:\n   - 30-day return: -5.67%\n   - 14-day return: -16.56%\n   - 7-day return: -13.31%\n   This acceleration in losses suggests sustained downward pressure.\n\n2. **Market Conditions**: \n   - Neutral/range-bound regime with slight TVL contraction (-0.3%)\n   - High volatility (40.8% annualized) with significant drawdown (-19.5%)\n   - Negative Sharpe ratio (-1.17) indicates poor risk-adjusted returns\n\n3. **Protocol Fundamentals**:\n   - Mixed TVL trends: CAKE (-11.7%), UNI (-8.0%) showing weakness\n   - Some resilience: SUSHI (+1.4%), BAL (+14.0%) gaining TVL\n   - Large protocols (UNI, CRV) stabilizing with minimal changes\n\n4. **Mean Reversion Considerations**:\n   - Current 14-day decline of -16.56% is significant\n   - Cluster may be oversold, suggesting potential bounce-back\n   - However, negative 7-day trend (-13.31%) suggests momentum hasn't shifted\n\n**Forecast Logic:**\n- Expected slight recovery from oversold conditions (mean reversion)\n- Neutral market regime limits upside potential\n- Volatility remains elevated, creating uncertainty\n- 14-day annualized return estimate accounting for potential partial recovery\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Cluster shows severe recent losses (-16.56% over 14 days) in a neutral market regime. While oversold conditions suggest potential mean reversion recovery, negative momentum and high volatility (40.8% annualized) limit confidence. Forecast modest recovery over next 14 days annualized, but with low confidence due to uncertain macro conditions and deteriorating protocol fundamentals for major tokens like CAKE and UNI.\"}\n```",
+  "date": "2022-12-21",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:17.057288+00:00"
+}

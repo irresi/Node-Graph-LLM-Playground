@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Liquid staking cluster (LDO, RPL) shows negative momentum with -17.76% 30-day return and -4.54% 7-day return, indicating continued downward pressure. High volatility (50.9% annualized) and negative Sharpe ratio (-2.93) reflect poor risk-adjusted returns. However, TVL fundamentals remain stable (LDO +2.7%, RPL +0.9% 30d), suggesting underlying protocol health. The neutral market regime and range-bound conditions limit extreme moves. Over 14 days, momentum typically persists but at diminishing rate. Annualized -45% reflects expectations of continued modest declines with recovery potential as trend may stabilize. Moderate confidence due to high volatility and conflicting signals between on-chain fundamentals and price momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Liquid staking cluster (LDO, RPL) shows negative momentum with -17.76% 30-day return and -4.54% 7-day return, indicating continued downward pressure. High volatility (50.9% annualized) and negative Sharpe ratio (-2.93) reflect poor risk-adjusted returns. However, TVL fundamentals remain stable (LDO +2.7%, RPL +0.9% 30d), suggesting underlying protocol health. The neutral market regime and range-bound conditions limit extreme moves. Over 14 days, momentum typically persists but at diminishing rate. Annualized -45% reflects expectations of continued modest declines with recovery potential as trend may stabilize. Moderate confidence due to high volatility and conflicting signals between on-chain fundamentals and price momentum.\"\n}\n```",
+  "date": "2023-08-07",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:23.677091+00:00"
+}

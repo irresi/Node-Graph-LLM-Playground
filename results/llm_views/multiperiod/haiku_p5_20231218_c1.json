@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.65,
+  "confidence": 0.62,
+  "reasoning": "Cluster in recovery phase after -10.91% 7-day pullback within positive 30-day trend (+8.93%). Bull regime with growing TVL supports upside, but technical weakness and high volatility (49.1%) warrant measured optimism. Expect ~2.5% 14-day gain, annualizing to ~65%. Confidence moderate due to short timeframe volatility and uncertain macro conditions.",
+  "raw_response": "Based on the market context provided, I'll analyze this DeFi cluster to forecast the 14-day expected return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum (Mixed Signal)**\n   - 7-day return: -10.91% (significant pullback)\n   - 14-day return: -1.35% (recovery underway)\n   - 30-day return: +8.93% (strong longer-term trend)\n   - This suggests volatility with a recent correction but maintaining overall upward bias\n\n2. **Market Regime**\n   - Moderate Bull regime with +9.1% TVL growth\n   - Positive structural environment for DeFi protocols\n\n3. **Cluster Composition**\n   - Diversified across Oracle (LINK), Lending (COMP, MKR), Derivatives (SNX), and L2 (OP)\n   - Strong TVL metrics: MKR ($5.9B) and COMP ($2.3B) showing solid fundamentals\n   - SNX showing exceptional growth (+26.2% TVL change in 30 days)\n\n4. **Risk Metrics**\n   - Annualized volatility: 49.1% (high but typical for DeFi)\n   - Sharpe ratio: 1.53 (strong risk-adjusted returns)\n   - Max drawdown: -10.3% (manageable)\n\n5. **Forecast Considerations**\n   - Recovery phase after recent -10.91% pullback suggests mean reversion\n   - Bull regime support and growing TVL provide tailwinds\n   - However, technical pullback suggests caution for near-term aggressive positioning\n   - 14-day window is relatively short; expect partial recovery but not immediate reversal\n\n**Methodology:**\n- The cluster showed +8.93% over 30 days but -10.91% over 7 days, indicating a recent correction\n- For the next 14 days, I expect partial recovery toward the 30-day trend with some consolidation\n- Annualizing a modest 14-day gain (~2-3%) yields approximately 0.52-0.78 annualized return\n\n```json\n{\n  \"expected_return\": 0.65,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in recovery phase after -10.91% 7-day pullback within positive 30-day trend (+8.93%). Bull regime with growing TVL supports upside, but technical weakness and high volatility (49.1%) warrant measured optimism. Expect ~2.5% 14-day gain, annualizing to ~65%. Confidence moderate due to short timeframe volatility and uncertain macro conditions.\"\n}\n```",
+  "date": "2023-12-18",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:43:44.281059+00:00"
+}

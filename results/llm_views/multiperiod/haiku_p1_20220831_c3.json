@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 is in a severe bear regime with -21.6% 30-day return and -23.5% 14-day return. The negative Sharpe ratio (-2.74) and high volatility (66.2% annualized) indicate risk-adjusted returns are poor. While mean reversion could provide some bounce, the strong downtrend, broader DeFi TVL decline (-4.5%), and lack of positive protocol fundamentals suggest continued weakness over the next 14 days. Low confidence due to high volatility and potential for sharp reversals in crypto markets during bear regimes. Annualized forecast reflects expected 14-day return of approximately -7% extrapolated.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 is in a severe bear regime with -21.6% 30-day return and -23.5% 14-day return. The negative Sharpe ratio (-2.74) and high volatility (66.2% annualized) indicate risk-adjusted returns are poor. While mean reversion could provide some bounce, the strong downtrend, broader DeFi TVL decline (-4.5%), and lack of positive protocol fundamentals suggest continued weakness over the next 14 days. Low confidence due to high volatility and potential for sharp reversals in crypto markets during bear regimes. Annualized forecast reflects expected 14-day return of approximately -7% extrapolated.\"\n}\n```",
+  "date": "2022-08-31",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:12.320458+00:00"
+}

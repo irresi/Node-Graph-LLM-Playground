@@ -1,0 +1,31 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.55,
+  "reasoning": "Cluster showing oversold conditions after -10.93% 14-day decline with recent stabilization (+0.57% 7d). Neutral market regime and mixed protocol TVL trends suggest modest mean reversion potential. Forecast reflects ~2.4% 14-day recovery (annualized to 0.35), supported by technical positioning but limited by lack of bullish catalysts and elevated 44.6% volatility. Moderate confidence due to unpredictable near-term dynamics and poor recent risk-adjusted returns (Sharpe 0.20).",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Current Market Conditions:**\n- DeFi TVL showing modest growth (+4.4% 30d), indicating stable market conditions\n- Market regime is neutral/range-bound, suggesting no strong directional bias\n- Overall environment is neither bullish nor bearish\n\n**Cluster Performance Assessment:**\n- 30-day return: +1.07% (positive but modest)\n- 14-day return: -10.93% (significant recent pullback)\n- 7-day return: +0.57% (slight recovery from 14-day low)\n- The cluster showed weakness over the past 2 weeks but is stabilizing\n\n**Volatility & Risk:**\n- Annualized volatility: 44.6% (moderate-high for crypto)\n- Sharpe ratio: 0.20 (poor risk-adjusted returns recently)\n- Max drawdown: -17.7% (significant downside occurred)\n\n**Protocol Fundamentals:**\n- Mixed TVL trends: UNI (+5.9%), SUSHI (+10.6%), CAKE (+8.3%) showing strength\n- CRV slightly negative (-1.0%), suggesting some concentration risk\n- Weighted TVL average suggests reasonable protocol health\n\n**Forward-Looking Considerations:**\n- Cluster recently bottomed after -10.93% 14-day decline, suggesting potential mean reversion\n- 7-day uptick (+0.57%) indicates stabilization\n- Neutral market regime provides neither tailwind nor headwind\n- No strong catalyst evident, but oversold conditions may support modest recovery\n\n**14-Day Forecast Logic:**\nThe cluster appears poised for a modest recovery given the recent sharp drawdown, though the neutral regime and poor recent Sharpe ratio suggest caution. Mean reversion from oversold levels could drive 2-4% gains over 14 days, which annualizes to approximately 52-104% annually. However, the lack of strong bullish catalysts and still-elevated volatility warrant a conservative mid-range estimate.\n\n```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster showing oversold conditions after -10.93% 14-day decline with recent stabilization (+0.57% 7d). Neutral market regime and mixed protocol TVL trends suggest modest mean reversion potential. Forecast reflects ~2.4% 14-day recovery (annualized to 0.35), supported by technical positioning but limited by lack of bullish catalysts and elevated 44.6% volatility. Moderate confidence due to unpredictable near-term dynamics and poor recent risk-adjusted returns (Sharpe 0.20).\"\n}\n```",
+  "date": "2024-10-09",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:52.025000+00:00"
+}

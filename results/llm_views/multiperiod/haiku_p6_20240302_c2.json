@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Strong bullish momentum with 14-day return of +19.77% and 7-day return of +15.68% suggests continued upside. Bull market regime with 42.4% DeFi TVL growth supports derivatives demand. However, DYDX's 62.5% annualized volatility and -7.4% max drawdown indicate elevated risk. The exceptional Sharpe ratio (4.86) reflects recent outperformance but may not sustain. Annualized forecast of 28% assumes momentum moderates from recent 36.15% 30-day return. Confidence capped at 0.62 due to single-token cluster concentration risk and potential mean reversion in a volatile derivatives protocol.",
+  "raw_response": "Based on the provided market context and cluster metrics, here is my analysis for Cluster 2 (DYDX):\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bullish momentum with 14-day return of +19.77% and 7-day return of +15.68% suggests continued upside. Bull market regime with 42.4% DeFi TVL growth supports derivatives demand. However, DYDX's 62.5% annualized volatility and -7.4% max drawdown indicate elevated risk. The exceptional Sharpe ratio (4.86) reflects recent outperformance but may not sustain. Annualized forecast of 28% assumes momentum moderates from recent 36.15% 30-day return. Confidence capped at 0.62 due to single-token cluster concentration risk and potential mean reversion in a volatile derivatives protocol.\"\n}\n```",
+  "date": "2024-03-02",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:33.497756+00:00"
+}

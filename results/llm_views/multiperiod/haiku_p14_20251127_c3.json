@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "SNX faces severe headwinds: 69.23% 30-day loss, -47.5% TVL decline, -7.22 Sharpe ratio, and bear market regime. 7-14 day momentum remains deeply negative (-14.37% / -28.82%). Derivatives protocols typically underperform in bear markets due to liquidation cascades and reduced trading activity. However, extreme drawdowns sometimes precede mean reversion, limiting downside forecasts. Low confidence reflects high volatility (80.6% annualized) and unpredictability of derivative token recoveries in distressed conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"SNX faces severe headwinds: 69.23% 30-day loss, -47.5% TVL decline, -7.22 Sharpe ratio, and bear market regime. 7-14 day momentum remains deeply negative (-14.37% / -28.82%). Derivatives protocols typically underperform in bear markets due to liquidation cascades and reduced trading activity. However, extreme drawdowns sometimes precede mean reversion, limiting downside forecasts. Low confidence reflects high volatility (80.6% annualized) and unpredictability of derivative token recoveries in distressed conditions.\"\n}\n```",
+  "date": "2025-11-27",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:25.383767+00:00"
+}

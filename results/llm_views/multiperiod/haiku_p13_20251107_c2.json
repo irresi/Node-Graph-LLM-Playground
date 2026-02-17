@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear regime with -53.52% 30-day loss and -26% TVL decline. Recent momentum deeply negative (-19.02% over 14 days, -12.79% over 7 days), suggesting continued downside in short term. High volatility (130.6% annualized) and negative Sharpe ratio (-3.44) indicate risk-reward is severely unfavorable. However, confidence is low (0.35) due to: (1) extreme market stress may be near capitulation bottom, (2) LDO's large 34.8% weight could stabilize if liquid staking demand rebounds, (3) technical oversold conditions may trigger bounce. Forecast reflects high probability of further decline over 14 days given momentum persistence, but substantial uncertainty about timing of potential reversal. Annualized return estimate assumes continuation of recent weekly drawdown rate (~-12.79% over 2 weeks extrapolates to ~-3.3 over 14 days or ~-85% annualized).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -53.52% 30-day loss and -26% TVL decline. Recent momentum deeply negative (-19.02% over 14 days, -12.79% over 7 days), suggesting continued downside in short term. High volatility (130.6% annualized) and negative Sharpe ratio (-3.44) indicate risk-reward is severely unfavorable. However, confidence is low (0.35) due to: (1) extreme market stress may be near capitulation bottom, (2) LDO's large 34.8% weight could stabilize if liquid staking demand rebounds, (3) technical oversold conditions may trigger bounce. Forecast reflects high probability of further decline over 14 days given momentum persistence, but substantial uncertainty about timing of potential reversal. Annualized return estimate assumes continuation of recent weekly drawdown rate (~-12.79% over 2 weeks extrapolates to ~-3.3 over 14 days or ~-85% annualized).\"\n}\n```",
+  "date": "2025-11-07",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:57.971215+00:00"
+}

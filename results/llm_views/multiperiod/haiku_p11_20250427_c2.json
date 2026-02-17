@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong short-term momentum (+10.48% in 7d, +10.11% in 14d) but fundamentals are weak: bear market regime, negative TVL trends (MKR -1.9%, SNX -6.0%, GMX -5.2%), low Sharpe ratio (0.05), and significant volatility (73.2% annualized). The 14-day annualized return forecast (~0.42%) is anchored to recent 30-day performance, but high uncertainty due to deteriorating protocol metrics and potential mean reversion in a bear market. Low confidence reflects conflicting signals between momentum and fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+10.48% in 7d, +10.11% in 14d) but fundamentals are weak: bear market regime, negative TVL trends (MKR -1.9%, SNX -6.0%, GMX -5.2%), low Sharpe ratio (0.05), and significant volatility (73.2% annualized). The 14-day annualized return forecast (~0.42%) is anchored to recent 30-day performance, but high uncertainty due to deteriorating protocol metrics and potential mean reversion in a bear market. Low confidence reflects conflicting signals between momentum and fundamentals.\"\n}\n```",
+  "date": "2025-04-27",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:29.364802+00:00"
+}

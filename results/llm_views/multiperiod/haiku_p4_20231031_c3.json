@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Liquid staking cluster shows strong 14-day momentum (+17.65%) in bull market regime with solid TVL growth (+6.3% LDO, +8.6% RPL). However, annualizing 14-day returns risks mean reversion. Recent 7-day return (+1.61%) suggests cooling momentum. High volatility (53.1%) and max drawdown (-16.9%) warrant moderate confidence. TVL fundamentals remain healthy supporting medium-term outlook. Forecast reflects: (1) positive near-term momentum tempered by recent deceleration, (2) bull market support partially offset by valuation concerns after strong run, (3) liquidity/staking narrative tailwinds but uncertain ethereum/validator environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Liquid staking cluster shows strong 14-day momentum (+17.65%) in bull market regime with solid TVL growth (+6.3% LDO, +8.6% RPL). However, annualizing 14-day returns risks mean reversion. Recent 7-day return (+1.61%) suggests cooling momentum. High volatility (53.1%) and max drawdown (-16.9%) warrant moderate confidence. TVL fundamentals remain healthy supporting medium-term outlook. Forecast reflects: (1) positive near-term momentum tempered by recent deceleration, (2) bull market support partially offset by valuation concerns after strong run, (3) liquidity/staking narrative tailwinds but uncertain ethereum/validator environment.\"\n}\n```",
+  "date": "2023-10-31",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:39:58.435318+00:00"
+}

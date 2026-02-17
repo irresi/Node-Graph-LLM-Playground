@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 shows conflicting signals: recent 14-day momentum (+13.84%) and 7-day strength (+4.00%) suggest potential reversal from bear market lows, but fundamental headwinds persist - overall DeFi TVL down 9.3%, cluster volatility extremely high (77.6%), and Sharpe ratio deeply negative (-1.38). Limited protocol TVL data (mostly infrastructure/L2 tokens without TVL metrics) restricts fundamental analysis. Low confidence reflects high uncertainty in a bear regime where recent bounces often reverse. Position likely reflects tactical oversold conditions rather than sustainable recovery drivers.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 shows conflicting signals: recent 14-day momentum (+13.84%) and 7-day strength (+4.00%) suggest potential reversal from bear market lows, but fundamental headwinds persist - overall DeFi TVL down 9.3%, cluster volatility extremely high (77.6%), and Sharpe ratio deeply negative (-1.38). Limited protocol TVL data (mostly infrastructure/L2 tokens without TVL metrics) restricts fundamental analysis. Low confidence reflects high uncertainty in a bear regime where recent bounces often reverse. Position likely reflects tactical oversold conditions rather than sustainable recovery drivers.\"\n}\n```",
+  "date": "2025-04-21",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:21.937275+00:00"
+}

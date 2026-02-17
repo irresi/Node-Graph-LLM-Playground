@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with strong downtrend momentum (-25.91% over 30 days, -7.08% over 7 days) suggests continued weakness. However, CRV's positive TVL trend (+17.0%) provides some fundamental support against further deterioration. The extreme negative Sharpe ratio (-4.25) and high volatility (51.2%) indicate elevated risk. Annualizing the 14-day return (-8.29%) yields approximately -85% annualized, though mean reversion from oversold conditions and CRV's improving fundamentals provide modest upside potential. Moderate confidence reflects the conflicting signals between technical weakness and improving protocol metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong downtrend momentum (-25.91% over 30 days, -7.08% over 7 days) suggests continued weakness. However, CRV's positive TVL trend (+17.0%) provides some fundamental support against further deterioration. The extreme negative Sharpe ratio (-4.25) and high volatility (51.2%) indicate elevated risk. Annualizing the 14-day return (-8.29%) yields approximately -85% annualized, though mean reversion from oversold conditions and CRV's improving fundamentals provide modest upside potential. Moderate confidence reflects the conflicting signals between technical weakness and improving protocol metrics.\"\n}\n```",
+  "date": "2024-01-29",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:02.899466+00:00"
+}

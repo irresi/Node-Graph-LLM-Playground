@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "OP (Optimism L2) faces severe headwinds: bear market regime with -36.5% DeFi TVL decline, extreme 30-day drawdown of -83.27%, and annualized volatility of 200.1%. However, positive 7-day momentum (+15.39%) suggests potential short-term recovery. The 14-day return of -9.58% indicates stabilization attempts. L2 tokens historically correlate with broader market sentiment. Low confidence (0.35) reflects high uncertainty in current bear conditions and extreme volatility. Forecast assumes partial mean reversion from 30-day lows but continued weakness from negative 14-day trend and macro headwinds. Annualized expectation of -45% reflects realistic downside risk in this regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"OP (Optimism L2) faces severe headwinds: bear market regime with -36.5% DeFi TVL decline, extreme 30-day drawdown of -83.27%, and annualized volatility of 200.1%. However, positive 7-day momentum (+15.39%) suggests potential short-term recovery. The 14-day return of -9.58% indicates stabilization attempts. L2 tokens historically correlate with broader market sentiment. Low confidence (0.35) reflects high uncertainty in current bear conditions and extreme volatility. Forecast assumes partial mean reversion from 30-day lows but continued weakness from negative 14-day trend and macro headwinds. Annualized expectation of -45% reflects realistic downside risk in this regime.\"\n}\n```",
+  "date": "2022-06-30",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:56.108615+00:00"
+}

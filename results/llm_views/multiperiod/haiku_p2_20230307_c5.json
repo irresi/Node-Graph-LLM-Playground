@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster in moderate bear regime with negative 30-day momentum (-4.87%), though 7-day shows recovery (+0.29%). TVL trends mixed: UNI/SUSHI/MKR stable (-0.7% to -3.7%), but CAKE declining sharply (-11.3%). High volatility (48.2%) and negative Sharpe ratio (-0.85) suggest elevated downside risk. 14-day lookback shows -8.39% decline, indicating continued weakness. Forecast negative returns over next 14 days, annualized to -18%, with moderate confidence given regime uncertainty and some stabilization signals in recent week.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in moderate bear regime with negative 30-day momentum (-4.87%), though 7-day shows recovery (+0.29%). TVL trends mixed: UNI/SUSHI/MKR stable (-0.7% to -3.7%), but CAKE declining sharply (-11.3%). High volatility (48.2%) and negative Sharpe ratio (-0.85) suggest elevated downside risk. 14-day lookback shows -8.39% decline, indicating continued weakness. Forecast negative returns over next 14 days, annualized to -18%, with moderate confidence given regime uncertainty and some stabilization signals in recent week.\"\n}\n```",
+  "date": "2023-03-07",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:22.118062+00:00"
+}

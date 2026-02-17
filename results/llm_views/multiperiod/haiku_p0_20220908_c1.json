@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.38,
+  "confidence": 0.55,
+  "reasoning": "Recent 14-day recovery (+4.60%) suggests near-term momentum, but strong bear market regime and poor risk-adjusted returns (Sharpe: -1.47) limit conviction. High volatility (55.4% annualized) and mixed protocol fundamentals (CAKE declining, GMX recovering) create conflicting signals. Forecasting modest positive annualized return with moderate confidence, expecting partial continuation of bounce with mean reversion pressure from macro environment.",
+  "raw_response": "Based on the market context and cluster data provided, I'll analyze the key factors to forecast the expected return:\n\n**Key Analysis Points:**\n\n1. **Market Regime**: Strong bear market with -7.2% TVL decline and overall negative sentiment\n2. **Recent Momentum**: Positive short-term reversal (+6.09% in 7 days, +4.60% in 14 days) contrasts with -9.71% monthly return\n3. **Cluster Volatility**: High annualized volatility at 55.4% with -23.8% max drawdown indicates elevated risk\n4. **Protocol Health**: Mixed signals - CAKE declining (-11.2%), GMX recovering (+8.7%), RPL stable (-2.2%)\n5. **Technical Setup**: The 7-day and 14-day positive returns suggest a potential bounce, but sustainability is uncertain given the bear regime\n\n**Forecast Rationale:**\n\nThe positive short-term momentum (last 14 days) suggests some recovery potential, but this occurs within a deteriorating macro environment. The high volatility and negative Sharpe ratio (-1.47) indicate risk-adjusted returns are poor. Given we're forecasting the *next* 14 days (similar to the last period which showed +4.60%), I expect continuation of this recovery trend but with moderate conviction given macro headwinds.\n\nConverting the 14-day return of +4.60% to an annualized basis: (1.046)^(365/14) - 1 \u2248 1.09 or 109% annualized. However, this assumes unsustainable momentum continuation. A more realistic estimate factors in mean reversion toward the negative regime: approximately 35-40% annualized.\n\n**Confidence**: Moderate-to-low due to regime uncertainty and volatility.\n\n```json\n{\n  \"expected_return\": 0.38,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Recent 14-day recovery (+4.60%) suggests near-term momentum, but strong bear market regime and poor risk-adjusted returns (Sharpe: -1.47) limit conviction. High volatility (55.4% annualized) and mixed protocol fundamentals (CAKE declining, GMX recovering) create conflicting signals. Forecasting modest positive annualized return with moderate confidence, expecting partial continuation of bounce with mean reversion pressure from macro environment.\"\n}\n```",
+  "date": "2022-09-08",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:22.272474+00:00"
+}

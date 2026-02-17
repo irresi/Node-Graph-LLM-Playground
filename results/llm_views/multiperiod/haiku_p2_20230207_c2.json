@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong TVL growth supports positive bias. Recent 54.96% 30-day return and maintained 13-14% momentum suggest 14-day annualized return ~28%. However, slight deceleration (14d < 7d returns) and high volatility (74.5%) indicate mean reversion risk. Confidence moderate due to momentum deceleration and regression probability after outsized gains.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Cluster Composition & Strength:**\n- Strong cluster with liquid staking (LDO) and derivatives (GMX, RPL)\n- LDO dominates by TVL ($8.4B), showing solid +31.4% 30-day growth\n- RPL showing exceptional momentum (+39.0% 30-day TVL growth)\n- GMX stable but smaller position\n\n**Momentum & Performance:**\n- Exceptional recent performance: +54.96% over 30 days\n- Strong momentum maintained: +13.86% (7d) and +13.17% (14d) returns\n- Sharpe ratio of 6.20 indicates high risk-adjusted returns\n- Max drawdown only -7.9% despite high volatility\u2014shows resilience\n\n**Market Context:**\n- Bull regime with strong uptrend and moderate volatility\n- Overall DeFi TVL up +22.0% (30d)\u2014positive tailwind\n- Cluster outperforming broader market (+54.96% vs +22.0%)\n\n**Momentum Deceleration Signal:**\n- 14-day return (13.17%) < 7-day return (13.86%)\u2014slight deceleration\n- After 30-day surge of +54.96%, mean reversion risk is material\n- High volatility (74.5% annualized) creates both opportunity and downside risk\n\n**14-Day Forecast Considerations:**\n- Bull regime and positive TVL trends support continued upside\n- Recent momentum suggests 8-18% annualized return range is reasonable\n- However, extreme gains over 30 days increase probability of consolidation/pullback\n- Confidence moderated due to momentum deceleration and regression-to-mean risk\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.62, \"reasoning\": \"Bull market regime with strong TVL growth supports positive bias. Recent 54.96% 30-day return and maintained 13-14% momentum suggest 14-day annualized return ~28%. However, slight deceleration (14d < 7d returns) and high volatility (74.5%) indicate mean reversion risk. Confidence moderate due to momentum deceleration and regression probability after outsized gains.\"}\n```",
+  "date": "2023-02-07",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:08.598840+00:00"
+}

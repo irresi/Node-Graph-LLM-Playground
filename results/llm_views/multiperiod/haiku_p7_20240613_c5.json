@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows negative short-term momentum (7d: -16.97%, 14d: -13.15%) despite positive 30d returns (+7.36%), indicating recent weakness. Moderate bull regime supports recovery, but high volatility (67.4%) and recent drawdown (-19.3%) create uncertainty. AAVE's strong TVL growth (+22.8%) is offset by weaker performers (CAKE +3.7%). Short-term technical weakness dominates near-term outlook, but Sharpe ratio of 0.92 suggests reasonable risk-adjusted fundamentals. Annualized to 14-day horizon suggests continued near-term pressure before potential recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows negative short-term momentum (7d: -16.97%, 14d: -13.15%) despite positive 30d returns (+7.36%), indicating recent weakness. Moderate bull regime supports recovery, but high volatility (67.4%) and recent drawdown (-19.3%) create uncertainty. AAVE's strong TVL growth (+22.8%) is offset by weaker performers (CAKE +3.7%). Short-term technical weakness dominates near-term outlook, but Sharpe ratio of 0.92 suggests reasonable risk-adjusted fundamentals. Annualized to 14-day horizon suggests continued near-term pressure before potential recovery.\"\n}\n```",
+  "date": "2024-06-13",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:29.479115+00:00"
+}

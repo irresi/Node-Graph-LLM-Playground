@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Oversold cluster with slight recovery momentum (+1.77% 7d) suggests potential mean reversion bounce over 14 days. However, persistent bear market regime, -40.8% TVL decline, and structural headwinds limit upside. High volatility (96.8%) creates significant uncertainty. Annualized return of 0.18 reflects modest positive expected performance with low-to-moderate confidence.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Market Context:**\n- Severe bear market with -40.8% TVL decline over 30 days\n- Cluster has underperformed broadly with -53.49% monthly return\n- High volatility (96.8% annualized) and deeply negative Sharpe ratio (-4.64)\n\n**Recent Momentum Signals:**\n- 7-day return: +1.77% (slight recovery)\n- 14-day return: -1.07% (still negative overall)\n- Max drawdown: -50.7% (cluster near lows)\n\n**Protocol Fundamentals:**\n- Mixed TVL trends: AAVE relatively resilient (-25.9%), but CRV heavily impaired (-53.1%)\n- Large absolute TVLs remain (AAVE $9.4B, CRV $8.8B, UNI $5.6B) suggest user commitment despite price pressure\n- Weighted mix of yield/DEX/lending/liquid staking provides some diversification\n\n**Key Considerations:**\n1. **Oversold conditions**: -50.7% drawdown and -53% monthly return suggest capitulation\n2. **Slight momentum reversal**: +1.77% weekly return indicates potential stabilization\n3. **Bear market regime**: Structural headwinds persist (broader crypto decline, TVL contraction)\n4. **Valuation**: Protocols may be undervalued after severe drawdown, but recovery uncertain\n5. **14-day window**: Too short to assume full recovery, but potential for mean reversion bounce\n\n**Forecast Rationale:**\nGiven oversold conditions and slight recent recovery momentum, I expect modest positive returns over the next 14 days. However, the persistent bear market regime and ongoing TVL contraction limit upside. A bounce is likely, but magnitude will be constrained.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.45, \"reasoning\": \"Oversold cluster with slight recovery momentum (+1.77% 7d) suggests potential mean reversion bounce over 14 days. However, persistent bear market regime, -40.8% TVL decline, and structural headwinds limit upside. High volatility (96.8%) creates significant uncertainty. Annualized return of 0.18 reflects modest positive expected performance with low-to-moderate confidence.\"}\n```",
+  "date": "2022-06-02",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:12.835899+00:00"
+}

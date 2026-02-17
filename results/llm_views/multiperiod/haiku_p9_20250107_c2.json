@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear market with -36.60% 30-day loss and -39.3% max drawdown. Recent 7-day bounce (+10.49%) suggests potential short-term recovery, but fundamentals remain weak: DeFi TVL down 4.9%, SNX TVL collapsed -34.1%, overall volatility extremely high (91% annualized). Sharpe ratio of -3.38 indicates risk-adjusted returns are deeply negative. While mean reversion could drive modest gains, the structural headwinds (market regime, TVL contraction, high leverage unwinding) make another downturn more probable. Low confidence due to high volatility and unpredictable market sentiment in bear conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear market with -36.60% 30-day loss and -39.3% max drawdown. Recent 7-day bounce (+10.49%) suggests potential short-term recovery, but fundamentals remain weak: DeFi TVL down 4.9%, SNX TVL collapsed -34.1%, overall volatility extremely high (91% annualized). Sharpe ratio of -3.38 indicates risk-adjusted returns are deeply negative. While mean reversion could drive modest gains, the structural headwinds (market regime, TVL contraction, high leverage unwinding) make another downturn more probable. Low confidence due to high volatility and unpredictable market sentiment in bear conditions.\"\n}\n```",
+  "date": "2025-01-07",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:29.788224+00:00"
+}

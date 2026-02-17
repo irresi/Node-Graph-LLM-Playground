@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Moderate bull regime and AAVE strength support recovery from 7-day weakness. 14-day positive momentum suggests mean reversion. However, recent -7.63% decline, negative Sharpe ratio, and mixed TVL trends (UNI, CAKE declining) limit upside. Annualized 0.18 reflects ~2-3% expected 14-day return with high volatility. Confidence moderate due to macro uncertainty and sector rotation signs.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Overall DeFi TVL is relatively stable (-0.9% 30d change)\n- Market regime is \"Moderate Bull\" - positive trend\n- Current date context: October 2023 (moderate bull market period for crypto)\n\n**Cluster 3 Performance Metrics:**\n- 30-day return: -0.16% (slightly negative)\n- 7-day return: -7.63% (significant recent weakness)\n- 14-day return: +4.13% (positive momentum in the preceding period)\n- Volatility: 33.6% annualized (high but typical for DeFi)\n- Sharpe ratio: -0.04 (poor risk-adjusted returns)\n- Max drawdown: -7.5% (moderate)\n\n**TVL Fundamentals:**\n- Mixed signals: AAVE growing (+5.2%), but major protocols declining (UNI -5.6%, CAKE -1.2%)\n- Top protocols (UNI, AAVE, CAKE) represent significant cluster weight\n- AAVE's strength suggests some capital rotation within the cluster\n\n**Key Observations:**\n1. The cluster shows mixed momentum: positive 14-day but negative 7-day suggests recent pullback\n2. The 7-day -7.63% decline may represent mean-reversion opportunity\n3. Moderate bull regime supports recovery potential\n4. AAVE's +5.2% TVL growth indicates sector health despite overall weakness\n5. Volatility is high, creating both risk and opportunity\n\n**14-Day Forward Forecast:**\nGiven the recent 7-day weakness against a positive 14-day backdrop and moderate bull regime, I expect partial recovery with modest positive returns.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.55, \"reasoning\": \"Moderate bull regime and AAVE strength support recovery from 7-day weakness. 14-day positive momentum suggests mean reversion. However, recent -7.63% decline, negative Sharpe ratio, and mixed TVL trends (UNI, CAKE declining) limit upside. Annualized 0.18 reflects ~2-3% expected 14-day return with high volatility. Confidence moderate due to macro uncertainty and sector rotation signs.\"}\n```",
+  "date": "2023-10-09",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:51.178529+00:00"
+}

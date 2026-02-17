@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -7.5% TVL decline, cluster down -19.73% over 30 days, and negative momentum (-3.27% over 14 days). High volatility (52.8% annualized) and negative Sharpe ratio (-3.14) suggest continued weakness. However, oversold conditions and potential mean reversion provide some upside risk. TVL declines moderating (-2.32% last 7 days vs -3.27% last 14 days) suggest stabilization. Forecasting continued near-term pressure with modest recovery potential, annualized to approximately -45% return over 14 days, but confidence tempered by high uncertainty in bear market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -7.5% TVL decline, cluster down -19.73% over 30 days, and negative momentum (-3.27% over 14 days). High volatility (52.8% annualized) and negative Sharpe ratio (-3.14) suggest continued weakness. However, oversold conditions and potential mean reversion provide some upside risk. TVL declines moderating (-2.32% last 7 days vs -3.27% last 14 days) suggest stabilization. Forecasting continued near-term pressure with modest recovery potential, annualized to approximately -45% return over 14 days, but confidence tempered by high uncertainty in bear market conditions.\"\n}\n```",
+  "date": "2024-07-03",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:49.343939+00:00"
+}

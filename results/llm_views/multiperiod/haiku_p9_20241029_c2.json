@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 2 (DEX/Derivatives) shows severe bearish momentum in a contracting DeFi market. Recent 14-day return of -5.12% annualizes to ~-133%, but mean reversion from extreme drawdown suggests moderation. SNX's -18.9% TVL decline indicates protocol stress. However, negative Sharpe ratio (-2.37) and 53.9% volatility create reversal opportunities. Conservative forecast of -85% annualized reflects: (1) bear market regime with -3.3% DeFi TVL contraction, (2) recent downtrend stabilization (7d and 14d returns similar), (3) mean reversion pull toward cluster volatility, (4) liquidity concentration risk in CAKE (TVL-weighted major position). Moderate confidence due to regime uncertainty and potential capitulation bounce.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 2 (DEX/Derivatives) shows severe bearish momentum in a contracting DeFi market. Recent 14-day return of -5.12% annualizes to ~-133%, but mean reversion from extreme drawdown suggests moderation. SNX's -18.9% TVL decline indicates protocol stress. However, negative Sharpe ratio (-2.37) and 53.9% volatility create reversal opportunities. Conservative forecast of -85% annualized reflects: (1) bear market regime with -3.3% DeFi TVL contraction, (2) recent downtrend stabilization (7d and 14d returns similar), (3) mean reversion pull toward cluster volatility, (4) liquidity concentration risk in CAKE (TVL-weighted major position). Moderate confidence due to regime uncertainty and potential capitulation bounce.\"\n}\n```",
+  "date": "2024-10-29",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:35.096958+00:00"
+}

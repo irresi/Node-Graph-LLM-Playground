@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster showing short-term correction momentum (-12.56% in 7 days) after strong 30-day rally. Moderate bull regime and mixed TVL fundamentals suggest modest recovery over 14 days, but recent selling pressure and high volatility (82.7% annualized) create substantial uncertainty. Expected annualized return of 8% reflects partial mean reversion while accounting for downside risk. Confidence moderate due to momentum reversal and lack of clear catalyst.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum Reversal**: Despite a strong 30-day return (+25.57%), the cluster has declined significantly in the last 14 days (-8.35%) and especially the last 7 days (-12.56%). This suggests momentum is negative in the short term.\n\n2. **Market Regime**: Moderate bull market with positive DeFi TVL trends (+3.7%), providing some supportive backdrop, though this is being offset by recent selling pressure.\n\n3. **Volatility**: Annualized volatility of 82.7% is very high, indicating substantial price swings and risk. The max drawdown of -28.6% shows significant downside potential.\n\n4. **TVL Trends**: Mixed signals - CRV showing strong TVL growth (+28.3%) is positive, but UNI (the largest component) showing slight decline (-0.1%) and others modest growth suggest consolidation rather than explosive growth.\n\n5. **Sharpe Ratio**: 2.60 is excellent historically, but this is based on the 30-day outperformance period. Recent negative momentum suggests this may normalize.\n\n**Forecast Rationale:**\n\n- The 14-day downtrend (-8.35%) suggests the cluster is in a correction phase after the 30-day rally\n- Recent momentum is decidedly negative (last 7 days worse than last 14 days)\n- High volatility means mean reversion is likely, but direction uncertain\n- TVL fundamentals are mixed, providing support but not strong catalyst\n- In a moderate bull regime, corrections typically recover 50-70% of downside\n\nGiven the recent weakness, I expect some recovery but at a modest pace over 14 days, with elevated volatility providing downside risk.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster showing short-term correction momentum (-12.56% in 7 days) after strong 30-day rally. Moderate bull regime and mixed TVL fundamentals suggest modest recovery over 14 days, but recent selling pressure and high volatility (82.7% annualized) create substantial uncertainty. Expected annualized return of 8% reflects partial mean reversion while accounting for downside risk. Confidence moderate due to momentum reversal and lack of clear catalyst.\"\n}\n```",
+  "date": "2024-12-24",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:21.268414+00:00"
+}

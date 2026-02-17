@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in pronounced bear regime with -24% 30-day return and -15.8% 14-day return. Strong negative momentum (-3.38% last 7 days) suggests continued weakness. TVL declining across major protocols (UNI -11.8%, CAKE -13%, BAL -23.6%), indicating reduced capital inflow. High volatility (65% annualized) and negative Sharpe ratio (-3.11) reflect risk-off sentiment. However, confidence tempered by potential mean reversion bounce and AAVE's relative resilience (-4% TVL change). Expect near-term continued decline with -85% annualized return over next 14 days, but significant recovery probability if market sentiment shifts.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.62, \"reasoning\": \"Cluster in pronounced bear regime with -24% 30-day return and -15.8% 14-day return. Strong negative momentum (-3.38% last 7 days) suggests continued weakness. TVL declining across major protocols (UNI -11.8%, CAKE -13%, BAL -23.6%), indicating reduced capital inflow. High volatility (65% annualized) and negative Sharpe ratio (-3.11) reflect risk-off sentiment. However, confidence tempered by potential mean reversion bounce and AAVE's relative resilience (-4% TVL change). Expect near-term continued decline with -85% annualized return over next 14 days, but significant recovery probability if market sentiment shifts.\"}\n```",
+  "date": "2024-07-11",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:14.714653+00:00"
+}

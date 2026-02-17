@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Strong 14-day momentum (+9.61%) and positive TVL growth (weighted avg ~14.3%) support near-term bullish outlook. Bull market regime and +12.1% DeFi TVL increase provide tailwinds. However, 30-day return of only +0.71% suggests recent acceleration may be mean-reverting, and low Sharpe ratio (0.20) indicates weak risk-adjusted returns. Confidence moderated due to high volatility (29.6%), recent -9.9% drawdown, and potential momentum exhaustion. 14-day annualized return estimate derived from recent trajectory with structural discount for reversal risk.",
+  "raw_response": "Based on the provided market context and cluster metrics, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong 14-day momentum (+9.61%) and positive TVL growth (weighted avg ~14.3%) support near-term bullish outlook. Bull market regime and +12.1% DeFi TVL increase provide tailwinds. However, 30-day return of only +0.71% suggests recent acceleration may be mean-reverting, and low Sharpe ratio (0.20) indicates weak risk-adjusted returns. Confidence moderated due to high volatility (29.6%), recent -9.9% drawdown, and potential momentum exhaustion. 14-day annualized return estimate derived from recent trajectory with structural discount for reversal risk.\"\n}\n```\n\n**Key factors:**\n- **Bullish**: Recent 14-day uptrend (+9.61%), TVL expansion across 4/5 tokens (LDO +16.6%, AAVE +14.6%), bull market regime\n- **Headwinds**: Weak medium-term performance (30-day +0.71% despite TVL growth), low Sharpe ratio, GMX declining (-0.3%), 30% annualized volatility creates execution risk\n- **Confidence rationale**: Moderate confidence reflects tension between strong short-term momentum and weak risk-adjusted fundamentals. The 14-day forecast is more reliable than longer horizons given momentum, but elevated volatility and recent drawdowns suggest caution.",
+  "date": "2024-02-17",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:24.594526+00:00"
+}

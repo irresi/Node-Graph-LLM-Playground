@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "MKR has experienced severe downward momentum (-17.41% over 30 days, -7.19% over 7 days) with high volatility (44.7% annualized). However, the underlying protocol shows strength with +9.8% TVL growth over 30 days, suggesting fundamental resilience. The negative Sharpe ratio (-3.27) and max drawdown of -20.8% indicate challenging market conditions. The forecast reflects continued near-term weakness due to momentum and technical pressure, but with moderate confidence given the disconnect between price action and protocol fundamentals. DeFi market regime remains neutral/range-bound, suggesting potential stabilization. The 14-day annualized return assumes partial stabilization from the steep recent declines.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR has experienced severe downward momentum (-17.41% over 30 days, -7.19% over 7 days) with high volatility (44.7% annualized). However, the underlying protocol shows strength with +9.8% TVL growth over 30 days, suggesting fundamental resilience. The negative Sharpe ratio (-3.27) and max drawdown of -20.8% indicate challenging market conditions. The forecast reflects continued near-term weakness due to momentum and technical pressure, but with moderate confidence given the disconnect between price action and protocol fundamentals. DeFi market regime remains neutral/range-bound, suggesting potential stabilization. The 14-day annualized return assumes partial stabilization from the steep recent declines.\"\n}\n```",
+  "date": "2024-10-09",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:00.608210+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows signs of stabilization (positive 7-day return) amid improving DeFi TVL (+13.3%) and strong AAVE growth (+16.7%). However, recent 14-day underperformance (-6.23%), high volatility (71.1%), and weak absolute momentum warrant cautious outlook. Expected ~2% gain over 14 days annualizes to ~0.42, reflecting modest recovery potential with significant downside risks.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- DeFi TVL growing +13.3% (30-day), suggesting expanding market\n- AAVE showing strong TVL growth (+16.7%), largest protocol in cluster\n- BAL and CAKE showing solid TVL growth (+9.3% and +6.4%)\n- Recent 7-day return positive (+0.28%), indicating momentum reversal\n- Neutral/range-bound market regime (less extreme downside risk)\n\n**Negative Indicators:**\n- Cluster down -2.30% over 30 days, -6.23% over 14 days\n- High annualized volatility (71.1%), indicating high risk\n- Negative Sharpe ratio (-0.27), poor risk-adjusted returns\n- Significant max drawdown (-16.4%)\n- COMP showing TVL decline (-3.5%)\n- Recent momentum is weak (only +0.28% over 7 days after -6.23% over 14 days)\n\n**Analysis:**\nThe cluster has underperformed despite positive macro DeFi trends. However, there are signs of stabilization with the recent 7-day positive return. The growing AAVE TVL is a significant positive given its weight in the cluster. The neutral market regime suggests we're in a consolidation phase after losses.\n\nFor a 14-day forecast, I'm looking at potential mean reversion given the recent positive momentum, but the high volatility and recent underperformance warrant caution. The improving TVL metrics suggest underlying protocol health is intact.\n\nAnnualizing a modest recovery from 14-day consolidation:\n- If cluster gains 2-3% over next 14 days, annualized = ~0.52-0.78\n- Accounting for volatility and uncertainty, I'll moderate this estimate\n\n```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows signs of stabilization (positive 7-day return) amid improving DeFi TVL (+13.3%) and strong AAVE growth (+16.7%). However, recent 14-day underperformance (-6.23%), high volatility (71.1%), and weak absolute momentum warrant cautious outlook. Expected ~2% gain over 14 days annualizes to ~0.42, reflecting modest recovery potential with significant downside risks.\"\n}\n```",
+  "date": "2025-08-29",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:14.511827+00:00"
+}

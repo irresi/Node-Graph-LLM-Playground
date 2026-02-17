@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime and strong TVL growth (+40.1%) support positive returns. However, recent momentum shows deceleration (7d: +18.15% vs 14d: +10.93%), and high volatility (70.9% annualized) with -15.7% max drawdown suggests mean reversion risk. Moderate positive annualized return expected with measured confidence given inherent volatility and recent rally exhaustion patterns.",
+  "raw_response": "Based on the provided market context for Cluster 6 (YFI), I'll analyze the key factors to forecast the expected annualized return over the next 14 days.\n\n**Key Analysis Points:**\n\n1. **Recent Momentum**: The cluster shows strong recent performance with +18.15% (7-day) and +10.93% (14-day) returns, indicating positive momentum.\n\n2. **Market Regime**: Bull market with strong uptrend and moderate volatility, which is favorable for continued gains.\n\n3. **Volatility Considerations**: Annualized volatility of 70.9% is substantial, suggesting significant price swings. This creates both opportunity and risk.\n\n4. **Sharpe Ratio**: An excellent 3.59 Sharpe ratio indicates strong risk-adjusted returns.\n\n5. **TVL Growth**: YFI's TVL increased +40.1% in 30 days, showing strong protocol adoption and capital inflows.\n\n6. **Mean Reversion Risk**: After a 38.73% 30-day return and 18.15% 7-day return, some mean reversion is likely. The -15.7% max drawdown suggests volatility cycles.\n\n7. **14-day Deceleration Pattern**: The 14-day return (+10.93%) is lower than the 7-day return (+18.15%), suggesting momentum may be cooling.\n\n**Forecast Rationale:**\nGiven the strong bull market backdrop but signs of momentum deceleration, I expect moderate positive returns over the next 14 days. The high volatility and recent strong performance suggest some pullback risk, but the positive TVL growth and market regime support continued gains at a moderated pace.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.62, \"reasoning\": \"Bull market regime and strong TVL growth (+40.1%) support positive returns. However, recent momentum shows deceleration (7d: +18.15% vs 14d: +10.93%), and high volatility (70.9% annualized) with -15.7% max drawdown suggests mean reversion risk. Moderate positive annualized return expected with measured confidence given inherent volatility and recent rally exhaustion patterns.\"}\n```",
+  "date": "2025-05-11",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:32.242375+00:00"
+}

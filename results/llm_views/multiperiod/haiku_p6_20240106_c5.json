@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Expecting modest recovery from recent -15.72% 7-day decline within moderate bull DeFi regime, supported by CAKE strength. However, low confidence due to negative 14-day trend (-4.15%), high volatility (73%), weak SUSHI fundamentals, and sector-wide TVL decline. Annualized 14-day forecast assumes partial rebound but with significant uncertainty.",
+  "raw_response": "I'll analyze the market context for Cluster 5 (SUSHI, CAKE) and provide a 14-day expected return forecast.\n\n**Analysis:**\n\n**Positive factors:**\n- Overall DeFi market in moderate bull regime\n- 30-day cluster return positive at +2.39%\n- CAKE showing strong growth (+10.4% TVL change in 30d)\n- CAKE dominates cluster with $1607M TVL (80% of cluster)\n\n**Negative factors:**\n- Recent 7-day return significantly negative (-15.72%)\n- Recent 14-day return negative (-4.15%)\n- High volatility (73% annualized) indicates significant uncertainty\n- SUSHI showing weakness (-9.6% TVL change)\n- TVL declining across overall DeFi (-4.4%)\n- Low Sharpe ratio (0.27) suggests poor risk-adjusted returns\n- Max drawdown of -18.6% indicates downside risk\n\n**14-day forecast considerations:**\n- The sharp recent decline (-15.72% in 7d) suggests a correction phase after the 30-day gains\n- Recovery momentum is possible given moderate bull regime, but the negative 14-day trend is concerning\n- High volatility creates both upside and downside risk\n- CAKE's strength may provide some support despite SUSHI weakness\n\n**Forecast rationale:**\nGiven the recent sell-off and mixed signals (bull regime vs. negative recent returns), I expect modest recovery but with significant uncertainty. The 7-day sharp decline suggests possible capitulation, which could precede recovery. However, weak TVL growth across the cluster and sector headwinds temper optimism.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"Expecting modest recovery from recent -15.72% 7-day decline within moderate bull DeFi regime, supported by CAKE strength. However, low confidence due to negative 14-day trend (-4.15%), high volatility (73%), weak SUSHI fundamentals, and sector-wide TVL decline. Annualized 14-day forecast assumes partial rebound but with significant uncertainty.\"}\n```",
+  "date": "2024-01-06",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:41.125654+00:00"
+}

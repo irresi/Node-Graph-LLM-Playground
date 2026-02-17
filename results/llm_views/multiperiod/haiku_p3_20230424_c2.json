@@ -1,0 +1,28 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster experiencing moderate bear market with negative 7/14/30-day returns (-15.02%, -10.48%, -3.13%). Recent momentum is strongly negative, with significant drawdowns (-16.3% max). However, some protocols show resilience (UNI +7.6% TVL growth, LINK stability). High volatility (43.9%) and negative Sharpe ratio (-0.60) suggest elevated risk. The 14-day forecast assumes partial mean reversion from the sharp 7-day decline (-15.02%), but bear regime persistence limits upside. Expected return annualized from 14-day base of approximately -1.2% to -0.5%, accounting for volatility clustering and potential stabilization. Moderate confidence due to regime uncertainty and differentiated token performance within cluster.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.62, \"reasoning\": \"Cluster experiencing moderate bear market with negative 7/14/30-day returns (-15.02%, -10.48%, -3.13%). Recent momentum is strongly negative, with significant drawdowns (-16.3% max). However, some protocols show resilience (UNI +7.6% TVL growth, LINK stability). High volatility (43.9%) and negative Sharpe ratio (-0.60) suggest elevated risk. The 14-day forecast assumes partial mean reversion from the sharp 7-day decline (-15.02%), but bear regime persistence limits upside. Expected return annualized from 14-day base of approximately -1.2% to -0.5%, accounting for volatility clustering and potential stabilization. Moderate confidence due to regime uncertainty and differentiated token performance within cluster.\"}\n```",
+  "date": "2023-04-24",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:29.277645+00:00"
+}

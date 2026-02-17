@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "YFI shows mixed signals: strong TVL growth (+49.3% in 30d) and moderate bull market regime suggest positive fundamentals, but recent 14-day underperformance (-16.01%) indicates momentum weakness. High volatility (76.3% annualized) and negative max drawdown (-15.7%) create headwinds. The positive 30-day return (+5.39%) and moderate Sharpe ratio (0.59) suggest recovery potential, but near-term outlook remains uncertain. Annualized return forecast reflects modest upside with significant uncertainty given the contradictory signals and high volatility.",
+  "raw_response": "Based on the provided market context and cluster analysis, here's my forecast for Cluster 6 (YFI):\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"YFI shows mixed signals: strong TVL growth (+49.3% in 30d) and moderate bull market regime suggest positive fundamentals, but recent 14-day underperformance (-16.01%) indicates momentum weakness. High volatility (76.3% annualized) and negative max drawdown (-15.7%) create headwinds. The positive 30-day return (+5.39%) and moderate Sharpe ratio (0.59) suggest recovery potential, but near-term outlook remains uncertain. Annualized return forecast reflects modest upside with significant uncertainty given the contradictory signals and high volatility.\"\n}\n```\n\n**Key considerations:**\n- **Bullish factors**: Exceptional TVL growth (+49.3%), expanding DeFi market (+22.1%), positive 30-day performance\n- **Bearish factors**: Sharp 14-day decline (-16.01%), high volatility (76.3%), recent max drawdown (-15.7%)\n- **Confidence limitation**: The divergence between strong fundamentals and weak recent momentum, combined with extreme volatility, justifies moderate confidence (0.52)",
+  "date": "2025-05-25",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:09.252873+00:00"
+}

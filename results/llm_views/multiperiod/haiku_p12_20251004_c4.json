@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 (CRV/CVX) shows mixed signals: recent 7-day momentum is strong (+17.25%) but 14-day return is negative (-1.98%), suggesting volatility and potential mean reversion. CRV's strong TVL growth (+10.6%) is positive, but CVX's TVL decline (-2.0%) is concerning. High volatility (73.9% annualized) and low Sharpe ratio (0.02) indicate risk-adjusted returns are poor. In a neutral/range-bound market with DeFi TVL growing moderately (+8.2%), the cluster faces headwinds from yield compression and competition. The positive 7-day momentum suggests near-term strength, but sustainability is questionable given fundamentals. Moderate positive return expected with low confidence due to execution risk and volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows mixed signals: recent 7-day momentum is strong (+17.25%) but 14-day return is negative (-1.98%), suggesting volatility and potential mean reversion. CRV's strong TVL growth (+10.6%) is positive, but CVX's TVL decline (-2.0%) is concerning. High volatility (73.9% annualized) and low Sharpe ratio (0.02) indicate risk-adjusted returns are poor. In a neutral/range-bound market with DeFi TVL growing moderately (+8.2%), the cluster faces headwinds from yield compression and competition. The positive 7-day momentum suggests near-term strength, but sustainability is questionable given fundamentals. Moderate positive return expected with low confidence due to execution risk and volatility.\"\n}\n```",
+  "date": "2025-10-04",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:42.338564+00:00"
+}

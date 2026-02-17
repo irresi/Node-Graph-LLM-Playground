@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "SNX derivatives cluster in severe bear regime with -56.8% 30-day loss and -15.16% 7-day decline. TVL collapsed -37.3% signaling fundamental weakness. Negative Sharpe (-7.48) and high volatility (63.8%) indicate extreme risk. Near-term continuation of losses likely given momentum, but extreme drawdown (-38.5%) may indicate oversold conditions with potential for mean reversion bounces. High volatility and bear market regime limit forecast confidence. Annualized extrapolation of -17.65% 14-day trend yields approximately -2.85 annualized for next 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": -2.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"SNX derivatives cluster in severe bear regime with -56.8% 30-day loss and -15.16% 7-day decline. TVL collapsed -37.3% signaling fundamental weakness. Negative Sharpe (-7.48) and high volatility (63.8%) indicate extreme risk. Near-term continuation of losses likely given momentum, but extreme drawdown (-38.5%) may indicate oversold conditions with potential for mean reversion bounces. High volatility and bear market regime limit forecast confidence. Annualized extrapolation of -17.65% 14-day trend yields approximately -2.85 annualized for next 14 days.\"\n}\n```",
+  "date": "2025-12-11",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:37.339771+00:00"
+}

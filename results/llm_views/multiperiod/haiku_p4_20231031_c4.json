@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong recent momentum (22.58% over 14 days, 6.86% over 7 days) in a bull market regime with healthy TVL growth (+4.5%). The 37.6% annualized volatility and strong Sharpe ratio (2.13) suggest positive risk-adjusted returns. However, confidence is moderate due to: (1) the -15.5% max drawdown indicating sharp correction risk, (2) lack of TVL data for 4 of 5 tokens limiting fundamental analysis, (3) infrastructure/L2 tokens being sentiment-driven, and (4) momentum-based forecasts typically mean-revert. Annualizing the 7-day trend (~6.86% weekly) yields ~45% annualized, but this likely overstates sustainable returns given recent magnitude. The forecast balances strong momentum against elevated mean-reversion risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (22.58% over 14 days, 6.86% over 7 days) in a bull market regime with healthy TVL growth (+4.5%). The 37.6% annualized volatility and strong Sharpe ratio (2.13) suggest positive risk-adjusted returns. However, confidence is moderate due to: (1) the -15.5% max drawdown indicating sharp correction risk, (2) lack of TVL data for 4 of 5 tokens limiting fundamental analysis, (3) infrastructure/L2 tokens being sentiment-driven, and (4) momentum-based forecasts typically mean-revert. Annualizing the 7-day trend (~6.86% weekly) yields ~45% annualized, but this likely overstates sustainable returns given recent magnitude. The forecast balances strong momentum against elevated mean-reversion risk.\"\n}\n```",
+  "date": "2023-10-31",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:03.233895+00:00"
+}

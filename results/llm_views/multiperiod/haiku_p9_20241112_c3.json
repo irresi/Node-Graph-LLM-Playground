@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.65,
+  "reasoning": "Cluster 3 shows strong positive momentum with 25.97% 7-day returns and excellent Sharpe ratio (1.89) in a moderate bull market. However, forecast confidence is tempered by: (1) high annualized volatility (52.8%) creating mean reversion risk after sharp 7-day gains, (2) infrastructure/L2 tokens lack TVL data limiting fundamental analysis, (3) recent 30-day trend decelerating (11.88%) suggests momentum may be peaking. The 14-day horizon sits between recent explosive gains and longer-term stabilization, suggesting continued but moderated upside. Annualized return of 18% reflects above-market expectations given current bull regime, but with material uncertainty around sustainability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 3 shows strong positive momentum with 25.97% 7-day returns and excellent Sharpe ratio (1.89) in a moderate bull market. However, forecast confidence is tempered by: (1) high annualized volatility (52.8%) creating mean reversion risk after sharp 7-day gains, (2) infrastructure/L2 tokens lack TVL data limiting fundamental analysis, (3) recent 30-day trend decelerating (11.88%) suggests momentum may be peaking. The 14-day horizon sits between recent explosive gains and longer-term stabilization, suggesting continued but moderated upside. Annualized return of 18% reflects above-market expectations given current bull regime, but with material uncertainty around sustainability.\"\n}\n```",
+  "date": "2024-11-12",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:59.672787+00:00"
+}

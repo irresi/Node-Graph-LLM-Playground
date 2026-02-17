@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows negative momentum (-12.28% over 14 days, -3.34% recent 7-day decline) in a neutral market regime. However, mixed protocol fundamentals with GMX (+14.7% TVL growth) and RPL (+7.5% TVL growth) suggest some underlying strength. The -1.33 Sharpe ratio and high volatility (43.1%) indicate poor risk-adjusted returns. Near-term technical weakness combined with moderate positive protocol metrics suggests continued downward pressure, but not severe. Annualized forecast accounts for mean-reversion potential and heterogeneous token performance within the cluster. Moderate confidence due to limited forward-looking data and recent regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows negative momentum (-12.28% over 14 days, -3.34% recent 7-day decline) in a neutral market regime. However, mixed protocol fundamentals with GMX (+14.7% TVL growth) and RPL (+7.5% TVL growth) suggest some underlying strength. The -1.33 Sharpe ratio and high volatility (43.1%) indicate poor risk-adjusted returns. Near-term technical weakness combined with moderate positive protocol metrics suggests continued downward pressure, but not severe. Annualized forecast accounts for mean-reversion potential and heterogeneous token performance within the cluster. Moderate confidence due to limited forward-looking data and recent regime uncertainty.\"\n}\n```",
+  "date": "2022-10-20",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:09.222713+00:00"
+}

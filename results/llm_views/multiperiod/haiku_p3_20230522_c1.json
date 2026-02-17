@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with strong negative momentum (-21.89% over 30 days, -2.48% over 14 days). High volatility (45.4% annualized) and negative Sharpe ratio (-4.05) indicate risk-adjusted returns are deeply negative. COMP shows TVL decline (-4.9%), suggesting protocol stress. However, oversold conditions and potential mean reversion in a 14-day window provide some upside optionality. Moderate confidence due to regime uncertainty and infrastructure tokens' sensitivity to narrative shifts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear market regime with strong negative momentum (-21.89% over 30 days, -2.48% over 14 days). High volatility (45.4% annualized) and negative Sharpe ratio (-4.05) indicate risk-adjusted returns are deeply negative. COMP shows TVL decline (-4.9%), suggesting protocol stress. However, oversold conditions and potential mean reversion in a 14-day window provide some upside optionality. Moderate confidence due to regime uncertainty and infrastructure tokens' sensitivity to narrative shifts.\"\n}\n```",
+  "date": "2023-05-22",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:49.351099+00:00"
+}

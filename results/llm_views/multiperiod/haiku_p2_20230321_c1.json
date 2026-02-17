@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.55,
+  "reasoning": "Cluster in bear market with -14.17% 30-day loss and -30.1% max drawdown. However, recent 14-day momentum is positive (+4.20%), and AAVE shows strong TVL growth (+13.0%), suggesting potential mean reversion. High volatility (61.3%) and negative Sharpe ratio (-1.94) indicate elevated risk. 7-day weakness (-0.13%) suggests momentum may be fading. Moderate confidence due to conflicting signals: fundamentals improving (AAVE TVL) vs. macro regime remaining bearish. Forecast reflects slightly negative bias with significant uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in bear market with -14.17% 30-day loss and -30.1% max drawdown. However, recent 14-day momentum is positive (+4.20%), and AAVE shows strong TVL growth (+13.0%), suggesting potential mean reversion. High volatility (61.3%) and negative Sharpe ratio (-1.94) indicate elevated risk. 7-day weakness (-0.13%) suggests momentum may be fading. Moderate confidence due to conflicting signals: fundamentals improving (AAVE TVL) vs. macro regime remaining bearish. Forecast reflects slightly negative bias with significant uncertainty.\"\n}\n```",
+  "date": "2023-03-21",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:25.867869+00:00"
+}

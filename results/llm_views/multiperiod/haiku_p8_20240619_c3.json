@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "MKR in a bear market regime with -22.12% 30-day decline and negative Sharpe ratio (-3.10). 14-day momentum is strongly negative (-16.86%). High volatility (59.9% annualized) suggests continued downside risk. However, TVL decline (-2.4%) is modest, indicating some protocol resilience. Confidence is moderate due to bear regime uncertainty and potential oversold conditions after sharp recent declines. Expected return annualized from negative 14-day momentum suggests -45% annualized, though mean reversion risk exists.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"MKR in a bear market regime with -22.12% 30-day decline and negative Sharpe ratio (-3.10). 14-day momentum is strongly negative (-16.86%). High volatility (59.9% annualized) suggests continued downside risk. However, TVL decline (-2.4%) is modest, indicating some protocol resilience. Confidence is moderate due to bear regime uncertainty and potential oversold conditions after sharp recent declines. Expected return annualized from negative 14-day momentum suggests -45% annualized, though mean reversion risk exists.\"\n}\n```",
+  "date": "2024-06-19",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:45.086408+00:00"
+}

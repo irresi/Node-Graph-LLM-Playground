@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows mixed signals: positive 30-day trend (+2.08%) and bullish market regime (TVL +17.9%, moderate bull) support upside. However, recent momentum is negative (-15.49% in 7-day, -10.03% in 14-day), suggesting short-term weakness and potential mean reversion. High volatility (55.2% annualized) and low Sharpe ratio (0.32) indicate elevated risk. The cluster comprises infrastructure/oracle tokens that may benefit from DeFi growth but face near-term headwinds. Forecast assumes partial recovery from recent selloff toward the 30-day trend within 14 days, but confidence is moderate due to conflicting signals and high idiosyncratic risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster shows mixed signals: positive 30-day trend (+2.08%) and bullish market regime (TVL +17.9%, moderate bull) support upside. However, recent momentum is negative (-15.49% in 7-day, -10.03% in 14-day), suggesting short-term weakness and potential mean reversion. High volatility (55.2% annualized) and low Sharpe ratio (0.32) indicate elevated risk. The cluster comprises infrastructure/oracle tokens that may benefit from DeFi growth but face near-term headwinds. Forecast assumes partial recovery from recent selloff toward the 30-day trend within 14 days, but confidence is moderate due to conflicting signals and high idiosyncratic risk.\"\n}\n```",
+  "date": "2024-03-21",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:30.570965+00:00"
+}

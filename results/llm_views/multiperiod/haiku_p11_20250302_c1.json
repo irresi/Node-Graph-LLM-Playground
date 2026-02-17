@@ -1,0 +1,18 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear regime with -42.52% 30-day loss and -16.54% 14-day loss. High volatility (77.3%) and negative Sharpe ratio (-4.62) indicate distressed conditions. Infrastructure/L2 tokens typically underperform in downturns. 25.5% DeFi TVL contraction suggests continued pressure. However, extreme drawdowns can sometimes precede mean reversion. Low confidence due to regime uncertainty and lack of clear fundamental catalysts. Annualized forecast based on recent momentum trajectory, but high volatility warrants caution.",
+  "raw_response": "```json\n{\n  \"expected_return\": -2.15,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -42.52% 30-day loss and -16.54% 14-day loss. High volatility (77.3%) and negative Sharpe ratio (-4.62) indicate distressed conditions. Infrastructure/L2 tokens typically underperform in downturns. 25.5% DeFi TVL contraction suggests continued pressure. However, extreme drawdowns can sometimes precede mean reversion. Low confidence due to regime uncertainty and lack of clear fundamental catalysts. Annualized forecast based on recent momentum trajectory, but high volatility warrants caution.\"\n}\n```",
+  "date": "2025-03-02",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:24.458714+00:00"
+}

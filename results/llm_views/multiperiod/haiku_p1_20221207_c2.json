@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -22.6% TVL decline and negative 30-day cluster return (-23.88%) suggest continued downward pressure. However, positive 14-day momentum (+5.66%) indicates potential bounce or stabilization. High volatility (84.8% annualized) and deeply negative Sharpe ratio (-2.36) create substantial uncertainty. Most major tokens showing double-digit TVL declines (SUSHI -39.2%, CRV -30.1%) signal fundamental weakness. Near-term recovery possible but likely temporary; annualized forecast reflects mean-reversion risk in severe bear conditions. Low confidence due to extreme volatility and conflicting signals (recent bounce vs. structural weakness).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -22.6% TVL decline and negative 30-day cluster return (-23.88%) suggest continued downward pressure. However, positive 14-day momentum (+5.66%) indicates potential bounce or stabilization. High volatility (84.8% annualized) and deeply negative Sharpe ratio (-2.36) create substantial uncertainty. Most major tokens showing double-digit TVL declines (SUSHI -39.2%, CRV -30.1%) signal fundamental weakness. Near-term recovery possible but likely temporary; annualized forecast reflects mean-reversion risk in severe bear conditions. Low confidence due to extreme volatility and conflicting signals (recent bounce vs. structural weakness).\"\n}\n```",
+  "date": "2022-12-07",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:56.861999+00:00"
+}

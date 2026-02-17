@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Moderate bear market regime with negative 14-day momentum (-4.18%) and TVL outflows across most protocols (UNI -1.8%, DYDX -13.4%). Recent 7-day bounce (+0.53%) shows weak recovery conviction. High volatility (78.2%) and poor Sharpe (0.09) indicate downside risk. CVX strength (+12.6% TVL) partially offsets weakness. Expect continued pressure with forecast annualized return of -8% over 14 days, confidence 0.45 due to volatility and potential for mean reversion in bear conditions.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Overall DeFi TVL declining (-7.1% in 30 days) indicates a bear market environment\n- Cluster is in a \"Moderate Bear\" regime, suggesting cautious sentiment\n\n**Cluster Performance Signals:**\n- 30-day return (+0.82%) shows slight resilience despite market headwinds\n- 14-day return (-4.18%) indicates recent weakness and negative momentum\n- 7-day return (+0.53%) shows some recovery, but insufficient to offset 14-day decline\n- High volatility (78.2% annualized) and low Sharpe ratio (0.09) suggest poor risk-adjusted returns\n- Max drawdown of -29.9% indicates significant downside risk experienced\n\n**Protocol Fundamentals:**\n- UNI, CAKE, COMP show modest TVL declines (-0.6% to -7.8%), indicating user outflows\n- DYDX shows steepest decline (-13.4%), suggesting weakness in derivatives segment\n- CVX is notable outlier with +12.6% TVL growth, providing some offsetting strength\n- Mixed signals across protocols with net negative trend in majority\n\n**Key Observations:**\n1. The 14-day decline (-4.18%) is more predictive of near-term direction than 30-day recovery\n2. Bear market regime typically continues for 2-4 weeks without major catalyst change\n3. Recent 7-day bounce is modest and may lack conviction given overall negative momentum\n4. High volatility with poor Sharpe ratio suggests mean reversion possibility, but downside bias given regime\n\n**Forecast Rationale:**\nGiven the moderate bear regime, negative 14-day momentum, TVL outflows, and recent weakness, I expect continued pressure over the next 14 days. The 7-day bounce provides minimal upside confidence. Annualizing to a 14-day timeframe, I estimate a slight negative return with moderate-to-low confidence due to high volatility and regime uncertainty.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Moderate bear market regime with negative 14-day momentum (-4.18%) and TVL outflows across most protocols (UNI -1.8%, DYDX -13.4%). Recent 7-day bounce (+0.53%) shows weak recovery conviction. High volatility (78.2%) and poor Sharpe (0.09) indicate downside risk. CVX strength (+12.6% TVL) partially offsets weakness. Expect continued pressure with forecast annualized return of -8% over 14 days, confidence 0.45 due to volatility and potential for mean reversion in bear conditions.\"}\n```",
+  "date": "2025-04-13",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:05.018748+00:00"
+}

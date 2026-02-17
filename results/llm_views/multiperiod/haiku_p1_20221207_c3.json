@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Strong bear market regime with -22.6% TVL decline and -24.11% 30-day cluster loss. However, positive 14-day momentum (+12.47%) suggests potential mean reversion or bottom-finding. High volatility (106.5% annualized) and negative Sharpe ratio (-1.90) indicate difficult conditions. The cluster composition (LINK oracle, OP/ENS/GRT infrastructure) faces macro headwinds. Low confidence due to extreme volatility, limited TVL data for fundamentals assessment, and conflicting signals between longer-term decline and recent bounce. 7-day trend (-0.51%) suggests momentum fading. Over 14 days, expect continued downward pressure with potential further losses, though rebound attempts likely given recent relief rally.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Strong bear market regime with -22.6% TVL decline and -24.11% 30-day cluster loss. However, positive 14-day momentum (+12.47%) suggests potential mean reversion or bottom-finding. High volatility (106.5% annualized) and negative Sharpe ratio (-1.90) indicate difficult conditions. The cluster composition (LINK oracle, OP/ENS/GRT infrastructure) faces macro headwinds. Low confidence due to extreme volatility, limited TVL data for fundamentals assessment, and conflicting signals between longer-term decline and recent bounce. 7-day trend (-0.51%) suggests momentum fading. Over 14 days, expect continued downward pressure with potential further losses, though rebound attempts likely given recent relief rally.\"\n}\n```",
+  "date": "2022-12-07",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:01.808857+00:00"
+}

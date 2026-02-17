@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "ARB is an L2 infrastructure token in a bear market with severe downtrend momentum (7-day: -18.78%, 14-day: -20.28%). High volatility (103.1% annualized) and negative Sharpe ratio (-0.48) reflect distressed conditions. The 14-day downtrend is more predictive than 30-day stabilization. However, L2 tokens can exhibit sharp reversals during capitulation, limiting confidence. Forecast assumes continuation of current weakness but acknowledges mean reversion risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ARB is an L2 infrastructure token in a bear market with severe downtrend momentum (7-day: -18.78%, 14-day: -20.28%). High volatility (103.1% annualized) and negative Sharpe ratio (-0.48) reflect distressed conditions. The 14-day downtrend is more predictive than 30-day stabilization. However, L2 tokens can exhibit sharp reversals during capitulation, limiting confidence. Forecast assumes continuation of current weakness but acknowledges mean reversion risk.\"\n}\n```",
+  "date": "2023-05-08",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:45.732510+00:00"
+}

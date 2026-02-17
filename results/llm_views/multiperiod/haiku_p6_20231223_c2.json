@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "DYDX derivatives cluster shows mixed signals: positive 7-day (+0.95%) and 14-day (+0.63%) momentum contrasts with negative 30-day (-1.57%) returns, suggesting recent recovery from drawdown. Bull market regime and stable TVL growth (+1.7%) are supportive, but high volatility (70.6% annualized) and negative Sharpe ratio (-0.19) indicate elevated risk. Derivatives tokens are sensitive to leverage cycles and funding rates. Modest positive 14-day annualized return reflects cautious optimism from near-term momentum, while low confidence reflects uncertainty around derivative market cyclicality and macro conditions.",
+  "raw_response": "```json\n{\"expected_return\": 0.12, \"confidence\": 0.35, \"reasoning\": \"DYDX derivatives cluster shows mixed signals: positive 7-day (+0.95%) and 14-day (+0.63%) momentum contrasts with negative 30-day (-1.57%) returns, suggesting recent recovery from drawdown. Bull market regime and stable TVL growth (+1.7%) are supportive, but high volatility (70.6% annualized) and negative Sharpe ratio (-0.19) indicate elevated risk. Derivatives tokens are sensitive to leverage cycles and funding rates. Modest positive 14-day annualized return reflects cautious optimism from near-term momentum, while low confidence reflects uncertainty around derivative market cyclicality and macro conditions.\"}\n```",
+  "date": "2023-12-23",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:51.205842+00:00"
+}

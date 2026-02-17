@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is in a severe downtrend within a bearish DeFi market. 30-day decline of -31.8% with high volatility (69.2%) and negative Sharpe ratio (-3.86) indicates distressed conditions. Recent 14-day return of -20.93% suggests momentum remains downward. However, the -3.70% 7-day return (vs -20.93% for 14-day) indicates deceleration in selling pressure, providing modest support for mean reversion. Moderate confidence reflects high uncertainty in bear markets and potential for either continued deterioration or stabilization. Annualized -85% reflects expected 14-day continuation of recent weakness (~-4% over 14 days) scaled annually.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is in a severe downtrend within a bearish DeFi market. 30-day decline of -31.8% with high volatility (69.2%) and negative Sharpe ratio (-3.86) indicates distressed conditions. Recent 14-day return of -20.93% suggests momentum remains downward. However, the -3.70% 7-day return (vs -20.93% for 14-day) indicates deceleration in selling pressure, providing modest support for mean reversion. Moderate confidence reflects high uncertainty in bear markets and potential for either continued deterioration or stabilization. Annualized -85% reflects expected 14-day continuation of recent weakness (~-4% over 14 days) scaled annually.\"\n}\n```",
+  "date": "2025-02-10",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:10.327322+00:00"
+}

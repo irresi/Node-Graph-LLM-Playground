@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster 4 faces headwinds from bear market regime (-10.29% 30d return, -1.69% 7d return) despite recent 14d bounce (+1.76%). High volatility (78.8%) and negative Sharpe ratio (-1.10) indicate poor risk-adjusted returns. CRV's TVL decline (-2.8%) and recent momentum weakness suggest continued downward pressure. LDO's strong TVL ($22.9B, +2.9%) provides some support, but insufficient to offset sector weakness. Conservative forecast accounts for mean reversion from recent bounce and structural bear market conditions. Low confidence reflects high volatility and regime uncertainty.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 4 faces headwinds from bear market regime (-10.29% 30d return, -1.69% 7d return) despite recent 14d bounce (+1.76%). High volatility (78.8%) and negative Sharpe ratio (-1.10) indicate poor risk-adjusted returns. CRV's TVL decline (-2.8%) and recent momentum weakness suggest continued downward pressure. LDO's strong TVL ($22.9B, +2.9%) provides some support, but insufficient to offset sector weakness. Conservative forecast accounts for mean reversion from recent bounce and structural bear market conditions. Low confidence reflects high volatility and regime uncertainty.\"\n}\n```\n\n**Key Reasoning:**\n1. **Bear Market Regime**: Strong downtrend with -10.29% 30-day returns and negative Sharpe ratio (-1.10) indicate unfavorable risk-adjusted conditions\n2. **Momentum Reversal Risk**: The +1.76% 14-day bounce appears unsustainable given the -1.69% 7-day pullback, suggesting mean reversion downward\n3. **Protocol Health Mixed**: While LDO shows strong fundamentals (large TVL with +2.9% growth) and SUSHI maintains stability (+5.0% TVL), CRV's TVL decline (-2.8%) signals weakness in the cluster's core\n4. **Volatility Discount**: 78.8% annualized volatility demands caution; elevated drawdown risk (-30.4% max) limits upside exposure\n5. **14-Day Timeframe**: Even with annualization, the next 2 weeks likely continues the prevailing bear trend with potential for additional -2% to -4% downside\n\nThe moderate confidence (0.45) reflects the unpredictable nature of crypto markets and the possibility of a sustained reversal, though technical and fundamental signals point toward continued weakness.",
+  "date": "2025-07-06",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:39.944864+00:00"
+}

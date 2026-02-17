@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "YFI shows mixed signals: negative 30-day return (-3.84%) and bear market regime weigh against positive 14-day momentum (+1.65%) and strong TVL growth (+5.8%). The high volatility (61.6%) and negative Sharpe ratio (-0.52) suggest elevated risk. The recent uptrend (14-day positive vs 30-day negative) indicates potential recovery, supporting a modest positive forecast annualized to 14-day horizon. Confidence is moderate due to conflicting signals and market regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"YFI shows mixed signals: negative 30-day return (-3.84%) and bear market regime weigh against positive 14-day momentum (+1.65%) and strong TVL growth (+5.8%). The high volatility (61.6%) and negative Sharpe ratio (-0.52) suggest elevated risk. The recent uptrend (14-day positive vs 30-day negative) indicates potential recovery, supporting a modest positive forecast annualized to 14-day horizon. Confidence is moderate due to conflicting signals and market regime uncertainty.\"\n}\n```",
+  "date": "2025-04-13",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:21.056640+00:00"
+}

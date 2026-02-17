@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -16.7% DeFi TVL decline and cluster down -48.97% YTD. Recent 7-day rebound (+6.37%) suggests possible oversold conditions, but fundamental weakness persists: LDO (-24.4% TVL), CRV (-14.2%), SUSHI (-22.7%). High volatility (89% annualized) and negative Sharpe ratio (-4.62) indicate elevated risk. 14-day forward-looking estimate assumes partial mean reversion from extreme drawdown but remains bearish given macro headwinds. Low confidence reflects regime uncertainty and potential for further liquidations in liquid staking derivative protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -16.7% DeFi TVL decline and cluster down -48.97% YTD. Recent 7-day rebound (+6.37%) suggests possible oversold conditions, but fundamental weakness persists: LDO (-24.4% TVL), CRV (-14.2%), SUSHI (-22.7%). High volatility (89% annualized) and negative Sharpe ratio (-4.62) indicate elevated risk. 14-day forward-looking estimate assumes partial mean reversion from extreme drawdown but remains bearish given macro headwinds. Low confidence reflects regime uncertainty and potential for further liquidations in liquid staking derivative protocols.\"\n}\n```",
+  "date": "2025-02-16",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:12.085333+00:00"
+}

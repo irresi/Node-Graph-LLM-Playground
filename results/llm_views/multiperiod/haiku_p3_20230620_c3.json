@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.45,
+  "reasoning": "ARB is a Layer 2 infrastructure token in a bear market regime with 66.9% annualized volatility and a negative Sharpe ratio (-0.82). Recent momentum is mixed: 7-day return of +8.99% suggests short-term recovery, but the 14-day return of -9.05% and 30-day decline of -6.50% indicate sustained downtrend with -24.5% max drawdown. As an L2 token without direct TVL fundamentals, ARB is driven by market sentiment and broader DeFi trends. The overall DeFi TVL declining 4.8% month-over-month and the strong bear regime suggest continued headwinds. The 7-day bounce may face resistance as the intermediate trend remains negative. Over 14 days, expecting modest negative returns with low confidence due to high volatility and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.45,\n  \"reasoning\": \"ARB is a Layer 2 infrastructure token in a bear market regime with 66.9% annualized volatility and a negative Sharpe ratio (-0.82). Recent momentum is mixed: 7-day return of +8.99% suggests short-term recovery, but the 14-day return of -9.05% and 30-day decline of -6.50% indicate sustained downtrend with -24.5% max drawdown. As an L2 token without direct TVL fundamentals, ARB is driven by market sentiment and broader DeFi trends. The overall DeFi TVL declining 4.8% month-over-month and the strong bear regime suggest continued headwinds. The 7-day bounce may face resistance as the intermediate trend remains negative. Over 14 days, expecting modest negative returns with low confidence due to high volatility and regime uncertainty.\"\n}\n```",
+  "date": "2023-06-20",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:37.936286+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 is in a severe bear regime with -41.67% 30-day decline and -16.7% TVL contraction. However, recent 7-day recovery (+16.79%) and near-flat 14-day performance (-0.17%) suggest potential mean reversion from oversold conditions. The -4.83 Sharpe ratio and 72.4% volatility indicate high downside risk. Given the strong bear market backdrop, negative TVL trends across all holdings (UNI -20%, CAKE -7.7%, COMP -9.6%, DYDX -17.2%, CVX -13.6%), and potential for continued liquidations, I forecast -85% annualized return (equivalent to ~-1.6% over 14 days). The 0.62 confidence reflects uncertainty around whether the recent bounce continues or reverses given macroeconomic headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 is in a severe bear regime with -41.67% 30-day decline and -16.7% TVL contraction. However, recent 7-day recovery (+16.79%) and near-flat 14-day performance (-0.17%) suggest potential mean reversion from oversold conditions. The -4.83 Sharpe ratio and 72.4% volatility indicate high downside risk. Given the strong bear market backdrop, negative TVL trends across all holdings (UNI -20%, CAKE -7.7%, COMP -9.6%, DYDX -17.2%, CVX -13.6%), and potential for continued liquidations, I forecast -85% annualized return (equivalent to ~-1.6% over 14 days). The 0.62 confidence reflects uncertainty around whether the recent bounce continues or reverses given macroeconomic headwinds.\"\n}\n```",
+  "date": "2025-02-16",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:08.086612+00:00"
+}

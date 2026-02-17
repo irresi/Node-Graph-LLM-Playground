@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.58,
+  "reasoning": "Bearish recent momentum (-5.16% 7-day, -1.32% 14-day) despite bull market suggests CAKE-specific weakness. Declining TVL (-1.4%) indicates potential market share loss. While bull regime provides support, the negative recent trend and divergence from monthly gains suggest downward pressure over next 14 days. High volatility (54.9%) and modest confidence due to unpredictable token dynamics.",
+  "raw_response": "I'll analyze this DeFi cluster (CAKE) to forecast its expected return over the next 14 days.\n\n**Analysis:**\n\n**Positive Factors:**\n- Overall DeFi market in bull regime with +6.6% TVL growth\n- 30-day cluster return of +5.44% shows positive momentum\n- Sharpe ratio of 0.83 indicates reasonable risk-adjusted returns\n- DEX category benefits from increased trading activity in bull markets\n\n**Negative Factors:**\n- CAKE's TVL declined -1.4% over 30 days, suggesting potential user outflow\n- Recent 7-day return of -5.16% shows sharp momentum reversal\n- 14-day return of -1.32% indicates continued weakness despite monthly gains\n- High annualized volatility of 54.9% creates significant uncertainty\n- Max drawdown of -9.3% demonstrates substantial downside risk\n\n**Key Insights:**\n- The negative recent trend (last 14 days) contradicts the positive 30-day return, suggesting the month's gains came earlier\n- Current momentum is bearish, with the token losing ground despite favorable market conditions\n- TVL stagnation while broader DeFi grows suggests CAKE may be losing market share\n- The divergence between monthly performance and recent weekly/14-day performance is a red flag\n\n**Forecast Rationale:**\nGiven the bearish recent momentum, declining TVL, and the fact that we're 20+ days into a bullish month that shows negative recent returns, I expect mean reversion downward from the 30-day baseline. The bull market regime provides some support, but CAKE's specific underperformance is concerning.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.58, \"reasoning\": \"Bearish recent momentum (-5.16% 7-day, -1.32% 14-day) despite bull market suggests CAKE-specific weakness. Declining TVL (-1.4%) indicates potential market share loss. While bull regime provides support, the negative recent trend and divergence from monthly gains suggest downward pressure over next 14 days. High volatility (54.9%) and modest confidence due to unpredictable token dynamics.\"}\n```",
+  "date": "2023-07-10",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:36.753846+00:00"
+}
