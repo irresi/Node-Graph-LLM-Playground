@@ -1,14 +1,14 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.62,
-  "reasoning": "CAKE shows mixed signals: positive 30-day trend (+4.61%) and strong TVL growth (+3.8%), but recent momentum is negative (7-day: -8.49%, 14-day: -2.28%), suggesting potential mean reversion. Neutral market regime with elevated volatility (41.9% annualized) increases uncertainty. The 0.93 Sharpe ratio indicates reasonable risk-adjusted returns historically. Forecasting modest positive 14-day returns as the token may stabilize after recent weakness, but low confidence due to conflicting signals and volatile conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows mixed signals: positive 30-day trend (+4.61%) and strong TVL growth (+3.8%), but recent momentum is negative (7-day: -8.49%, 14-day: -2.28%), suggesting potential mean reversion. Neutral market regime with elevated volatility (41.9% annualized) increases uncertainty. The 0.93 Sharpe ratio indicates reasonable risk-adjusted returns historically. Forecasting modest positive 14-day returns as the token may stabilize after recent weakness, but low confidence due to conflicting signals and volatile conditions.\"\n}\n```",
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "CAKE shows mixed signals: positive 30-day return (+4.61%) and strong TVL growth (+3.8%) support modest upside, but recent negative momentum (-8.49% 7-day, -2.28% 14-day) and high volatility (41.9%) create headwinds. The neutral market regime and Sharpe ratio of 0.93 suggest recovery potential, but near-term bearish price action warrants cautious positioning. Forecast assumes partial recovery from recent weakness with modest annualized gains over 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE shows mixed signals: positive 30-day return (+4.61%) and strong TVL growth (+3.8%) support modest upside, but recent negative momentum (-8.49% 7-day, -2.28% 14-day) and high volatility (41.9%) create headwinds. The neutral market regime and Sharpe ratio of 0.93 suggest recovery potential, but near-term bearish price action warrants cautious positioning. Forecast assumes partial recovery from recent weakness with modest annualized gains over 14 days.\"\n}\n```",
   "date": "2026-01-24",
   "cluster_id": 1,
   "members": [
     "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:41:14.735203+00:00",
+  "generated_at": "2026-02-17T17:45:10.916219+00:00",
   "enriched": false
 }

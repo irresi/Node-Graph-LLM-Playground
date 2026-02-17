@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.32,
-  "confidence": 0.58,
-  "reasoning": "Cluster shows significant negative momentum (14-day return: -11.65%) with high volatility (57.2% annualized). Mixed protocol fundamentals: LDO and SNX show positive TVL growth (+7.7%, +9.6%), but UNI and SUSHI declining. Neutral market regime suggests mean reversion potential, but negative 7-day trend (-11.15%) indicates continued weakness. Moderate confidence due to conflicting signals between individual protocols and overall negative trajectory. Expected 14-day return of ~-1.24% annualized to -0.32% accounts for potential stabilization but elevated drawdown risk.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows significant negative momentum (14-day return: -11.65%) with high volatility (57.2% annualized). Mixed protocol fundamentals: LDO and SNX show positive TVL growth (+7.7%, +9.6%), but UNI and SUSHI declining. Neutral market regime suggests mean reversion potential, but negative 7-day trend (-11.15%) indicates continued weakness. Moderate confidence due to conflicting signals between individual protocols and overall negative trajectory. Expected 14-day return of ~-1.24% annualized to -0.32% accounts for potential stabilization but elevated drawdown risk.\"\n}\n```",
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster faces continued headwinds from negative momentum (-11.65% in 14d), but oversold conditions and high volatility suggest partial mean reversion. LDO fundamentals provide support. Low confidence due to elevated volatility and neutral market regime limiting visibility. Expected annualized return of -8% reflects likely continued weakness over next 14 days with modest stabilization.",
+  "raw_response": "Looking at the provided data for Cluster 3, I'll analyze the key factors to forecast the expected 14-day annualized return:\n\n**Key Observations:**\n\n1. **Negative Recent Momentum**: The cluster shows sharp declines over 7 days (-11.15%) and 14 days (-11.65%), suggesting downward momentum that may persist short-term.\n\n2. **Elevated Volatility**: At 57.2% annualized volatility with a -0.41 Sharpe ratio, this is a high-risk cluster in a neutral market regime, indicating mean-reversion potential.\n\n3. **Mixed Fundamentals**: \n   - LDO shows strong TVL growth (+7.7%), the largest position\n   - SNX positive (+9.6%)\n   - UNI and RPL near flat\n   - SUSHI declining (-3.1%)\n\n4. **Market Regime**: Neutral/range-bound market with modest DeFi TVL growth (+3.0%) suggests limited tailwinds, but also potential for stabilization.\n\n5. **Technical Setup**: After a -11.65% decline over 14 days, the cluster may be oversold, but momentum remains bearish short-term.\n\n**Forecast Rationale:**\n- The sharp recent decline suggests continued near-term weakness\n- However, the extreme volatility and oversold conditions suggest partial mean reversion over the next 14 days\n- LDO's strong fundamentals provide some support\n- Neutral market regime limits upside catalysts\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Cluster faces continued headwinds from negative momentum (-11.65% in 14d), but oversold conditions and high volatility suggest partial mean reversion. LDO fundamentals provide support. Low confidence due to elevated volatility and neutral market regime limiting visibility. Expected annualized return of -8% reflects likely continued weakness over next 14 days with modest stabilization.\"}\n```",
   "date": "2026-01-24",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:41:22.912423+00:00",
+  "generated_at": "2026-02-17T17:45:21.484361+00:00",
   "enriched": false
 }

@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.45,
+  "expected_return": -0.85,
   "confidence": 0.62,
-  "reasoning": "Cluster 5 faces headwinds from bear market regime (-4.5% DeFi TVL decline) and negative momentum (-13.97% 30d, -12.05% 14d returns). However, 7-day return of -1.76% suggests deceleration in downtrend. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-off sentiment. AAVE's stable TVL (-0.7%) and GMX's slight TVL growth (+1.4%) provide some stabilization. Annualized 14-day trend of -12.05% converts to ~-1.03% over 14 days, but accounting for potential volatility mean reversion and oversold conditions in derivatives/yield protocols, expecting modest recovery rather than continued decline. Moderate confidence due to macro uncertainty and regime persistence risk.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 faces headwinds from bear market regime (-4.5% DeFi TVL decline) and negative momentum (-13.97% 30d, -12.05% 14d returns). However, 7-day return of -1.76% suggests deceleration in downtrend. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-off sentiment. AAVE's stable TVL (-0.7%) and GMX's slight TVL growth (+1.4%) provide some stabilization. Annualized 14-day trend of -12.05% converts to ~-1.03% over 14 days, but accounting for potential volatility mean reversion and oversold conditions in derivatives/yield protocols, expecting modest recovery rather than continued decline. Moderate confidence due to macro uncertainty and regime persistence risk.\"\n}\n```",
+  "reasoning": "Cluster 5 operates in a bear market regime with DeFi TVL declining 4.5% and the cluster down 13.97% over 30 days. Recent momentum is negative (-12.05% over 14 days, -1.76% over 7 days), suggesting continued downward pressure. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-adjusted returns are poor. However, the 7-day slowdown relative to 14-day returns suggests potential stabilization. Major protocols like AAVE (largest TVL at $24.7B) show resilience with minimal TVL decay (-0.7%), while MKR faces significant pressure (-11.1%). Over a 14-day forward horizon in this regime, expect continued weakness but potentially at a slower pace than recent months. Confidence is moderate due to macro uncertainty and the volatile nature of DeFi assets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 operates in a bear market regime with DeFi TVL declining 4.5% and the cluster down 13.97% over 30 days. Recent momentum is negative (-12.05% over 14 days, -1.76% over 7 days), suggesting continued downward pressure. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-adjusted returns are poor. However, the 7-day slowdown relative to 14-day returns suggests potential stabilization. Major protocols like AAVE (largest TVL at $24.7B) show resilience with minimal TVL decay (-0.7%), while MKR faces significant pressure (-11.1%). Over a 14-day forward horizon in this regime, expect continued weakness but potentially at a slower pace than recent months. Confidence is moderate due to macro uncertainty and the volatile nature of DeFi assets.\"\n}\n```",
   "date": "2025-06-28",
   "cluster_id": 5,
   "members": [
@@ -16,6 +16,6 @@
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:34:21.076473+00:00",
+  "generated_at": "2026-02-17T17:38:30.272572+00:00",
   "enriched": false
 }

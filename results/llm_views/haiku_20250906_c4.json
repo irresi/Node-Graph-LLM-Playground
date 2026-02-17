@@ -1,8 +1,8 @@
 {
   "expected_return": 0.12,
-  "confidence": 0.55,
-  "reasoning": "Cluster shows mixed signals: recent 30-day momentum (+8.27%) is positive, but 14-day pullback (-14.68%) and current 7-day weakness (-0.68%) suggest consolidation phase. High volatility (85.1%) and neutral market regime limit confidence. L2/infrastructure tokens typically trade on adoption narratives rather than TVL metrics. Cluster is likely establishing support after correction; modest positive returns expected over 14 days with moderate confidence due to macro uncertainty and mean-reversion dynamics.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows mixed signals: recent 30-day momentum (+8.27%) is positive, but 14-day pullback (-14.68%) and current 7-day weakness (-0.68%) suggest consolidation phase. High volatility (85.1%) and neutral market regime limit confidence. L2/infrastructure tokens typically trade on adoption narratives rather than TVL metrics. Cluster is likely establishing support after correction; modest positive returns expected over 14 days with moderate confidence due to macro uncertainty and mean-reversion dynamics.\"\n}\n```",
+  "confidence": 0.52,
+  "reasoning": "Cluster 4 shows mixed signals: positive 30-day momentum (+8.27%) and reasonable Sharpe ratio (0.82) are offset by recent weakness (7d: -0.68%, 14d: -14.68%), suggesting potential mean reversion. High volatility (85.1%) and significant recent drawdown (-17.7%) create elevated uncertainty. The neutral market regime and infrastructure-heavy composition (L2/Oracle tokens) lack strong catalysts in near-term. Moderate positive return reflects recovery potential from 14-day dip, but high volatility and weak recent momentum constrain confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster 4 shows mixed signals: positive 30-day momentum (+8.27%) and reasonable Sharpe ratio (0.82) are offset by recent weakness (7d: -0.68%, 14d: -14.68%), suggesting potential mean reversion. High volatility (85.1%) and significant recent drawdown (-17.7%) create elevated uncertainty. The neutral market regime and infrastructure-heavy composition (L2/Oracle tokens) lack strong catalysts in near-term. Moderate positive return reflects recovery potential from 14-day dip, but high volatility and weak recent momentum constrain confidence.\"\n}\n```",
   "date": "2025-09-06",
   "cluster_id": 4,
   "members": [
@@ -13,6 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:37:00.535835+00:00",
+  "generated_at": "2026-02-17T17:40:52.798203+00:00",
   "enriched": false
 }

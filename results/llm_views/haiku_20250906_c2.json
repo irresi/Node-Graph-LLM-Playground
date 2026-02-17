@@ -1,14 +1,14 @@
 {
-  "expected_return": -0.08,
-  "confidence": 0.45,
-  "reasoning": "BAL shows negative momentum with 14-day return of -14.16% and declining TVL (-7.3% in 30d), indicating reduced protocol utility. However, the neutral/range-bound market regime and modest 30-day return of -2.89% suggest the worst declines may have passed. The high volatility (82.3%) and negative Sharpe ratio (-0.29) indicate significant uncertainty. Expect continued weakness but at a slower pace given market stabilization. Low confidence due to high volatility, single-token cluster concentration risk, and potential for sharp reversals in the current market regime.",
-  "raw_response": "Based on the provided market data for Cluster 2 (BAL), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL shows negative momentum with 14-day return of -14.16% and declining TVL (-7.3% in 30d), indicating reduced protocol utility. However, the neutral/range-bound market regime and modest 30-day return of -2.89% suggest the worst declines may have passed. The high volatility (82.3%) and negative Sharpe ratio (-0.29) indicate significant uncertainty. Expect continued weakness but at a slower pace given market stabilization. Low confidence due to high volatility, single-token cluster concentration risk, and potential for sharp reversals in the current market regime.\"\n}\n```\n\n**Key considerations:**\n- **Negative momentum**: The 14-day decline of -14.16% significantly outweighs the 30-day decline, suggesting accelerating downward pressure\n- **TVL deterioration**: The -7.3% 30-day TVL change indicates declining protocol activity and user engagement\n- **Volatility risk**: At 82.3% annualized volatility, significant price swings are likely\n- **Market regime support**: The neutral/range-bound overall DeFi market (TVL +4.9%) provides some floor for recovery, but BAL's specific weakness persists\n- **Cluster concentration**: Single-token exposure amplifies idiosyncratic risk\n\nThe forecast assumes a moderation of recent declines with continued mild downside, reflecting the protocol's weakness while acknowledging potential mean reversion in a stabilizing market.",
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "BAL has experienced significant negative momentum (-14.16% over 14 days, -0.81% over 7 days) with high volatility (82.3% annualized). The underlying TVL decline (-7.3% in 30 days) suggests reduced protocol adoption. However, the negative Sharpe ratio (-0.29) and recent trend deceleration (7-day decline much smaller than 14-day) indicate potential stabilization. In a neutral/range-bound market regime with 102.6B TVL showing modest 4.9% growth, we expect continued but moderating downside pressure over the next 14 days. Confidence is moderate due to high volatility and the possibility of mean reversion in a sideways market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL has experienced significant negative momentum (-14.16% over 14 days, -0.81% over 7 days) with high volatility (82.3% annualized). The underlying TVL decline (-7.3% in 30 days) suggests reduced protocol adoption. However, the negative Sharpe ratio (-0.29) and recent trend deceleration (7-day decline much smaller than 14-day) indicate potential stabilization. In a neutral/range-bound market regime with 102.6B TVL showing modest 4.9% growth, we expect continued but moderating downside pressure over the next 14 days. Confidence is moderate due to high volatility and the possibility of mean reversion in a sideways market.\"\n}\n```",
   "date": "2025-09-06",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:36:45.929532+00:00",
+  "generated_at": "2026-02-17T17:40:39.253876+00:00",
   "enriched": false
 }

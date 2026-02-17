@@ -1,8 +1,8 @@
 {
   "expected_return": -0.85,
   "confidence": 0.62,
-  "reasoning": "Cluster in severe bear market with -33.46% 30-day loss and -10.53% 7-day decline. Strong negative momentum (-9.21% 14-day return) in deteriorating macro environment (TVL down 12.5%). High volatility (129.3%) and negative Sharpe (-2.17) indicate distressed conditions. LDO (34% weight) facing staking uncertainty; UNI/SUSHI under DEX pressure; SNX down -19.9%. Near-term continuation of downtrend likely given no reversal signals, though extreme drawdown (-31.9%) may precede oversold bounce. Confidence moderate due to macro uncertainty and potential capitulation.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear market with -33.46% 30-day loss and -10.53% 7-day decline. Strong negative momentum (-9.21% 14-day return) in deteriorating macro environment (TVL down 12.5%). High volatility (129.3%) and negative Sharpe (-2.17) indicate distressed conditions. LDO (34% weight) facing staking uncertainty; UNI/SUSHI under DEX pressure; SNX down -19.9%. Near-term continuation of downtrend likely given no reversal signals, though extreme drawdown (-31.9%) may precede oversold bounce. Confidence moderate due to macro uncertainty and potential capitulation.\"\n}\n```",
+  "reasoning": "Cluster in strong bear regime with -33.46% 30-day decline and negative momentum (-10.53% 7-day, -9.21% 14-day). High volatility (129.3% annualized) and poor Sharpe ratio (-2.17) indicate distressed conditions. TVL declining across all protocols (LDO -13.4%, SNX -19.9%, RPL -14.7%) suggests weakening fundamentals. Market-wide TVL down 12.5% in 30 days points to broader DeFi contraction. Near-term outlook remains bearish with further downside likely. 14-day forecast assumes -85% annualized return (modest recovery vs. recent -10.53% 7-day pace). Confidence moderate due to high volatility and unpredictable bear market bounces.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear regime with -33.46% 30-day decline and negative momentum (-10.53% 7-day, -9.21% 14-day). High volatility (129.3% annualized) and poor Sharpe ratio (-2.17) indicate distressed conditions. TVL declining across all protocols (LDO -13.4%, SNX -19.9%, RPL -14.7%) suggests weakening fundamentals. Market-wide TVL down 12.5% in 30 days points to broader DeFi contraction. Near-term outlook remains bearish with further downside likely. 14-day forecast assumes -85% annualized return (modest recovery vs. recent -10.53% 7-day pace). Confidence moderate due to high volatility and unpredictable bear market bounces.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:41.276044+00:00",
+  "generated_at": "2026-02-17T17:42:38.204817+00:00",
   "enriched": false
 }

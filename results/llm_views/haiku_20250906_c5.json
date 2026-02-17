@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.62,
-  "reasoning": "Cluster showing negative momentum with 14-day return of -13.23% despite neutral market regime and positive TVL growth in AAVE (+6.7%) and MKR (+4.8%). High volatility (71.7% annualized) and negative Sharpe ratio (-0.55) indicate risk-reward imbalance. Recent 7-day stabilization (-0.09%) suggests potential mean reversion, but CRV and COMP TVL declines (-10.6%, -8.2%) are concerning. Forecast reflects cautious outlook with moderate confidence due to conflicting signals between fundamentals (TVL growth in major protocols) and technicals (negative momentum, max drawdown of -20.3%). Annualized return estimate accounts for elevated volatility and continued pressure from derivative/lending sector headwinds.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing negative momentum with 14-day return of -13.23% despite neutral market regime and positive TVL growth in AAVE (+6.7%) and MKR (+4.8%). High volatility (71.7% annualized) and negative Sharpe ratio (-0.55) indicate risk-reward imbalance. Recent 7-day stabilization (-0.09%) suggests potential mean reversion, but CRV and COMP TVL declines (-10.6%, -8.2%) are concerning. Forecast reflects cautious outlook with moderate confidence due to conflicting signals between fundamentals (TVL growth in major protocols) and technicals (negative momentum, max drawdown of -20.3%). Annualized return estimate accounts for elevated volatility and continued pressure from derivative/lending sector headwinds.\"\n}\n```",
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Oversold cluster (14d: -13.23%) likely to experience mean reversion in neutral market, but mixed fundamentals (AAVE +6.7% TVL vs CRV -10.6%) and high volatility (71.7%) limit upside. Modest recovery expected with low-to-moderate confidence.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected 14-day annualized return.\n\n## Analysis of Cluster 5 (CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX)\n\n**Key Observations:**\n\n1. **Negative Recent Momentum**\n   - 14-day return: -13.23% (significant drawdown)\n   - 7-day return: -0.09% (stabilizing)\n   - 30-day return: -4.72%\n   - This suggests recent capitulation with potential stabilization\n\n2. **High Volatility Environment**\n   - Annualized volatility: 71.7% (very high)\n   - Max drawdown: -20.3% (substantial)\n   - Negative Sharpe ratio (-0.55) indicates poor risk-adjusted returns recently\n\n3. **Mixed Protocol Fundamentals**\n   - AAVE showing strength: TVL +6.7% (largest position at $39.4B)\n   - MKR stable: TVL +4.8% ($6.2B)\n   - CRV, COMP under pressure: -10.6%, -8.2% TVL declines\n   - Overall DeFi TVL growing: +4.9% (30-day)\n\n4. **Market Context**\n   - Neutral/range-bound regime (not trending strongly)\n   - Cluster underperforming broader DeFi TVL growth\n   - Recent sharp decline may indicate oversold conditions\n\n**Forecast Rationale:**\n\nGiven the severe 14-day drawdown (-13.23%), the cluster is likely oversold. However, the neutral market regime and mixed protocol metrics suggest limited upside catalysts. The 7-day stabilization near zero returns indicates potential mean reversion, but the high volatility and weak Sharpe ratio limit confidence. \n\nI expect modest positive returns as the cluster recovers from oversold levels, but growth headwinds and fundamental weakness in some protocols (CRV, COMP) will cap gains.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.45, \"reasoning\": \"Oversold cluster (14d: -13.23%) likely to experience mean reversion in neutral market, but mixed fundamentals (AAVE +6.7% TVL vs CRV -10.6%) and high volatility (71.7%) limit upside. Modest recovery expected with low-to-moderate confidence.\"}\n```",
   "date": "2025-09-06",
   "cluster_id": 5,
   "members": [
@@ -16,6 +16,6 @@
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:37:05.356851+00:00",
+  "generated_at": "2026-02-17T17:40:59.787875+00:00",
   "enriched": false
 }

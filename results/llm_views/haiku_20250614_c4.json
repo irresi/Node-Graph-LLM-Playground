@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.42,
-  "reasoning": "Cluster in strong bear market with -24.53% monthly decline and highly negative Sharpe ratio (-2.75). Recent 7-day rebound (+0.42%) suggests potential stabilization, but 14-day decline (-2.51%) indicates momentum remains negative. Infrastructure/L2 tokens are typically correlated with broader market sentiment. Very high volatility (74.9% annualized) and -23.9% max drawdown reflect extreme risk. Expect continued downward pressure with annualized 14-day forecast of -18%, though low confidence (0.42) reflects market uncertainty and potential for mean reversion in oversold conditions. Lack of TVL data for most tokens limits fundamental analysis.",
-  "raw_response": "Based on the provided market data for Cluster 4 (LINK, OP, ARB, ENS, GRT), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in strong bear market with -24.53% monthly decline and highly negative Sharpe ratio (-2.75). Recent 7-day rebound (+0.42%) suggests potential stabilization, but 14-day decline (-2.51%) indicates momentum remains negative. Infrastructure/L2 tokens are typically correlated with broader market sentiment. Very high volatility (74.9% annualized) and -23.9% max drawdown reflect extreme risk. Expect continued downward pressure with annualized 14-day forecast of -18%, though low confidence (0.42) reflects market uncertainty and potential for mean reversion in oversold conditions. Lack of TVL data for most tokens limits fundamental analysis.\"\n}\n```\n\n**Key factors in this forecast:**\n1. **Bear market regime** with persistent downtrend overwhelming positive technical signals\n2. **Extreme volatility** (74.9%) makes near-term predictions highly uncertain\n3. **Recent momentum conflict**: 7-day bounce (+0.42%) vs 14-day decline (-2.51%) suggests weakness\n4. **Low confidence** due to limited protocol metrics and infrastructure token classification (more sentiment-driven)\n5. **Potential upside risk** if broader DeFi market stabilizes (only 1.2% TVL growth, could accelerate)",
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 faces strong headwinds: bear market regime, -24.53% 30-day return, elevated volatility (74.9%), and negative Sharpe ratio (-2.75). Recent 7-day rebound (+0.42%) suggests potential stabilization, but 14-day return (-2.51%) indicates continued weakness. Infrastructure/L2 tokens are cyclical and sentiment-driven. With limited fundamental support (mostly TVL-less tokens) and technical damage, expect negative near-term returns, though 7-day stabilization limits downside. Low confidence reflects high volatility and regime uncertainty in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 faces strong headwinds: bear market regime, -24.53% 30-day return, elevated volatility (74.9%), and negative Sharpe ratio (-2.75). Recent 7-day rebound (+0.42%) suggests potential stabilization, but 14-day return (-2.51%) indicates continued weakness. Infrastructure/L2 tokens are cyclical and sentiment-driven. With limited fundamental support (mostly TVL-less tokens) and technical damage, expect negative near-term returns, though 7-day stabilization limits downside. Low confidence reflects high volatility and regime uncertainty in bear markets.\"\n}\n```",
   "date": "2025-06-14",
   "cluster_id": 4,
   "members": [
@@ -13,6 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:33:43.747238+00:00",
+  "generated_at": "2026-02-17T17:38:01.999136+00:00",
   "enriched": false
 }

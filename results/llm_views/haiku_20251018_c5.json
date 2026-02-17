@@ -1,8 +1,8 @@
 {
   "expected_return": -0.85,
-  "confidence": 0.65,
-  "reasoning": "Cluster in severe bear regime with -39.44% 30-day loss and -3.19 Sharpe ratio. Mixed signals: 7-day flatness suggests potential stabilization, but 14-day -36.89% decline and TVL contraction (-11.2% market-wide) indicate persistent downtrend. CRV's +11.7% TVL growth provides modest fundamental support. High volatility (103.7%) and elevated drawdown risk warrant cautious outlook. Annualized forecast reflects continued near-term weakness with some mean reversion possibility, but confidence limited by bear market severity and protocol-level headwinds. Moderate confidence due to extreme volatility and potential for sharp reversal in either direction.",
-  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.65, \"reasoning\": \"Cluster in severe bear regime with -39.44% 30-day loss and -3.19 Sharpe ratio. Mixed signals: 7-day flatness suggests potential stabilization, but 14-day -36.89% decline and TVL contraction (-11.2% market-wide) indicate persistent downtrend. CRV's +11.7% TVL growth provides modest fundamental support. High volatility (103.7%) and elevated drawdown risk warrant cautious outlook. Annualized forecast reflects continued near-term weakness with some mean reversion possibility, but confidence limited by bear market severity and protocol-level headwinds. Moderate confidence due to extreme volatility and potential for sharp reversal in either direction.\"}\n```",
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 is in a severe bear regime with -39.44% 30-day loss and -36.89% 14-day loss. DeFi TVL declining -11.2% YoY and cluster volatility at 103.7% indicate heightened risk. However, 7-day return of 0% suggests potential stabilization after sharp drawdown. CRV showing TVL growth (+11.7%) provides modest fundamental support. Over next 14 days, expect continued weakness with annualized -85% return reflecting: (1) negative momentum persistence, (2) extreme volatility creating downside risk, (3) oversold conditions offering limited bounce potential. Moderate confidence due to volatility unpredictability in bear markets and potential mean-reversion catalyst.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 is in a severe bear regime with -39.44% 30-day loss and -36.89% 14-day loss. DeFi TVL declining -11.2% YoY and cluster volatility at 103.7% indicate heightened risk. However, 7-day return of 0% suggests potential stabilization after sharp drawdown. CRV showing TVL growth (+11.7%) provides modest fundamental support. Over next 14 days, expect continued weakness with annualized -85% return reflecting: (1) negative momentum persistence, (2) extreme volatility creating downside risk, (3) oversold conditions offering limited bounce potential. Moderate confidence due to volatility unpredictability in bear markets and potential mean-reversion catalyst.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 5,
   "members": [
@@ -16,6 +16,6 @@
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:28.480655+00:00",
+  "generated_at": "2026-02-17T17:42:24.658713+00:00",
   "enriched": false
 }

@@ -1,8 +1,8 @@
 {
   "expected_return": -0.85,
-  "confidence": 0.65,
-  "reasoning": "Cluster 4 faces severe headwinds: bear market regime (-11.2% DeFi TVL), extreme recent underperformance (-49.82% in 30d, -39.34% in 14d), and very high volatility (107.1% annualized). The 7-day return of -4.06% suggests ongoing downward momentum. However, the cluster's 14-day drawdown (-39.34%) and current positioning suggest potential mean reversion or stabilization within the next 14 days. Infrastructure/L2 tokens (OP, ARB, ENS) typically show recovery resilience after severe selloffs. Annualized forecast of -85% reflects continued weakness but accounts for possible stabilization/bounce; confidence is moderate (0.65) due to high volatility and unpredictable bear market dynamics, though the technical setup suggests oversold conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 4 faces severe headwinds: bear market regime (-11.2% DeFi TVL), extreme recent underperformance (-49.82% in 30d, -39.34% in 14d), and very high volatility (107.1% annualized). The 7-day return of -4.06% suggests ongoing downward momentum. However, the cluster's 14-day drawdown (-39.34%) and current positioning suggest potential mean reversion or stabilization within the next 14 days. Infrastructure/L2 tokens (OP, ARB, ENS) typically show recovery resilience after severe selloffs. Annualized forecast of -85% reflects continued weakness but accounts for possible stabilization/bounce; confidence is moderate (0.65) due to high volatility and unpredictable bear market dynamics, though the technical setup suggests oversold conditions.\"\n}\n```",
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 is in severe distress with -49.82% 30-day return and -39.34% 14-day return in a strong bear market regime. The -4.06% 7-day return suggests ongoing momentum deterioration. With 107.1% annualized volatility and -3.91 Sharpe ratio, risk-adjusted returns are deeply negative. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data and face macro headwinds. The extreme negative Sharpe ratio and continued downtrend suggest further downside is likely in the short term. Confidence is moderate (0.42) due to high volatility and potential for mean reversion, but near-term outlook remains bearish. Forecast assumes continued but moderating losses over 14 days given oversold conditions and potential capitulation.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 is in severe distress with -49.82% 30-day return and -39.34% 14-day return in a strong bear market regime. The -4.06% 7-day return suggests ongoing momentum deterioration. With 107.1% annualized volatility and -3.91 Sharpe ratio, risk-adjusted returns are deeply negative. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data and face macro headwinds. The extreme negative Sharpe ratio and continued downtrend suggest further downside is likely in the short term. Confidence is moderate (0.42) due to high volatility and potential for mean reversion, but near-term outlook remains bearish. Forecast assumes continued but moderating losses over 14 days given oversold conditions and potential capitulation.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 4,
   "members": [
@@ -13,6 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:24.285857+00:00",
+  "generated_at": "2026-02-17T17:42:20.345431+00:00",
   "enriched": false
 }

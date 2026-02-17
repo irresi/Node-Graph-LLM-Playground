@@ -1,8 +1,8 @@
 {
-  "expected_return": 0.28,
+  "expected_return": 0.18,
   "confidence": 0.35,
-  "reasoning": "Cluster shows strong 7/14-day recovery (+9.07%) from bear market conditions, but faces significant headwinds: bearish 30-day trend (-11.83%), elevated volatility (85.2%), negative Sharpe ratio (-1.17), and weak DeFi TVL growth (+1.2%). SNX shows concerning -15.9% TVL decline. The recent bounce appears momentum-driven rather than fundamental, likely vulnerable to mean reversion given bearish regime. Low confidence due to conflicting signals and high volatility in declining market.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong 7/14-day recovery (+9.07%) from bear market conditions, but faces significant headwinds: bearish 30-day trend (-11.83%), elevated volatility (85.2%), negative Sharpe ratio (-1.17), and weak DeFi TVL growth (+1.2%). SNX shows concerning -15.9% TVL decline. The recent bounce appears momentum-driven rather than fundamental, likely vulnerable to mean reversion given bearish regime. Low confidence due to conflicting signals and high volatility in declining market.\"\n}\n```",
+  "reasoning": "Cluster shows strong short-term momentum (+9% over 7 and 14 days) despite bear market regime and negative 30-day returns. However, high volatility (85.2%), negative Sharpe ratio (-1.17), and significant recent drawdown (-15.5%) suggest mean reversion risk. TVL metrics mixed: LDO and UNI stable/positive, but SNX showing concerning -15.9% 30d TVL decline. Low confidence reflects high uncertainty between momentum continuation and bear market reassertion; momentum window may be closing in broader downtrend. 18% annualized reflects modest upside case contingent on sustained recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+9% over 7 and 14 days) despite bear market regime and negative 30-day returns. However, high volatility (85.2%), negative Sharpe ratio (-1.17), and significant recent drawdown (-15.5%) suggest mean reversion risk. TVL metrics mixed: LDO and UNI stable/positive, but SNX showing concerning -15.9% 30d TVL decline. Low confidence reflects high uncertainty between momentum continuation and bear market reassertion; momentum window may be closing in broader downtrend. 18% annualized reflects modest upside case contingent on sustained recovery.\"\n}\n```",
   "date": "2025-06-14",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:33:30.718354+00:00",
+  "generated_at": "2026-02-17T17:37:57.887607+00:00",
   "enriched": false
 }

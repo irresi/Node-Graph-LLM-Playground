@@ -1,14 +1,14 @@
 {
   "expected_return": 0.18,
-  "confidence": 0.42,
-  "reasoning": "BAL shows positive short-term momentum (+2.28% 7-day, +1.56% 14-day) despite bearish 30-day decline (-10.18%), suggesting potential mean reversion. However, confidence is moderate due to: (1) strong bear market regime limiting upside, (2) high volatility (72.7% annualized) creating execution risk, (3) negative Sharpe ratio (-1.18) indicating poor risk-adjusted returns, and (4) single-token cluster lacking diversification. TVL growth (+2.8%) provides modest fundamental support. Forecast annualizes near-term positive momentum while heavily discounting for regime headwinds.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL shows positive short-term momentum (+2.28% 7-day, +1.56% 14-day) despite bearish 30-day decline (-10.18%), suggesting potential mean reversion. However, confidence is moderate due to: (1) strong bear market regime limiting upside, (2) high volatility (72.7% annualized) creating execution risk, (3) negative Sharpe ratio (-1.18) indicating poor risk-adjusted returns, and (4) single-token cluster lacking diversification. TVL growth (+2.8%) provides modest fundamental support. Forecast annualizes near-term positive momentum while heavily discounting for regime headwinds.\"\n}\n```",
+  "confidence": 0.35,
+  "reasoning": "BAL shows short-term recovery momentum (+2.28% 7-day, +1.56% 14-day) after significant 30-day decline (-10.18%), suggesting potential mean reversion. However, bearish market regime, high volatility (72.7%), and negative Sharpe ratio (-1.18) limit confidence. TVL stability (+2.8%) provides modest fundamental support. Forecast reflects cautious optimism on technical bounce but acknowledges elevated downside risk in current bear market. Confidence capped at 0.35 due to regime uncertainty and macro headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL shows short-term recovery momentum (+2.28% 7-day, +1.56% 14-day) after significant 30-day decline (-10.18%), suggesting potential mean reversion. However, bearish market regime, high volatility (72.7%), and negative Sharpe ratio (-1.18) limit confidence. TVL stability (+2.8%) provides modest fundamental support. Forecast reflects cautious optimism on technical bounce but acknowledges elevated downside risk in current bear market. Confidence capped at 0.35 due to regime uncertainty and macro headwinds.\"\n}\n```",
   "date": "2025-06-14",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:33:26.670421+00:00",
+  "generated_at": "2026-02-17T17:37:53.630042+00:00",
   "enriched": false
 }

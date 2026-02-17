@@ -1,8 +1,8 @@
 {
-  "expected_return": 0.45,
-  "confidence": 0.42,
-  "reasoning": "Cluster shows strong short-term momentum (+19% over 14d) despite bear market regime and negative 30d returns (-6.5%). Recent recovery suggests potential mean reversion, but high volatility (76.7% annualized), negative Sharpe ratio (-0.71), and bear market backdrop create significant headwinds. TVL growth mixed (UNI +6%, LDO +16.4%, SNX -3.4%) provides modest fundamental support. Annualized 14d momentum would imply ~0.45 return, but sustainability is questionable given regime and drawdown risks (-21.2% max DD). Low confidence reflects elevated uncertainty in bear market conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+19% over 14d) despite bear market regime and negative 30d returns (-6.5%). Recent recovery suggests potential mean reversion, but high volatility (76.7% annualized), negative Sharpe ratio (-0.71), and bear market backdrop create significant headwinds. TVL growth mixed (UNI +6%, LDO +16.4%, SNX -3.4%) provides modest fundamental support. Annualized 14d momentum would imply ~0.45 return, but sustainability is questionable given regime and drawdown risks (-21.2% max DD). Low confidence reflects elevated uncertainty in bear market conditions.\"\n}\n```",
+  "expected_return": 0.42,
+  "confidence": 0.35,
+  "reasoning": "Strong 14-day momentum (+19.05%) contrasts sharply with negative 30-day performance (-6.50%) in a bear market regime. The cluster shows high volatility (76.7% annualized) and negative Sharpe ratio (-0.71), indicating returns don't adequately compensate for risk. TVL growth across most protocols (LDO +16.4%, RPL +16.6%, SUSHI +28.2%) suggests underlying strength, but the bear market regime and extreme volatility create substantial uncertainty about momentum continuation. The short-term positive momentum may reverse given macroeconomic headwinds. Low confidence reflects the tension between recent gains and poor risk-adjusted returns in a declining market.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Strong 14-day momentum (+19.05%) contrasts sharply with negative 30-day performance (-6.50%) in a bear market regime. The cluster shows high volatility (76.7% annualized) and negative Sharpe ratio (-0.71), indicating returns don't adequately compensate for risk. TVL growth across most protocols (LDO +16.4%, RPL +16.6%, SUSHI +28.2%) suggests underlying strength, but the bear market regime and extreme volatility create substantial uncertainty about momentum continuation. The short-term positive momentum may reverse given macroeconomic headwinds. Low confidence reflects the tension between recent gains and poor risk-adjusted returns in a declining market.\"\n}\n```",
   "date": "2025-07-12",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:34:36.248082+00:00",
+  "generated_at": "2026-02-17T17:38:49.065579+00:00",
   "enriched": false
 }

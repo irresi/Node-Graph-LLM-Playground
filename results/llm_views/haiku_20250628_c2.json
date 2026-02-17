@@ -1,14 +1,14 @@
 {
-  "expected_return": -0.95,
+  "expected_return": -0.85,
   "confidence": 0.42,
-  "reasoning": "BAL/DEX cluster shows strong bearish momentum (-18.63% 30d, -10.10% 14d) in a bear market regime with declining TVL (-7.9%). Negative Sharpe ratio (-2.99) and high volatility (52.3%) indicate risk-off sentiment. However, low confidence (0.42) reflects uncertainty in mean reversion vs. continued downside in weak DeFi environment. Annualized forecast extrapolates recent 14-day decline (-10.10%) forward, adjusting slightly for potential stabilization.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL/DEX cluster shows strong bearish momentum (-18.63% 30d, -10.10% 14d) in a bear market regime with declining TVL (-7.9%). Negative Sharpe ratio (-2.99) and high volatility (52.3%) indicate risk-off sentiment. However, low confidence (0.42) reflects uncertainty in mean reversion vs. continued downside in weak DeFi environment. Annualized forecast extrapolates recent 14-day decline (-10.10%) forward, adjusting slightly for potential stabilization.\"\n}\n```",
+  "reasoning": "BAL faces strong headwinds: bear market regime (-4.5% DeFi TVL change), negative momentum (-10.1% over 14d, -4.11% over 7d), declining TVL (-7.9%), and poor Sharpe ratio (-2.99). High annualized volatility (52.3%) and recent max drawdown (-19.6%) suggest continued downward pressure. Forecast reflects bear momentum extrapolation with modest mean reversion expectations. Low confidence due to bear regime volatility and limited single-token cluster diversification.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL faces strong headwinds: bear market regime (-4.5% DeFi TVL change), negative momentum (-10.1% over 14d, -4.11% over 7d), declining TVL (-7.9%), and poor Sharpe ratio (-2.99). High annualized volatility (52.3%) and recent max drawdown (-19.6%) suggest continued downward pressure. Forecast reflects bear momentum extrapolation with modest mean reversion expectations. Low confidence due to bear regime volatility and limited single-token cluster diversification.\"\n}\n```",
   "date": "2025-06-28",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:34:01.130488+00:00",
+  "generated_at": "2026-02-17T17:38:14.806353+00:00",
   "enriched": false
 }

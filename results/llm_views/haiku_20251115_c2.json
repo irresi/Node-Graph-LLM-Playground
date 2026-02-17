@@ -1,14 +1,14 @@
 {
   "expected_return": -0.85,
   "confidence": 0.35,
-  "reasoning": "BAL faces severe headwinds: 64.9% TVL decline signals loss of confidence, bear market regime with -17% DeFi TVL contraction, and extreme negative momentum (-14.66% 7-day, -28.89% 14-day). Annualized return extrapolates recent 14-day performance (-28.89% \u2192 ~-75% annualized). However, low confidence reflects high volatility (59% annualized), potential stabilization, and DEX-specific recovery catalysts that could reverse the sharp decline. Expect continued downward pressure but potential mean reversion given extreme technicals.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: 64.9% TVL decline signals loss of confidence, bear market regime with -17% DeFi TVL contraction, and extreme negative momentum (-14.66% 7-day, -28.89% 14-day). Annualized return extrapolates recent 14-day performance (-28.89% \u2192 ~-75% annualized). However, low confidence reflects high volatility (59% annualized), potential stabilization, and DEX-specific recovery catalysts that could reverse the sharp decline. Expect continued downward pressure but potential mean reversion given extreme technicals.\"\n}\n```",
+  "reasoning": "BAL faces severe headwinds: bear market regime, -64.9% TVL collapse (indicating user exodus), -30.3% 30-day return with worsening 14-day (-28.89%) and 7-day (-14.66%) trends. DeFi TVL down 17% overall. High volatility (59% annualized) and negative Sharpe ratio (-4.31) suggest momentum remains downward. However, extreme drawdowns often precede relief rallies. Low confidence due to unpredictability in distressed assets and potential capitulation bounce, but base case expects continued weakness as fundamentals deteriorate.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: bear market regime, -64.9% TVL collapse (indicating user exodus), -30.3% 30-day return with worsening 14-day (-28.89%) and 7-day (-14.66%) trends. DeFi TVL down 17% overall. High volatility (59% annualized) and negative Sharpe ratio (-4.31) suggest momentum remains downward. However, extreme drawdowns often precede relief rallies. Low confidence due to unpredictability in distressed assets and potential capitulation bounce, but base case expects continued weakness as fundamentals deteriorate.\"\n}\n```",
   "date": "2025-11-15",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:59.095204+00:00",
+  "generated_at": "2026-02-17T17:42:58.295726+00:00",
   "enriched": false
 }

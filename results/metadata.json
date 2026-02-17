@@ -8,12 +8,12 @@
   "clear_cache": "true",
   "caller_run_id": "manual",
   "main_repo_sha": "HEAD",
-  "completed_at": "2026-02-17T16:41:58Z",
+  "completed_at": "2026-02-17T17:45:56Z",
   "status": "success",
   "view_count": 180,
   "multi_agent_view_count": 80,
   "enriched_view_count": 80,
   "enriched_ma_view_count": 80,
   "multiperiod_view_count": 818,
-  "workflow_run_id": "22106756318"
+  "workflow_run_id": "22108984760"
 }

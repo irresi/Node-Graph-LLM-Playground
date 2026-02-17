@@ -1,14 +1,14 @@
 {
-  "expected_return": 0.22,
-  "confidence": 0.58,
-  "reasoning": "Positive market regime (+22% DeFi TVL) and strong CAKE TVL growth (+9.2%) support bullish outlook. However, momentum deceleration from 7-day (+5.31%) to 14-day (+2.07%) returns and high volatility (65.7%) warrant caution. Forecast annualized return of 22% reflects moderate upside with below-average confidence due to concentration risk (single token cluster) and recent trend moderation.",
-  "raw_response": "Based on the provided market context and cluster data, I'll analyze the expected return forecast for Cluster 1 (CAKE) over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n1. **Positive Market Regime**: Overall DeFi TVL is up 22% in 30 days, indicating a bullish environment\n2. **Strong Fundamentals**: CAKE's TVL increased 9.2% over 30 days, showing healthy protocol growth\n3. **Recent Momentum**: The cluster shows positive 7-day (+5.31%) and 14-day (+2.07%) returns, though 14-day is moderating\n4. **Volatility Profile**: High annualized volatility (65.7%) with a moderate Sharpe ratio (0.57) and meaningful drawdown (-18.4%)\n5. **Performance Trending**: Slight deceleration from 7-day to 14-day returns suggests momentum may be normalizing\n\n**Forecast Considerations:**\n- The positive TVL growth and bull market regime support continued upside\n- However, the deceleration from 7-day to 14-day returns suggests a pullback from initial gains\n- The high volatility and previous max drawdown indicate significant downside risk\n- A 14-day forecast should moderate the recent 7-day momentum while acknowledging the supportive fundamentals\n\n**Expected Return Calculation:**\n- Annualizing the recent 14-day return of 2.07% gives ~52.8% annualized, which seems aggressive given the momentum deceleration\n- Given the moderating trend and risk profile, a more conservative estimate around 20-25% annualized for the next 14 days is warranted\n- This reflects cautious optimism in a bull market with healthy protocol metrics\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.58, \"reasoning\": \"Positive market regime (+22% DeFi TVL) and strong CAKE TVL growth (+9.2%) support bullish outlook. However, momentum deceleration from 7-day (+5.31%) to 14-day (+2.07%) returns and high volatility (65.7%) warrant caution. Forecast annualized return of 22% reflects moderate upside with below-average confidence due to concentration risk (single token cluster) and recent trend moderation.\"}\n```",
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "CAKE shows positive momentum with 7-day return of +5.31% and growing TVL (+9.2% in 30 days), supported by moderate bull market regime. However, high volatility (65.7% annualized) and recent deceleration (14-day return of +2.07% below 30-day) suggest caution. Annualized 14-day forward return estimated at 18% based on recent 7-day momentum, but confidence is moderate due to volatility risks and potential mean reversion. Max drawdown of -18.4% indicates downside risk in bull phases.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows positive momentum with 7-day return of +5.31% and growing TVL (+9.2% in 30 days), supported by moderate bull market regime. However, high volatility (65.7% annualized) and recent deceleration (14-day return of +2.07% below 30-day) suggest caution. Annualized 14-day forward return estimated at 18% based on recent 7-day momentum, but confidence is moderate due to volatility risks and potential mean reversion. Max drawdown of -18.4% indicates downside risk in bull phases.\"\n}\n```",
   "date": "2025-08-23",
   "cluster_id": 1,
   "members": [
     "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:36:01.330389+00:00",
+  "generated_at": "2026-02-17T17:40:05.643163+00:00",
   "enriched": false
 }

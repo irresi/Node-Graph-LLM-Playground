@@ -1,14 +1,14 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.55,
-  "reasoning": "CAKE faces headwinds from bear market regime (-12.5% DeFi TVL decline) and negative short-term momentum (-9.5% 7-day, -16.14% 14-day returns). However, CAKE's TVL is growing (+8.8% 30d), suggesting fundamental strength in the protocol despite market weakness. High volatility (167.6%) and negative Sharpe (-0.33) indicate elevated risk. The 14-day forecast assumes partial continuation of recent weakness but with some stabilization from positive TVL dynamics. Confidence is moderate due to conflicting signals between macro bear pressure and protocol fundamentals.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE faces headwinds from bear market regime (-12.5% DeFi TVL decline) and negative short-term momentum (-9.5% 7-day, -16.14% 14-day returns). However, CAKE's TVL is growing (+8.8% 30d), suggesting fundamental strength in the protocol despite market weakness. High volatility (167.6%) and negative Sharpe (-0.33) indicate elevated risk. The 14-day forecast assumes partial continuation of recent weakness but with some stabilization from positive TVL dynamics. Confidence is moderate due to conflicting signals between macro bear pressure and protocol fundamentals.\"\n}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 1 (CAKE) faces headwinds from bear market regime (-12.5% DeFi TVL decline) and negative short-term momentum (-9.5% 7d, -16.14% 14d returns). However, CAKE's TVL shows resilience (+8.8% 30d), suggesting underlying protocol strength. Extreme volatility (167.6% annualized) and negative Sharpe (-0.33) indicate elevated risk. The 14-day forecast anticipates continued weakness given macro bearish sentiment, but the protocol's TVL growth provides some downside protection. Confidence is moderate due to high volatility and unpredictable short-term price action in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 1 (CAKE) faces headwinds from bear market regime (-12.5% DeFi TVL decline) and negative short-term momentum (-9.5% 7d, -16.14% 14d returns). However, CAKE's TVL shows resilience (+8.8% 30d), suggesting underlying protocol strength. Extreme volatility (167.6% annualized) and negative Sharpe (-0.33) indicate elevated risk. The 14-day forecast anticipates continued weakness given macro bearish sentiment, but the protocol's TVL growth provides some downside protection. Confidence is moderate due to high volatility and unpredictable short-term price action in bear markets.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 1,
   "members": [
     "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:33.136593+00:00",
+  "generated_at": "2026-02-17T17:42:28.579420+00:00",
   "enriched": false
 }

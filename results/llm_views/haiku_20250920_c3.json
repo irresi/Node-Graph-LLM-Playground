@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.42,
-  "confidence": 0.62,
-  "reasoning": "Cluster faces strong headwinds in bear market regime despite modest TVL growth. Recent 7-day return (-8.08%) significantly outweighs positive 14-day momentum (+0.29%), suggesting renewed downward pressure. High volatility (73.6%) and negative Sharpe ratio (-0.86) indicate poor risk-adjusted returns. However, positive TVL trends across all protocols (LDO +2.3%, others +1.0-3.9%) provide moderate fundamental support. Expect continued weakness near-term with high uncertainty given market volatility.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster faces strong headwinds in bear market regime despite modest TVL growth. Recent 7-day return (-8.08%) significantly outweighs positive 14-day momentum (+0.29%), suggesting renewed downward pressure. High volatility (73.6%) and negative Sharpe ratio (-0.86) indicate poor risk-adjusted returns. However, positive TVL trends across all protocols (LDO +2.3%, others +1.0-3.9%) provide moderate fundamental support. Expect continued weakness near-term with high uncertainty given market volatility.\"\n}\n```",
+  "expected_return": -0.32,
+  "confidence": 0.58,
+  "reasoning": "Cluster in bear market regime with -7.55% 30-day return and -8.08% 7-day return, indicating strong downward momentum despite +0.29% 14-day recovery. TVL fundamentals stable (+1.0% to +3.9% across protocols), but high volatility (73.6% annualized) and negative Sharpe ratio (-0.86) suggest technical weakness dominates fundamentals. Recent 14-day bounce may face resistance; bear trend likely to continue. Moderate confidence due to volatile market regime and potential mean-reversion counterplay against negative momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster in bear market regime with -7.55% 30-day return and -8.08% 7-day return, indicating strong downward momentum despite +0.29% 14-day recovery. TVL fundamentals stable (+1.0% to +3.9% across protocols), but high volatility (73.6% annualized) and negative Sharpe ratio (-0.86) suggest technical weakness dominates fundamentals. Recent 14-day bounce may face resistance; bear trend likely to continue. Moderate confidence due to volatile market regime and potential mean-reversion counterplay against negative momentum.\"\n}\n```",
   "date": "2025-09-20",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:37:23.288946+00:00",
+  "generated_at": "2026-02-17T17:41:14.996235+00:00",
   "enriched": false
 }

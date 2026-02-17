@@ -1,14 +1,14 @@
 {
   "expected_return": -1.0,
-  "confidence": 0.35,
-  "reasoning": "BAL faces severe headwinds: -115.84% 30-day return, -105.58% 14-day return in strong bear market, 157.7% annualized volatility, -70.4% max drawdown, and declining TVL (-24.8%). Extreme negative momentum suggests further downside or stabilization floor is being tested. However, very high volatility and potential mean-reversion bounce from oversold levels introduce uncertainty. Low confidence reflects both the severity of recent losses and extreme price instability that makes directional forecasting unreliable.",
-  "raw_response": "```json\n{\n  \"expected_return\": -3.50,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: -115.84% 30-day return, -105.58% 14-day return in strong bear market, 157.7% annualized volatility, -70.4% max drawdown, and declining TVL (-24.8%). Extreme negative momentum suggests further downside or stabilization floor is being tested. However, very high volatility and potential mean-reversion bounce from oversold levels introduce uncertainty. Low confidence reflects both the severity of recent losses and extreme price instability that makes directional forecasting unreliable.\"\n}\n```",
+  "confidence": 0.25,
+  "reasoning": "BAL in severe downtrend with -115.84% 30-day return and -105.58% 14-day return. Bear market regime with -22.9% DeFi TVL decline. Extreme volatility (157.7%) and negative Sharpe ratio (-6.17) indicate distressed conditions. High downside momentum suggests continued weakness, but extreme valuation damage limits further decline potential. Low confidence due to potential capitulation rebound or protocol-specific catalysts in volatile bear markets. Annualized based on recent 14-day trajectory.",
+  "raw_response": "```json\n{\n  \"expected_return\": -3.85,\n  \"confidence\": 0.25,\n  \"reasoning\": \"BAL in severe downtrend with -115.84% 30-day return and -105.58% 14-day return. Bear market regime with -22.9% DeFi TVL decline. Extreme volatility (157.7%) and negative Sharpe ratio (-6.17) indicate distressed conditions. High downside momentum suggests continued weakness, but extreme valuation damage limits further decline potential. Low confidence due to potential capitulation rebound or protocol-specific catalysts in volatile bear markets. Annualized based on recent 14-day trajectory.\"\n}\n```",
   "date": "2026-02-07",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:41:43.746051+00:00",
+  "generated_at": "2026-02-17T17:45:41.413056+00:00",
   "enriched": false
 }

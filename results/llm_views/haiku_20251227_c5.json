@@ -1,8 +1,8 @@
 {
   "expected_return": -0.18,
-  "confidence": 0.65,
-  "reasoning": "Cluster 5 faces headwinds from bear market regime and negative 30-day momentum (-11.38%), though 7-day recovery (+1.13%) suggests potential mean reversion. Mixed protocol fundamentals: AAVE/MKR/CRV show TVL growth (+3-7.1%), but COMP declining (-8.1%). Negative Sharpe ratio (-2.21) and 19.1% max drawdown indicate elevated risk. High volatility (43.2%) limits confidence. 14-day annualized forecast reflects cautious outlook with modest negative bias, extrapolating recent 14-day decline (-5.77%) at slower pace as recovery momentum builds. Moderate confidence due to macro bear conditions offsetting fundamental improvements in major protocols.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 5 faces headwinds from bear market regime and negative 30-day momentum (-11.38%), though 7-day recovery (+1.13%) suggests potential mean reversion. Mixed protocol fundamentals: AAVE/MKR/CRV show TVL growth (+3-7.1%), but COMP declining (-8.1%). Negative Sharpe ratio (-2.21) and 19.1% max drawdown indicate elevated risk. High volatility (43.2%) limits confidence. 14-day annualized forecast reflects cautious outlook with modest negative bias, extrapolating recent 14-day decline (-5.77%) at slower pace as recovery momentum builds. Moderate confidence due to macro bear conditions offsetting fundamental improvements in major protocols.\"\n}\n```",
+  "confidence": 0.55,
+  "reasoning": "Cluster 5 faces headwinds from bear market regime (-11.38% 30-day return) and high volatility (43.2% annualized). However, recent 7-day recovery (+1.13%) suggests potential mean reversion. AAVE's strong TVL ($33.1B, +3.0% 30d) and MKR's stability (+5.0% TVL growth) provide some fundamental support, but COMP's weakness (-8.1% TVL change) and negative 14-day momentum (-5.77%) indicate near-term headwinds persist. The severely negative Sharpe ratio (-2.21) and -19.1% max drawdown reflect risk/reward imbalance. Annualized forecast reflects continued negative momentum over 14 days with modest recovery potential, translating to ~-1.4% 14-day return. Moderate confidence due to high volatility and conflicting signals between fundamentals (AAVE strength) and technicals (negative momentum).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 5 faces headwinds from bear market regime (-11.38% 30-day return) and high volatility (43.2% annualized). However, recent 7-day recovery (+1.13%) suggests potential mean reversion. AAVE's strong TVL ($33.1B, +3.0% 30d) and MKR's stability (+5.0% TVL growth) provide some fundamental support, but COMP's weakness (-8.1% TVL change) and negative 14-day momentum (-5.77%) indicate near-term headwinds persist. The severely negative Sharpe ratio (-2.21) and -19.1% max drawdown reflect risk/reward imbalance. Annualized forecast reflects continued negative momentum over 14 days with modest recovery potential, translating to ~-1.4% 14-day return. Moderate confidence due to high volatility and conflicting signals between fundamentals (AAVE strength) and technicals (negative momentum).\"\n}\n```",
   "date": "2025-12-27",
   "cluster_id": 5,
   "members": [
@@ -16,6 +16,6 @@
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:40:46.033846+00:00",
+  "generated_at": "2026-02-17T17:44:43.451161+00:00",
   "enriched": false
 }

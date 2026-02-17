@@ -1,8 +1,8 @@
 {
-  "expected_return": 0.32,
-  "confidence": 0.58,
-  "reasoning": "Cluster 4 shows strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of only +0.30% suggests momentum may be consolidating or reversing. High volatility (63.5% annualized) and significant max drawdown (-20.2%) indicate risk. The infrastructure/L2 token composition lacks direct TVL metrics, making fundamental assessment difficult. Moderate confidence reflects bullish technicals offset by recent deceleration and execution risks in L2/oracle ecosystems. Annualized projection assumes continued but moderated upside.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of only +0.30% suggests momentum may be consolidating or reversing. High volatility (63.5% annualized) and significant max drawdown (-20.2%) indicate risk. The infrastructure/L2 token composition lacks direct TVL metrics, making fundamental assessment difficult. Moderate confidence reflects bullish technicals offset by recent deceleration and execution risks in L2/oracle ecosystems. Annualized projection assumes continued but moderated upside.\"\n}\n```",
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 exhibits strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of +0.30% suggests recent momentum may be decelerating, and the high volatility (63.5% annualized) with -20.2% max drawdown indicates significant downside risk. The infrastructure/L2 token category is sensitive to broader market sentiment. Annualized forward return estimate balances bullish momentum against deceleration signals and volatility, with moderate confidence due to limited protocol-level TVL data for these tokens and the unpredictable nature of infrastructure token valuations.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 exhibits strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of +0.30% suggests recent momentum may be decelerating, and the high volatility (63.5% annualized) with -20.2% max drawdown indicates significant downside risk. The infrastructure/L2 token category is sensitive to broader market sentiment. Annualized forward return estimate balances bullish momentum against deceleration signals and volatility, with moderate confidence due to limited protocol-level TVL data for these tokens and the unpredictable nature of infrastructure token valuations.\"\n}\n```",
   "date": "2025-08-09",
   "cluster_id": 4,
   "members": [
@@ -13,6 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:35:46.812384+00:00",
+  "generated_at": "2026-02-17T17:39:53.546553+00:00",
   "enriched": false
 }

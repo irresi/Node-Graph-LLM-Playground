@@ -1,14 +1,14 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.42,
-  "reasoning": "BAL faces headwinds from bear market regime (TVL down 11.2%), negative 30-day momentum (-22.95%), and weak Sharpe ratio (-2.89). However, recent 7-day recovery (+0.72%) and stabilizing TVL (-5.4%) suggest potential consolidation. High volatility (66.8%) and single-token concentration limit confidence. Forecast reflects likely continued weakness with modest recovery probability in near term.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (TVL down 11.2%), negative 30-day momentum (-22.95%), and weak Sharpe ratio (-2.89). However, recent 7-day recovery (+0.72%) and stabilizing TVL (-5.4%) suggest potential consolidation. High volatility (66.8%) and single-token concentration limit confidence. Forecast reflects likely continued weakness with modest recovery probability in near term.\"\n}\n```",
+  "expected_return": -0.95,
+  "confidence": 0.35,
+  "reasoning": "BAL trading in severe bear market with -22.95% 30-day loss and -20.61% 14-day loss. High volatility (66.8% annualized) and deeply negative Sharpe ratio (-2.89) indicate distressed conditions. However, recent 7-day bounce (+0.72%) suggests potential mean reversion in next 14 days. TVL relatively stable (-5.4% 30d) indicates protocol fundamentals haven't deteriorated further. Forecast negative but less severe than recent performance, reflecting both bearish macro regime and modest technical recovery signals. Low confidence due to high volatility and unpredictable recovery timing in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL trading in severe bear market with -22.95% 30-day loss and -20.61% 14-day loss. High volatility (66.8% annualized) and deeply negative Sharpe ratio (-2.89) indicate distressed conditions. However, recent 7-day bounce (+0.72%) suggests potential mean reversion in next 14 days. TVL relatively stable (-5.4% 30d) indicates protocol fundamentals haven't deteriorated further. Forecast negative but less severe than recent performance, reflecting both bearish macro regime and modest technical recovery signals. Low confidence due to high volatility and unpredictable recovery timing in bear markets.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:15.551691+00:00",
+  "generated_at": "2026-02-17T17:42:11.819626+00:00",
   "enriched": false
 }

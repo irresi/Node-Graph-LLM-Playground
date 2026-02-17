@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.62,
-  "reasoning": "Cluster 3 faces severe headwinds: 45.21% 30-day loss, -22.9% TVL contraction across DeFi, and strong bear market regime. Recent 7-day (-22.21%) and 14-day (-31.47%) returns show accelerating downward momentum. However, extreme negative sentiment and technical oversold conditions (Sharpe -4.52) suggest some mean reversion potential, warranting slightly less severe annualized forecast than recent trends alone would indicate. High volatility (84% annualized) limits confidence. Recovery unlikely near-term given protocol TVL declines (LDO -28.6%, RPL -35.7%) and systemic DeFi headwinds.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 faces severe headwinds: 45.21% 30-day loss, -22.9% TVL contraction across DeFi, and strong bear market regime. Recent 7-day (-22.21%) and 14-day (-31.47%) returns show accelerating downward momentum. However, extreme negative sentiment and technical oversold conditions (Sharpe -4.52) suggest some mean reversion potential, warranting slightly less severe annualized forecast than recent trends alone would indicate. High volatility (84% annualized) limits confidence. Recovery unlikely near-term given protocol TVL declines (LDO -28.6%, RPL -35.7%) and systemic DeFi headwinds.\"\n}\n```",
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear regime with -45.21% 30d return and -22.21% 7d momentum indicating downtrend continuation. TVL declining across all positions (-27% to -36%), particularly RPL (-35.7%). Negative Sharpe ratio (-4.52) and high volatility (84% annualized) suggest elevated tail risk. 14-day forecast extrapolates recent -22.21% 7d trend forward, annualizing to approximately -185% return. Low confidence (0.35) due to high volatility, potential mean reversion in oversold conditions, and black swan risk in bear markets. Assumes continuation of current downtrend without stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -45.21% 30d return and -22.21% 7d momentum indicating downtrend continuation. TVL declining across all positions (-27% to -36%), particularly RPL (-35.7%). Negative Sharpe ratio (-4.52) and high volatility (84% annualized) suggest elevated tail risk. 14-day forecast extrapolates recent -22.21% 7d trend forward, annualizing to approximately -185% return. Low confidence (0.35) due to high volatility, potential mean reversion in oversold conditions, and black swan risk in bear markets. Assumes continuation of current downtrend without stabilization.\"\n}\n```",
   "date": "2026-02-07",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:41:47.903613+00:00",
+  "generated_at": "2026-02-17T17:45:45.524490+00:00",
   "enriched": false
 }

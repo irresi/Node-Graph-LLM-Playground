@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.45,
+  "expected_return": -0.85,
   "confidence": 0.62,
-  "reasoning": "Cluster in bear market with negative 30-day momentum (-16.34%) and weak recent 7-day performance (-0.91%). High volatility (51.7%) and negative Sharpe ratio (-2.66) indicate distressed market conditions. However, mixed TVL signals with CRV (+8.2%) and MKR (+13.1%) growth suggest selective protocol strength. Near-term forecast accounts for continued downward pressure from market regime, partially offset by potential stabilization given the sharp recent declines and selective TVL improvements. Confidence is moderate due to volatile conditions and conflicting signals.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with negative 30-day momentum (-16.34%) and weak recent 7-day performance (-0.91%). High volatility (51.7%) and negative Sharpe ratio (-2.66) indicate distressed market conditions. However, mixed TVL signals with CRV (+8.2%) and MKR (+13.1%) growth suggest selective protocol strength. Near-term forecast accounts for continued downward pressure from market regime, partially offset by potential stabilization given the sharp recent declines and selective TVL improvements. Confidence is moderate due to volatile conditions and conflicting signals.\"\n}\n```",
+  "reasoning": "Cluster 5 faces significant headwinds: strong bear market regime, negative 30-day momentum (-16.34%), and poor risk-adjusted returns (Sharpe -2.66). However, some stabilization signals emerge: 7-day return of -0.91% suggests deceleration from 30-day losses, and mixed TVL trends (CRV +8.2%, MKR +13.1%) indicate selective protocol resilience. The 14-day return of -7.15% annualizes to approximately -185%, but mean reversion and reduced selling pressure in a bear market typically moderate near-term declines. Expected near-term return is modestly negative but less severe than historical volatility suggests, reflecting both downside risk and partial stabilization. High volatility (51.7%) limits confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 faces significant headwinds: strong bear market regime, negative 30-day momentum (-16.34%), and poor risk-adjusted returns (Sharpe -2.66). However, some stabilization signals emerge: 7-day return of -0.91% suggests deceleration from 30-day losses, and mixed TVL trends (CRV +8.2%, MKR +13.1%) indicate selective protocol resilience. The 14-day return of -7.15% annualizes to approximately -185%, but mean reversion and reduced selling pressure in a bear market typically moderate near-term declines. Expected near-term return is modestly negative but less severe than historical volatility suggests, reflecting both downside risk and partial stabilization. High volatility (51.7%) limits confidence.\"\n}\n```",
   "date": "2025-12-13",
   "cluster_id": 5,
   "members": [
@@ -16,6 +16,6 @@
     "convex-finance"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:40:22.240047+00:00",
+  "generated_at": "2026-02-17T17:44:16.002376+00:00",
   "enriched": false
 }

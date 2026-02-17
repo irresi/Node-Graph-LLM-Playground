@@ -1,14 +1,14 @@
 {
   "expected_return": -0.85,
   "confidence": 0.35,
-  "reasoning": "BAL faces severe headwinds: 66.8% TVL decline indicates protocol stress, bear market regime with -16.5% DeFi TVL contraction, and -37.8% 30-day cluster return. Recent 7-day bounce (+1.4%) is minimal recovery in downtrend. High volatility (58% annualized) and negative Sharpe (-5.48) suggest elevated risk. Low confidence due to potential bounce mechanics in oversold conditions, but downward bias dominates near-term outlook.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: 66.8% TVL decline indicates protocol stress, bear market regime with -16.5% DeFi TVL contraction, and -37.8% 30-day cluster return. Recent 7-day bounce (+1.4%) is minimal recovery in downtrend. High volatility (58% annualized) and negative Sharpe (-5.48) suggest elevated risk. Low confidence due to potential bounce mechanics in oversold conditions, but downward bias dominates near-term outlook.\"\n}\n```",
+  "reasoning": "BAL faces severe headwinds: bear market regime, -66.8% TVL collapse over 30 days, -37.8% cluster return, and deeply negative Sharpe ratio (-5.48). While 7-day momentum shows +1.4% recovery, this appears to be a weak bounce in a sustained downtrend. TVL flight indicates fundamental weakness in the DEX protocol. Annualized forecast of -85% reflects the severe bear conditions and negative momentum, though confidence is low (0.35) due to potential volatility in depressed bear markets and recovery risk from oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: bear market regime, -66.8% TVL collapse over 30 days, -37.8% cluster return, and deeply negative Sharpe ratio (-5.48). While 7-day momentum shows +1.4% recovery, this appears to be a weak bounce in a sustained downtrend. TVL flight indicates fundamental weakness in the DEX protocol. Annualized forecast of -85% reflects the severe bear conditions and negative momentum, though confidence is low (0.35) due to potential volatility in depressed bear markets and recovery risk from oversold conditions.\"\n}\n```",
   "date": "2025-11-29",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:39:29.143472+00:00",
+  "generated_at": "2026-02-17T17:43:28.628303+00:00",
   "enriched": false
 }

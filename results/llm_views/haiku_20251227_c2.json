@@ -1,14 +1,14 @@
 {
-  "expected_return": -0.95,
-  "confidence": 0.42,
-  "reasoning": "BAL in bear market regime with sustained negative momentum (-11.56% 30d, -8.79% 14d, -5.33% 7d). Decelerating losses suggest potential stabilization, but weak Sharpe ratio (-2.47) and declining TVL (-4.3%) indicate fundamental weakness. TVL stagnation in broader DeFi (+0.2%) suggests relative underperformance. Low confidence due to bear regime volatility (39.3% annualized), but near-term stabilization possible as losses moderate. Forecast assumes continued modest underperformance with potential mean reversion bounce in 14-day window.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL in bear market regime with sustained negative momentum (-11.56% 30d, -8.79% 14d, -5.33% 7d). Decelerating losses suggest potential stabilization, but weak Sharpe ratio (-2.47) and declining TVL (-4.3%) indicate fundamental weakness. TVL stagnation in broader DeFi (+0.2%) suggests relative underperformance. Low confidence due to bear regime volatility (39.3% annualized), but near-term stabilization possible as losses moderate. Forecast assumes continued modest underperformance with potential mean reversion bounce in 14-day window.\"\n}\n```",
+  "expected_return": -0.18,
+  "confidence": 0.65,
+  "reasoning": "BAL faces headwinds from bear market regime (-11.56% 30-day return) and declining TVL (-4.3%), indicating weakening fundamentals. However, the token shows stabilizing momentum (7-day return -5.33% vs 30-day -11.56%), suggesting potential near-term recovery. High volatility (39.3%) creates both downside and upside risk. Moderate confidence reflects uncertainty in bear market duration and potential mean reversion, balanced against negative momentum and protocol TVL deterioration.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis for Cluster 2 (BAL):\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (-11.56% 30-day return) and declining TVL (-4.3%), indicating weakening fundamentals. However, the token shows stabilizing momentum (7-day return -5.33% vs 30-day -11.56%), suggesting potential near-term recovery. High volatility (39.3%) creates both downside and upside risk. Moderate confidence reflects uncertainty in bear market duration and potential mean reversion, balanced against negative momentum and protocol TVL deterioration.\"\n}\n```\n\n**Key reasoning:**\n- **Negative momentum**: Consistent losses over 7, 14, and 30-day periods indicate downtrend persistence\n- **Fundamental weakness**: Declining TVL suggests reduced protocol usage and potential user migration\n- **Bear market regime**: Overall DeFi market in strong downtrend with flat TVL growth\n- **High volatility**: 39.3% annualized volatility creates uncertainty but potential for tactical reversals\n- **Sharpe ratio concern**: -2.47 indicates poor risk-adjusted returns\n- **Partial mitigation**: Decelerating losses (7d worse than expected improvement from 30d trend) suggest some stabilization\n\nThe -18% annualized forecast reflects continued near-term pressure while moderating the severity given partial stabilization signals in recent weekly data.",
   "date": "2025-12-27",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:40:33.282825+00:00",
+  "generated_at": "2026-02-17T17:44:26.329263+00:00",
   "enriched": false
 }

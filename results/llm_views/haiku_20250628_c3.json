@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.85,
+  "expected_return": -0.45,
   "confidence": 0.62,
-  "reasoning": "Bear market regime with strong negative momentum (-14.43% over 14 days, -2.45% over 7 days) indicates continued downward pressure. High volatility (86.3%) and negative Sharpe ratio (-1.59) suggest risk-adjusted returns are poor. However, recent momentum shows deceleration (7d return better than 14d return), potentially indicating stabilization. TVL declines across all protocols (-5.6% to -15.6%) reflect capital outflows. Moderate confidence due to bear regime, but some uncertainty around potential mean reversion given extreme drawdowns (-30.9% max). Forecast assumes continued negative returns but at a slower pace than recent 14-day performance when annualized.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong negative momentum (-14.43% over 14 days, -2.45% over 7 days) indicates continued downward pressure. High volatility (86.3%) and negative Sharpe ratio (-1.59) suggest risk-adjusted returns are poor. However, recent momentum shows deceleration (7d return better than 14d return), potentially indicating stabilization. TVL declines across all protocols (-5.6% to -15.6%) reflect capital outflows. Moderate confidence due to bear regime, but some uncertainty around potential mean reversion given extreme drawdowns (-30.9% max). Forecast assumes continued negative returns but at a slower pace than recent 14-day performance when annualized.\"\n}\n```",
+  "reasoning": "Strong bearish signals from bear market regime, -16.37% 30-day decline, -14.43% 14-day decline, and negative Sharpe ratio (-1.59) suggest continued downward pressure. High volatility (86.3% annualized) and max drawdown (-30.9%) indicate further losses likely. However, recent 7-day return of -2.45% shows deceleration in decline rate, limiting downside forecast. Confidence tempered by high volatility and potential capitulation-driven bounce. Annualized 14-day forecast translates to approximately -3.2% over 14 days.",
+  "raw_response": "Based on the provided market data for Cluster 3, here is my analysis and forecast:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bearish signals from bear market regime, -16.37% 30-day decline, -14.43% 14-day decline, and negative Sharpe ratio (-1.59) suggest continued downward pressure. High volatility (86.3% annualized) and max drawdown (-30.9%) indicate further losses likely. However, recent 7-day return of -2.45% shows deceleration in decline rate, limiting downside forecast. Confidence tempered by high volatility and potential capitulation-driven bounce. Annualized 14-day forecast translates to approximately -3.2% over 14 days.\"\n}\n```\n\n**Key Reasoning:**\n1. **Market Regime**: Strong bear market with -4.5% TVL decline across DeFi\n2. **Momentum**: Negative momentum accelerating (7-day: -2.45% \u2192 14-day: -14.43% \u2192 30-day: -16.37%)\n3. **Risk Metrics**: Sharpe ratio of -1.59 and max drawdown of -30.9% indicate poor risk-adjusted returns\n4. **Protocol Health**: All constituent tokens showing TVL declines (SNX worst at -15.6%, LDO largest at $22B TVL)\n5. **Volatility Risk**: 86.3% annualized volatility suggests potential for further sharp moves\n6. **Slight Mitigation**: 7-day deceleration suggests potential stabilization, preventing more extreme negative forecast\n\nThe forecast assumes continuation of the downtrend with moderating pace, typical of late-stage bear markets before stabilization or capitulation.",
   "date": "2025-06-28",
   "cluster_id": 3,
   "members": [
@@ -13,6 +13,6 @@
     "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:34:09.662357+00:00",
+  "generated_at": "2026-02-17T17:38:20.934035+00:00",
   "enriched": false
 }

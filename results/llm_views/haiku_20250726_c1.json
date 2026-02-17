@@ -1,14 +1,14 @@
 {
-  "expected_return": 0.58,
+  "expected_return": 0.85,
   "confidence": 0.72,
-  "reasoning": "CAKE shows strong momentum with 23.94% 30-day return and 11.16% 14-day return in a bull market regime. The 43% annualized volatility and 4.68 Sharpe ratio suggest quality risk-adjusted returns. TVL growth of 17.3% indicates protocol health. However, extending recent momentum into the next 14 days carries mean reversion risk. Annualized forecast of 58% (approximately 2.2% over 14 days) balances continued bull momentum against potential pullback, with moderate confidence due to single-token concentration and market volatility.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.58,\n  \"confidence\": 0.72,\n  \"reasoning\": \"CAKE shows strong momentum with 23.94% 30-day return and 11.16% 14-day return in a bull market regime. The 43% annualized volatility and 4.68 Sharpe ratio suggest quality risk-adjusted returns. TVL growth of 17.3% indicates protocol health. However, extending recent momentum into the next 14 days carries mean reversion risk. Annualized forecast of 58% (approximately 2.2% over 14 days) balances continued bull momentum against potential pullback, with moderate confidence due to single-token concentration and market volatility.\"\n}\n```",
+  "reasoning": "CAKE demonstrates strong momentum with +23.94% 30-day return and +11.16% 14-day return in a bull market regime. The cluster's exceptional Sharpe ratio of 4.68 and TVL growth of +17.3% indicate solid fundamentals. However, the 14-day forecast uses a more conservative annualized estimate than recent 30-day performance due to mean reversion risk and the typically declining marginal returns in bull rallies. The confidence is moderate (0.72) reflecting uncertainty in sustaining current momentum rates over the next 2 weeks, though bullish technicals and positive TVL dynamics support upside potential.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"CAKE demonstrates strong momentum with +23.94% 30-day return and +11.16% 14-day return in a bull market regime. The cluster's exceptional Sharpe ratio of 4.68 and TVL growth of +17.3% indicate solid fundamentals. However, the 14-day forecast uses a more conservative annualized estimate than recent 30-day performance due to mean reversion risk and the typically declining marginal returns in bull rallies. The confidence is moderate (0.72) reflecting uncertainty in sustaining current momentum rates over the next 2 weeks, though bullish technicals and positive TVL dynamics support upside potential.\"\n}\n```",
   "date": "2025-07-26",
   "cluster_id": 1,
   "members": [
     "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:34:56.109494+00:00",
+  "generated_at": "2026-02-17T17:39:05.100312+00:00",
   "enriched": false
 }

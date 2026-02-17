@@ -1,14 +1,14 @@
 {
   "expected_return": 0.42,
   "confidence": 0.65,
-  "reasoning": "BAL demonstrates strong momentum with +30.43% 30-day return and +19.93% 14-day return in a bull market regime. However, forecasting the next 14 days is challenging due to: (1) High volatility (55.4% annualized) increases uncertainty, (2) Mean reversion risk after strong recent performance (+6.31% in last 7 days suggests potential consolidation), (3) Single-token cluster lacks diversification. The 0.42 annualized return reflects extrapolation of recent 14-day momentum (+19.93% = ~1.42x annualized) with a modest discount for mean reversion effects. Confidence is moderate (0.65) due to the high volatility environment and inherent difficulty in short-term forecasting, despite favorable bull market conditions and strong TVL growth (+23.3%).",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"BAL demonstrates strong momentum with +30.43% 30-day return and +19.93% 14-day return in a bull market regime. However, forecasting the next 14 days is challenging due to: (1) High volatility (55.4% annualized) increases uncertainty, (2) Mean reversion risk after strong recent performance (+6.31% in last 7 days suggests potential consolidation), (3) Single-token cluster lacks diversification. The 0.42 annualized return reflects extrapolation of recent 14-day momentum (+19.93% = ~1.42x annualized) with a modest discount for mean reversion effects. Confidence is moderate (0.65) due to the high volatility environment and inherent difficulty in short-term forecasting, despite favorable bull market conditions and strong TVL growth (+23.3%).\"\n}\n```",
+  "reasoning": "BAL shows strong momentum with +30.43% 30-day return and +19.93% 14-day return in a bull market regime. However, the token's high volatility (55.4% annualized) and recent max drawdown of -10.2% suggest momentum may be unsustainable. The excellent Sharpe ratio (4.61) indicates risk-adjusted returns are solid, but mean reversion risk is elevated after extended outperformance. TVL growth (+23.3%) supports fundamentals. Forecasting 42% annualized return for next 14 days, but confidence is moderate (0.65) due to volatility and potential pullback after strong recent gains.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"BAL shows strong momentum with +30.43% 30-day return and +19.93% 14-day return in a bull market regime. However, the token's high volatility (55.4% annualized) and recent max drawdown of -10.2% suggest momentum may be unsustainable. The excellent Sharpe ratio (4.61) indicates risk-adjusted returns are solid, but mean reversion risk is elevated after extended outperformance. TVL growth (+23.3%) supports fundamentals. Forecasting 42% annualized return for next 14 days, but confidence is moderate (0.65) due to volatility and potential pullback after strong recent gains.\"\n}\n```",
   "date": "2025-07-26",
   "cluster_id": 2,
   "members": [
     "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:35:00.710406+00:00",
+  "generated_at": "2026-02-17T17:39:09.190412+00:00",
   "enriched": false
 }

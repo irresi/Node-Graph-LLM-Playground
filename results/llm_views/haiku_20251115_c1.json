@@ -1,14 +1,14 @@
 {
   "expected_return": -0.45,
   "confidence": 0.35,
-  "reasoning": "CAKE faces significant headwinds: bear market regime with -17% DeFi TVL decline, -25.49% 30-day loss, elevated volatility (64% annualized), and negative Sharpe ratio (-3.35). 14-day momentum (-2.99%) shows deceleration from 30-day decline, suggesting potential stabilization or continued weakness. TVL holding relatively stable (-5.5% vs -17% market) indicates some resilience. Low confidence reflects high volatility and bear regime uncertainty; annualized forecast assumes continued modest downside over 14 days with possibility of sharp reversals given oversold conditions.",
-  "raw_response": "```json\n{\"expected_return\": -0.45, \"confidence\": 0.35, \"reasoning\": \"CAKE faces significant headwinds: bear market regime with -17% DeFi TVL decline, -25.49% 30-day loss, elevated volatility (64% annualized), and negative Sharpe ratio (-3.35). 14-day momentum (-2.99%) shows deceleration from 30-day decline, suggesting potential stabilization or continued weakness. TVL holding relatively stable (-5.5% vs -17% market) indicates some resilience. Low confidence reflects high volatility and bear regime uncertainty; annualized forecast assumes continued modest downside over 14 days with possibility of sharp reversals given oversold conditions.\"}\n```",
+  "reasoning": "CAKE faces significant headwinds: bear market regime with -17% DeFi TVL decline, cluster's -25.49% 30-day loss, extreme volatility (64% annualized), and negative Sharpe ratio (-3.35). Recent 7-day momentum (-5.95%) remains negative. However, the deceleration from -25.49% (30d) to -2.99% (14d) suggests potential stabilization. Low confidence reflects high volatility and weak technicals in bear market conditions, partially offset by momentum improvement. Annualized projection assumes continued weakness but at slower pace than recent decline.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE faces significant headwinds: bear market regime with -17% DeFi TVL decline, cluster's -25.49% 30-day loss, extreme volatility (64% annualized), and negative Sharpe ratio (-3.35). Recent 7-day momentum (-5.95%) remains negative. However, the deceleration from -25.49% (30d) to -2.99% (14d) suggests potential stabilization. Low confidence reflects high volatility and weak technicals in bear market conditions, partially offset by momentum improvement. Annualized projection assumes continued weakness but at slower pace than recent decline.\"\n}\n```",
   "date": "2025-11-15",
   "cluster_id": 1,
   "members": [
     "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:38:54.759547+00:00",
+  "generated_at": "2026-02-17T17:42:54.273084+00:00",
   "enriched": false
 }

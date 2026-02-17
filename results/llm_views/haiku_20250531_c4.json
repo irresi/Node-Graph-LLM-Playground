@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.55,
-  "reasoning": "Cluster 4 shows strong negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite overall DeFi bull market (+19.6% TVL growth). High volatility (91.3%) and negative Sharpe ratio (-0.14) indicate risk-adjusted underperformance. L2/infrastructure tokens may be experiencing sector rotation away from governance/oracle plays toward yield-generating protocols. However, 30-day return of -1.52% suggests potential stabilization. Moderate confidence due to high volatility and regime divergence - cluster may continue underperforming or bounce back if broader DeFi momentum favors infrastructure. Annualized forecast reflects the 14-day negative trajectory scaled forward with elevated uncertainty.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 shows strong negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite overall DeFi bull market (+19.6% TVL growth). High volatility (91.3%) and negative Sharpe ratio (-0.14) indicate risk-adjusted underperformance. L2/infrastructure tokens may be experiencing sector rotation away from governance/oracle plays toward yield-generating protocols. However, 30-day return of -1.52% suggests potential stabilization. Moderate confidence due to high volatility and regime divergence - cluster may continue underperforming or bounce back if broader DeFi momentum favors infrastructure. Annualized forecast reflects the 14-day negative trajectory scaled forward with elevated uncertainty.\"\n}\n```",
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong negative momentum with -13.46% decline over 7 days and -13.32% over 14 days, despite moderate bull market regime and rising DeFi TVL (+19.6%). High volatility (91.3%) and negative Sharpe ratio (-0.14) indicate risk-off sentiment in infrastructure/L2 tokens. The recent 14-day decline annualizes to approximately -45%, but mean reversion and broader market strength suggest some recovery. Moderate confidence reflects conflicting signals: negative technical momentum vs. positive macro environment. L2/infrastructure tokens may lag during this cycle, with potential 14-day headwinds despite sector tailwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong negative momentum with -13.46% decline over 7 days and -13.32% over 14 days, despite moderate bull market regime and rising DeFi TVL (+19.6%). High volatility (91.3%) and negative Sharpe ratio (-0.14) indicate risk-off sentiment in infrastructure/L2 tokens. The recent 14-day decline annualizes to approximately -45%, but mean reversion and broader market strength suggest some recovery. Moderate confidence reflects conflicting signals: negative technical momentum vs. positive macro environment. L2/infrastructure tokens may lag during this cycle, with potential 14-day headwinds despite sector tailwinds.\"\n}\n```",
   "date": "2025-05-31",
   "cluster_id": 4,
   "members": [
@@ -13,6 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:32:58.141200+00:00",
+  "generated_at": "2026-02-17T17:37:37.680236+00:00",
   "enriched": false
 }

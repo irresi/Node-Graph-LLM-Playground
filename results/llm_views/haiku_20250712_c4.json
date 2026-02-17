@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.25,
+  "expected_return": 0.28,
   "confidence": 0.35,
-  "reasoning": "Cluster exhibits mixed signals: strong 7-14 day momentum (+18-19%) contrasts sharply with bear market regime and negative 30-day returns (-1.09%). High volatility (72.7% annualized) and negative Sharpe ratio (-0.13) indicate unstable risk-adjusted performance. Mean reversion likely after recent rally, especially given lack of fundamental TVL support for infrastructure tokens. Weak confidence reflects conflicting indicators and high uncertainty in bear market conditions. Forecast annualizes 14-day outlook assuming consolidation/pullback.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster exhibits mixed signals: strong 7-14 day momentum (+18-19%) contrasts sharply with bear market regime and negative 30-day returns (-1.09%). High volatility (72.7% annualized) and negative Sharpe ratio (-0.13) indicate unstable risk-adjusted performance. Mean reversion likely after recent rally, especially given lack of fundamental TVL support for infrastructure tokens. Weak confidence reflects conflicting indicators and high uncertainty in bear market conditions. Forecast annualizes 14-day outlook assuming consolidation/pullback.\"\n}\n```",
+  "reasoning": "Cluster shows strong recent momentum (+18.23% 7d, +19.73% 14d) after bear market decline, suggesting potential mean reversion rally. However, bearish macro regime, high volatility (72.7%), negative Sharpe ratio (-0.13), and lack of TVL fundamentals for 80% of tokens create significant headwinds. Infrastructure/L2 tokens are sentiment-driven in bear markets. Low confidence due to regime conflict: momentum suggests upside, but fundamentals and bear market context suggest reversion risk. Annualized estimate based on sustained momentum over 14 days, but sustainability is questionable.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong recent momentum (+18.23% 7d, +19.73% 14d) after bear market decline, suggesting potential mean reversion rally. However, bearish macro regime, high volatility (72.7%), negative Sharpe ratio (-0.13), and lack of TVL fundamentals for 80% of tokens create significant headwinds. Infrastructure/L2 tokens are sentiment-driven in bear markets. Low confidence due to regime conflict: momentum suggests upside, but fundamentals and bear market context suggest reversion risk. Annualized estimate based on sustained momentum over 14 days, but sustainability is questionable.\"\n}\n```",
   "date": "2025-07-12",
   "cluster_id": 4,
   "members": [
@@ -13,6 +13,6 @@
     "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-17T16:34:40.294196+00:00",
+  "generated_at": "2026-02-17T17:38:53.497584+00:00",
   "enriched": false
 }
