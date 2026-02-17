@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CAKE/DEX cluster shows severe bearish momentum with -29.7% over 30 days and -22.9% over 14 days, indicating a strong downtrend. The Sharpe ratio of -4.77 reflects deeply negative risk-adjusted performance, and the max drawdown of -27.7% signals persistent selling pressure. TVL has contracted -10.4% over 30 days ($2.36B), reflecting reduced protocol usage and capital flight. The only minor positive signal is a marginal +0.28% 7-day return, which may suggest a brief consolidation but is insufficient to signal a reversal given the broader bear regime. Annualizing the 14-day trend (~-22.9% / 14 days * 365 days) implies a deeply negative trajectory (~-597%), though mean reversion and support levels temper this extrapolation. A moderate confidence of 0.62 reflects high directional certainty in the bear case, offset by uncertainty around the pace of continued decline vs. stabilization.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster shows severe bearish momentum with -29.7% over 30 days and -22.9% over 14 days, indicating a strong downtrend. The Sharpe ratio of -4.77 reflects deeply negative risk-adjusted performance, and the max drawdown of -27.7% signals persistent selling pressure. TVL has contracted -10.4% over 30 days ($2.36B), reflecting reduced protocol usage and capital flight. The only minor positive signal is a marginal +0.28% 7-day return, which may suggest a brief consolidation but is insufficient to signal a reversal given the broader bear regime. Annualizing the 14-day trend (~-22.9% / 14 days * 365 days) implies a deeply negative trajectory (~-597%), though mean reversion and support levels temper this extrapolation. A moderate confidence of 0.62 reflects high directional certainty in the bear case, offset by uncertainty around the pace of continued decline vs. stabilization.\"}\n```",
+  "date": "2025-12-26",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:17:01.087027+00:00",
+  "enriched": false
+}

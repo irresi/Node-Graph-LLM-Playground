@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.52,
+  "reasoning": "CAKE (PancakeSwap) is showing persistent negative momentum across all timeframes (7d: -10.85%, 14d: -11.14%, 30d: -8.94%), with accelerating short-term losses suggesting continued selling pressure. The negative Sharpe ratio (-1.36) and significant max drawdown (-19.7%) indicate poor risk-adjusted performance. However, TVL remains substantial at $2.17B with a healthy +7.0% 30d growth, and the broader DeFi market is in a moderate bull regime (+9.9% TVL growth), providing some fundamental support. The divergence between TVL growth and price action suggests potential mean reversion, but near-term momentum remains negative. Annualizing the ~14-day trend implies deep losses, but some recovery is expected given TVL support, resulting in a moderately negative forecast. Confidence is moderate due to conflicting signals between price momentum and protocol fundamentals.",
+  "raw_response": "```json\n{\"expected_return\": -0.18, \"confidence\": 0.52, \"reasoning\": \"CAKE (PancakeSwap) is showing persistent negative momentum across all timeframes (7d: -10.85%, 14d: -11.14%, 30d: -8.94%), with accelerating short-term losses suggesting continued selling pressure. The negative Sharpe ratio (-1.36) and significant max drawdown (-19.7%) indicate poor risk-adjusted performance. However, TVL remains substantial at $2.17B with a healthy +7.0% 30d growth, and the broader DeFi market is in a moderate bull regime (+9.9% TVL growth), providing some fundamental support. The divergence between TVL growth and price action suggests potential mean reversion, but near-term momentum remains negative. Annualizing the ~14-day trend implies deep losses, but some recovery is expected given TVL support, resulting in a moderately negative forecast. Confidence is moderate due to conflicting signals between price momentum and protocol fundamentals.\"}\n```",
+  "date": "2025-09-05",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:10:19.773644+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.38,
+  "reasoning": "BAL (Balancer) shows a mixed signal profile. The 30-day return of +15.16% and strong TVL growth (+33.9% to $773M) align with the broader DeFi bull trend (+34.5% TVL). However, near-term momentum is sharply negative: -4.45% over 7 days and -11.72% over 14 days, suggesting a significant pullback is already underway. The annualized volatility of 105.6% reflects BAL's high-risk profile, making directional conviction difficult. The Sharpe of 1.21 is respectable over 30 days but is being eroded by recent weakness. For the next 14-day window, we expect partial mean-reversion toward the positive 30-day trend, supported by TVL fundamentals and bullish macro DeFi conditions, but the recent sell-off and single-token cluster concentration (no diversification) cap our upside conviction. Annualized return estimate of ~42% reflects a modest recovery scenario; confidence is low (0.38) due to high volatility, contradictory short vs. medium-term momentum, and BAL's historically choppy price action.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.38, \"reasoning\": \"BAL (Balancer) shows a mixed signal profile. The 30-day return of +15.16% and strong TVL growth (+33.9% to $773M) align with the broader DeFi bull trend (+34.5% TVL). However, near-term momentum is sharply negative: -4.45% over 7 days and -11.72% over 14 days, suggesting a significant pullback is already underway. The annualized volatility of 105.6% reflects BAL's high-risk profile, making directional conviction difficult. The Sharpe of 1.21 is respectable over 30 days but is being eroded by recent weakness. For the next 14-day window, we expect partial mean-reversion toward the positive 30-day trend, supported by TVL fundamentals and bullish macro DeFi conditions, but the recent sell-off and single-token cluster concentration (no diversification) cap our upside conviction. Annualized return estimate of ~42% reflects a modest recovery scenario; confidence is low (0.38) due to high volatility, contradictory short vs. medium-term momentum, and BAL's historically choppy price action.\"}\n```",
+  "date": "2025-05-16",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:03:39.693671+00:00",
+  "enriched": false
+}

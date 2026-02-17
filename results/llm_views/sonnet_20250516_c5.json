@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.387,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) shows strong 30-day momentum (+23.31%) within a Moderate Bull regime with total DeFi TVL up +34.5%. The 14-day return of +7.48% annualizes to ~195%, but the recent 7-day pullback of -0.91% signals short-term mean reversion risk and cooling momentum. AAVE dominates TVL at $23.4B (+30.2%) providing fundamental support, while MKR shows relative weakness (+1.2% TVL growth). The Sharpe of 3.19 is exceptionally high, suggesting either a temporary alpha regime or overfitted short-window stats that will normalize. Annualized vol of 61.4% caps realistic return expectations. Blending strong macro tailwinds and TVL growth against near-term momentum fade and reversion risk, a forward annualized return of ~38.7% is estimated \u2014 above long-run DeFi norms but discounted from recent realized pace. Confidence is moderate (0.62) given high vol, mixed short-term signals, and the inherently unpredictable 14-day DeFi window.",
+  "raw_response": "```json\n{\"expected_return\": 0.387, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) shows strong 30-day momentum (+23.31%) within a Moderate Bull regime with total DeFi TVL up +34.5%. The 14-day return of +7.48% annualizes to ~195%, but the recent 7-day pullback of -0.91% signals short-term mean reversion risk and cooling momentum. AAVE dominates TVL at $23.4B (+30.2%) providing fundamental support, while MKR shows relative weakness (+1.2% TVL growth). The Sharpe of 3.19 is exceptionally high, suggesting either a temporary alpha regime or overfitted short-window stats that will normalize. Annualized vol of 61.4% caps realistic return expectations. Blending strong macro tailwinds and TVL growth against near-term momentum fade and reversion risk, a forward annualized return of ~38.7% is estimated \u2014 above long-run DeFi norms but discounted from recent realized pace. Confidence is moderate (0.62) given high vol, mixed short-term signals, and the inherently unpredictable 14-day DeFi window.\"}\n```",
+  "date": "2025-05-16",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:04:11.744453+00:00",
+  "enriched": false
+}

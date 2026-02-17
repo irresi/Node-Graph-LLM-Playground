@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.72,
+  "reasoning": "BAL is in severe distress: -121.49% 30-day cluster return, -70.4% max drawdown, Sharpe of -6.54, and a deeply bearish DeFi macro backdrop with TVL down -30.1% over 30 days. BAL-specific TVL dropped -32.1% to $179M, signaling continued capital flight from the Balancer protocol. The 7-day (-103.76%) and 14-day (-109.33%) returns show no meaningful deceleration in the downtrend. While extreme negative momentum occasionally precedes a technical mean-reversion bounce, the structural deterioration in TVL and the broad bear regime make sustained recovery unlikely over the next 14 days. Annualizing the recent 14-day trend (~-109% over 14d \u2248 -2850% annualized) is not credible as a forward estimate due to floor effects, but applying a heavy bearish discount, a forward annualized return of approximately -185% is the central estimate. Confidence is moderate (0.72) given the strong directional signal but inherent uncertainty around potential dead-cat bounces or protocol-specific catalysts.",
+  "raw_response": "```json\n{\"expected_return\": -1.85, \"confidence\": 0.72, \"reasoning\": \"BAL is in severe distress: -121.49% 30-day cluster return, -70.4% max drawdown, Sharpe of -6.54, and a deeply bearish DeFi macro backdrop with TVL down -30.1% over 30 days. BAL-specific TVL dropped -32.1% to $179M, signaling continued capital flight from the Balancer protocol. The 7-day (-103.76%) and 14-day (-109.33%) returns show no meaningful deceleration in the downtrend. While extreme negative momentum occasionally precedes a technical mean-reversion bounce, the structural deterioration in TVL and the broad bear regime make sustained recovery unlikely over the next 14 days. Annualizing the recent 14-day trend (~-109% over 14d \u2248 -2850% annualized) is not credible as a forward estimate due to floor effects, but applying a heavy bearish discount, a forward annualized return of approximately -185% is the central estimate. Confidence is moderate (0.72) given the strong directional signal but inherent uncertainty around potential dead-cat bounces or protocol-specific catalysts.\"}\n```",
+  "date": "2026-02-06",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:19:31.997213+00:00",
+  "enriched": false
+}

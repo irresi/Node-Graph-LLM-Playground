@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "BAL (Balancer) is showing strong momentum with a 14-day return of +19.28% and a 30-day return of +29.09%, supported by TVL growth of +19.4% to $888M. The broader DeFi market is in a confirmed bull regime with TVL up +33.6% over 30 days. The exceptional Sharpe ratio of 4.39 suggests risk-adjusted performance has been unusually strong, though mean reversion is a risk at these elevated levels. Annualized forward return is estimated at ~42%, reflecting continued but moderating momentum from the recent 14-day pace (~502% annualized), discounted heavily for likely deceleration, high single-token concentration risk, and elevated annualized volatility of 55.7%. The -10.2% max drawdown shows resilience but also flags tail risk. Confidence is moderate at 0.62 due to single-token cluster exposure and the risk of momentum exhaustion after a sharp run-up.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) is showing strong momentum with a 14-day return of +19.28% and a 30-day return of +29.09%, supported by TVL growth of +19.4% to $888M. The broader DeFi market is in a confirmed bull regime with TVL up +33.6% over 30 days. The exceptional Sharpe ratio of 4.39 suggests risk-adjusted performance has been unusually strong, though mean reversion is a risk at these elevated levels. Annualized forward return is estimated at ~42%, reflecting continued but moderating momentum from the recent 14-day pace (~502% annualized), discounted heavily for likely deceleration, high single-token concentration risk, and elevated annualized volatility of 55.7%. The -10.2% max drawdown shows resilience but also flags tail risk. Confidence is moderate at 0.62 due to single-token cluster exposure and the risk of momentum exhaustion after a sharp run-up.\"}\n```",
+  "date": "2025-07-25",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:07:54.987222+00:00",
+  "enriched": false
+}

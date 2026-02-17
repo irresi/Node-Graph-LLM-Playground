@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) faces significant headwinds. The bear market regime with strong downtrend is the dominant signal. Recent momentum is persistently negative across all timeframes: -3.89% (7d), -4.73% (14d), -14.66% (30d), with a deeply negative Sharpe of -2.38 and max drawdown of -18.9%. Annualizing the 14-day return of -4.73% yields approximately -0.42 (-42%). Partial offsets come from protocol fundamentals: AAVE TVL at $33.6B (+1.8%), MKR showing strong TVL growth (+12.6%), and CRV slightly positive (+2.7%), suggesting underlying protocol health is not deteriorating sharply. However, GMX (-9.0%) and COMP (-3.4%) add drag. The momentum signal dominates over the 14-day horizon, keeping the forecast deeply negative. Confidence is moderate (0.62) given that blue-chip DeFi protocols with strong fundamentals could mean-revert, but the bear regime and negative momentum make continued drawdown the higher-probability outcome.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) faces significant headwinds. The bear market regime with strong downtrend is the dominant signal. Recent momentum is persistently negative across all timeframes: -3.89% (7d), -4.73% (14d), -14.66% (30d), with a deeply negative Sharpe of -2.38 and max drawdown of -18.9%. Annualizing the 14-day return of -4.73% yields approximately -0.42 (-42%). Partial offsets come from protocol fundamentals: AAVE TVL at $33.6B (+1.8%), MKR showing strong TVL growth (+12.6%), and CRV slightly positive (+2.7%), suggesting underlying protocol health is not deteriorating sharply. However, GMX (-9.0%) and COMP (-3.4%) add drag. The momentum signal dominates over the 14-day horizon, keeping the forecast deeply negative. Confidence is moderate (0.62) given that blue-chip DeFi protocols with strong fundamentals could mean-revert, but the bear regime and negative momentum make continued drawdown the higher-probability outcome.\"}\n```",
+  "date": "2025-12-12",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:16:52.845394+00:00",
+  "enriched": false
+}

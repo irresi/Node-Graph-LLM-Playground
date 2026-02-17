@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "BAL (Balancer) presents a mixed signal environment. The 7-day (+10.15%) and 14-day (+12.71%) returns suggest a short-term momentum reversal after a rough 30-day period (-5.76%), which is mildly encouraging. However, the broader market regime is a confirmed bear/strong downtrend, which significantly caps upside potential and reliability of any bounce. TVL at $840M with near-flat 30-day change (-0.1%) indicates stable but stagnant protocol fundamentals \u2014 no catalytic growth. The annualized volatility of 45.4% with a deeply negative Sharpe (-1.07) underscores poor risk-adjusted returns historically. The recent 2-week momentum (+12.71%) is the primary positive driver, suggesting possible mean-reversion continuation, but given bear regime headwinds, DEX sector pressure, and single-token cluster concentration risk (no diversification), the forecast is a modest positive annualized return of ~8%. Confidence is low (0.35) due to regime conflict with short-term momentum and high volatility uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"BAL (Balancer) presents a mixed signal environment. The 7-day (+10.15%) and 14-day (+12.71%) returns suggest a short-term momentum reversal after a rough 30-day period (-5.76%), which is mildly encouraging. However, the broader market regime is a confirmed bear/strong downtrend, which significantly caps upside potential and reliability of any bounce. TVL at $840M with near-flat 30-day change (-0.1%) indicates stable but stagnant protocol fundamentals \u2014 no catalytic growth. The annualized volatility of 45.4% with a deeply negative Sharpe (-1.07) underscores poor risk-adjusted returns historically. The recent 2-week momentum (+12.71%) is the primary positive driver, suggesting possible mean-reversion continuation, but given bear regime headwinds, DEX sector pressure, and single-token cluster concentration risk (no diversification), the forecast is a modest positive annualized return of ~8%. Confidence is low (0.35) due to regime conflict with short-term momentum and high volatility uncertainty.\"}\n```",
+  "date": "2025-07-11",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:06:58.187752+00:00",
+  "enriched": false
+}

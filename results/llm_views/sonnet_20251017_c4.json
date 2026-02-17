@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 4 (LINK, OP, ARB, ENS, GRT) is exhibiting severe momentum deterioration: -31.15% over 7 days, -37.21% over 14 days, and -43.34% over 30 days, with a deeply negative Sharpe ratio of -3.37 and a max drawdown of -38.7%. The broader DeFi market is in a confirmed bear regime with TVL down 8.8% over 30 days. The cluster is dominated by infrastructure/L2 tokens with no DeFi TVL of their own, making them highly correlated with risk-off sentiment rather than yield-generating fundamentals. Accelerating weekly losses suggest capitulation is not yet complete. Annualizing the recent 14-day return trajectory (-37.21% over ~14 days \u2248 -0.965 annualized) and applying a modest mean-reversion discount for potential short-term bounces yields an expected annualized return of approximately -0.85. Confidence is moderate (0.72) given the strong trend signal, but tempered by the possibility of an oversold technical bounce in the near term.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.72, \"reasoning\": \"Cluster 4 (LINK, OP, ARB, ENS, GRT) is exhibiting severe momentum deterioration: -31.15% over 7 days, -37.21% over 14 days, and -43.34% over 30 days, with a deeply negative Sharpe ratio of -3.37 and a max drawdown of -38.7%. The broader DeFi market is in a confirmed bear regime with TVL down 8.8% over 30 days. The cluster is dominated by infrastructure/L2 tokens with no DeFi TVL of their own, making them highly correlated with risk-off sentiment rather than yield-generating fundamentals. Accelerating weekly losses suggest capitulation is not yet complete. Annualizing the recent 14-day return trajectory (-37.21% over ~14 days \u2248 -0.965 annualized) and applying a modest mean-reversion discount for potential short-term bounces yields an expected annualized return of approximately -0.85. Confidence is moderate (0.72) given the strong trend signal, but tempered by the possibility of an oversold technical bounce in the near term.\"}\n```",
+  "date": "2025-10-17",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:30.208611+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "BAL (Balancer) is showing consistent negative momentum across all timeframes (7d: -1.17%, 14d: -1.37%, 30d: -2.03%) with a negative Sharpe ratio (-0.27) and meaningful max drawdown (-13.3%), indicating persistent selling pressure. TVL has declined -10.2% over 30 days to $852M, reflecting weakening protocol fundamentals and capital outflows. While the broader DeFi market is in a bull regime with +7.0% TVL growth, BAL is notably decoupled and underperforming \u2014 suggesting DEX-specific headwinds, possibly from competitive pressure (Uniswap v4, Curve) or reduced liquidity mining incentives. Annualized return estimate of -8% reflects continued underperformance relative to the market, with moderate uncertainty given the bull macro backdrop that could provide some uplift. Confidence is modest (0.45) due to the tension between negative token-specific momentum and the supportive broader market environment.",
+  "raw_response": "```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"BAL (Balancer) is showing consistent negative momentum across all timeframes (7d: -1.17%, 14d: -1.37%, 30d: -2.03%) with a negative Sharpe ratio (-0.27) and meaningful max drawdown (-13.3%), indicating persistent selling pressure. TVL has declined -10.2% over 30 days to $852M, reflecting weakening protocol fundamentals and capital outflows. While the broader DeFi market is in a bull regime with +7.0% TVL growth, BAL is notably decoupled and underperforming \u2014 suggesting DEX-specific headwinds, possibly from competitive pressure (Uniswap v4, Curve) or reduced liquidity mining incentives. Annualized return estimate of -8% reflects continued underperformance relative to the market, with moderate uncertainty given the bull macro backdrop that could provide some uplift. Confidence is modest (0.45) due to the tension between negative token-specific momentum and the supportive broader market environment.\"}\n```",
+  "date": "2025-09-19",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:11:19.720536+00:00",
+  "enriched": false
+}

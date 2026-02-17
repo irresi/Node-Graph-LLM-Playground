@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.58,
+  "confidence": 0.62,
+  "reasoning": "CAKE/PancakeSwap cluster shows strong momentum with +25.61% over 30 days and an exceptional Sharpe ratio of 2.98, indicating risk-adjusted returns well above average. The 7-day (+4.44%) and 14-day (+13.88%) trend shows consistent upward acceleration. TVL of $1.81B with +7.6% 30d growth confirms solid protocol fundamentals. The broader DeFi market is in a Moderate Bull regime with +25.5% TVL growth providing a favorable macro tailwind. However, annualized volatility of 72.2% and a max drawdown of -12.3% signal elevated risk. Forecasting ~58% annualized return (implying ~2.2% over 14 days) reflects continued but moderating momentum \u2014 mean reversion risk after a strong run tempers the near-term outlook. Single-token cluster reduces diversification, capping confidence at 0.62.",
+  "raw_response": "```json\n{\"expected_return\": 0.58, \"confidence\": 0.62, \"reasoning\": \"CAKE/PancakeSwap cluster shows strong momentum with +25.61% over 30 days and an exceptional Sharpe ratio of 2.98, indicating risk-adjusted returns well above average. The 7-day (+4.44%) and 14-day (+13.88%) trend shows consistent upward acceleration. TVL of $1.81B with +7.6% 30d growth confirms solid protocol fundamentals. The broader DeFi market is in a Moderate Bull regime with +25.5% TVL growth providing a favorable macro tailwind. However, annualized volatility of 72.2% and a max drawdown of -12.3% signal elevated risk. Forecasting ~58% annualized return (implying ~2.2% over 14 days) reflects continued but moderating momentum \u2014 mean reversion risk after a strong run tempers the near-term outlook. Single-token cluster reduces diversification, capping confidence at 0.62.\"}\n```",
+  "date": "2025-05-30",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:04:19.846231+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.38,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) presents a mixed signal environment. The broader DeFi market is in a moderate bull regime with TVL up +9.9% over 30 days, providing a supportive macro backdrop. However, near-term momentum is clearly deteriorating: the 7-day return of -8.63% and 14-day return of -5.74% indicate a meaningful short-term reversal against the 30-day gain of +7.84%, suggesting the cluster may be in a consolidation or pullback phase. Annualizing the 14-day return of -5.74% yields roughly -0.15, but mean-reversion toward the longer-term positive trend and the bullish market regime support a modest positive 14-day outlook. High annualized volatility of 85% and a max drawdown of -17.7% reflect significant tail risk, while the Sharpe of 0.77 is acceptable but not compelling. LINK, OP, ARB, ENS, and GRT are fundamentally sound infrastructure/oracle/L2 assets with structural demand, but lack direct TVL-driven yield signals. Balancing positive regime momentum against negative near-term price action, a modest annualized return of ~18% is forecast with low confidence given the conflicting signals and high volatility environment.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.38, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) presents a mixed signal environment. The broader DeFi market is in a moderate bull regime with TVL up +9.9% over 30 days, providing a supportive macro backdrop. However, near-term momentum is clearly deteriorating: the 7-day return of -8.63% and 14-day return of -5.74% indicate a meaningful short-term reversal against the 30-day gain of +7.84%, suggesting the cluster may be in a consolidation or pullback phase. Annualizing the 14-day return of -5.74% yields roughly -0.15, but mean-reversion toward the longer-term positive trend and the bullish market regime support a modest positive 14-day outlook. High annualized volatility of 85% and a max drawdown of -17.7% reflect significant tail risk, while the Sharpe of 0.77 is acceptable but not compelling. LINK, OP, ARB, ENS, and GRT are fundamentally sound infrastructure/oracle/L2 assets with structural demand, but lack direct TVL-driven yield signals. Balancing positive regime momentum against negative near-term price action, a modest annualized return of ~18% is forecast with low confidence given the conflicting signals and high volatility environment.\"}\n```",
+  "date": "2025-09-05",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:10:48.475079+00:00",
+  "enriched": false
+}

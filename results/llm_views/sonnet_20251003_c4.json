@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) presents a mixed but cautiously constructive near-term picture. The broader DeFi market regime is Moderate Bull with TVL up +4.7% over 30 days, providing a supportive macro backdrop. However, cluster-specific signals are conflicted: the 30-day return is slightly negative (-2.44%) with a poor Sharpe ratio (-0.40) and a deep max drawdown (-21.7%), indicating recent underperformance and elevated downside risk. The most critical tension is between the strong 7-day momentum (+11.94%) \u2014 suggesting a potential mean-reversion bounce already underway \u2014 and the negative 14-day return (-11.11%), which captures the sharp drawdown that preceded it. For a 14-day forward window, the sharp short-term rebound may partially exhaust near-term upside, and without TVL-based fundamental support for most tokens (OP, ARB, ENS, GRT have no TVL data), protocol-level conviction is low. LINK has nominal TVL with flat growth. Annualizing a modest +3% expected 14-day gain (~0.03 * 26 \u2248 0.78, but tempered for regime and mean-reversion risks) yields a conservative positive estimate. Confidence is low given high volatility (51.7% annualized), lack of fundamental anchors, and conflicting momentum signals across lookback windows.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) presents a mixed but cautiously constructive near-term picture. The broader DeFi market regime is Moderate Bull with TVL up +4.7% over 30 days, providing a supportive macro backdrop. However, cluster-specific signals are conflicted: the 30-day return is slightly negative (-2.44%) with a poor Sharpe ratio (-0.40) and a deep max drawdown (-21.7%), indicating recent underperformance and elevated downside risk. The most critical tension is between the strong 7-day momentum (+11.94%) \u2014 suggesting a potential mean-reversion bounce already underway \u2014 and the negative 14-day return (-11.11%), which captures the sharp drawdown that preceded it. For a 14-day forward window, the sharp short-term rebound may partially exhaust near-term upside, and without TVL-based fundamental support for most tokens (OP, ARB, ENS, GRT have no TVL data), protocol-level conviction is low. LINK has nominal TVL with flat growth. Annualizing a modest +3% expected 14-day gain (~0.03 * 26 \u2248 0.78, but tempered for regime and mean-reversion risks) yields a conservative positive estimate. Confidence is low given high volatility (51.7% annualized), lack of fundamental anchors, and conflicting momentum signals across lookback windows.\"\n}\n```",
+  "date": "2025-10-03",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:12:38.441201+00:00",
+  "enriched": false
+}

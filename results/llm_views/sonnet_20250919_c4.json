@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.52,
+  "confidence": 0.54,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2: LINK, OP, ARB, ENS, GRT) shows positive momentum with a strong 14-day return of +11.80% and a healthy 30-day return of +9.21%, operating within a confirmed bull market regime (+7.0% DeFi TVL growth). The Sharpe ratio of 1.19 indicates solid risk-adjusted performance. However, the 7-day return of +0.97% signals a notable deceleration in momentum relative to the 14-day and 30-day windows, suggesting the cluster may be consolidating after a strong run. Annualizing the 14-day return (~+11.80% over 14 days \u2248 ~307% annualized) would be overly optimistic; mean-reversion and the momentum slowdown warrant significant discounting. High annualized volatility of 64.8% and a max drawdown of -16.3% add meaningful downside risk. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL-based fundamental anchoring, increasing uncertainty. A moderate annualized return of ~52% reflects the bullish trend and recent outperformance while discounting the momentum fade and elevated volatility. Confidence is moderate at 0.54 due to the lack of TVL data for most tokens, high volatility regime, and the unclear near-term momentum signal.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.52,\n  \"confidence\": 0.54,\n  \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2: LINK, OP, ARB, ENS, GRT) shows positive momentum with a strong 14-day return of +11.80% and a healthy 30-day return of +9.21%, operating within a confirmed bull market regime (+7.0% DeFi TVL growth). The Sharpe ratio of 1.19 indicates solid risk-adjusted performance. However, the 7-day return of +0.97% signals a notable deceleration in momentum relative to the 14-day and 30-day windows, suggesting the cluster may be consolidating after a strong run. Annualizing the 14-day return (~+11.80% over 14 days \u2248 ~307% annualized) would be overly optimistic; mean-reversion and the momentum slowdown warrant significant discounting. High annualized volatility of 64.8% and a max drawdown of -16.3% add meaningful downside risk. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL-based fundamental anchoring, increasing uncertainty. A moderate annualized return of ~52% reflects the bullish trend and recent outperformance while discounting the momentum fade and elevated volatility. Confidence is moderate at 0.54 due to the lack of TVL data for most tokens, high volatility regime, and the unclear near-term momentum signal.\"\n}\n```",
+  "date": "2025-09-19",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:11:40.440566+00:00",
+  "enriched": false
+}

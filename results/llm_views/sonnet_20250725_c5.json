@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) operates in a confirmed bull regime with strong 30-day momentum (+17.81%) and an exceptional Sharpe ratio of 2.99, indicating risk-adjusted performance well above average. Total DeFi TVL is up +33.6% over 30 days, providing macro tailwinds. AAVE dominates TVL weighting at $32.8B (+31.4% 30d), anchoring fundamental strength. However, the recent 7-day return of -3.58% signals short-term exhaustion or a consolidation phase after the prior run-up, tempering near-term optimism. GMX TVL growth is notably weak (+0.8%), adding drag to the derivatives sub-segment. Annualizing the 14-day return of +11.71% yields ~305%, but this is unsustainable; reverting toward a more moderate bull-market pace, and discounting the recent 7-day pullback, an annualized forward return of ~42% is a reasonable central estimate for the next 14 days. Confidence is moderate (0.62) due to the conflicting signals between strong 30-day momentum and the near-term 7-day dip, plus inherent DeFi volatility (50.1% annualized).",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) operates in a confirmed bull regime with strong 30-day momentum (+17.81%) and an exceptional Sharpe ratio of 2.99, indicating risk-adjusted performance well above average. Total DeFi TVL is up +33.6% over 30 days, providing macro tailwinds. AAVE dominates TVL weighting at $32.8B (+31.4% 30d), anchoring fundamental strength. However, the recent 7-day return of -3.58% signals short-term exhaustion or a consolidation phase after the prior run-up, tempering near-term optimism. GMX TVL growth is notably weak (+0.8%), adding drag to the derivatives sub-segment. Annualizing the 14-day return of +11.71% yields ~305%, but this is unsustainable; reverting toward a more moderate bull-market pace, and discounting the recent 7-day pullback, an annualized forward return of ~42% is a reasonable central estimate for the next 14 days. Confidence is moderate (0.62) due to the conflicting signals between strong 30-day momentum and the near-term 7-day dip, plus inherent DeFi volatility (50.1% annualized).\"}\n```",
+  "date": "2025-07-25",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:08:29.124372+00:00",
+  "enriched": false
+}

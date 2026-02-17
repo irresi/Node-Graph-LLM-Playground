@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is under significant pressure in a confirmed bear regime. The 30-day return of -25.65% with a Sharpe of -2.85 and max drawdown of -23.9% signals persistent institutional selling. The recent 7-day bounce of +7.37% is a modest relief rally within a dominant downtrend \u2014 insufficient to reverse the structural bearish momentum, as the 14-day return of -10.73% still reflects net deterioration over the forecast horizon. Infrastructure tokens (OP, ARB, ENS, GRT) lack direct TVL-based yield support, and LINK's DeFi TVL is negligible ($0M), removing a fundamental floor. Annualizing the 14-day trend (-10.73% over ~14 days \u2248 -280% annualized) would be extreme; a moderate mean-reversion discount is applied, arriving at approximately -42% annualized, reflecting continued bearish drift tempered by the short-term bounce. Confidence is moderate (0.62) given the short-term momentum ambiguity \u2014 the 7-day uptick introduces some uncertainty around the pace of decline.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is under significant pressure in a confirmed bear regime. The 30-day return of -25.65% with a Sharpe of -2.85 and max drawdown of -23.9% signals persistent institutional selling. The recent 7-day bounce of +7.37% is a modest relief rally within a dominant downtrend \u2014 insufficient to reverse the structural bearish momentum, as the 14-day return of -10.73% still reflects net deterioration over the forecast horizon. Infrastructure tokens (OP, ARB, ENS, GRT) lack direct TVL-based yield support, and LINK's DeFi TVL is negligible ($0M), removing a fundamental floor. Annualizing the 14-day trend (-10.73% over ~14 days \u2248 -280% annualized) would be extreme; a moderate mean-reversion discount is applied, arriving at approximately -42% annualized, reflecting continued bearish drift tempered by the short-term bounce. Confidence is moderate (0.62) given the short-term momentum ambiguity \u2014 the 7-day uptick introduces some uncertainty around the pace of decline.\"}\n```",
+  "date": "2025-06-13",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:05:37.726130+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.31,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) presents a highly conflicted signal. On one hand, strong short-term momentum is evident: +12.44% over 7 days and +20.85% over 14 days, suggesting a sharp relief rally may be underway. On the other hand, the broader macro regime is a confirmed bear market (strong downtrend), the 30-day return is -5.38% with a max drawdown of -26.9%, and the Sharpe ratio of -0.61 indicates poor risk-adjusted performance. The 14-day annualized return of ~0.42 reflects the recent upside momentum partially extrapolated forward, but heavily discounted by: (1) mean-reversion risk after a ~20% 14-day surge, (2) bear market regime headwinds suppressing sustained rallies, (3) high annualized volatility of 73.6% making return paths highly uncertain, and (4) near-zero TVL data for most tokens limiting fundamental anchor points. Confidence is low (0.31) given the direct contradiction between short-term momentum and the dominant bear trend \u2014 historically, sharp relief rallies in bear regimes tend to fade within 1\u20132 weeks.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.31, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) presents a highly conflicted signal. On one hand, strong short-term momentum is evident: +12.44% over 7 days and +20.85% over 14 days, suggesting a sharp relief rally may be underway. On the other hand, the broader macro regime is a confirmed bear market (strong downtrend), the 30-day return is -5.38% with a max drawdown of -26.9%, and the Sharpe ratio of -0.61 indicates poor risk-adjusted performance. The 14-day annualized return of ~0.42 reflects the recent upside momentum partially extrapolated forward, but heavily discounted by: (1) mean-reversion risk after a ~20% 14-day surge, (2) bear market regime headwinds suppressing sustained rallies, (3) high annualized volatility of 73.6% making return paths highly uncertain, and (4) near-zero TVL data for most tokens limiting fundamental anchor points. Confidence is low (0.31) given the direct contradiction between short-term momentum and the dominant bear trend \u2014 historically, sharp relief rallies in bear regimes tend to fade within 1\u20132 weeks.\"}\n```",
+  "date": "2025-07-11",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:07:21.643120+00:00",
+  "enriched": false
+}

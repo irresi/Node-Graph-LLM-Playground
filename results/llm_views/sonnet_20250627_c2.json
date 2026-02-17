@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.52,
+  "confidence": 0.72,
+  "reasoning": "BAL/Balancer is exhibiting strong negative momentum across all timeframes (7d: -9.34%, 14d: -10.73%, 30d: -18.01%) with a deeply negative Sharpe ratio of -2.89, indicating risk-adjusted returns are severely degraded. The broader DeFi market is in a confirmed bear regime with TVL declining 7.1% over 30 days, and BAL's own TVL is contracting faster at -10.6%. Max drawdown of -19.7% signals sustained selling pressure with no clear reversal signals. Annualizing the recent 14-day return trajectory (~-10.73% / 14d \u2248 -280% annualized) suggests extreme downside, but mean-reversion and liquidity floor effects make a full continuation unlikely. A moderated annualized forecast of -52% reflects persistent bearish momentum tempered by potential oversold bounce dynamics. Confidence is moderate (0.72) given consistent cross-timeframe signal alignment, though short-term crypto volatility (52.4% annualized) introduces meaningful uncertainty around the point estimate.",
+  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.72, \"reasoning\": \"BAL/Balancer is exhibiting strong negative momentum across all timeframes (7d: -9.34%, 14d: -10.73%, 30d: -18.01%) with a deeply negative Sharpe ratio of -2.89, indicating risk-adjusted returns are severely degraded. The broader DeFi market is in a confirmed bear regime with TVL declining 7.1% over 30 days, and BAL's own TVL is contracting faster at -10.6%. Max drawdown of -19.7% signals sustained selling pressure with no clear reversal signals. Annualizing the recent 14-day return trajectory (~-10.73% / 14d \u2248 -280% annualized) suggests extreme downside, but mean-reversion and liquidity floor effects make a full continuation unlikely. A moderated annualized forecast of -52% reflects persistent bearish momentum tempered by potential oversold bounce dynamics. Confidence is moderate (0.72) given consistent cross-timeframe signal alignment, though short-term crypto volatility (52.4% annualized) introduces meaningful uncertainty around the point estimate.\"}\n```",
+  "date": "2025-06-27",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:06:07.449839+00:00",
+  "enriched": false
+}

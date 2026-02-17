@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "BAL/Balancer faces strong headwinds: bear market regime with DeFi TVL declining, severe 30-day cluster return of -16.6%, deeply negative Sharpe ratio of -2.94, and TVL shrinking -12.3% signaling capital flight. The slight 14-day rebound (+2.69%) offers marginal near-term momentum, but the dominant trend remains bearish. Annualizing the 30-day return trajectory (-16.6% over 30d \u2248 -202% annualized) is too extreme; however, blending the short-term mean-reversion signal (+2.69% over 14d \u2248 +70% annualized) with the prevailing bear trend yields a moderately negative forecast around -42% annualized. Confidence is moderate (0.62) given the partial mean-reversion offset and high volatility (47.5%) creating forecast uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL/Balancer faces strong headwinds: bear market regime with DeFi TVL declining, severe 30-day cluster return of -16.6%, deeply negative Sharpe ratio of -2.94, and TVL shrinking -12.3% signaling capital flight. The slight 14-day rebound (+2.69%) offers marginal near-term momentum, but the dominant trend remains bearish. Annualizing the 30-day return trajectory (-16.6% over 30d \u2248 -202% annualized) is too extreme; however, blending the short-term mean-reversion signal (+2.69% over 14d \u2248 +70% annualized) with the prevailing bear trend yields a moderately negative forecast around -42% annualized. Confidence is moderate (0.62) given the partial mean-reversion offset and high volatility (47.5%) creating forecast uncertainty.\"}\n```",
+  "date": "2025-12-12",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:16:22.685195+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2 tokens: LINK, OP, ARB, ENS, GRT) faces significant headwinds in the current bear market regime. The 30-day cluster return of -5.04% and deeply negative Sharpe ratio (-0.53) confirm persistent downward pressure, while the -18.7% max drawdown signals elevated tail risk. The 7-day return of -2.47% suggests continued near-term selling pressure. The only constructive signal is the 14-day return of +5.46%, which may indicate a short-lived relief rally or mean-reversion bounce. However, the broader DeFi TVL growth (+10.3%) provides modest macro support that partially offsets token-specific weakness. Infrastructure/L2 tokens lack direct TVL-based revenue metrics, making fundamental valuation difficult. Annualizing the recent 7-day momentum (-2.47% over 7 days \u2248 -129% annualized) and blending with the 14-day mean-reversion signal and the bearish regime discount yields a moderately negative forecast. High annualized volatility (80.3%) further depresses the risk-adjusted outlook. Confidence is low (0.35) given conflicting short-term signals, bear regime uncertainty, and absence of TVL fundamentals for most cluster tokens.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.35, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2 tokens: LINK, OP, ARB, ENS, GRT) faces significant headwinds in the current bear market regime. The 30-day cluster return of -5.04% and deeply negative Sharpe ratio (-0.53) confirm persistent downward pressure, while the -18.7% max drawdown signals elevated tail risk. The 7-day return of -2.47% suggests continued near-term selling pressure. The only constructive signal is the 14-day return of +5.46%, which may indicate a short-lived relief rally or mean-reversion bounce. However, the broader DeFi TVL growth (+10.3%) provides modest macro support that partially offsets token-specific weakness. Infrastructure/L2 tokens lack direct TVL-based revenue metrics, making fundamental valuation difficult. Annualizing the recent 7-day momentum (-2.47% over 7 days \u2248 -129% annualized) and blending with the 14-day mean-reversion signal and the bearish regime discount yields a moderately negative forecast. High annualized volatility (80.3%) further depresses the risk-adjusted outlook. Confidence is low (0.35) given conflicting short-term signals, bear regime uncertainty, and absence of TVL fundamentals for most cluster tokens.\"}\n```",
+  "date": "2025-08-22",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:10:03.654981+00:00",
+  "enriched": false
+}

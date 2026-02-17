@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) is exhibiting severe bearish momentum across all timeframes: -10.12% (7d), -13.30% (14d), -26.21% (30d), with a deeply negative Sharpe of -1.67 and max drawdown of -31.9%. The broader DeFi market is in a confirmed bear regime with TVL down -11.3% over 30 days. Protocol-level TVL declines are pervasive \u2014 SNX notably down -24.1%, LDO (the dominant TVL contributor at $32.6B) down -12.0%, and UNI down -8.7%. Annualizing the recent 14-day return of -13.30% yields approximately -0.72 (-72%), which serves as the momentum anchor. Given the absence of positive catalysts, sustained selling pressure, and high realized volatility (132% annualized), a continuation of the downtrend over the next 14 days is the base case. A slight moderation from the steepest declines is possible as oversold conditions may attract short-term mean reversion, but the regime does not support a bullish reversal. Confidence is moderate (0.62) due to the inherent unpredictability of volatile crypto markets and the possibility of a sharp short-covering bounce.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) is exhibiting severe bearish momentum across all timeframes: -10.12% (7d), -13.30% (14d), -26.21% (30d), with a deeply negative Sharpe of -1.67 and max drawdown of -31.9%. The broader DeFi market is in a confirmed bear regime with TVL down -11.3% over 30 days. Protocol-level TVL declines are pervasive \u2014 SNX notably down -24.1%, LDO (the dominant TVL contributor at $32.6B) down -12.0%, and UNI down -8.7%. Annualizing the recent 14-day return of -13.30% yields approximately -0.72 (-72%), which serves as the momentum anchor. Given the absence of positive catalysts, sustained selling pressure, and high realized volatility (132% annualized), a continuation of the downtrend over the next 14 days is the base case. A slight moderation from the steepest declines is possible as oversold conditions may attract short-term mean reversion, but the regime does not support a bullish reversal. Confidence is moderate (0.62) due to the inherent unpredictability of volatile crypto markets and the possibility of a sharp short-covering bounce.\"}\n```",
+  "date": "2025-10-31",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:14:12.628739+00:00",
+  "enriched": false
+}

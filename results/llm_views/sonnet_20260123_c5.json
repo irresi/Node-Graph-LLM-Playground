@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) shows bearish short-term momentum with -6.04% over 7 days and -4.58% over 14 days, despite a mildly positive 30-day return of +1.21%. The neutral/range-bound macro regime and decelerating TVL across most constituents (CRV -3.6%, COMP -2.4%, GMX -1.4%, AAVE -0.2%) signal weak fundamental tailwinds. Only MKR shows positive TVL growth (+2.1%), providing a modest offset. The low Sharpe ratio (0.22) and significant max drawdown (-12.5%) confirm poor risk-adjusted performance. Annualizing the recent 14-day trend (~-4.58% over 14d \u2248 -119% annualized) would be extreme; however, mean-reversion from oversold conditions and the stable overall DeFi TVL (+1.9%) limit the downside. A modest negative annualized return of -8% reflects continued near-term headwinds with partial mean-reversion expected. Low confidence (0.35) reflects high cluster volatility (46.1% annualized) and uncertainty in the 14-day horizon.",
+  "raw_response": "```json\n{\"expected_return\": -0.08, \"confidence\": 0.35, \"reasoning\": \"Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) shows bearish short-term momentum with -6.04% over 7 days and -4.58% over 14 days, despite a mildly positive 30-day return of +1.21%. The neutral/range-bound macro regime and decelerating TVL across most constituents (CRV -3.6%, COMP -2.4%, GMX -1.4%, AAVE -0.2%) signal weak fundamental tailwinds. Only MKR shows positive TVL growth (+2.1%), providing a modest offset. The low Sharpe ratio (0.22) and significant max drawdown (-12.5%) confirm poor risk-adjusted performance. Annualizing the recent 14-day trend (~-4.58% over 14d \u2248 -119% annualized) would be extreme; however, mean-reversion from oversold conditions and the stable overall DeFi TVL (+1.9%) limit the downside. A modest negative annualized return of -8% reflects continued near-term headwinds with partial mean-reversion expected. Low confidence (0.35) reflects high cluster volatility (46.1% annualized) and uncertainty in the 14-day horizon.\"}\n```",
+  "date": "2026-01-23",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:19:12.796026+00:00",
+  "enriched": false
+}

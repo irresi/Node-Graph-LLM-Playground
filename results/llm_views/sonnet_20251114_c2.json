@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.72,
+  "reasoning": "BAL/Cluster 2 is exhibiting severe bearish momentum across all timeframes: -5.27% (7d), -21.77% (14d), -29.95% (30d), with a catastrophic TVL decline of -64.3% signaling deep capital flight from the Balancer protocol. The broader DeFi market is also in a strong downtrend (-17.2% TVL in 30d). The Sharpe ratio of -4.27 and max drawdown of -28.1% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-21.77% over ~14 days) yields approximately -72% annualized, which aligns with the cluster's realized volatility of 58.9% to the downside. A mean-reversion bounce is possible but unlikely given the magnitude of TVL outflows, which typically precede continued price deterioration. Confidence is moderate (0.72) rather than high due to inherent uncertainty in short-term crypto forecasting and the small possibility of a technical relief rally.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.72, \"reasoning\": \"BAL/Cluster 2 is exhibiting severe bearish momentum across all timeframes: -5.27% (7d), -21.77% (14d), -29.95% (30d), with a catastrophic TVL decline of -64.3% signaling deep capital flight from the Balancer protocol. The broader DeFi market is also in a strong downtrend (-17.2% TVL in 30d). The Sharpe ratio of -4.27 and max drawdown of -28.1% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-21.77% over ~14 days) yields approximately -72% annualized, which aligns with the cluster's realized volatility of 58.9% to the downside. A mean-reversion bounce is possible but unlikely given the magnitude of TVL outflows, which typically precede continued price deterioration. Confidence is moderate (0.72) rather than high due to inherent uncertainty in short-term crypto forecasting and the small possibility of a technical relief rally.\"}\n```",
+  "date": "2025-11-14",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:14:52.223160+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.52,
+  "confidence": 0.72,
+  "reasoning": "BAL is in a severe bear trend with deeply negative momentum across all timeframes (7d: -9.41%, 14d: -12.51%, 30d: -26.26%) and a catastrophic Sharpe ratio of -7.97. The overall DeFi market is also contracting (TVL -2.9%), and BAL's own TVL declined -4.8% over 30 days. The annualized volatility of 27.7% combined with the persistent downtrend and max drawdown of -22% suggests continued selling pressure. Extrapolating the 14-day return momentum of -12.51% over a 14-day forward window yields an annualized return of approximately -52%. Confidence is moderate (0.72) given the strong and consistent directional signal, though short-term relief rallies in bear markets introduce some uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.72, \"reasoning\": \"BAL is in a severe bear trend with deeply negative momentum across all timeframes (7d: -9.41%, 14d: -12.51%, 30d: -26.26%) and a catastrophic Sharpe ratio of -7.97. The overall DeFi market is also contracting (TVL -2.9%), and BAL's own TVL declined -4.8% over 30 days. The annualized volatility of 27.7% combined with the persistent downtrend and max drawdown of -22% suggests continued selling pressure. Extrapolating the 14-day return momentum of -12.51% over a 14-day forward window yields an annualized return of approximately -52%. Confidence is moderate (0.72) given the strong and consistent directional signal, though short-term relief rallies in bear markets introduce some uncertainty.\"}\n```",
+  "date": "2026-01-09",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:17:58.614229+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.65,
+  "reasoning": "Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is in a severe bear regime with deeply negative momentum across all timeframes: -6.19% (7d), -19.89% (14d), -30.21% (30d). The acceleration of losses signals persistent selling pressure with no reversal catalyst visible. SNX is particularly distressed with -48.5% TVL decline in 30 days. Total DeFi TVL contraction of -19.3% confirms macro headwinds. Annualizing the recent 14-day return of ~-19.89% yields approximately -0.72 (-72%), which serves as the base forecast. A slight mean-reversion discount is applied given the extreme drawdown (-30.9% max drawdown) may attract some dip buyers, but the strong downtrend and negative Sharpe of -2.88 argue against significant near-term recovery. Confidence is moderate (0.65) due to high annualized volatility (88.1%), which introduces wide outcome dispersion despite the clear directional signal.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.65, \"reasoning\": \"Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is in a severe bear regime with deeply negative momentum across all timeframes: -6.19% (7d), -19.89% (14d), -30.21% (30d). The acceleration of losses signals persistent selling pressure with no reversal catalyst visible. SNX is particularly distressed with -48.5% TVL decline in 30 days. Total DeFi TVL contraction of -19.3% confirms macro headwinds. Annualizing the recent 14-day return of ~-19.89% yields approximately -0.72 (-72%), which serves as the base forecast. A slight mean-reversion discount is applied given the extreme drawdown (-30.9% max drawdown) may attract some dip buyers, but the strong downtrend and negative Sharpe of -2.88 argue against significant near-term recovery. Confidence is moderate (0.65) due to high annualized volatility (88.1%), which introduces wide outcome dispersion despite the clear directional signal.\"}\n```",
+  "date": "2025-11-28",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:15:45.737729+00:00",
+  "enriched": false
+}

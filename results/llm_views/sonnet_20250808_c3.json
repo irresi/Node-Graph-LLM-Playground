@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.87,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) shows strong bullish momentum with +30.64% over 30 days and an exceptional Sharpe ratio of 3.57, indicating risk-adjusted performance well above average. The broader DeFi market regime is bullish with TVL up +29.9%. LDO dominates TVL at $34.8B (+37.5%) and provides a strong liquid staking tailwind, while RPL (+41.8% TVL) and SUSHI (+58.1% TVL) show accelerating capital inflows. However, the 14-day return of only +2.24% vs the 30-day +30.64% suggests momentum may be consolidating or front-loaded, and the -23.9% max drawdown signals meaningful downside risk within bull runs. Annualizing the 14-day return of +2.24% yields ~58%, but blending with the stronger 30-day trend and TVL momentum, a forward estimate of ~87% annualized is reasonable, tempered by consolidation signals and elevated volatility (72.1% annualized). Confidence is moderate at 0.62 due to the short 14-day forecast window, high volatility, and mixed short- vs medium-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.87, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) shows strong bullish momentum with +30.64% over 30 days and an exceptional Sharpe ratio of 3.57, indicating risk-adjusted performance well above average. The broader DeFi market regime is bullish with TVL up +29.9%. LDO dominates TVL at $34.8B (+37.5%) and provides a strong liquid staking tailwind, while RPL (+41.8% TVL) and SUSHI (+58.1% TVL) show accelerating capital inflows. However, the 14-day return of only +2.24% vs the 30-day +30.64% suggests momentum may be consolidating or front-loaded, and the -23.9% max drawdown signals meaningful downside risk within bull runs. Annualizing the 14-day return of +2.24% yields ~58%, but blending with the stronger 30-day trend and TVL momentum, a forward estimate of ~87% annualized is reasonable, tempered by consolidation signals and elevated volatility (72.1% annualized). Confidence is moderate at 0.62 due to the short 14-day forecast window, high volatility, and mixed short- vs medium-term momentum signals.\"}\n```",
+  "date": "2025-08-08",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:09:00.108493+00:00",
+  "enriched": false
+}

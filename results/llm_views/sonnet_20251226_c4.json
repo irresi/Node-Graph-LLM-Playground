@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.48,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is in a strong bear regime with severe recent drawdowns: -21.98% over 30 days and -18.45% over 14 days. The Sharpe ratio of -3.10 and max drawdown of -23.0% confirm deeply negative momentum. Annualizing the 14-day return of -18.45% yields approximately -0.48 (-48%). The slight 7-day uptick of +0.81% offers a marginal mean-reversion signal, but is insufficient to overcome the dominant downtrend. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, limiting fundamental anchoring, while LINK shows flat TVL growth. Confidence is moderate (0.62) given the consistent directional signal across all timeframes, partially offset by short-term noise from the minor 7-day bounce and macro uncertainty in overall DeFi TVL (-0.2% 30d).",
+  "raw_response": "```json\n{\"expected_return\": -0.48, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is in a strong bear regime with severe recent drawdowns: -21.98% over 30 days and -18.45% over 14 days. The Sharpe ratio of -3.10 and max drawdown of -23.0% confirm deeply negative momentum. Annualizing the 14-day return of -18.45% yields approximately -0.48 (-48%). The slight 7-day uptick of +0.81% offers a marginal mean-reversion signal, but is insufficient to overcome the dominant downtrend. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, limiting fundamental anchoring, while LINK shows flat TVL growth. Confidence is moderate (0.62) given the consistent directional signal across all timeframes, partially offset by short-term noise from the minor 7-day bounce and macro uncertainty in overall DeFi TVL (-0.2% 30d).\"}\n```",
+  "date": "2025-12-26",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:17:32.724052+00:00",
+  "enriched": false
+}

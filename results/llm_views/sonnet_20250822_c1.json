@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.32,
+  "confidence": 0.62,
+  "reasoning": "CAKE/DEX cluster faces significant headwinds: bear market regime with strong downtrend, negative momentum across all timeframes (7d: -3.63%, 14d: -5.77%, 30d: -4.80%), and a poor Sharpe ratio of -0.66. The annualized projection of the 14-day return (-5.77% over ~14 days \u2248 -0.32 annualized extrapolation adjusted) reflects persistent selling pressure. Modest positive offset from TVL growth (+3.8% 30d) and healthy absolute TVL ($2.1B) suggesting protocol fundamentals remain intact, but insufficient to overcome macro bearish trend. High annualized volatility (61.1%) and max drawdown of -18.4% reinforce downside risk. Confidence is moderate (0.62) as bear regimes can see sharp reversals, and CAKE's strong DEX fundamentals provide some floor support.",
+  "raw_response": "```json\n{\"expected_return\": -0.32, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster faces significant headwinds: bear market regime with strong downtrend, negative momentum across all timeframes (7d: -3.63%, 14d: -5.77%, 30d: -4.80%), and a poor Sharpe ratio of -0.66. The annualized projection of the 14-day return (-5.77% over ~14 days \u2248 -0.32 annualized extrapolation adjusted) reflects persistent selling pressure. Modest positive offset from TVL growth (+3.8% 30d) and healthy absolute TVL ($2.1B) suggesting protocol fundamentals remain intact, but insufficient to overcome macro bearish trend. High annualized volatility (61.1%) and max drawdown of -18.4% reinforce downside risk. Confidence is moderate (0.62) as bear regimes can see sharp reversals, and CAKE's strong DEX fundamentals provide some floor support.\"}\n```",
+  "date": "2025-08-22",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:09:32.307347+00:00",
+  "enriched": false
+}

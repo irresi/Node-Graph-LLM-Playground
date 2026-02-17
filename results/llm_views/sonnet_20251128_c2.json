@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.74,
+  "reasoning": "BAL is exhibiting severe bearish momentum across all timeframes: -1.5% (7d), -15.3% (14d), -41.5% (30d), compounding a devastating -68.2% TVL collapse over 30 days against an already weak DeFi market (-19.3% TVL, bear regime). The Sharpe ratio of -6.06 and max drawdown of -33.5% confirm deeply negative risk-adjusted performance with no reversal signals. Annualizing the 14-day return of -15.33% yields approximately -0.72 (-72%). While mean-reversion could temper further losses at oversold levels, the TVL hemorrhage suggests fundamental capital flight from the Balancer protocol rather than mere sentiment-driven selling, warranting high confidence in continued negative returns. Confidence is modestly capped at 0.74 given the possibility of a short-term technical bounce from deeply oversold conditions.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.74, \"reasoning\": \"BAL is exhibiting severe bearish momentum across all timeframes: -1.5% (7d), -15.3% (14d), -41.5% (30d), compounding a devastating -68.2% TVL collapse over 30 days against an already weak DeFi market (-19.3% TVL, bear regime). The Sharpe ratio of -6.06 and max drawdown of -33.5% confirm deeply negative risk-adjusted performance with no reversal signals. Annualizing the 14-day return of -15.33% yields approximately -0.72 (-72%). While mean-reversion could temper further losses at oversold levels, the TVL hemorrhage suggests fundamental capital flight from the Balancer protocol rather than mere sentiment-driven selling, warranting high confidence in continued negative returns. Confidence is modestly capped at 0.74 given the possibility of a short-term technical bounce from deeply oversold conditions.\"}\n```",
+  "date": "2025-11-28",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:15:37.151685+00:00",
+  "enriched": false
+}

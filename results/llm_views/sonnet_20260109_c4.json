@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.187,
+  "confidence": 0.31,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2: LINK, OP, ARB, ENS, GRT) presents a conflicted signal environment. The dominant macro regime is bearish (DeFi TVL -2.9%, strong downtrend), and the 30-day cluster return of -9.71% with a Sharpe of -1.56 and max drawdown of -19.3% confirms structural selling pressure. However, short-term momentum is notably positive: +6.76% over 7 days and +13.95% over 14 days suggest a counter-trend relief rally is underway. Annualizing the 14-day return of ~+13.95% yields approximately +0.363 on a naive basis, but this is heavily discounted given: (1) the bear regime context making sustained momentum unlikely, (2) high annualized volatility of 52.3% which widens uncertainty bands significantly, (3) absence of meaningful TVL-backed fundamental support for OP, ARB, ENS, and GRT, and (4) the historical tendency for sharp bear-market bounces to fade within 1\u20132 weeks. A modest positive expected return (~18.7% annualized) reflects the short-term momentum tailwind partially offset by the bearish structural backdrop. Confidence is low (0.31) due to the regime conflict between recent momentum and the prevailing downtrend, high volatility, and thin fundamental anchors for most cluster constituents.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.187,\n  \"confidence\": 0.31,\n  \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2: LINK, OP, ARB, ENS, GRT) presents a conflicted signal environment. The dominant macro regime is bearish (DeFi TVL -2.9%, strong downtrend), and the 30-day cluster return of -9.71% with a Sharpe of -1.56 and max drawdown of -19.3% confirms structural selling pressure. However, short-term momentum is notably positive: +6.76% over 7 days and +13.95% over 14 days suggest a counter-trend relief rally is underway. Annualizing the 14-day return of ~+13.95% yields approximately +0.363 on a naive basis, but this is heavily discounted given: (1) the bear regime context making sustained momentum unlikely, (2) high annualized volatility of 52.3% which widens uncertainty bands significantly, (3) absence of meaningful TVL-backed fundamental support for OP, ARB, ENS, and GRT, and (4) the historical tendency for sharp bear-market bounces to fade within 1\u20132 weeks. A modest positive expected return (~18.7% annualized) reflects the short-term momentum tailwind partially offset by the bearish structural backdrop. Confidence is low (0.31) due to the regime conflict between recent momentum and the prevailing downtrend, high volatility, and thin fundamental anchors for most cluster constituents.\"\n}\n```",
+  "date": "2026-01-09",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:18:18.495875+00:00",
+  "enriched": false
+}

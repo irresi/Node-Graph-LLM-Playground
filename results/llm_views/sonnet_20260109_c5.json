@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.52,
+  "reasoning": "Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) presents a mixed signal environment. The dominant bear regime with -2.9% DeFi TVL contraction and a deeply negative Sharpe ratio (-1.23) over 30 days argues for continued downside pressure. However, near-term momentum is constructive: the 7-day (+5.75%) and 14-day (+3.79%) returns suggest a relief rally may be underway, potentially driven by oversold conditions after a -14.5% max drawdown. TVL fundamentals are mixed \u2014 AAVE ($33.8B, flat) and CRV (+1.4%) show stability, while COMP (-7.7%) and MKR (-5.4%) face protocol-level outflows. Annualizing the 14-day trend (+3.79% over ~14d \u2248 +99% annualized) would be overly optimistic given the macro bear backdrop; mean reversion toward the longer-term negative trend is likely. A modest negative expected return of -8% annualized reflects the bear regime dominance partially offset by near-term momentum, with moderate confidence due to conflicting signals across timeframes.",
+  "raw_response": "```json\n{\"expected_return\": -0.08, \"confidence\": 0.52, \"reasoning\": \"Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) presents a mixed signal environment. The dominant bear regime with -2.9% DeFi TVL contraction and a deeply negative Sharpe ratio (-1.23) over 30 days argues for continued downside pressure. However, near-term momentum is constructive: the 7-day (+5.75%) and 14-day (+3.79%) returns suggest a relief rally may be underway, potentially driven by oversold conditions after a -14.5% max drawdown. TVL fundamentals are mixed \u2014 AAVE ($33.8B, flat) and CRV (+1.4%) show stability, while COMP (-7.7%) and MKR (-5.4%) face protocol-level outflows. Annualizing the 14-day trend (+3.79% over ~14d \u2248 +99% annualized) would be overly optimistic given the macro bear backdrop; mean reversion toward the longer-term negative trend is likely. A modest negative expected return of -8% annualized reflects the bear regime dominance partially offset by near-term momentum, with moderate confidence due to conflicting signals across timeframes.\"}\n```",
+  "date": "2026-01-09",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:18:28.027051+00:00",
+  "enriched": false
+}

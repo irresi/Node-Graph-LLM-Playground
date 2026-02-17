@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "BAL (Balancer) faces significant headwinds in a confirmed bear/strong downtrend regime. Recent momentum is uniformly negative across all timeframes: -6.01% (7d), -3.40% (14d), -8.47% (30d), with a max drawdown of -17.6% and a deeply negative Sharpe of -0.95. The annualized volatility of 74.7% amplifies downside risk. On the constructive side, TVL of $936M with a +4.8% 30d increase suggests protocol fundamentals remain relatively stable and capital hasn't fully fled \u2014 this moderates the bearish signal somewhat. However, the broader DeFi market regime dominates near-term price action. Extrapolating the recent momentum trajectory (~-6% per week pace moderating slightly) and annualizing, an expected return of approximately -42% annualized is reasonable for the 14-day forward window. Confidence is moderate (0.62) given the clear directional signals but inherent uncertainty in volatile DeFi assets.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) faces significant headwinds in a confirmed bear/strong downtrend regime. Recent momentum is uniformly negative across all timeframes: -6.01% (7d), -3.40% (14d), -8.47% (30d), with a max drawdown of -17.6% and a deeply negative Sharpe of -0.95. The annualized volatility of 74.7% amplifies downside risk. On the constructive side, TVL of $936M with a +4.8% 30d increase suggests protocol fundamentals remain relatively stable and capital hasn't fully fled \u2014 this moderates the bearish signal somewhat. However, the broader DeFi market regime dominates near-term price action. Extrapolating the recent momentum trajectory (~-6% per week pace moderating slightly) and annualizing, an expected return of approximately -42% annualized is reasonable for the 14-day forward window. Confidence is moderate (0.62) given the clear directional signals but inherent uncertainty in volatile DeFi assets.\"}\n```",
+  "date": "2025-08-22",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:09:40.209911+00:00",
+  "enriched": false
+}

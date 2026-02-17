@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.38,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is exhibiting strong negative momentum: -13.12% over 7 days and -10.65% over 14 days, despite a mildly positive 30-day return of -0.33%, suggesting accelerating deterioration in late January 2026. The broader DeFi market is neutral/range-bound with only +1.9% TVL growth, providing little macro tailwind. Annualized volatility of 55% with a near-zero Sharpe (-0.05) and a -16.9% max drawdown signal a high-risk, low-reward environment. LINK, OP, ARB, ENS, and GRT are infrastructure/oracle/L2 tokens with minimal or no direct TVL contributions, making them sentiment- and narrative-driven rather than yield-driven, amplifying downside in risk-off periods. Projecting the 14-day return trend forward on an annualized basis yields approximately -0.35 (-35%), tempered slightly by mean-reversion potential after sharp drawdowns. Confidence is low (0.38) given high volatility, lack of protocol-level fundamental anchors, and uncertain macro sentiment.",
+  "raw_response": "```json\n{\"expected_return\": -0.35, \"confidence\": 0.38, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is exhibiting strong negative momentum: -13.12% over 7 days and -10.65% over 14 days, despite a mildly positive 30-day return of -0.33%, suggesting accelerating deterioration in late January 2026. The broader DeFi market is neutral/range-bound with only +1.9% TVL growth, providing little macro tailwind. Annualized volatility of 55% with a near-zero Sharpe (-0.05) and a -16.9% max drawdown signal a high-risk, low-reward environment. LINK, OP, ARB, ENS, and GRT are infrastructure/oracle/L2 tokens with minimal or no direct TVL contributions, making them sentiment- and narrative-driven rather than yield-driven, amplifying downside in risk-off periods. Projecting the 14-day return trend forward on an annualized basis yields approximately -0.35 (-35%), tempered slightly by mean-reversion potential after sharp drawdowns. Confidence is low (0.38) given high volatility, lack of protocol-level fundamental anchors, and uncertain macro sentiment.\"}\n```",
+  "date": "2026-01-23",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:19:03.065510+00:00",
+  "enriched": false
+}

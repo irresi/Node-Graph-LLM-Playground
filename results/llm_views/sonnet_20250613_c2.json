@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.52,
+  "reasoning": "BAL faces a challenging setup: the broader DeFi market is in a confirmed bear regime with TVL down 1% over 30 days, and the cluster itself has lost 11.82% over 30 days with a deeply negative Sharpe of -1.36 and a 20.5% max drawdown \u2014 all bearish signals. However, the 7-day return of +7.30% suggests nascent short-term momentum recovery, partially offsetting the longer-term downtrend. BAL's protocol TVL of $810M with a +4.9% 30-day increase is a mild fundamental positive, indicating some capital inflow at the protocol level despite price weakness. Balancing the strong bearish trend against the short-term bounce and improving TVL, I expect continued net negative returns over the 14-day horizon, though less severe than the 30-day pace implies. Annualizing a projected ~-1.6% 14-day loss yields roughly -42% annualized. Confidence is moderate given the conflicting signals between short-term momentum and medium-term trend, and the high annualized volatility of 72.9% which widens the return distribution considerably.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.52, \"reasoning\": \"BAL faces a challenging setup: the broader DeFi market is in a confirmed bear regime with TVL down 1% over 30 days, and the cluster itself has lost 11.82% over 30 days with a deeply negative Sharpe of -1.36 and a 20.5% max drawdown \u2014 all bearish signals. However, the 7-day return of +7.30% suggests nascent short-term momentum recovery, partially offsetting the longer-term downtrend. BAL's protocol TVL of $810M with a +4.9% 30-day increase is a mild fundamental positive, indicating some capital inflow at the protocol level despite price weakness. Balancing the strong bearish trend against the short-term bounce and improving TVL, I expect continued net negative returns over the 14-day horizon, though less severe than the 30-day pace implies. Annualizing a projected ~-1.6% 14-day loss yields roughly -42% annualized. Confidence is moderate given the conflicting signals between short-term momentum and medium-term trend, and the high annualized volatility of 72.9% which widens the return distribution considerably.\"}\n```",
+  "date": "2025-06-13",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:05:14.989138+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.38,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) presents mixed signals. The 30-day return of +10.25% and moderate bull DeFi regime (+25.5% TVL growth) provide a positive macro backdrop, but near-term momentum is deteriorating sharply: -9.20% over 7 days and -2.66% over 14 days suggest a pullback is underway. High annualized volatility of 82.9% with a max drawdown of -17.3% indicates elevated risk. Tokens like LINK, OP, ARB, ENS, and GRT are infrastructure/L2 plays with no direct TVL yield metrics, making fundamental anchoring difficult. The Sharpe of 1.04 is respectable but the recent weekly sell-off dampens near-term conviction. A modest positive annualized return (~18%) is forecast assuming partial mean-reversion from the 7-day dip within a still-supportive macro regime, but confidence is low (0.38) given the conflicting short-term momentum vs. longer-term trend and lack of TVL fundamentals for most tokens in this cluster.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.38, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) presents mixed signals. The 30-day return of +10.25% and moderate bull DeFi regime (+25.5% TVL growth) provide a positive macro backdrop, but near-term momentum is deteriorating sharply: -9.20% over 7 days and -2.66% over 14 days suggest a pullback is underway. High annualized volatility of 82.9% with a max drawdown of -17.3% indicates elevated risk. Tokens like LINK, OP, ARB, ENS, and GRT are infrastructure/L2 plays with no direct TVL yield metrics, making fundamental anchoring difficult. The Sharpe of 1.04 is respectable but the recent weekly sell-off dampens near-term conviction. A modest positive annualized return (~18%) is forecast assuming partial mean-reversion from the 7-day dip within a still-supportive macro regime, but confidence is low (0.38) given the conflicting short-term momentum vs. longer-term trend and lack of TVL fundamentals for most tokens in this cluster.\"}\n```",
+  "date": "2025-05-30",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:04:46.120389+00:00",
+  "enriched": false
+}

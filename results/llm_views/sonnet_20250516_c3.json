@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.87,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) shows strong momentum with a 30-day return of +31.46% and an impressive Sharpe ratio of 3.06, indicating risk-adjusted performance well above average. The broader DeFi TVL surge of +34.5% in 30 days confirms a moderate bull regime providing tailwind. LDO and RPL lead TVL growth (+58.2% and +55.7% respectively), reflecting strong demand for liquid staking \u2014 a structurally growing category. The 14-day return of +14.51% annualizes to roughly 0.87 (\u2248 379% annualized raw, but mean-reverting expectations moderate this significantly). Applying momentum persistence decay and reversion-to-mean considerations, I project an annualized expected return of ~87% over the next 14-day window. Confidence is moderate (0.62) due to high volatility (86.5% annualized), meaningful max drawdown risk (-13.5%), and the short-horizon nature of the forecast amplifying uncertainty. SNX and SUSHI have smaller TVLs and higher idiosyncratic risk, which slightly dampens cluster-level confidence.",
+  "raw_response": "```json\n{\"expected_return\": 0.87, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) shows strong momentum with a 30-day return of +31.46% and an impressive Sharpe ratio of 3.06, indicating risk-adjusted performance well above average. The broader DeFi TVL surge of +34.5% in 30 days confirms a moderate bull regime providing tailwind. LDO and RPL lead TVL growth (+58.2% and +55.7% respectively), reflecting strong demand for liquid staking \u2014 a structurally growing category. The 14-day return of +14.51% annualizes to roughly 0.87 (\u2248 379% annualized raw, but mean-reverting expectations moderate this significantly). Applying momentum persistence decay and reversion-to-mean considerations, I project an annualized expected return of ~87% over the next 14-day window. Confidence is moderate (0.62) due to high volatility (86.5% annualized), meaningful max drawdown risk (-13.5%), and the short-horizon nature of the forecast amplifying uncertainty. SNX and SUSHI have smaller TVLs and higher idiosyncratic risk, which slightly dampens cluster-level confidence.\"}\n```",
+  "date": "2025-05-16",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:03:50.418277+00:00",
+  "enriched": false
+}

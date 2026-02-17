@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.187,
+  "confidence": 0.52,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) shows mixed signals. Positive: moderate bull market regime (+4.7% TVL growth), strong 7-day momentum (+20.29%), and notable SNX TVL surge (+76.9% 30d). Negative: 14-day return near flat (+0.08%) suggests recent momentum may be fading post-spike, LDO and RPL TVL declining (-1.6%, -1.9%), and high annualized volatility (70.5%) with significant max drawdown (-19.7%) limits conviction. The 7-day spike likely reflects a short-term catalyst (possibly SNX-driven) that may not sustain. Annualizing the blended 30-day trend (~5.29% over 30 days \u2248 64% annualized) discounted for mean-reversion risk and flat 14-day signal yields a moderate ~18.7% annualized forward estimate. Confidence is moderate (0.52) due to high dispersion within the cluster and conflicting short-term signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.187, \"confidence\": 0.52, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) shows mixed signals. Positive: moderate bull market regime (+4.7% TVL growth), strong 7-day momentum (+20.29%), and notable SNX TVL surge (+76.9% 30d). Negative: 14-day return near flat (+0.08%) suggests recent momentum may be fading post-spike, LDO and RPL TVL declining (-1.6%, -1.9%), and high annualized volatility (70.5%) with significant max drawdown (-19.7%) limits conviction. The 7-day spike likely reflects a short-term catalyst (possibly SNX-driven) that may not sustain. Annualizing the blended 30-day trend (~5.29% over 30 days \u2248 64% annualized) discounted for mean-reversion risk and flat 14-day signal yields a moderate ~18.7% annualized forward estimate. Confidence is moderate (0.52) due to high dispersion within the cluster and conflicting short-term signals.\"}\n```",
+  "date": "2025-10-03",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:12:25.330886+00:00",
+  "enriched": false
+}

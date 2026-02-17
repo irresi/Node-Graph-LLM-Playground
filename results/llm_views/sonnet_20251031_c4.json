@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is under severe bearish pressure with a -34.51% 30-day return, -2.69 Sharpe, and a max drawdown of -35.4%. The broader DeFi market is in a strong downtrend with TVL contracting -11.3%. Short-term momentum shows slight deceleration (-5.76% over 7d vs -5.98% over 14d), suggesting the pace of decline may be marginally stabilizing but no meaningful reversal signal is present. Annualizing the recent 14-day return of ~-6% yields approximately -72% annualized. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL backing, making them more vulnerable to sentiment-driven selling. LINK has some fundamental grounding as a leading oracle but offers no near-term catalyst. Confidence is moderate (0.62) given high volatility (107.6% annualized) and the potential for short-term mean reversion or macro-driven relief rallies that are difficult to time.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is under severe bearish pressure with a -34.51% 30-day return, -2.69 Sharpe, and a max drawdown of -35.4%. The broader DeFi market is in a strong downtrend with TVL contracting -11.3%. Short-term momentum shows slight deceleration (-5.76% over 7d vs -5.98% over 14d), suggesting the pace of decline may be marginally stabilizing but no meaningful reversal signal is present. Annualizing the recent 14-day return of ~-6% yields approximately -72% annualized. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL backing, making them more vulnerable to sentiment-driven selling. LINK has some fundamental grounding as a leading oracle but offers no near-term catalyst. Confidence is moderate (0.62) given high volatility (107.6% annualized) and the potential for short-term mean reversion or macro-driven relief rallies that are difficult to time.\"}\n```",
+  "date": "2025-10-31",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:14:21.584589+00:00",
+  "enriched": false
+}

@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (DeFi blue-chips: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) faces significant headwinds. The prevailing bear market regime with a strong downtrend is the dominant factor, supported by a deeply negative Sharpe ratio (-1.63) and severe 30-day drawdown (-19.1%). The 30-day and 14-day returns (-8.57% and -7.19% respectively) confirm sustained selling pressure. The 7-day bounce (+6.14%) offers a modest mean-reversion signal but is likely a bear-market relief rally rather than a trend reversal, given the absence of macro or protocol-level catalysts. On the fundamental side, AAVE's large TVL ($32.98B) with modest growth (+3.0%) and CRV's TVL rebound (+7.3%) are mildly constructive, but COMP's TVL contraction (-7.7%) and GMX's small base ($385M) are negatives. Annualizing the 14-day trend (-7.19% over 14 days \u2248 -187% annualized) is extreme; a more tempered mean-reversion estimate anchors the forecast around -18% annualized, reflecting continued bear pressure moderated by partial short-term recovery. Confidence is moderate (0.62) given the noisy short-term bounce conflicting with the clearer medium-term downtrend.",
+  "raw_response": "```json\n{\"expected_return\": -0.18, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (DeFi blue-chips: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) faces significant headwinds. The prevailing bear market regime with a strong downtrend is the dominant factor, supported by a deeply negative Sharpe ratio (-1.63) and severe 30-day drawdown (-19.1%). The 30-day and 14-day returns (-8.57% and -7.19% respectively) confirm sustained selling pressure. The 7-day bounce (+6.14%) offers a modest mean-reversion signal but is likely a bear-market relief rally rather than a trend reversal, given the absence of macro or protocol-level catalysts. On the fundamental side, AAVE's large TVL ($32.98B) with modest growth (+3.0%) and CRV's TVL rebound (+7.3%) are mildly constructive, but COMP's TVL contraction (-7.7%) and GMX's small base ($385M) are negatives. Annualizing the 14-day trend (-7.19% over 14 days \u2248 -187% annualized) is extreme; a more tempered mean-reversion estimate anchors the forecast around -18% annualized, reflecting continued bear pressure moderated by partial short-term recovery. Confidence is moderate (0.62) given the noisy short-term bounce conflicting with the clearer medium-term downtrend.\"}\n```",
+  "date": "2025-12-26",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:17:43.126968+00:00",
+  "enriched": false
+}

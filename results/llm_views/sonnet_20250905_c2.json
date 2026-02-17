@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "BAL (Balancer) faces conflicting signals: the broader DeFi market is in a moderate bull regime with TVL up +9.9% over 30 days, providing a constructive macro backdrop. However, cluster-specific signals are bearish \u2014 recent momentum is negative (-3.93% over 7 days, -3.35% over 14 days), BAL's own TVL is declining (-2.3% over 30 days), and the Sharpe ratio of 0.03 indicates near-zero risk-adjusted returns despite high annualized volatility of 82.3%. The max drawdown of -18.7% signals meaningful downside risk. The 30-day return of +0.32% provides slight mean-reversion hope, but short-term momentum strongly dominates for a 14-day forecast horizon. Net bias is modestly negative annualized return, with low confidence given the high volatility and conflicting timeframe signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.08, \"confidence\": 0.35, \"reasoning\": \"BAL (Balancer) faces conflicting signals: the broader DeFi market is in a moderate bull regime with TVL up +9.9% over 30 days, providing a constructive macro backdrop. However, cluster-specific signals are bearish \u2014 recent momentum is negative (-3.93% over 7 days, -3.35% over 14 days), BAL's own TVL is declining (-2.3% over 30 days), and the Sharpe ratio of 0.03 indicates near-zero risk-adjusted returns despite high annualized volatility of 82.3%. The max drawdown of -18.7% signals meaningful downside risk. The 30-day return of +0.32% provides slight mean-reversion hope, but short-term momentum strongly dominates for a 14-day forecast horizon. Net bias is modestly negative annualized return, with low confidence given the high volatility and conflicting timeframe signals.\"}\n```",
+  "date": "2025-09-05",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:10:27.055681+00:00",
+  "enriched": false
+}

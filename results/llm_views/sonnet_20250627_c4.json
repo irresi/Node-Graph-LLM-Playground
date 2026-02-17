@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.65,
+  "reasoning": "Cluster 4 (LINK, OP, ARB, ENS, GRT) is exhibiting severe bearish momentum across all timeframes: -4.27% (7d), -14.74% (14d), -28.44% (30d), indicating accelerating downside with no signs of reversal. The annualized projection of the 14-day return alone implies ~-72% annualized. The broader DeFi market is in a confirmed bear regime with TVL contracting -7.1% over 30 days, providing no macro tailwind. The Sharpe ratio of -3.12 and max drawdown of -31.9% confirm deeply negative risk-adjusted performance. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) carry no TVL support, making them purely sentiment-driven and thus highly vulnerable in risk-off environments. LINK has negligible TVL. A slight mean-reversion discount is applied given the severity of the recent sell-off, but momentum dominates at this timeframe. Confidence is moderate (0.65) due to the consistency of bearish signals across all indicators, partially offset by uncertainty around potential short-term bounces from oversold conditions.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.65, \"reasoning\": \"Cluster 4 (LINK, OP, ARB, ENS, GRT) is exhibiting severe bearish momentum across all timeframes: -4.27% (7d), -14.74% (14d), -28.44% (30d), indicating accelerating downside with no signs of reversal. The annualized projection of the 14-day return alone implies ~-72% annualized. The broader DeFi market is in a confirmed bear regime with TVL contracting -7.1% over 30 days, providing no macro tailwind. The Sharpe ratio of -3.12 and max drawdown of -31.9% confirm deeply negative risk-adjusted performance. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) carry no TVL support, making them purely sentiment-driven and thus highly vulnerable in risk-off environments. LINK has negligible TVL. A slight mean-reversion discount is applied given the severity of the recent sell-off, but momentum dominates at this timeframe. Confidence is moderate (0.65) due to the consistency of bearish signals across all indicators, partially offset by uncertainty around potential short-term bounces from oversold conditions.\"}\n```",
+  "date": "2025-06-27",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:06:29.306347+00:00",
+  "enriched": false
+}

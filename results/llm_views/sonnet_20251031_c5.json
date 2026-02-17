@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi governance/protocol tokens) is exhibiting severe bearish momentum with a -32.14% 30-day return, a deeply negative Sharpe ratio of -2.67, and a max drawdown of -32.3% \u2014 consistent with the broader DeFi bear regime (-11.3% TVL decline). Near-term momentum remains negative (-5.01% over 7 days, -5.49% over 14 days), suggesting continued downside pressure into the 14-day forecast window. Annualizing the 14-day trend (~-5.49% over 14 days) yields approximately -143% annualized, but this likely overstates persistence; mean-reversion and support from relatively strong fundamentals in CRV (+7.7% TVL) and MKR (+8.9% TVL) partially offset the bearish signal. AAVE's large TVL base (-15.5%) and COMP (-13.6%) drag on the cluster. Balancing momentum continuation with partial mean-reversion and fundamental anchors, an expected annualized return of approximately -72% is reasonable. Confidence is moderate (0.62) given high volatility (100.9% annualized) and regime uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi governance/protocol tokens) is exhibiting severe bearish momentum with a -32.14% 30-day return, a deeply negative Sharpe ratio of -2.67, and a max drawdown of -32.3% \u2014 consistent with the broader DeFi bear regime (-11.3% TVL decline). Near-term momentum remains negative (-5.01% over 7 days, -5.49% over 14 days), suggesting continued downside pressure into the 14-day forecast window. Annualizing the 14-day trend (~-5.49% over 14 days) yields approximately -143% annualized, but this likely overstates persistence; mean-reversion and support from relatively strong fundamentals in CRV (+7.7% TVL) and MKR (+8.9% TVL) partially offset the bearish signal. AAVE's large TVL base (-15.5%) and COMP (-13.6%) drag on the cluster. Balancing momentum continuation with partial mean-reversion and fundamental anchors, an expected annualized return of approximately -72% is reasonable. Confidence is moderate (0.62) given high volatility (100.9% annualized) and regime uncertainty.\"}\n```",
+  "date": "2025-10-31",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:14:31.455105+00:00",
+  "enriched": false
+}

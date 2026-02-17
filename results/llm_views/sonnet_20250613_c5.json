@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.52,
+  "reasoning": "Cluster 5 (blue-chip DeFi governance/protocol tokens) presents a mixed but cautiously bearish outlook. The dominant 30-day trend is negative (-7.39%, Sharpe -0.96, max drawdown -15.2%) within a confirmed bear regime for the broader DeFi market (TVL -1.0%). However, a notable short-term reversal signal exists: the 7-day return of +9.24% suggests nascent momentum that may carry partially into the 14-day window, though the muted 14-day return (+0.27%) indicates the bounce has already faded. On fundamentals, AAVE stands out with strong TVL growth (+5.5%, $25.2B), providing a stabilizing anchor given its dominant weight in the cluster. MKR is a concern with a sharp -19.9% TVL decline. GMX shows modest recovery (+4.4%). CRV and COMP face mild headwinds. Balancing the bear regime and deteriorating 30-day trend against the short-term bounce and AAVE's relative strength, a modest negative annualized return is expected. Annualized projection of ~-12% reflects continued but moderating downward pressure. Confidence is moderate (0.52) due to conflicting momentum signals \u2014 the 7-day reversal adds meaningful uncertainty to the bear continuation thesis.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.52, \"reasoning\": \"Cluster 5 (blue-chip DeFi governance/protocol tokens) presents a mixed but cautiously bearish outlook. The dominant 30-day trend is negative (-7.39%, Sharpe -0.96, max drawdown -15.2%) within a confirmed bear regime for the broader DeFi market (TVL -1.0%). However, a notable short-term reversal signal exists: the 7-day return of +9.24% suggests nascent momentum that may carry partially into the 14-day window, though the muted 14-day return (+0.27%) indicates the bounce has already faded. On fundamentals, AAVE stands out with strong TVL growth (+5.5%, $25.2B), providing a stabilizing anchor given its dominant weight in the cluster. MKR is a concern with a sharp -19.9% TVL decline. GMX shows modest recovery (+4.4%). CRV and COMP face mild headwinds. Balancing the bear regime and deteriorating 30-day trend against the short-term bounce and AAVE's relative strength, a modest negative annualized return is expected. Annualized projection of ~-12% reflects continued but moderating downward pressure. Confidence is moderate (0.52) due to conflicting momentum signals \u2014 the 7-day reversal adds meaningful uncertainty to the bear continuation thesis.\"}\n```",
+  "date": "2025-06-13",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:05:50.565055+00:00",
+  "enriched": false
+}

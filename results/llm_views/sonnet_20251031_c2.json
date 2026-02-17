@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.52,
+  "confidence": 0.62,
+  "reasoning": "BAL is exhibiting strong negative momentum across all time horizons (7d: -1.26%, 14d: -3.02%, 30d: -14.97%) within a confirmed bear market regime. The protocol's TVL has declined sharply by -22.2% over 30 days to $779M, signaling capital flight from Balancer. The Sharpe ratio of -1.81 and max drawdown of -21.6% confirm deteriorating risk-adjusted performance. Annualizing the 14-day trend (-3.02% over ~14 days \u2248 -78.6% annualized) and blending with the 30-day trend (-14.97% over 30 days \u2248 -182% annualized) while applying mean-reversion discounting typical of volatile DeFi assets, a forward annualized return estimate of approximately -52% is reasonable. Confidence is moderate (0.62) given high volatility (69.3% annualized) which introduces wide forecast uncertainty, though directional conviction is relatively high given consistent bearish signals across all metrics.",
+  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.62, \"reasoning\": \"BAL is exhibiting strong negative momentum across all time horizons (7d: -1.26%, 14d: -3.02%, 30d: -14.97%) within a confirmed bear market regime. The protocol's TVL has declined sharply by -22.2% over 30 days to $779M, signaling capital flight from Balancer. The Sharpe ratio of -1.81 and max drawdown of -21.6% confirm deteriorating risk-adjusted performance. Annualizing the 14-day trend (-3.02% over ~14 days \u2248 -78.6% annualized) and blending with the 30-day trend (-14.97% over 30 days \u2248 -182% annualized) while applying mean-reversion discounting typical of volatile DeFi assets, a forward annualized return estimate of approximately -52% is reasonable. Confidence is moderate (0.62) given high volatility (69.3% annualized) which introduces wide forecast uncertainty, though directional conviction is relatively high given consistent bearish signals across all metrics.\"}\n```",
+  "date": "2025-10-31",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:59.375377+00:00",
+  "enriched": false
+}

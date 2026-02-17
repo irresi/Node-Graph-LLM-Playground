@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CAKE/DEX cluster faces strong headwinds: bear market regime, deeply negative 30-day return (-20%), severe Sharpe ratio (-3.32), and significant TVL erosion (-9.6% over 30 days). However, the 14-day return shows a modest +7.72% recovery bounce, suggesting some short-term mean reversion potential. The 7-day trend (-2.07%) indicates the bounce may be fading. Annualizing the dominant 30-day trend (~-20% monthly \u2248 -240% annualized) and discounting for partial mean reversion and the recent 14-day uptick, a forward-looking annualized return of approximately -42% is estimated for the next 14-day window. Confidence is moderate (0.62) given the conflicting short-term signals against a clearly bearish macro backdrop and deteriorating fundamentals.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster faces strong headwinds: bear market regime, deeply negative 30-day return (-20%), severe Sharpe ratio (-3.32), and significant TVL erosion (-9.6% over 30 days). However, the 14-day return shows a modest +7.72% recovery bounce, suggesting some short-term mean reversion potential. The 7-day trend (-2.07%) indicates the bounce may be fading. Annualizing the dominant 30-day trend (~-20% monthly \u2248 -240% annualized) and discounting for partial mean reversion and the recent 14-day uptick, a forward-looking annualized return of approximately -42% is estimated for the next 14-day window. Confidence is moderate (0.62) given the conflicting short-term signals against a clearly bearish macro backdrop and deteriorating fundamentals.\"}\n```",
+  "date": "2026-01-09",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:17:51.318837+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.38,
+  "confidence": 0.62,
+  "reasoning": "CAKE/DEX cluster shows strong momentum with +18.41% over 30 days and an impressive Sharpe ratio of 3.68, indicating risk-adjusted returns are robust. The 14-day return of +6.26% annualizes to ~163%, but mean reversion and sustainability concerns temper this. Broad DeFi TVL is up +33.6% in a confirmed bull regime, and CAKE's own TVL grew +14.3% to $2B, signaling healthy protocol fundamentals. However, single-token concentration risk, the relatively modest 7-day return of +1.41% (suggesting momentum may be cooling near-term), and annualized volatility of 42% all warrant caution. A 38% annualized expected return reflects continued bullish tailwinds with some deceleration from peak momentum, while moderate confidence (0.62) accounts for single-asset idiosyncratic risk and potential short-term consolidation.",
+  "raw_response": "```json\n{\"expected_return\": 0.38, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster shows strong momentum with +18.41% over 30 days and an impressive Sharpe ratio of 3.68, indicating risk-adjusted returns are robust. The 14-day return of +6.26% annualizes to ~163%, but mean reversion and sustainability concerns temper this. Broad DeFi TVL is up +33.6% in a confirmed bull regime, and CAKE's own TVL grew +14.3% to $2B, signaling healthy protocol fundamentals. However, single-token concentration risk, the relatively modest 7-day return of +1.41% (suggesting momentum may be cooling near-term), and annualized volatility of 42% all warrant caution. A 38% annualized expected return reflects continued bullish tailwinds with some deceleration from peak momentum, while moderate confidence (0.62) accounts for single-asset idiosyncratic risk and potential short-term consolidation.\"}\n```",
+  "date": "2025-07-25",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:07:42.739369+00:00",
+  "enriched": false
+}

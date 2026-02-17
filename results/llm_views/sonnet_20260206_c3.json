@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.82,
+  "confidence": 0.72,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) exhibits extreme bearish momentum across all timeframes: -33.5% (7d), -41.1% (14d), -61.2% (30d), with a deeply negative Sharpe of -6.65 and max drawdown of -43.9%. The broader DeFi market is in a confirmed strong downtrend with TVL contracting -30.1% over 30 days. All constituent protocol TVLs are declining sharply (-30% to -44%), indicating capital flight rather than temporary price dislocation. The 7-day return (-33.5%) accelerating relative to the 30-day average daily pace suggests momentum is intensifying, not reversing. Annualizing the 14-day return of -41.1% yields approximately -82% on an annualized basis, which is used as the base forecast. A modest mean-reversion discount is not applied given the absence of any bullish catalysts and the reinforcing negative signals across all metrics. Confidence is moderate (0.72) rather than high because: (1) extreme drawdowns can produce sharp short-covering bounces, (2) LDO/RPL have structural staking demand floors, and (3) 14-day windows are noisy at high volatility regimes.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.82,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) exhibits extreme bearish momentum across all timeframes: -33.5% (7d), -41.1% (14d), -61.2% (30d), with a deeply negative Sharpe of -6.65 and max drawdown of -43.9%. The broader DeFi market is in a confirmed strong downtrend with TVL contracting -30.1% over 30 days. All constituent protocol TVLs are declining sharply (-30% to -44%), indicating capital flight rather than temporary price dislocation. The 7-day return (-33.5%) accelerating relative to the 30-day average daily pace suggests momentum is intensifying, not reversing. Annualizing the 14-day return of -41.1% yields approximately -82% on an annualized basis, which is used as the base forecast. A modest mean-reversion discount is not applied given the absence of any bullish catalysts and the reinforcing negative signals across all metrics. Confidence is moderate (0.72) rather than high because: (1) extreme drawdowns can produce sharp short-covering bounces, (2) LDO/RPL have structural staking demand floors, and (3) 14-day windows are noisy at high volatility regimes.\"\n}\n```",
+  "date": "2026-02-06",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:19:42.982638+00:00",
+  "enriched": false
+}

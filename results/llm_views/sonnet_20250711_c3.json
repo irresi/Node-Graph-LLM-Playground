@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.23,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) presents a mixed but cautiously optimistic short-term outlook. Strong 14-day momentum (+19.16%) and 7-day momentum (+11.34%) suggest a meaningful near-term recovery rally is underway, which partially offsets the bearish 30-day trend (-11.21%). Key positives: LDO dominates TVL (~76% weight at $26.8B) with +6.6% TVL growth, indicating robust liquid staking demand; RPL (+5.8% TVL) and SUSHI (+18.7% TVL) show improving fundamentals. Key negatives: the overarching market regime is classified as a strong bear downtrend, the Sharpe ratio of -1.22 signals poor risk-adjusted performance, max drawdown of -28.4% reflects elevated tail risk, and SNX TVL is declining (-12.8%). Annualizing the 14-day momentum would imply extremely high returns, but mean-reversion in a bear regime significantly tempers that extrapolation. A modest positive annualized return of ~23% reflects the momentum tailwind while discounting for bear-regime headwinds and high volatility (77.1% annualized). Confidence is low (0.35) given the conflicting signals between short-term momentum and the dominant bearish macro regime.",
+  "raw_response": "```json\n{\"expected_return\": 0.23, \"confidence\": 0.35, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) presents a mixed but cautiously optimistic short-term outlook. Strong 14-day momentum (+19.16%) and 7-day momentum (+11.34%) suggest a meaningful near-term recovery rally is underway, which partially offsets the bearish 30-day trend (-11.21%). Key positives: LDO dominates TVL (~76% weight at $26.8B) with +6.6% TVL growth, indicating robust liquid staking demand; RPL (+5.8% TVL) and SUSHI (+18.7% TVL) show improving fundamentals. Key negatives: the overarching market regime is classified as a strong bear downtrend, the Sharpe ratio of -1.22 signals poor risk-adjusted performance, max drawdown of -28.4% reflects elevated tail risk, and SNX TVL is declining (-12.8%). Annualizing the 14-day momentum would imply extremely high returns, but mean-reversion in a bear regime significantly tempers that extrapolation. A modest positive annualized return of ~23% reflects the momentum tailwind while discounting for bear-regime headwinds and high volatility (77.1% annualized). Confidence is low (0.35) given the conflicting signals between short-term momentum and the dominant bearish macro regime.\"}\n```",
+  "date": "2025-07-11",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:07:10.352777+00:00",
+  "enriched": false
+}

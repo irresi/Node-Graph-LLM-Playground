@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.48,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) is deeply embedded in a bear regime with strong negative momentum. The 30-day return of -17.84% and a Sharpe of -2.16 signal persistent risk-off pressure, compounded by a broad DeFi TVL contraction of -19.3%. All anchor protocols (AAVE, MKR, COMP) show TVL declines of 16-21%, confirming fundamental deterioration rather than purely sentiment-driven selling. However, the 7-day return of +4.58% introduces a short-term mean-reversion signal \u2014 a tentative relief rally likely driven by oversold conditions \u2014 partially counterbalancing the dominant downtrend. For the 14-day forward window, the bear regime is expected to reassert itself after any brief consolidation, but the magnitude of further decline is tempered by relatively high existing drawdowns (-25.7% max) reducing incremental downside velocity. Annualizing the implied 14-day expected loss (~-1.85% raw, scaled from the decelerating trend) yields approximately -48% annualized. Confidence is moderate (0.62) given conflicting short-term momentum vs. structural bear signals, and the inherent high volatility (69.5% annualized) of this cluster.",
+  "raw_response": "```json\n{\"expected_return\": -0.48, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) is deeply embedded in a bear regime with strong negative momentum. The 30-day return of -17.84% and a Sharpe of -2.16 signal persistent risk-off pressure, compounded by a broad DeFi TVL contraction of -19.3%. All anchor protocols (AAVE, MKR, COMP) show TVL declines of 16-21%, confirming fundamental deterioration rather than purely sentiment-driven selling. However, the 7-day return of +4.58% introduces a short-term mean-reversion signal \u2014 a tentative relief rally likely driven by oversold conditions \u2014 partially counterbalancing the dominant downtrend. For the 14-day forward window, the bear regime is expected to reassert itself after any brief consolidation, but the magnitude of further decline is tempered by relatively high existing drawdowns (-25.7% max) reducing incremental downside velocity. Annualizing the implied 14-day expected loss (~-1.85% raw, scaled from the decelerating trend) yields approximately -48% annualized. Confidence is moderate (0.62) given conflicting short-term momentum vs. structural bear signals, and the inherent high volatility (69.5% annualized) of this cluster.\"}\n```",
+  "date": "2025-11-28",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:16:06.752983+00:00",
+  "enriched": false
+}

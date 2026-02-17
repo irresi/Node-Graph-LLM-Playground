@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.52,
+  "confidence": 0.72,
+  "reasoning": "BAL is in a severe bear trend with accelerating losses: -13.79% over 7 days, -17.32% over 14 days, and -21.32% over 30 days, indicating momentum is worsening rather than stabilizing. The Sharpe ratio of -2.68 confirms deeply negative risk-adjusted performance. While TVL at $837M provides some fundamental floor and the 30-day TVL decline of -3.2% is less severe than price action (suggesting some protocol resilience), the broader DeFi market is also contracting (-8.8% TVL, bear regime). Annualizing the recent 14-day return trajectory (~-17.32% per 14 days \u00d7 26 periods \u2248 -1.30+ annualized) would be extreme; however, mean reversion and support levels temper the projection. A moderate -52% annualized return reflects the strong bearish momentum with some discount for potential short-term stabilization. Confidence is moderate at 0.72 given the clear directional signal but uncertainty around the magnitude of continued selling pressure.",
+  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.72, \"reasoning\": \"BAL is in a severe bear trend with accelerating losses: -13.79% over 7 days, -17.32% over 14 days, and -21.32% over 30 days, indicating momentum is worsening rather than stabilizing. The Sharpe ratio of -2.68 confirms deeply negative risk-adjusted performance. While TVL at $837M provides some fundamental floor and the 30-day TVL decline of -3.2% is less severe than price action (suggesting some protocol resilience), the broader DeFi market is also contracting (-8.8% TVL, bear regime). Annualizing the recent 14-day return trajectory (~-17.32% per 14 days \u00d7 26 periods \u2248 -1.30+ annualized) would be extreme; however, mean reversion and support levels temper the projection. A moderate -52% annualized return reflects the strong bearish momentum with some discount for potential short-term stabilization. Confidence is moderate at 0.72 given the clear directional signal but uncertainty around the magnitude of continued selling pressure.\"}\n```",
+  "date": "2025-10-17",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:12.820121+00:00",
+  "enriched": false
+}

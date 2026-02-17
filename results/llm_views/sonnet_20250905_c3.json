@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.38,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) presents a mixed signal environment. While the 30-day return of +4.62% and broad DeFi TVL growth (+9.9%) suggest a moderate bull regime, recent momentum is sharply negative: -10.31% over 7 days and -6.37% over 14 days, indicating near-term deterioration. Protocol fundamentals are mixed \u2014 LDO dominates TVL ($37.4B, +14.4%) and anchors the cluster positively, but SNX ($84M) and SUSHI ($326M) are small and speculative. Annualized volatility of 86.6% with a max drawdown of -21.3% reflects high risk. The Sharpe of 0.45 is modest. The negative short-term momentum is the primary driver of a cautious/negative near-term forecast; the 14-day window aligns closely with the observed -6.37% 14-day loss trend. Annualizing the recent 14-day return of ~-6.37% yields roughly -166% annualized, but tempered by the positive 30-day macro backdrop and strong LDO TVL growth, a moderate negative annualized return of ~-12% is estimated. Confidence is low given the high volatility, conflicting momentum signals across timeframes, and the inherent unpredictability of this mixed-category cluster.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.38, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) presents a mixed signal environment. While the 30-day return of +4.62% and broad DeFi TVL growth (+9.9%) suggest a moderate bull regime, recent momentum is sharply negative: -10.31% over 7 days and -6.37% over 14 days, indicating near-term deterioration. Protocol fundamentals are mixed \u2014 LDO dominates TVL ($37.4B, +14.4%) and anchors the cluster positively, but SNX ($84M) and SUSHI ($326M) are small and speculative. Annualized volatility of 86.6% with a max drawdown of -21.3% reflects high risk. The Sharpe of 0.45 is modest. The negative short-term momentum is the primary driver of a cautious/negative near-term forecast; the 14-day window aligns closely with the observed -6.37% 14-day loss trend. Annualizing the recent 14-day return of ~-6.37% yields roughly -166% annualized, but tempered by the positive 30-day macro backdrop and strong LDO TVL growth, a moderate negative annualized return of ~-12% is estimated. Confidence is low given the high volatility, conflicting momentum signals across timeframes, and the inherent unpredictability of this mixed-category cluster.\"}\n```",
+  "date": "2025-09-05",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:10:37.727286+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "CAKE (PancakeSwap) faces significant headwinds: the broader DeFi market is in a strong bear regime with TVL down 8.8% over 30 days. While the 30-day cluster return is nominally positive (+12.87%) and TVL growth is encouraging (+14.7%), the sharp 7-day reversal of -25.69% signals strong near-term selling pressure and momentum deterioration. The 14-day return of -6.97% confirms the recent downtrend is already in motion. Annualized volatility of 173.4% with a max drawdown of -39.8% indicates extreme risk. Extrapolating the 7-day momentum forward over 14 days in a bear regime yields a deeply negative expected return. Low confidence reflects high volatility and the conflicting signals between strong TVL fundamentals and deteriorating price momentum.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) faces significant headwinds: the broader DeFi market is in a strong bear regime with TVL down 8.8% over 30 days. While the 30-day cluster return is nominally positive (+12.87%) and TVL growth is encouraging (+14.7%), the sharp 7-day reversal of -25.69% signals strong near-term selling pressure and momentum deterioration. The 14-day return of -6.97% confirms the recent downtrend is already in motion. Annualized volatility of 173.4% with a max drawdown of -39.8% indicates extreme risk. Extrapolating the 7-day momentum forward over 14 days in a bear regime yields a deeply negative expected return. Low confidence reflects high volatility and the conflicting signals between strong TVL fundamentals and deteriorating price momentum.\"}\n```",
+  "date": "2025-10-17",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:01.053472+00:00",
+  "enriched": false
+}

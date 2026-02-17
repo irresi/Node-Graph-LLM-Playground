@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "CAKE (PancakeSwap) shows mixed signals: a strong 7-day momentum of +11.44% is encouraging, but the 14-day return of -2.89% and a bear market regime with overall DeFi TVL declining -1.0% weigh negatively. TVL of $1.75B with a -2.0% 30-day change signals modest capital outflows. The annualized volatility of 81.4% and max drawdown of -18.4% indicate high risk. The recent short-term rally may partially persist, but bear regime conditions and TVL erosion cap upside. Annualized return estimate of ~8% reflects a slight positive carry from momentum fading into headwinds, with low confidence given high volatility and contradictory trend signals across timeframes.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) shows mixed signals: a strong 7-day momentum of +11.44% is encouraging, but the 14-day return of -2.89% and a bear market regime with overall DeFi TVL declining -1.0% weigh negatively. TVL of $1.75B with a -2.0% 30-day change signals modest capital outflows. The annualized volatility of 81.4% and max drawdown of -18.4% indicate high risk. The recent short-term rally may partially persist, but bear regime conditions and TVL erosion cap upside. Annualized return estimate of ~8% reflects a slight positive carry from momentum fading into headwinds, with low confidence given high volatility and contradictory trend signals across timeframes.\"}\n```",
+  "date": "2025-06-13",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:05:03.422115+00:00",
+  "enriched": false
+}

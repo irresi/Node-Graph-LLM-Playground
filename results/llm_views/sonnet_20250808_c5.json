@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.87,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) is exhibiting strong bull momentum with a 30-day return of +20.28% and an impressive Sharpe of 3.18, set against a broader DeFi TVL surge of +29.9%. AAVE dominates TVL at $36.985B (+33.4% 30d), providing fundamental backing. However, the 14-day return of only +0.30% vs. 7-day of +6.90% suggests recent acceleration from a mid-period consolidation, implying some mean-reversion risk near-term. Annualizing the 7-day momentum (~6.90% over 7 days \u2248 360% annualized) is clearly unsustainable; instead, I temper the forecast by blending the 30-day trend pace (~20.28% / 30 * 365 \u2248 247% annualized) with a significant mean-reversion discount given high annualized vol (53.5%), max drawdown of -18%, and the mature bull-cycle positioning of these large-cap governance tokens. MKR and COMP show slower TVL growth (+5.9% and +8.5%), acting as drag. Net forecast: ~87% annualized expected return for the next 14-day window, reflecting continued bull regime tailwinds tempered by consolidation risk and sector rotation. Confidence is moderate (0.62) given the divergence between short and medium-term return signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.87, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) is exhibiting strong bull momentum with a 30-day return of +20.28% and an impressive Sharpe of 3.18, set against a broader DeFi TVL surge of +29.9%. AAVE dominates TVL at $36.985B (+33.4% 30d), providing fundamental backing. However, the 14-day return of only +0.30% vs. 7-day of +6.90% suggests recent acceleration from a mid-period consolidation, implying some mean-reversion risk near-term. Annualizing the 7-day momentum (~6.90% over 7 days \u2248 360% annualized) is clearly unsustainable; instead, I temper the forecast by blending the 30-day trend pace (~20.28% / 30 * 365 \u2248 247% annualized) with a significant mean-reversion discount given high annualized vol (53.5%), max drawdown of -18%, and the mature bull-cycle positioning of these large-cap governance tokens. MKR and COMP show slower TVL growth (+5.9% and +8.5%), acting as drag. Net forecast: ~87% annualized expected return for the next 14-day window, reflecting continued bull regime tailwinds tempered by consolidation risk and sector rotation. Confidence is moderate (0.62) given the divergence between short and medium-term return signals.\"}\n```",
+  "date": "2025-08-08",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:09:22.734649+00:00",
+  "enriched": false
+}

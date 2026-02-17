@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.38,
+  "reasoning": "BAL (Balancer) shows mixed signals: strong 30-day return of +17.14% and solid TVL growth of +24.3% to $799M align with the broader DeFi bull market (+25.5% TVL). However, the sharp 7-day reversal of -7.11% signals near-term momentum deterioration and possible mean reversion pressure. The 14-day return of +0.96% suggests the cluster is consolidating after its run-up. The annualized volatility of 115% makes precise forecasting difficult. Projecting modest positive annualized return of ~42% reflects the constructive macro backdrop and TVL fundamentals, tempered significantly by the recent bearish short-term momentum and single-token concentration risk in BAL. Confidence is low (0.38) given the high volatility, single-asset cluster, and conflicting short vs. medium-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.38, \"reasoning\": \"BAL (Balancer) shows mixed signals: strong 30-day return of +17.14% and solid TVL growth of +24.3% to $799M align with the broader DeFi bull market (+25.5% TVL). However, the sharp 7-day reversal of -7.11% signals near-term momentum deterioration and possible mean reversion pressure. The 14-day return of +0.96% suggests the cluster is consolidating after its run-up. The annualized volatility of 115% makes precise forecasting difficult. Projecting modest positive annualized return of ~42% reflects the constructive macro backdrop and TVL fundamentals, tempered significantly by the recent bearish short-term momentum and single-token concentration risk in BAL. Confidence is low (0.38) given the high volatility, single-asset cluster, and conflicting short vs. medium-term momentum signals.\"}\n```",
+  "date": "2025-05-30",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:04:27.588384+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.48,
+  "confidence": 0.52,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) shows strong 30-day momentum (+24.94%) with an impressive Sharpe ratio of 3.26, consistent with the broader bull market regime (DeFi TVL +29.9% in 30 days). However, the recent 14-day return of -1.03% signals a short-term mean-reversion or consolidation phase, tempering near-term optimism. Annualizing the 7-day return (+5.01%) yields ~261%, but this is likely unsustainable; discounting heavily for reversion, a forward annualized return of ~48% appears reasonable for the next 14-day window. The 64.2% annualized volatility and -20.2% max drawdown indicate meaningful downside risk. Confidence is moderate (0.52) due to mixed short-term signals (positive 7-day vs. negative 14-day), lack of TVL data for 4 of 5 tokens making fundamental anchoring difficult, and inherent unpredictability of L2/infrastructure tokens in the 14-day horizon.",
+  "raw_response": "```json\n{\"expected_return\": 0.48, \"confidence\": 0.52, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) shows strong 30-day momentum (+24.94%) with an impressive Sharpe ratio of 3.26, consistent with the broader bull market regime (DeFi TVL +29.9% in 30 days). However, the recent 14-day return of -1.03% signals a short-term mean-reversion or consolidation phase, tempering near-term optimism. Annualizing the 7-day return (+5.01%) yields ~261%, but this is likely unsustainable; discounting heavily for reversion, a forward annualized return of ~48% appears reasonable for the next 14-day window. The 64.2% annualized volatility and -20.2% max drawdown indicate meaningful downside risk. Confidence is moderate (0.52) due to mixed short-term signals (positive 7-day vs. negative 14-day), lack of TVL data for 4 of 5 tokens making fundamental anchoring difficult, and inherent unpredictability of L2/infrastructure tokens in the 14-day horizon.\"}\n```",
+  "date": "2025-08-08",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:09:11.656660+00:00",
+  "enriched": false
+}

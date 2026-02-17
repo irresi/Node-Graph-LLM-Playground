@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.52,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2: LINK, OP, ARB, ENS, GRT) is under severe bearish pressure. The 30-day return of -27.45% annualizes to approximately -95%, while the 14-day return of -12.64% annualizes to roughly -95% as well. However, the 7-day return of -0.52% (annualized ~-27%) signals a meaningful deceleration in selling momentum, suggesting near-term exhaustion of the downtrend. Balancing these signals: (1) Bear market regime and negative macro DeFi backdrop (-19.3% TVL drawdown) remain headwinds; (2) Infrastructure/L2 tokens lack TVL-generating fundamentals to provide a floor catalyst; (3) Sharpe of -2.84 and max drawdown of -30.8% confirm sustained institutional selling; (4) The sharp slowdown from -12.64% (14d) to -0.52% (7d) introduces a mild mean-reversion signal. A forward annualized return of approximately -52% reflects continued downside but at a slower pace than recent trend, with moderate confidence given the momentum deceleration creating genuine directional uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2: LINK, OP, ARB, ENS, GRT) is under severe bearish pressure. The 30-day return of -27.45% annualizes to approximately -95%, while the 14-day return of -12.64% annualizes to roughly -95% as well. However, the 7-day return of -0.52% (annualized ~-27%) signals a meaningful deceleration in selling momentum, suggesting near-term exhaustion of the downtrend. Balancing these signals: (1) Bear market regime and negative macro DeFi backdrop (-19.3% TVL drawdown) remain headwinds; (2) Infrastructure/L2 tokens lack TVL-generating fundamentals to provide a floor catalyst; (3) Sharpe of -2.84 and max drawdown of -30.8% confirm sustained institutional selling; (4) The sharp slowdown from -12.64% (14d) to -0.52% (7d) introduces a mild mean-reversion signal. A forward annualized return of approximately -52% reflects continued downside but at a slower pace than recent trend, with moderate confidence given the momentum deceleration creating genuine directional uncertainty.\"}\n```",
+  "date": "2025-11-28",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:15:55.367072+00:00",
+  "enriched": false
+}

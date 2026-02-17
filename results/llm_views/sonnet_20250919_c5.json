@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.287,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) shows strong near-term momentum with a 14-day return of +9.77% and a 7-day return of +3.61%, operating within a confirmed bull market regime (DeFi TVL +7.0% to ~$109B). The Sharpe ratio of 1.03 reflects risk-adjusted quality, though annualized volatility of 55.5% and a max drawdown of -15.1% signal meaningful downside risk. AAVE dominates TVL at $42.7B (+15.5% 30d), providing strong fundamental anchor, while CRV (-2.2%) and MKR (-0.5%) show mild protocol-level headwinds. Annualizing the 14-day return of ~9.77% yields ~255%, but this likely overstates forward expectations due to mean reversion tendencies; applying a conservative momentum decay and regime premium, a forward annualized return of ~28.7% is estimated. Confidence is moderate (0.62) given high cluster volatility, mixed TVL trends across constituents, and the inherent uncertainty in projecting short-window crypto momentum.",
+  "raw_response": "```json\n{\"expected_return\": 0.287, \"confidence\": 0.62, \"reasoning\": \"Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) shows strong near-term momentum with a 14-day return of +9.77% and a 7-day return of +3.61%, operating within a confirmed bull market regime (DeFi TVL +7.0% to ~$109B). The Sharpe ratio of 1.03 reflects risk-adjusted quality, though annualized volatility of 55.5% and a max drawdown of -15.1% signal meaningful downside risk. AAVE dominates TVL at $42.7B (+15.5% 30d), providing strong fundamental anchor, while CRV (-2.2%) and MKR (-0.5%) show mild protocol-level headwinds. Annualizing the 14-day return of ~9.77% yields ~255%, but this likely overstates forward expectations due to mean reversion tendencies; applying a conservative momentum decay and regime premium, a forward annualized return of ~28.7% is estimated. Confidence is moderate (0.62) given high cluster volatility, mixed TVL trends across constituents, and the inherent uncertainty in projecting short-window crypto momentum.\"}\n```",
+  "date": "2025-09-19",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:11:50.439974+00:00",
+  "enriched": false
+}

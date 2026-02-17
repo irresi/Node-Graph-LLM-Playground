@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.65,
+  "reasoning": "Cluster 5 is in severe distress with a -32.54% 30-day return, -34.7% max drawdown, and a deeply negative Sharpe ratio of -2.62. The bear market regime with -8.8% overall DeFi TVL contraction reinforces continued downward pressure. Recent momentum is accelerating negatively (7-day return of -25.83% annualizes to extreme losses), suggesting no near-term reversal. However, partial offsets exist: CRV TVL is up +10.9% and MKR is stable (+0.8%), indicating some protocol-level resilience. AAVE's dominant TVL ($39.6B) provides a stabilizing anchor but its -5.2% TVL decline signals capital flight. GMX's -19.2% TVL drop and derivatives weakness add tail risk. Annualizing the 14-day trend (-32.22%) implies ~-84% annualized, but mean-reversion from deeply oversold conditions and selective protocol strength moderates this to approximately -72% annualized. Confidence is moderate at 0.65 due to the strong directional trend being somewhat offset by uncertainty around potential short-covering bounces in a high-volatility (104.5%) environment.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.65, \"reasoning\": \"Cluster 5 is in severe distress with a -32.54% 30-day return, -34.7% max drawdown, and a deeply negative Sharpe ratio of -2.62. The bear market regime with -8.8% overall DeFi TVL contraction reinforces continued downward pressure. Recent momentum is accelerating negatively (7-day return of -25.83% annualizes to extreme losses), suggesting no near-term reversal. However, partial offsets exist: CRV TVL is up +10.9% and MKR is stable (+0.8%), indicating some protocol-level resilience. AAVE's dominant TVL ($39.6B) provides a stabilizing anchor but its -5.2% TVL decline signals capital flight. GMX's -19.2% TVL drop and derivatives weakness add tail risk. Annualizing the 14-day trend (-32.22%) implies ~-84% annualized, but mean-reversion from deeply oversold conditions and selective protocol strength moderates this to approximately -72% annualized. Confidence is moderate at 0.65 due to the strong directional trend being somewhat offset by uncertainty around potential short-covering bounces in a high-volatility (104.5%) environment.\"}\n```",
+  "date": "2025-10-17",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:41.721804+00:00",
+  "enriched": false
+}

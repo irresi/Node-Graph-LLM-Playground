@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) is deeply negative across all timeframes with accelerating drawdown: -18.90% (7d), -25.06% (14d), -19.21% (30d), and a max drawdown of -31.3%. The annualized volatility of 138.1% and Sharpe of -1.17 confirm a strong bearish regime with poor risk-adjusted performance. Momentum is firmly negative with no reversal signals. TVL is broadly declining \u2014 LDO (-16%) and RPL (-15.8%) are particularly weak, and they dominate by TVL weight. The only outlier is SNX (+101.9% TVL), which may provide a marginal offset but is too small ($182M) to materially shift the cluster. Overall DeFi TVL is down -8.8% over 30 days, reinforcing macro headwinds. Extrapolating the 14-day trend (-25.06%) annualizes to approximately -72%, which serves as the base forecast. Confidence is moderate (0.62) as bear markets can see sharp short-covering bounces, and the SNX anomaly introduces some upside optionality.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) is deeply negative across all timeframes with accelerating drawdown: -18.90% (7d), -25.06% (14d), -19.21% (30d), and a max drawdown of -31.3%. The annualized volatility of 138.1% and Sharpe of -1.17 confirm a strong bearish regime with poor risk-adjusted performance. Momentum is firmly negative with no reversal signals. TVL is broadly declining \u2014 LDO (-16%) and RPL (-15.8%) are particularly weak, and they dominate by TVL weight. The only outlier is SNX (+101.9% TVL), which may provide a marginal offset but is too small ($182M) to materially shift the cluster. Overall DeFi TVL is down -8.8% over 30 days, reinforcing macro headwinds. Extrapolating the 14-day trend (-25.06%) annualizes to approximately -72%, which serves as the base forecast. Confidence is moderate (0.62) as bear markets can see sharp short-covering bounces, and the SNX anomaly introduces some upside optionality.\"}\n```",
+  "date": "2025-10-17",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:21.944197+00:00",
+  "enriched": false
+}

@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 faces strong headwinds from a confirmed bear market regime with persistent negative momentum (7d: -6.05%, 14d: -5.28%, 30d: -11.48%) and a deeply negative Sharpe ratio of -1.38. High annualized volatility of 69.7% and an 18% max drawdown signal elevated downside risk. While AAVE (+12% TVL) and GMX (+27.4% TVL) show fundamental resilience and improving protocol health, the broader macro regime dominates short-term price action. CRV (-4.9%) and COMP (-3.0%) TVL declines add further weight. Annualizing the recent 14-day return trend (~-5.28% per 14 days) yields roughly -138% annualized, but mean-reversion and protocol strength partially offset this, leading to a forecast of approximately -42% annualized. Confidence is moderate given high volatility and mixed fundamentals within a clearly bearish regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 faces strong headwinds from a confirmed bear market regime with persistent negative momentum (7d: -6.05%, 14d: -5.28%, 30d: -11.48%) and a deeply negative Sharpe ratio of -1.38. High annualized volatility of 69.7% and an 18% max drawdown signal elevated downside risk. While AAVE (+12% TVL) and GMX (+27.4% TVL) show fundamental resilience and improving protocol health, the broader macro regime dominates short-term price action. CRV (-4.9%) and COMP (-3.0%) TVL declines add further weight. Annualizing the recent 14-day return trend (~-5.28% per 14 days) yields roughly -138% annualized, but mean-reversion and protocol strength partially offset this, leading to a forecast of approximately -42% annualized. Confidence is moderate given high volatility and mixed fundamentals within a clearly bearish regime.\"\n}\n```",
+  "date": "2025-08-22",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:10:12.094097+00:00",
+  "enriched": false
+}

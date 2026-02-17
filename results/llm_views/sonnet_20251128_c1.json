@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "CAKE (PancakeSwap) shows conflicting signals: strong 7-day momentum (+12.10%) suggests a short-term relief rally, but broader context is bearish \u2014 DeFi TVL down -19.3% over 30 days, overall cluster 30-day return is -5.12%, and max drawdown of -20.9% reflects sustained selling pressure. TVL of $2.65B with a modest -4.1% 30-day decline indicates relative fundamental resilience compared to the broader DeFi market. The 14-day return of +3.23% combined with the recent 7-day surge hints at potential continuation of the relief rally in the near term, but the strong downtrend regime caps upside significantly. Annualized return estimate of ~8% reflects cautious optimism driven by momentum, heavily discounted by bear market regime and high annualized volatility (69.7%). Low confidence (0.35) due to high uncertainty in bear markets, single-token cluster concentration risk, and conflicting short- vs. long-term signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) shows conflicting signals: strong 7-day momentum (+12.10%) suggests a short-term relief rally, but broader context is bearish \u2014 DeFi TVL down -19.3% over 30 days, overall cluster 30-day return is -5.12%, and max drawdown of -20.9% reflects sustained selling pressure. TVL of $2.65B with a modest -4.1% 30-day decline indicates relative fundamental resilience compared to the broader DeFi market. The 14-day return of +3.23% combined with the recent 7-day surge hints at potential continuation of the relief rally in the near term, but the strong downtrend regime caps upside significantly. Annualized return estimate of ~8% reflects cautious optimism driven by momentum, heavily discounted by bear market regime and high annualized volatility (69.7%). Low confidence (0.35) due to high uncertainty in bear markets, single-token cluster concentration risk, and conflicting short- vs. long-term signals.\"}\n```",
+  "date": "2025-11-28",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:15:29.282816+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "BAL (Balancer) shows persistent negative momentum across all timeframes: -10.06% (7d), -8.57% (14d), -22.75% (30d), signaling strong bearish trend with no signs of reversal. The Sharpe ratio of -6.04 and max drawdown of -19.6% indicate severe risk-adjusted underperformance. While TVL grew +7.3% to $269M \u2014 a modest positive fundamental signal \u2014 it is insufficient to overcome the aggressive price deterioration. The broader DeFi market is neutral/range-bound (+1.9% TVL), providing no meaningful macro tailwind. Annualized return extrapolated from the recent 14-day return of -8.57% implies approximately -150%+ annualized, but mean reversion and support levels likely temper the forward outlook. A moderately negative annualized return of ~-42% reflects continued bearish momentum discounted by potential stabilization near current support. Confidence is moderate given single-token cluster concentration risk and high annualized volatility of 31.6%.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) shows persistent negative momentum across all timeframes: -10.06% (7d), -8.57% (14d), -22.75% (30d), signaling strong bearish trend with no signs of reversal. The Sharpe ratio of -6.04 and max drawdown of -19.6% indicate severe risk-adjusted underperformance. While TVL grew +7.3% to $269M \u2014 a modest positive fundamental signal \u2014 it is insufficient to overcome the aggressive price deterioration. The broader DeFi market is neutral/range-bound (+1.9% TVL), providing no meaningful macro tailwind. Annualized return extrapolated from the recent 14-day return of -8.57% implies approximately -150%+ annualized, but mean reversion and support levels likely temper the forward outlook. A moderately negative annualized return of ~-42% reflects continued bearish momentum discounted by potential stabilization near current support. Confidence is moderate given single-token cluster concentration risk and high annualized volatility of 31.6%.\"}\n```",
+  "date": "2026-01-23",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:18:43.941082+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "CAKE (PancakeSwap) shows a conflicted signal: strong short-term momentum (+7.29% over 7d, +15.22% over 14d) contrasts sharply with the negative 30-day return (-5.60%) and a bear market regime. The recent bounce may reflect a short-term relief rally rather than a trend reversal. TVL of $1.85B with modest +2.9% 30d growth indicates stable but not accelerating fundamentals. Annualized return of ~18% reflects the positive 14-day momentum extrapolated forward, but confidence is low (0.35) due to: (1) overarching bear market regime, (2) high annualized volatility (49%) making near-term direction uncertain, (3) negative Sharpe (-0.96) and deep max drawdown (-21.5%) suggesting structural selling pressure that could resume. The upside from momentum is real but fragile.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) shows a conflicted signal: strong short-term momentum (+7.29% over 7d, +15.22% over 14d) contrasts sharply with the negative 30-day return (-5.60%) and a bear market regime. The recent bounce may reflect a short-term relief rally rather than a trend reversal. TVL of $1.85B with modest +2.9% 30d growth indicates stable but not accelerating fundamentals. Annualized return of ~18% reflects the positive 14-day momentum extrapolated forward, but confidence is low (0.35) due to: (1) overarching bear market regime, (2) high annualized volatility (49%) making near-term direction uncertain, (3) negative Sharpe (-0.96) and deep max drawdown (-21.5%) suggesting structural selling pressure that could resume. The upside from momentum is real but fragile.\"}\n```",
+  "date": "2025-07-11",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:06:49.059623+00:00",
+  "enriched": false
+}

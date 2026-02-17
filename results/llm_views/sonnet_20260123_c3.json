@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.38,
+  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) shows persistent negative momentum across all timeframes: -10.51% (7d), -12.22% (14d), -1.91% (30d), with an annualized volatility of 57.3% and a negative Sharpe of -0.28. The accelerating short-term drawdown (-18.2% max) suggests momentum continuation risk over the next 14 days. TVL trends are mixed \u2014 LDO stands out with +6.3% TVL growth and dominates the TVL-weighted average (~82% weight at $27.5B), providing a partial fundamental offset. SNX also shows mild TVL recovery (+4.1%). However, UNI, SUSHI, and RPL are all declining in TVL. The broader DeFi market is range-bound (+1.9% TVL 30d), offering no strong tailwind. Annualizing the recent 14-day return of -12.22% yields approximately -318% raw momentum, but mean-reversion and LDO's fundamental strength partially counteract this. A blended estimate incorporating momentum decay, LDO's TVL anchor, and neutral macro regime suggests an expected annualized return of approximately -42%. Confidence is low (0.38) given high volatility, divergent intra-cluster fundamentals, and the inherent uncertainty of extrapolating a sharp short-term drawdown over a forward 14-day window.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.38, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) shows persistent negative momentum across all timeframes: -10.51% (7d), -12.22% (14d), -1.91% (30d), with an annualized volatility of 57.3% and a negative Sharpe of -0.28. The accelerating short-term drawdown (-18.2% max) suggests momentum continuation risk over the next 14 days. TVL trends are mixed \u2014 LDO stands out with +6.3% TVL growth and dominates the TVL-weighted average (~82% weight at $27.5B), providing a partial fundamental offset. SNX also shows mild TVL recovery (+4.1%). However, UNI, SUSHI, and RPL are all declining in TVL. The broader DeFi market is range-bound (+1.9% TVL 30d), offering no strong tailwind. Annualizing the recent 14-day return of -12.22% yields approximately -318% raw momentum, but mean-reversion and LDO's fundamental strength partially counteract this. A blended estimate incorporating momentum decay, LDO's TVL anchor, and neutral macro regime suggests an expected annualized return of approximately -42%. Confidence is low (0.38) given high volatility, divergent intra-cluster fundamentals, and the inherent uncertainty of extrapolating a sharp short-term drawdown over a forward 14-day window.\"}\n```",
+  "date": "2026-01-23",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:18:54.080056+00:00",
+  "enriched": false
+}

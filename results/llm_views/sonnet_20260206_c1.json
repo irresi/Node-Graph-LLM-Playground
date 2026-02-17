@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.68,
+  "reasoning": "CAKE/PancakeSwap is in severe distress: -46.19% over 30 days with accelerating momentum (-32.91% in just the last 7 days), a deeply negative Sharpe of -5.54, and a -38.7% max drawdown. TVL has shed -20.8% over 30 days ($1.907B remaining), signaling capital flight. The broader DeFi market is in a strong bear regime with TVL down -30.1%. The 7-day return being worse than the 14-day, which is worse than the 30-day, indicates downward acceleration rather than stabilization. Annualizing the recent 7-day trend (~-32.91% over 7 days) implies extreme negative returns. However, some mean-reversion potential and the fact that CAKE retains meaningful TVL ($1.9B) as a leading DEX moderates the extreme tail. A moderate confidence of 0.68 reflects high uncertainty in bear markets but strong directional conviction given consistent multi-timeframe negative momentum.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.68, \"reasoning\": \"CAKE/PancakeSwap is in severe distress: -46.19% over 30 days with accelerating momentum (-32.91% in just the last 7 days), a deeply negative Sharpe of -5.54, and a -38.7% max drawdown. TVL has shed -20.8% over 30 days ($1.907B remaining), signaling capital flight. The broader DeFi market is in a strong bear regime with TVL down -30.1%. The 7-day return being worse than the 14-day, which is worse than the 30-day, indicates downward acceleration rather than stabilization. Annualizing the recent 7-day trend (~-32.91% over 7 days) implies extreme negative returns. However, some mean-reversion potential and the fact that CAKE retains meaningful TVL ($1.9B) as a leading DEX moderates the extreme tail. A moderate confidence of 0.68 reflects high uncertainty in bear markets but strong directional conviction given consistent multi-timeframe negative momentum.\"}\n```",
+  "date": "2026-02-06",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:19:21.469795+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "CAKE faces strong headwinds: bear market regime with DeFi TVL down 11.3% over 30 days, severe recent momentum deterioration (-13.89% over 7 days, -18.78% over 14 days), and a brutal max drawdown of -45.5%. Annualizing the 14-day return of -18.78% yields approximately -1.46 annualized, but some mean reversion is likely given the sharp short-term selloff. Partially offsetting the bearish signals is CAKE's own TVL growth of +11.8% over 30 days, suggesting protocol fundamentals remain resilient and may attract capital rotation. Extreme volatility (167.9% annualized) and a negative Sharpe (-0.22) underscore the risk. Net forecast reflects continued downward pressure tempered by fundamental support and likely short-term mean reversion, landing around -72% annualized. Confidence is moderate given the conflicting signals between price momentum and TVL fundamentals.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"CAKE faces strong headwinds: bear market regime with DeFi TVL down 11.3% over 30 days, severe recent momentum deterioration (-13.89% over 7 days, -18.78% over 14 days), and a brutal max drawdown of -45.5%. Annualizing the 14-day return of -18.78% yields approximately -1.46 annualized, but some mean reversion is likely given the sharp short-term selloff. Partially offsetting the bearish signals is CAKE's own TVL growth of +11.8% over 30 days, suggesting protocol fundamentals remain resilient and may attract capital rotation. Extreme volatility (167.9% annualized) and a negative Sharpe (-0.22) underscore the risk. Net forecast reflects continued downward pressure tempered by fundamental support and likely short-term mean reversion, landing around -72% annualized. Confidence is moderate given the conflicting signals between price momentum and TVL fundamentals.\"}\n```",
+  "date": "2025-10-31",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:13:51.416652+00:00",
+  "enriched": false
+}

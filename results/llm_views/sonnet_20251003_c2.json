@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "BAL (Balancer) presents mixed signals: the broader DeFi market is in a moderate bull regime with TVL up +4.7%, and BAL's own TVL surged +16.8% (30d), indicating improving protocol fundamentals. However, the 30-day cluster return is -6.42% with a deeply negative Sharpe of -1.38 and a significant max drawdown of -18.5%, reflecting persistent selling pressure. The recent 7-day return of +10.20% suggests a potential short-term reversal/bounce, but the 14-day return of -4.33% tempers optimism. Annualizing the nascent 7-day momentum while discounting the bearish medium-term trend and high volatility (39.2% annualized) yields a modest positive forecast. The TVL growth is a meaningful fundamental tailwind, but DEX tokens like BAL often lag TVL improvements. Confidence is low given the contradictory signals across timeframes and BAL's historically high idiosyncratic volatility.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"BAL (Balancer) presents mixed signals: the broader DeFi market is in a moderate bull regime with TVL up +4.7%, and BAL's own TVL surged +16.8% (30d), indicating improving protocol fundamentals. However, the 30-day cluster return is -6.42% with a deeply negative Sharpe of -1.38 and a significant max drawdown of -18.5%, reflecting persistent selling pressure. The recent 7-day return of +10.20% suggests a potential short-term reversal/bounce, but the 14-day return of -4.33% tempers optimism. Annualizing the nascent 7-day momentum while discounting the bearish medium-term trend and high volatility (39.2% annualized) yields a modest positive forecast. The TVL growth is a meaningful fundamental tailwind, but DEX tokens like BAL often lag TVL improvements. Confidence is low given the contradictory signals across timeframes and BAL's historically high idiosyncratic volatility.\"}\n```",
+  "date": "2025-10-03",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:12:11.730759+00:00",
+  "enriched": false
+}

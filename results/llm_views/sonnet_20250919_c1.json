@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "CAKE (PancakeSwap) shows strong near-term momentum with 7-day return of +7.14% and 14-day return of +14.92%, annualizing to ~388% and ~388% respectively, though these are unsustainable. Tempering with the more modest 30-day return of +6.51% (~84% annualized) and broader bull market context (DeFi TVL +7% month-over-month), a realistic forward annualized return of ~42% is projected. Positive TVL growth (+11.2% over 30 days, $2.38B) supports protocol health. The Sharpe ratio of 1.10 indicates reasonable risk-adjusted performance, but the -17.6% max drawdown and high annualized volatility of 49.9% introduce meaningful downside risk. Single-token cluster concentration reduces diversification, capping confidence at 0.62.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.62, \"reasoning\": \"CAKE (PancakeSwap) shows strong near-term momentum with 7-day return of +7.14% and 14-day return of +14.92%, annualizing to ~388% and ~388% respectively, though these are unsustainable. Tempering with the more modest 30-day return of +6.51% (~84% annualized) and broader bull market context (DeFi TVL +7% month-over-month), a realistic forward annualized return of ~42% is projected. Positive TVL growth (+11.2% over 30 days, $2.38B) supports protocol health. The Sharpe ratio of 1.10 indicates reasonable risk-adjusted performance, but the -17.6% max drawdown and high annualized volatility of 49.9% introduce meaningful downside risk. Single-token cluster concentration reduces diversification, capping confidence at 0.62.\"}\n```",
+  "date": "2025-09-19",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:11:08.904420+00:00",
+  "enriched": false
+}

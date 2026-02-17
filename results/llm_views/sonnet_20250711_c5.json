@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.087,
+  "confidence": 0.38,
+  "reasoning": "Cluster 5 presents a conflicted signal profile. The dominant market regime is bearish (strong downtrend), and the 30-day cluster return of -11.57% with a Sharpe of -1.56 and max drawdown of -21.0% confirm sustained selling pressure. However, short-term momentum has sharply reversed \u2014 the 7-day return of +7.06% and 14-day return of +12.62% suggest a meaningful counter-trend rally underway, possibly driven by AAVE (+9.3% TVL) and MKR (+15.4% TVL) fundamentals improving. Overall DeFi TVL growth of +6.8% provides a mild macro tailwind. Balancing the bear regime and poor 30-day trend against strong recent momentum and improving protocol fundamentals (particularly MKR and AAVE), a modest positive annualized return (~8.7%) is forecast for the next 14-day window, reflecting the rally continuation discounted by elevated regime risk. Confidence is low (0.38) given the contradiction between the macro bear regime and the sharp short-term reversal \u2014 mean reversion in either direction remains highly plausible.",
+  "raw_response": "```json\n{\"expected_return\": 0.087, \"confidence\": 0.38, \"reasoning\": \"Cluster 5 presents a conflicted signal profile. The dominant market regime is bearish (strong downtrend), and the 30-day cluster return of -11.57% with a Sharpe of -1.56 and max drawdown of -21.0% confirm sustained selling pressure. However, short-term momentum has sharply reversed \u2014 the 7-day return of +7.06% and 14-day return of +12.62% suggest a meaningful counter-trend rally underway, possibly driven by AAVE (+9.3% TVL) and MKR (+15.4% TVL) fundamentals improving. Overall DeFi TVL growth of +6.8% provides a mild macro tailwind. Balancing the bear regime and poor 30-day trend against strong recent momentum and improving protocol fundamentals (particularly MKR and AAVE), a modest positive annualized return (~8.7%) is forecast for the next 14-day window, reflecting the rally continuation discounted by elevated regime risk. Confidence is low (0.38) given the contradiction between the macro bear regime and the sharp short-term reversal \u2014 mean reversion in either direction remains highly plausible.\"}\n```",
+  "date": "2025-07-11",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:07:30.367314+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is operating under severe bearish pressure: 30-day return of -30.33%, Sharpe of -2.78, and max drawdown of -29.0% signal a strong structural downtrend. Total DeFi TVL is down -17.2% over 30 days, confirming broad sector weakness. Individual protocol TVL declines are steep \u2014 SNX down -56.3%, UNI -25.9% \u2014 indicating capital flight rather than consolidation. However, the 7-day return of +10.11% provides a modest mean-reversion signal and prevents a more extreme negative forecast; this short-term bounce may reflect technical relief rather than fundamental recovery. The 14-day return of -2.67% suggests the bounce is already fading. Annualizing the 14-day trend (~-2.67% over 14 days \u2248 -69% annualized) and blending with the 7-day momentum recovery and bearish regime, I estimate a forward annualized expected return of approximately -42%. Confidence is moderate at 0.62 due to high annualized volatility (91.7%) and the contradictory short-term momentum signal making the near-term path uncertain.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is operating under severe bearish pressure: 30-day return of -30.33%, Sharpe of -2.78, and max drawdown of -29.0% signal a strong structural downtrend. Total DeFi TVL is down -17.2% over 30 days, confirming broad sector weakness. Individual protocol TVL declines are steep \u2014 SNX down -56.3%, UNI -25.9% \u2014 indicating capital flight rather than consolidation. However, the 7-day return of +10.11% provides a modest mean-reversion signal and prevents a more extreme negative forecast; this short-term bounce may reflect technical relief rather than fundamental recovery. The 14-day return of -2.67% suggests the bounce is already fading. Annualizing the 14-day trend (~-2.67% over 14 days \u2248 -69% annualized) and blending with the 7-day momentum recovery and bearish regime, I estimate a forward annualized expected return of approximately -42%. Confidence is moderate at 0.62 due to high annualized volatility (91.7%) and the contradictory short-term momentum signal making the near-term path uncertain.\"}\n```",
+  "date": "2025-11-14",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:15:01.391210+00:00",
+  "enriched": false
+}

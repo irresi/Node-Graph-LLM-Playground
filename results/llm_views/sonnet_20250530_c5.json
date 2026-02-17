@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.142,
+  "confidence": 0.52,
+  "reasoning": "Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) shows mixed signals. Positives: broad DeFi TVL surge (+25.5% in 30d), strong AAVE TVL growth (+26.3%, $24.9B dominant weight), GMX momentum (+23.1%), healthy 30d cluster return (+10.34%) and solid Sharpe (1.39). Negatives: sharp 7-day pullback (-7.57%) signals near-term exhaustion or profit-taking, MKR TVL declining (-8.8%), and CRV/COMP showing modest TVL growth relative to market. The 14-day return (+0.78%) suggests the cluster is consolidating after the 30-day run. In a Moderate Bull regime, expect mean-reversion of the recent 7-day dip partially, but momentum is dampened. Annualizing a ~+1.5% to +2.0% 14-day forward estimate yields ~39%\u201352% annualized; however, the negative short-term momentum and MKR drag temper this to ~14.2% annualized expected return on a risk-adjusted basis. Confidence is moderate (0.52) given conflicting short vs. medium-term signals and elevated annualized volatility (62.5%) making precise forecasting difficult.",
+  "raw_response": "```json\n{\"expected_return\": 0.142, \"confidence\": 0.52, \"reasoning\": \"Cluster 5 (blue-chip DeFi: lending, DEX, derivatives, yield) shows mixed signals. Positives: broad DeFi TVL surge (+25.5% in 30d), strong AAVE TVL growth (+26.3%, $24.9B dominant weight), GMX momentum (+23.1%), healthy 30d cluster return (+10.34%) and solid Sharpe (1.39). Negatives: sharp 7-day pullback (-7.57%) signals near-term exhaustion or profit-taking, MKR TVL declining (-8.8%), and CRV/COMP showing modest TVL growth relative to market. The 14-day return (+0.78%) suggests the cluster is consolidating after the 30-day run. In a Moderate Bull regime, expect mean-reversion of the recent 7-day dip partially, but momentum is dampened. Annualizing a ~+1.5% to +2.0% 14-day forward estimate yields ~39%\u201352% annualized; however, the negative short-term momentum and MKR drag temper this to ~14.2% annualized expected return on a risk-adjusted basis. Confidence is moderate (0.52) given conflicting short vs. medium-term signals and elevated annualized volatility (62.5%) making precise forecasting difficult.\"}\n```",
+  "date": "2025-05-30",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:04:56.263323+00:00",
+  "enriched": false
+}

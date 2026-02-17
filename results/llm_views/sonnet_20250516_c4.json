@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.72,
+  "confidence": 0.52,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) shows strong momentum with +32.94% over 30 days, +11.52% over 14 days, and +6.55% over 7 days, indicating sustained acceleration in a Moderate Bull regime. The annualized 14-day return of ~11.52% over 2 weeks implies ~300% annualized raw momentum, but mean reversion risk is significant after such a run. Annualized volatility of 79.9% with a Sharpe of 3.46 suggests the recent trend has been unusually efficient. Forecasting ~72% annualized return (roughly half the trailing 30-day annualized pace) reflects continued but decelerating momentum. The max drawdown of -13.1% signals manageable but non-trivial downside risk. Confidence is moderate (0.52) due to: (1) lack of TVL fundamentals for 4 of 5 tokens limiting on-chain validation, (2) high volatility making short-window forecasts unreliable, and (3) the elevated base suggesting some mean reversion over the next 14 days.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.52, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) shows strong momentum with +32.94% over 30 days, +11.52% over 14 days, and +6.55% over 7 days, indicating sustained acceleration in a Moderate Bull regime. The annualized 14-day return of ~11.52% over 2 weeks implies ~300% annualized raw momentum, but mean reversion risk is significant after such a run. Annualized volatility of 79.9% with a Sharpe of 3.46 suggests the recent trend has been unusually efficient. Forecasting ~72% annualized return (roughly half the trailing 30-day annualized pace) reflects continued but decelerating momentum. The max drawdown of -13.1% signals manageable but non-trivial downside risk. Confidence is moderate (0.52) due to: (1) lack of TVL fundamentals for 4 of 5 tokens limiting on-chain validation, (2) high volatility making short-window forecasts unreliable, and (3) the elevated base suggesting some mean reversion over the next 14 days.\"}\n```",
+  "date": "2025-05-16",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:04:01.178155+00:00",
+  "enriched": false
+}

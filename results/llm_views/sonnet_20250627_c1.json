@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.48,
+  "confidence": 0.72,
+  "reasoning": "CAKE/DEX cluster exhibits strong bearish momentum across all timeframes: -3.17% (7d), -17.34% (14d), -26.25% (30d), with an annualized volatility of 66.3% and deeply negative Sharpe of -3.32. The broader DeFi market is in a confirmed bear regime with TVL declining -7.1% over 30 days, and CAKE's own TVL is down -5.4%. Momentum is accelerating to the downside with the 14-day return (-17.34%) already implying an annualized drag of roughly -45% to -50%. Max drawdown of -25.8% suggests limited near-term mean-reversion catalyst. Projecting continued negative momentum at a slightly moderated pace given potential short-term oversold conditions, arriving at an annualized expected return of approximately -48%. Confidence is moderate-high (0.72) given consistent multi-timeframe bearish signals and macro DeFi headwinds.",
+  "raw_response": "```json\n{\"expected_return\": -0.48, \"confidence\": 0.72, \"reasoning\": \"CAKE/DEX cluster exhibits strong bearish momentum across all timeframes: -3.17% (7d), -17.34% (14d), -26.25% (30d), with an annualized volatility of 66.3% and deeply negative Sharpe of -3.32. The broader DeFi market is in a confirmed bear regime with TVL declining -7.1% over 30 days, and CAKE's own TVL is down -5.4%. Momentum is accelerating to the downside with the 14-day return (-17.34%) already implying an annualized drag of roughly -45% to -50%. Max drawdown of -25.8% suggests limited near-term mean-reversion catalyst. Projecting continued negative momentum at a slightly moderated pace given potential short-term oversold conditions, arriving at an annualized expected return of approximately -48%. Confidence is moderate-high (0.72) given consistent multi-timeframe bearish signals and macro DeFi headwinds.\"}\n```",
+  "date": "2025-06-27",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:05:58.077471+00:00",
+  "enriched": false
+}

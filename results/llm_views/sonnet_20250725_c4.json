@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.52,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) shows strong 30-day momentum (+28.41%) with an exceptional Sharpe ratio of 3.76, operating in a broad DeFi bull market (+33.6% TVL). However, the recent 7-day return of -2.72% signals short-term mean reversion and momentum cooling after a strong run. The 14-day return of +11.91% annualizes to ~310%, but extrapolating that pace is unrealistic. Adjusting for: (1) likely continuation of bull regime tailwind, (2) near-term consolidation after the 30-day surge, (3) infrastructure/L2 tokens (OP, ARB, ENS, GRT) lacking direct TVL-driven yield support \u2014 only LINK has on-chain utility metrics \u2014 and (4) elevated annualized volatility of 63.4% limiting conviction. The forecast of ~52% annualized return reflects a moderately optimistic but tempered outlook, blending trend continuation with reversion risk. Confidence is moderate (0.55) due to the recent pullback, absence of TVL data for 4 of 5 tokens, and inherent unpredictability over a 14-day horizon in a volatile regime.",
+  "raw_response": "```json\n{\"expected_return\": 0.52, \"confidence\": 0.55, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) shows strong 30-day momentum (+28.41%) with an exceptional Sharpe ratio of 3.76, operating in a broad DeFi bull market (+33.6% TVL). However, the recent 7-day return of -2.72% signals short-term mean reversion and momentum cooling after a strong run. The 14-day return of +11.91% annualizes to ~310%, but extrapolating that pace is unrealistic. Adjusting for: (1) likely continuation of bull regime tailwind, (2) near-term consolidation after the 30-day surge, (3) infrastructure/L2 tokens (OP, ARB, ENS, GRT) lacking direct TVL-driven yield support \u2014 only LINK has on-chain utility metrics \u2014 and (4) elevated annualized volatility of 63.4% limiting conviction. The forecast of ~52% annualized return reflects a moderately optimistic but tempered outlook, blending trend continuation with reversion risk. Confidence is moderate (0.55) due to the recent pullback, absence of TVL data for 4 of 5 tokens, and inherent unpredictability over a 14-day horizon in a volatile regime.\"}\n```",
+  "date": "2025-07-25",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:08:16.620085+00:00",
+  "enriched": false
+}

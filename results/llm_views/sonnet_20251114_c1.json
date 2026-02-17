@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "CAKE/DEX cluster faces significant headwinds: strong bear market regime with DeFi TVL down 17.2% over 30 days, a severe 30-day cluster return of -38.26%, and a deeply negative Sharpe ratio of -4.21 indicating poor risk-adjusted performance. TVL for CAKE is down 7.0% over 30 days, signaling capital outflows. However, there is a modest short-term countertrend signal with the 7-day return at +6.29% suggesting a potential dead-cat bounce or brief relief rally. The 14-day return of +0.30% is near-flat, indicating the recent bounce may already be exhausting. Annualized expected return is estimated at approximately -42%, reflecting the dominant bearish trend with a slight upward adjustment for the near-term momentum. Confidence is moderate (0.55) given the conflicting short-term vs. long-term signals and inherent volatility (76.3% annualized) in single-token DEX clusters.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.55, \"reasoning\": \"CAKE/DEX cluster faces significant headwinds: strong bear market regime with DeFi TVL down 17.2% over 30 days, a severe 30-day cluster return of -38.26%, and a deeply negative Sharpe ratio of -4.21 indicating poor risk-adjusted performance. TVL for CAKE is down 7.0% over 30 days, signaling capital outflows. However, there is a modest short-term countertrend signal with the 7-day return at +6.29% suggesting a potential dead-cat bounce or brief relief rally. The 14-day return of +0.30% is near-flat, indicating the recent bounce may already be exhausting. Annualized expected return is estimated at approximately -42%, reflecting the dominant bearish trend with a slight upward adjustment for the near-term momentum. Confidence is moderate (0.55) given the conflicting short-term vs. long-term signals and inherent volatility (76.3% annualized) in single-token DEX clusters.\"}\n```",
+  "date": "2025-11-14",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:14:41.738417+00:00",
+  "enriched": false
+}

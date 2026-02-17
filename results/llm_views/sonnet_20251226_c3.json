@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) faces significant headwinds in a confirmed bear regime with a deeply negative Sharpe ratio (-3.67) and severe 30-day drawdown (-28.5%). TVL trends are broadly negative across all five protocols, with SNX (-27.5%) and SUSHI (-15.9%) showing acute deterioration. The aggregate DeFi TVL is essentially flat (-0.2%), offering no macro tailwind. However, the recent 7-day bounce (+7.31%) introduces some mean-reversion signal, partially offsetting the dominant downtrend \u2014 though the 14-day return (-11.25%) confirms that bounces have been fading. LDO dominates TVL weighting (~80% of cluster) and its relative resilience (-1.4% TVL change) provides a modest stabilizing effect. Annualizing the 14-day trend and adjusting for the short-term momentum uptick and LDO's anchor weight yields an expected annualized return of approximately -42%. Confidence is moderate (0.62) given the volatile, regime-dominated environment and the ambiguous near-term momentum signal.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) faces significant headwinds in a confirmed bear regime with a deeply negative Sharpe ratio (-3.67) and severe 30-day drawdown (-28.5%). TVL trends are broadly negative across all five protocols, with SNX (-27.5%) and SUSHI (-15.9%) showing acute deterioration. The aggregate DeFi TVL is essentially flat (-0.2%), offering no macro tailwind. However, the recent 7-day bounce (+7.31%) introduces some mean-reversion signal, partially offsetting the dominant downtrend \u2014 though the 14-day return (-11.25%) confirms that bounces have been fading. LDO dominates TVL weighting (~80% of cluster) and its relative resilience (-1.4% TVL change) provides a modest stabilizing effect. Annualizing the 14-day trend and adjusting for the short-term momentum uptick and LDO's anchor weight yields an expected annualized return of approximately -42%. Confidence is moderate (0.62) given the volatile, regime-dominated environment and the ambiguous near-term momentum signal.\"}\n```",
+  "date": "2025-12-26",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T20:17:25.072310+00:00",
+  "enriched": false
+}
