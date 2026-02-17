@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "CVX is exhibiting strong negative momentum across all timeframes (7d: -13.45%, 14d: -15.61%, 30d: -15.47%), with momentum accelerating in the short term. The broader DeFi market is in a bear regime with TVL down -22.9% over 30 days, and CVX-specific TVL has dropped -27.0%, underperforming the market. The Sharpe ratio of -1.32 and max drawdown of -31.7% confirm persistent selling pressure. Annualizing the 14-day run-rate return (-15.61% over ~14 days \u2248 -406% annualized) is extreme; applying a mean-reversion discount and accounting for likely stabilization, I project an annualized return of approximately -72%. High volatility (98.7% annualized) and the Curve/Convex ecosystem's sensitivity to liquidity conditions add downside risk, but some near-term bounce potential from oversold conditions tempers the worst-case scenario. Confidence is moderate given the noisy, high-volatility environment.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"CVX is exhibiting strong negative momentum across all timeframes (7d: -13.45%, 14d: -15.61%, 30d: -15.47%), with momentum accelerating in the short term. The broader DeFi market is in a bear regime with TVL down -22.9% over 30 days, and CVX-specific TVL has dropped -27.0%, underperforming the market. The Sharpe ratio of -1.32 and max drawdown of -31.7% confirm persistent selling pressure. Annualizing the 14-day run-rate return (-15.61% over ~14 days \u2248 -406% annualized) is extreme; applying a mean-reversion discount and accounting for likely stabilization, I project an annualized return of approximately -72%. High volatility (98.7% annualized) and the Curve/Convex ecosystem's sensitivity to liquidity conditions add downside risk, but some near-term bounce potential from oversold conditions tempers the worst-case scenario. Confidence is moderate given the noisy, high-volatility environment.\"}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:08:36.033713+00:00",
+  "enriched": false
+}

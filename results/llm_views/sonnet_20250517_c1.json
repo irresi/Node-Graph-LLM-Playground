@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.52,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) shows strong 30-day momentum (+31.36%) in a Moderate Bull regime with DeFi TVL up +34.9%, supporting a constructive outlook. The exceptional Sharpe ratio (3.28) suggests risk-adjusted performance has been strong. However, the recent 7-day return of -1.13% signals short-term momentum fading and potential mean reversion after an extended rally. Annualizing the 14-day return of +10.49% yields ~272% \u2014 clearly unsustainable. Applying significant mean-reversion discounting from the 30-day trend, adjusted for the negative 7-day signal and elevated annualized volatility (80.4%), a forward 14-day annualized expected return of ~42% is reasonable. Confidence is moderate (0.52) given: (1) no TVL fundamentals available for 4/5 tokens limiting fundamental anchoring, (2) high volatility regime increases forecast uncertainty, and (3) conflicting short-term vs. medium-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.52, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) shows strong 30-day momentum (+31.36%) in a Moderate Bull regime with DeFi TVL up +34.9%, supporting a constructive outlook. The exceptional Sharpe ratio (3.28) suggests risk-adjusted performance has been strong. However, the recent 7-day return of -1.13% signals short-term momentum fading and potential mean reversion after an extended rally. Annualizing the 14-day return of +10.49% yields ~272% \u2014 clearly unsustainable. Applying significant mean-reversion discounting from the 30-day trend, adjusted for the negative 7-day signal and elevated annualized volatility (80.4%), a forward 14-day annualized expected return of ~42% is reasonable. Confidence is moderate (0.52) given: (1) no TVL fundamentals available for 4/5 tokens limiting fundamental anchoring, (2) high volatility regime increases forecast uncertainty, and (3) conflicting short-term vs. medium-term momentum signals.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:56:16.638065+00:00",
+  "enriched": false
+}

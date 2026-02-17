@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.25,
+  "reasoning": "CVX (Convex Finance) presents a mixed signal environment. The 7-day momentum is strongly positive (+17.82%) suggesting short-term bullish pressure, but the 14-day return is negative (-4.14%), indicating recent volatility and choppiness rather than a clean trend. The 30-day return of +1.17% is modest, and the annualized Sharpe of 0.12 reflects poor risk-adjusted performance. TVL declined -2.0% over 30 days, signaling modest capital outflows and weakening protocol fundamentals. The broader DeFi market is neutral/range-bound with TVL up +8.2%, providing mild macro tailwind but insufficient to drive strong directional conviction. The max drawdown of -26.3% underscores significant downside risk. Annualized volatility of 79.6% makes precise forecasting difficult. Given the conflicting short-term momentum signals, TVL contraction, and range-bound market regime, a modest positive annualized return forecast (~8%) is warranted, with low confidence due to high volatility and contradictory trend signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.25, \"reasoning\": \"CVX (Convex Finance) presents a mixed signal environment. The 7-day momentum is strongly positive (+17.82%) suggesting short-term bullish pressure, but the 14-day return is negative (-4.14%), indicating recent volatility and choppiness rather than a clean trend. The 30-day return of +1.17% is modest, and the annualized Sharpe of 0.12 reflects poor risk-adjusted performance. TVL declined -2.0% over 30 days, signaling modest capital outflows and weakening protocol fundamentals. The broader DeFi market is neutral/range-bound with TVL up +8.2%, providing mild macro tailwind but insufficient to drive strong directional conviction. The max drawdown of -26.3% underscores significant downside risk. Annualized volatility of 79.6% makes precise forecasting difficult. Given the conflicting short-term momentum signals, TVL contraction, and range-bound market regime, a modest positive annualized return forecast (~8%) is warranted, with low confidence due to high volatility and contradictory trend signals.\"}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:02:50.275957+00:00",
+  "enriched": false
+}

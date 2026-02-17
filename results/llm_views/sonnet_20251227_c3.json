@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "CVX faces headwinds from a bear market regime with strong downtrend, negative 30-day return (-3.97%), declining TVL (-4.3% over 30d), and a negative Sharpe ratio (-0.53). However, short-term momentum is cautiously constructive with a +5.51% 7-day bounce and +2.12% 14-day return, suggesting a potential relief rally. The high annualized volatility (62.6%) and max drawdown (-16%) indicate significant tail risk. Balancing the bearish structural trend against the nascent short-term recovery, a slightly negative annualized return is forecast with low confidence given the conflicting signals and overall weak DeFi market conditions (TVL nearly flat at +0.2% over 30d).",
+  "raw_response": "```json\n{\"expected_return\": -0.08, \"confidence\": 0.35, \"reasoning\": \"CVX faces headwinds from a bear market regime with strong downtrend, negative 30-day return (-3.97%), declining TVL (-4.3% over 30d), and a negative Sharpe ratio (-0.53). However, short-term momentum is cautiously constructive with a +5.51% 7-day bounce and +2.12% 14-day return, suggesting a potential relief rally. The high annualized volatility (62.6%) and max drawdown (-16%) indicate significant tail risk. Balancing the bearish structural trend against the nascent short-term recovery, a slightly negative annualized return is forecast with low confidence given the conflicting signals and overall weak DeFi market conditions (TVL nearly flat at +0.2% over 30d).\"}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:06:34.649621+00:00",
+  "enriched": false
+}

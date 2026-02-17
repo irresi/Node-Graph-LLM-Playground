@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.71,
+  "reasoning": "CVX is exhibiting severe bearish momentum across all timeframes: -14.59% (7d), -18.30% (14d), -30.41% (30d), with no sign of reversal. The broader DeFi market is in a strong downtrend (-17% TVL in 30d), compounding protocol-level headwinds (CVX TVL -4% in 30d). The Sharpe ratio of -2.92 and max drawdown of -25.2% confirm deeply negative risk-adjusted performance. Annualizing the recent 14-day return of -18.30% yields approximately -72% annualized. High volatility (87.4% annualized) adds downside risk, though some mean-reversion potential tempers the outlook marginally. Confidence is moderate-high given the consistency of the bearish signal across multiple timeframes and macro DeFi context.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.71, \"reasoning\": \"CVX is exhibiting severe bearish momentum across all timeframes: -14.59% (7d), -18.30% (14d), -30.41% (30d), with no sign of reversal. The broader DeFi market is in a strong downtrend (-17% TVL in 30d), compounding protocol-level headwinds (CVX TVL -4% in 30d). The Sharpe ratio of -2.92 and max drawdown of -25.2% confirm deeply negative risk-adjusted performance. Annualizing the recent 14-day return of -18.30% yields approximately -72% annualized. High volatility (87.4% annualized) adds downside risk, though some mean-reversion potential tempers the outlook marginally. Confidence is moderate-high given the consistency of the bearish signal across multiple timeframes and macro DeFi context.\"}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:04:43.194990+00:00",
+  "enriched": false
+}

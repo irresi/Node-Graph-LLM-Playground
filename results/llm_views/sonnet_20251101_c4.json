@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "BAL faces strong headwinds across all key indicators: bear market regime with DeFi TVL down 12.5% over 30 days, BAL-specific TVL collapsing -22.3% in 30 days signaling capital flight from the protocol, and a deeply negative Sharpe ratio of -1.89 reflecting poor risk-adjusted performance. The 30-day return of -15.52% with a max drawdown of -21.6% confirms sustained selling pressure. The only mildly constructive signal is the 14-day return of +0.20%, suggesting a very brief consolidation, but this is insufficient to overcome the dominant bear trend. Annualizing the 30-day momentum trajectory (-15.52% \u00d7 12) yields approximately -186% annualized, though mean-reversion and volatility clustering temper the extreme projection. Given 69.1% annualized volatility, a moderate bearish forecast of -42% annualized is applied, reflecting persistent downtrend with some probability of short-term bounce. Confidence is moderate at 0.62 \u2014 bear trend is clear but the 14-day micro-bounce introduces uncertainty about whether a temporary relief rally could distort the 14-day forward window.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL faces strong headwinds across all key indicators: bear market regime with DeFi TVL down 12.5% over 30 days, BAL-specific TVL collapsing -22.3% in 30 days signaling capital flight from the protocol, and a deeply negative Sharpe ratio of -1.89 reflecting poor risk-adjusted performance. The 30-day return of -15.52% with a max drawdown of -21.6% confirms sustained selling pressure. The only mildly constructive signal is the 14-day return of +0.20%, suggesting a very brief consolidation, but this is insufficient to overcome the dominant bear trend. Annualizing the 30-day momentum trajectory (-15.52% \u00d7 12) yields approximately -186% annualized, though mean-reversion and volatility clustering temper the extreme projection. Given 69.1% annualized volatility, a moderate bearish forecast of -42% annualized is applied, reflecting persistent downtrend with some probability of short-term bounce. Confidence is moderate at 0.62 \u2014 bear trend is clear but the 14-day micro-bounce introduces uncertainty about whether a temporary relief rally could distort the 14-day forward window.\"}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:04:17.229857+00:00",
+  "enriched": false
+}

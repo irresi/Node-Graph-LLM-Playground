@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CVX is in a strong bear trend with a -21.96% 30-day return and a deeply negative Sharpe ratio of -2.27, indicating persistent risk-adjusted underperformance. The max drawdown of -29.5% signals significant selling pressure. While the 7-day return of +1.57% offers a faint short-term relief signal, the 14-day return of -5.78% suggests the bounce is fragile and not yet indicative of a trend reversal. TVL is relatively stable at $1.17B with only a -0.5% 30-day decline, providing some fundamental support, but the broader DeFi market regime is bearish with minimal TVL growth (+1.2%). Annualized return is extrapolated from the 14-day trajectory (-5.78%) scaled to ~365/14 \u2248 26x, adjusted conservatively downward given bear regime persistence but partially offset by the recent 7-day uptick. Confidence is moderate given single-token cluster concentration risk and mixed short-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CVX is in a strong bear trend with a -21.96% 30-day return and a deeply negative Sharpe ratio of -2.27, indicating persistent risk-adjusted underperformance. The max drawdown of -29.5% signals significant selling pressure. While the 7-day return of +1.57% offers a faint short-term relief signal, the 14-day return of -5.78% suggests the bounce is fragile and not yet indicative of a trend reversal. TVL is relatively stable at $1.17B with only a -0.5% 30-day decline, providing some fundamental support, but the broader DeFi market regime is bearish with minimal TVL growth (+1.2%). Annualized return is extrapolated from the 14-day trajectory (-5.78%) scaled to ~365/14 \u2248 26x, adjusted conservatively downward given bear regime persistence but partially offset by the recent 7-day uptick. Confidence is moderate given single-token cluster concentration risk and mixed short-term signals.\"}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:57:48.809045+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.38,
+  "reasoning": "BAL (Balancer) shows a mixed signal environment. The broader DeFi market is in a Moderate Bull regime with strong 30-day TVL growth (+34.9%), and BAL's own TVL is up +34.4% over 30 days with a healthy Sharpe ratio of 1.42. However, near-term momentum has deteriorated sharply: -4.38% over 7 days and -5.07% over 14 days, indicating recent selling pressure or profit-taking after the strong 30-day run. The single-token cluster concentration amplifies idiosyncratic risk. Annualized volatility at 105.3% is very high, making precise forecasting difficult. For the next 14 days, the positive macro DeFi tailwind and strong TVL fundamentals provide a modest upward bias, but the recent negative momentum and high volatility suppress confidence. A moderate positive annualized return (~42%) is expected, reflecting mean-reversion potential from the recent pullback tempered by elevated uncertainty. Confidence is low (0.38) due to single-asset concentration, high vol, and conflicting short- vs. long-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.38, \"reasoning\": \"BAL (Balancer) shows a mixed signal environment. The broader DeFi market is in a Moderate Bull regime with strong 30-day TVL growth (+34.9%), and BAL's own TVL is up +34.4% over 30 days with a healthy Sharpe ratio of 1.42. However, near-term momentum has deteriorated sharply: -4.38% over 7 days and -5.07% over 14 days, indicating recent selling pressure or profit-taking after the strong 30-day run. The single-token cluster concentration amplifies idiosyncratic risk. Annualized volatility at 105.3% is very high, making precise forecasting difficult. For the next 14 days, the positive macro DeFi tailwind and strong TVL fundamentals provide a modest upward bias, but the recent negative momentum and high volatility suppress confidence. A moderate positive annualized return (~42%) is expected, reflecting mean-reversion potential from the recent pullback tempered by elevated uncertainty. Confidence is low (0.38) due to single-asset concentration, high vol, and conflicting short- vs. long-term momentum signals.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:56:44.996303+00:00",
+  "enriched": false
+}

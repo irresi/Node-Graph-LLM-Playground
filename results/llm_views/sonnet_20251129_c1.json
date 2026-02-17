@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) faces strong headwinds in a confirmed bear regime with DeFi TVL down 16.5% over 30 days. The 30-day cluster return of -29.47% and Sharpe of -3.05 signal deeply negative momentum. However, the recent 7-day bounce of +6.63% introduces some mean-reversion signal that tempers the most bearish outlook. The 14-day return of -9.42% suggests the near-term trajectory remains negative but less extreme than the full 30-day drawdown implies. Annualizing the 14-day forward expectation: base case of approximately -3% to -4% over the next 14 days translates to roughly -72% annualized. Infrastructure/L2 tokens lack direct yield-generating TVL as a buffer, and high annualized volatility of 81.1% amplifies downside risk in bear regimes. The short-term bounce is treated as a likely relief rally within a broader downtrend rather than a trend reversal, given macro DeFi weakness. Confidence is moderate (0.62) due to elevated volatility and the ambiguous short-term momentum signal from the 7-day rebound.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) faces strong headwinds in a confirmed bear regime with DeFi TVL down 16.5% over 30 days. The 30-day cluster return of -29.47% and Sharpe of -3.05 signal deeply negative momentum. However, the recent 7-day bounce of +6.63% introduces some mean-reversion signal that tempers the most bearish outlook. The 14-day return of -9.42% suggests the near-term trajectory remains negative but less extreme than the full 30-day drawdown implies. Annualizing the 14-day forward expectation: base case of approximately -3% to -4% over the next 14 days translates to roughly -72% annualized. Infrastructure/L2 tokens lack direct yield-generating TVL as a buffer, and high annualized volatility of 81.1% amplifies downside risk in bear regimes. The short-term bounce is treated as a likely relief rally within a broader downtrend rather than a trend reversal, given macro DeFi weakness. Confidence is moderate (0.62) due to elevated volatility and the ambiguous short-term momentum signal from the 7-day rebound.\"}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:05:02.766881+00:00",
+  "enriched": false
+}

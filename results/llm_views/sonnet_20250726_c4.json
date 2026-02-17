@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.72,
+  "confidence": 0.62,
+  "reasoning": "BAL (Balancer) is exhibiting strong momentum with a 30-day return of +30.43% and an impressive Sharpe ratio of 4.61, indicating risk-adjusted outperformance. The 14-day return of +19.93% and 7-day return of +6.31% suggest momentum is decelerating slightly but remains robust. TVL growth of +23.3% to $902M signals genuine protocol adoption supporting price action. The broader DeFi bull regime with +37.7% TVL growth provides a favorable macro tailwind. However, single-token cluster concentration increases idiosyncratic risk, and the annualized volatility of 55.4% with a -10.2% max drawdown warrants caution. Annualizing the recent 14-day return (~+19.93%) implies ~519% annualized, but mean reversion is expected as momentum fades; a conservative forward-looking estimate of ~72% annualized accounts for momentum continuation at a reduced pace, partial mean reversion, and elevated single-asset risk. Confidence is moderate at 0.62 due to single-token concentration, high volatility, and typical momentum decay risks over a 14-day horizon.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) is exhibiting strong momentum with a 30-day return of +30.43% and an impressive Sharpe ratio of 4.61, indicating risk-adjusted outperformance. The 14-day return of +19.93% and 7-day return of +6.31% suggest momentum is decelerating slightly but remains robust. TVL growth of +23.3% to $902M signals genuine protocol adoption supporting price action. The broader DeFi bull regime with +37.7% TVL growth provides a favorable macro tailwind. However, single-token cluster concentration increases idiosyncratic risk, and the annualized volatility of 55.4% with a -10.2% max drawdown warrants caution. Annualizing the recent 14-day return (~+19.93%) implies ~519% annualized, but mean reversion is expected as momentum fades; a conservative forward-looking estimate of ~72% annualized accounts for momentum continuation at a reduced pace, partial mean reversion, and elevated single-asset risk. Confidence is moderate at 0.62 due to single-token concentration, high volatility, and typical momentum decay risks over a 14-day horizon.\"}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:59:52.639235+00:00",
+  "enriched": false
+}

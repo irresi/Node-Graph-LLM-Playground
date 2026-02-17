@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 (LINK, OP, ARB, ENS, GRT) is deep in a bear regime with a brutal -24.53% 30-day return, Sharpe of -2.75, and max drawdown near -23.9%, signaling sustained selling pressure. However, the 7-day return of +0.42% hints at a very nascent stabilization, while the 14-day return of -2.51% suggests the worst of the acute sell-off may be decelerating. Infrastructure/L2/Oracle tokens tend to be high-beta to broader crypto sentiment with limited near-term catalysts. Annualizing the 14-day trend (-2.51% over ~14 days \u2248 -65% annualized) and blending with a modest mean-reversion discount given the slight 7-day uptick, the forward 14-day expected annualized return is estimated at approximately -42%. Confidence is moderate (0.62) given the mixed short-term signals against a dominant bearish macro regime and the absence of TVL-based fundamental anchors for most tokens in this cluster.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 1 (LINK, OP, ARB, ENS, GRT) is deep in a bear regime with a brutal -24.53% 30-day return, Sharpe of -2.75, and max drawdown near -23.9%, signaling sustained selling pressure. However, the 7-day return of +0.42% hints at a very nascent stabilization, while the 14-day return of -2.51% suggests the worst of the acute sell-off may be decelerating. Infrastructure/L2/Oracle tokens tend to be high-beta to broader crypto sentiment with limited near-term catalysts. Annualizing the 14-day trend (-2.51% over ~14 days \u2248 -65% annualized) and blending with a modest mean-reversion discount given the slight 7-day uptick, the forward 14-day expected annualized return is estimated at approximately -42%. Confidence is moderate (0.62) given the mixed short-term signals against a dominant bearish macro regime and the absence of TVL-based fundamental anchors for most tokens in this cluster.\"}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:57:30.296829+00:00",
+  "enriched": false
+}

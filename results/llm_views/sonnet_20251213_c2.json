@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.52,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is a diversified DeFi blue-chip basket (DEX, lending, derivatives, liquid staking) facing severe headwinds: confirmed bear market regime, deeply negative 30d return of -25.12%, annualized volatility of 51.6%, and a Sharpe of -4.09 signaling poor risk-adjusted performance. The 14d return of -10.64% annualizes to roughly -98% on a raw basis, though mean reversion and the quality of underlying protocols (AAVE at $32.7B TVL, UNI at $4.2B) provide some cushion. CRV (+8.2% TVL) and CAKE (+2.1% TVL) show pockets of resilience, but AAVE (-2.1%), UNI (-9.6%), and SUSHI (-8.7%) TVL declines confirm broad capital flight. Momentum is strongly negative across all timeframes (7d: -2.22%, 14d: -10.64%, 30d: -25.12%) with no reversal signal evident. Annualized expected return forecast of -52% reflects continued downtrend at a moderated pace relative to recent extremes, accounting for partial mean reversion and protocol-level fundamental support at current valuations. Confidence is moderate (0.62) given high volatility and regime uncertainty over the 14-day horizon.",
+  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.62, \"reasoning\": \"Cluster 2 is a diversified DeFi blue-chip basket (DEX, lending, derivatives, liquid staking) facing severe headwinds: confirmed bear market regime, deeply negative 30d return of -25.12%, annualized volatility of 51.6%, and a Sharpe of -4.09 signaling poor risk-adjusted performance. The 14d return of -10.64% annualizes to roughly -98% on a raw basis, though mean reversion and the quality of underlying protocols (AAVE at $32.7B TVL, UNI at $4.2B) provide some cushion. CRV (+8.2% TVL) and CAKE (+2.1% TVL) show pockets of resilience, but AAVE (-2.1%), UNI (-9.6%), and SUSHI (-8.7%) TVL declines confirm broad capital flight. Momentum is strongly negative across all timeframes (7d: -2.22%, 14d: -10.64%, 30d: -25.12%) with no reversal signal evident. Annualized expected return forecast of -52% reflects continued downtrend at a moderated pace relative to recent extremes, accounting for partial mean reversion and protocol-level fundamental support at current valuations. Confidence is moderate (0.62) given high volatility and regime uncertainty over the 14-day horizon.\"}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:05:49.704062+00:00",
+  "enriched": false
+}

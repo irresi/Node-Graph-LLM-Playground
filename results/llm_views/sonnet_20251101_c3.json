@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "CVX faces severe headwinds: bear market regime with DeFi TVL down 12.5% over 30 days, cluster return of -42.39% over 30 days with a deeply negative Sharpe of -2.47, and CVX-specific TVL declining -18.1% to $977M. Near-term momentum remains negative (-3.29% 7-day, -3.56% 14-day) but the deceleration in weekly losses relative to the catastrophic 30-day drawdown suggests the steepest selling may be moderating. Annualizing the recent 14-day return of -3.56% yields approximately -0.93, but slight mean-reversion from oversold conditions and CVX's yield-bearing mechanics (Convex protocol lock incentives) provide marginal support, tempering the forecast to -0.72 annualized. Confidence is moderate at 0.62 given high volatility (144.1% annualized) and macro uncertainty limiting precision.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"CVX faces severe headwinds: bear market regime with DeFi TVL down 12.5% over 30 days, cluster return of -42.39% over 30 days with a deeply negative Sharpe of -2.47, and CVX-specific TVL declining -18.1% to $977M. Near-term momentum remains negative (-3.29% 7-day, -3.56% 14-day) but the deceleration in weekly losses relative to the catastrophic 30-day drawdown suggests the steepest selling may be moderating. Annualizing the recent 14-day return of -3.56% yields approximately -0.93, but slight mean-reversion from oversold conditions and CVX's yield-bearing mechanics (Convex protocol lock incentives) provide marginal support, tempering the forecast to -0.72 annualized. Confidence is moderate at 0.62 given high volatility (144.1% annualized) and macro uncertainty limiting precision.\"}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:04:07.607072+00:00",
+  "enriched": false
+}

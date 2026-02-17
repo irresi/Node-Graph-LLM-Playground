@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is a diversified DeFi blue-chip basket (DEX, lending, derivatives, liquid staking) operating under a confirmed bear regime with strong downtrend signals. Key bearish inputs: (1) 30-day cluster return of -22.19% with a deeply negative Sharpe of -2.53 and max drawdown of -26.8%, (2) overall DeFi TVL contracting -16.5% in 30 days indicating capital flight, (3) major protocol TVLs declining sharply \u2014 UNI -21.5%, SUSHI -23.2%, AAVE -14.2%. Modest bullish offset: the 7-day return of +6.87% suggests a short-term mean-reversion bounce is underway, which may persist into the early part of the 14-day window, partially cushioning continued downside. However, the 14-day return of -7.17% indicates even the medium-term trend remains negative. Annualizing a projected ~-16% to -18% move over 14 days (blending bear momentum with partial mean-reversion dampening) yields an expected annualized return of approximately -42%. Confidence is moderate (0.62) given the conflicting short-term bounce signal against a dominant bear macro backdrop, and the cluster's broad diversification across 13 tokens adds some uncertainty to directional conviction.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 2 is a diversified DeFi blue-chip basket (DEX, lending, derivatives, liquid staking) operating under a confirmed bear regime with strong downtrend signals. Key bearish inputs: (1) 30-day cluster return of -22.19% with a deeply negative Sharpe of -2.53 and max drawdown of -26.8%, (2) overall DeFi TVL contracting -16.5% in 30 days indicating capital flight, (3) major protocol TVLs declining sharply \u2014 UNI -21.5%, SUSHI -23.2%, AAVE -14.2%. Modest bullish offset: the 7-day return of +6.87% suggests a short-term mean-reversion bounce is underway, which may persist into the early part of the 14-day window, partially cushioning continued downside. However, the 14-day return of -7.17% indicates even the medium-term trend remains negative. Annualizing a projected ~-16% to -18% move over 14 days (blending bear momentum with partial mean-reversion dampening) yields an expected annualized return of approximately -42%. Confidence is moderate (0.62) given the conflicting short-term bounce signal against a dominant bear macro backdrop, and the cluster's broad diversification across 13 tokens adds some uncertainty to directional conviction.\"}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:05:13.307419+00:00",
+  "enriched": false
+}

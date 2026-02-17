@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.87,
+  "confidence": 0.72,
+  "reasoning": "Cluster 2 exhibits severe bearish momentum across multiple timeframes: -32.44% over 30 days, -8.54% over 7 days, with a deeply negative Sharpe ratio of -2.51 and max drawdown of -31.1%. The broader DeFi market is in a confirmed bear regime with TVL down -12.5% over 30 days. Major protocol TVLs are declining (AAVE -15.9%, UNI -8.9%, SUSHI -8.5%), signaling continued capital outflows. CRV (+3.4%) and CAKE (+8.8%) show modest resilience but are insufficient to offset cluster-wide selling pressure. The 14-day return of -5.64% \u2014 less severe than the 30-day \u2014 suggests some deceleration, but not reversal. Annualizing the recent 7-day trend (~-8.54% weekly) implies deeply negative forward returns. A modest mean-reversion discount is applied given the cluster is already heavily oversold, yielding a forecast of approximately -87% annualized. Confidence is moderate (0.72) given high volatility (108.4% annualized) makes precise point estimates uncertain, though directional bearishness is high-conviction.",
+  "raw_response": "```json\n{\"expected_return\": -0.87, \"confidence\": 0.72, \"reasoning\": \"Cluster 2 exhibits severe bearish momentum across multiple timeframes: -32.44% over 30 days, -8.54% over 7 days, with a deeply negative Sharpe ratio of -2.51 and max drawdown of -31.1%. The broader DeFi market is in a confirmed bear regime with TVL down -12.5% over 30 days. Major protocol TVLs are declining (AAVE -15.9%, UNI -8.9%, SUSHI -8.5%), signaling continued capital outflows. CRV (+3.4%) and CAKE (+8.8%) show modest resilience but are insufficient to offset cluster-wide selling pressure. The 14-day return of -5.64% \u2014 less severe than the 30-day \u2014 suggests some deceleration, but not reversal. Annualizing the recent 7-day trend (~-8.54% weekly) implies deeply negative forward returns. A modest mean-reversion discount is applied given the cluster is already heavily oversold, yielding a forecast of approximately -87% annualized. Confidence is moderate (0.72) given high volatility (108.4% annualized) makes precise point estimates uncertain, though directional bearishness is high-conviction.\"}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:03:58.778846+00:00",
+  "enriched": false
+}

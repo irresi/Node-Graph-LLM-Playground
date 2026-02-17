@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.187,
+  "confidence": 0.48,
+  "reasoning": "BAL (Balancer) shows consistent positive momentum across 7/14/30-day horizons (+5.08%/+6.01%/+5.76%), suggesting a stable uptrend rather than a spike-and-fade pattern. The broader DeFi market is in a Moderate Bull regime with TVL up +22% over 30 days, providing a supportive macro backdrop. BAL's own TVL of $1.04B with +17% 30-day growth signals healthy protocol adoption. Annualizing the 14-day return of +6.01% yields ~156% raw annualized, but this overstates sustainable returns; I temper this significantly given BAL's high annualized volatility of 78.2%, a modest Sharpe of 0.62, and a max drawdown of -17.6% indicating meaningful downside risk. The single-token cluster (no diversification) amplifies idiosyncratic risk. Forecast of ~18.7% annualized reflects positive but moderating momentum, mean-reversion pressure after recent gains, and DEX sector tailwinds. Confidence is moderate-low (0.48) given high volatility, single-asset concentration, and the inherent uncertainty in projecting 14-day forward returns from lagging indicators.",
+  "raw_response": "```json\n{\"expected_return\": 0.187, \"confidence\": 0.48, \"reasoning\": \"BAL (Balancer) shows consistent positive momentum across 7/14/30-day horizons (+5.08%/+6.01%/+5.76%), suggesting a stable uptrend rather than a spike-and-fade pattern. The broader DeFi market is in a Moderate Bull regime with TVL up +22% over 30 days, providing a supportive macro backdrop. BAL's own TVL of $1.04B with +17% 30-day growth signals healthy protocol adoption. Annualizing the 14-day return of +6.01% yields ~156% raw annualized, but this overstates sustainable returns; I temper this significantly given BAL's high annualized volatility of 78.2%, a modest Sharpe of 0.62, and a max drawdown of -17.6% indicating meaningful downside risk. The single-token cluster (no diversification) amplifies idiosyncratic risk. Forecast of ~18.7% annualized reflects positive but moderating momentum, mean-reversion pressure after recent gains, and DEX sector tailwinds. Confidence is moderate-low (0.48) given high volatility, single-asset concentration, and the inherent uncertainty in projecting 14-day forward returns from lagging indicators.\"}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:01:09.514841+00:00",
+  "enriched": false
+}

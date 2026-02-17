@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.72,
+  "confidence": 0.58,
+  "reasoning": "Cluster 2 (DeFi Blue-Chips: DEX/Lending/Derivatives/LST) presents a mixed near-term picture. Bullish signals: strong 30-day momentum (+24.36%), exceptional Sharpe ratio (2.95), broad TVL expansion across majors (AAVE +31.8%, SUSHI +33.4%, UNI +29.0%), and a supportive macro DeFi regime with total TVL up +34.9%. Bearish/caution signals: the 7-day return has turned negative (-2.36%), suggesting short-term mean reversion or profit-taking after the strong rally; max drawdown of -11.2% indicates volatility is real. The 14-day return (+9.26% \u2248 ~240% annualized raw) likely overstates sustainable momentum. Annualizing a more conservative forward 14-day expectation (~2.7-3.0% absolute over the period) given the recent pullback and elevated vol (69.3%) yields ~72% annualized. Confidence is moderate (0.58): the bull regime and TVL fundamentals are supportive, but the recent 7-day reversal and high cluster volatility introduce meaningful forecast uncertainty over such a short horizon.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.58, \"reasoning\": \"Cluster 2 (DeFi Blue-Chips: DEX/Lending/Derivatives/LST) presents a mixed near-term picture. Bullish signals: strong 30-day momentum (+24.36%), exceptional Sharpe ratio (2.95), broad TVL expansion across majors (AAVE +31.8%, SUSHI +33.4%, UNI +29.0%), and a supportive macro DeFi regime with total TVL up +34.9%. Bearish/caution signals: the 7-day return has turned negative (-2.36%), suggesting short-term mean reversion or profit-taking after the strong rally; max drawdown of -11.2% indicates volatility is real. The 14-day return (+9.26% \u2248 ~240% annualized raw) likely overstates sustainable momentum. Annualizing a more conservative forward 14-day expectation (~2.7-3.0% absolute over the period) given the recent pullback and elevated vol (69.3%) yields ~72% annualized. Confidence is moderate (0.58): the bull regime and TVL fundamentals are supportive, but the recent 7-day reversal and high cluster volatility introduce meaningful forecast uncertainty over such a short horizon.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:56:27.107233+00:00",
+  "enriched": false
+}

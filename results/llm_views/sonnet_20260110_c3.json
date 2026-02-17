@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.31,
+  "reasoning": "CVX shows strong near-term momentum (+14.79% over 7 days, +9.36% over 14 days) outpacing the 30-day return of +5.13%, suggesting accelerating positive price action. However, this is set against a bear market regime with overall DeFi TVL declining (-1.7% 30d). CVX's own TVL is marginally positive (+0.8%), indicating protocol stability. The annualized volatility of 117.8% and max drawdown of -17.6% reflect extreme risk, while the low Sharpe ratio (0.37) confirms poor risk-adjusted returns. Projecting the 14-day return of ~9.36% forward on an annualized basis (~243% raw annualized) but heavily discounting for mean-reversion tendencies in high-volatility yield tokens, bear market headwinds, and the unsustainability of the recent momentum spike yields a net annualized forecast of ~42%. Confidence is low (0.31) given the contradiction between strong short-term momentum and the broader bear regime, extreme volatility, and single-token cluster concentration risk.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.31, \"reasoning\": \"CVX shows strong near-term momentum (+14.79% over 7 days, +9.36% over 14 days) outpacing the 30-day return of +5.13%, suggesting accelerating positive price action. However, this is set against a bear market regime with overall DeFi TVL declining (-1.7% 30d). CVX's own TVL is marginally positive (+0.8%), indicating protocol stability. The annualized volatility of 117.8% and max drawdown of -17.6% reflect extreme risk, while the low Sharpe ratio (0.37) confirms poor risk-adjusted returns. Projecting the 14-day return of ~9.36% forward on an annualized basis (~243% raw annualized) but heavily discounting for mean-reversion tendencies in high-volatility yield tokens, bear market headwinds, and the unsustainability of the recent momentum spike yields a net annualized forecast of ~42%. Confidence is low (0.31) given the contradiction between strong short-term momentum and the broader bear regime, extreme volatility, and single-token cluster concentration risk.\"}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:07:13.066219+00:00",
+  "enriched": false
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.58,
+  "confidence": 0.72,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) is in a strong bear regime with deeply negative momentum across all timeframes (-2.56% weekly, -11.63% bi-weekly, -20.05% monthly), a sharply negative Sharpe ratio of -2.79, and a max drawdown of -23%. The accelerating pace of losses (monthly return roughly doubling the bi-weekly) suggests persistent selling pressure with no clear reversal signal. Annualizing the 14-day return of -11.63% yields approximately -75% on a raw basis, but mean-reversion forces, potential oversold bounces, and the infrastructure/L2 segment's relatively stronger long-term fundamentals (LINK oracle dominance, ARB/OP Ethereum L2 positioning) warrant a modest upward adjustment. The near-zero DeFi TVL growth (+0.2% 30d) confirms macro headwinds remain intact. Forecast annualized return of -0.58 (~-58%) reflects continued bearish momentum tempered slightly by mean-reversion probability over the specific 14-day window. Confidence of 0.72 reflects clear directional conviction given strong trend consistency, with residual uncertainty around potential macro catalysts or short-squeeze dynamics.",
+  "raw_response": "```json\n{\"expected_return\": -0.58, \"confidence\": 0.72, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) is in a strong bear regime with deeply negative momentum across all timeframes (-2.56% weekly, -11.63% bi-weekly, -20.05% monthly), a sharply negative Sharpe ratio of -2.79, and a max drawdown of -23%. The accelerating pace of losses (monthly return roughly doubling the bi-weekly) suggests persistent selling pressure with no clear reversal signal. Annualizing the 14-day return of -11.63% yields approximately -75% on a raw basis, but mean-reversion forces, potential oversold bounces, and the infrastructure/L2 segment's relatively stronger long-term fundamentals (LINK oracle dominance, ARB/OP Ethereum L2 positioning) warrant a modest upward adjustment. The near-zero DeFi TVL growth (+0.2% 30d) confirms macro headwinds remain intact. Forecast annualized return of -0.58 (~-58%) reflects continued bearish momentum tempered slightly by mean-reversion probability over the specific 14-day window. Confidence of 0.72 reflects clear directional conviction given strong trend consistency, with residual uncertainty around potential macro catalysts or short-squeeze dynamics.\"}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:06:16.729108+00:00",
+  "enriched": false
+}

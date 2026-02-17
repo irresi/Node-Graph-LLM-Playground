@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.35,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) shows conflicting signals: strong 30-day return (+8.27%, Sharpe 0.82) but sharp near-term reversal with 14-day return of -14.68% and weakening 7-day momentum (-0.68%). The neutral/range-bound market regime limits upside catalysts. Infrastructure tokens (LINK, OP, ARB, ENS, GRT) lack direct TVL-driven yield support, making them more sensitive to broader sentiment. The severe 14-day drawdown (-14.68%) and max drawdown of -17.7% suggest persistent selling pressure in the short window most relevant to our 14-day forecast horizon. Annualizing the recent 14-day trend (~-14.68% over 14 days \u2192 ~-382% annualized) is too extreme to be sustainable, so we moderate significantly toward mean-reversion expectations, but still lean negative given momentum. Low confidence reflects high annualized volatility (85.1%) and contradictory short vs. medium-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.35, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) shows conflicting signals: strong 30-day return (+8.27%, Sharpe 0.82) but sharp near-term reversal with 14-day return of -14.68% and weakening 7-day momentum (-0.68%). The neutral/range-bound market regime limits upside catalysts. Infrastructure tokens (LINK, OP, ARB, ENS, GRT) lack direct TVL-driven yield support, making them more sensitive to broader sentiment. The severe 14-day drawdown (-14.68%) and max drawdown of -17.7% suggest persistent selling pressure in the short window most relevant to our 14-day forecast horizon. Annualizing the recent 14-day trend (~-14.68% over 14 days \u2192 ~-382% annualized) is too extreme to be sustainable, so we moderate significantly toward mean-reversion expectations, but still lean negative given momentum. Low confidence reflects high annualized volatility (85.1%) and contradictory short vs. medium-term signals.\"}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:01:18.156181+00:00",
+  "enriched": false
+}

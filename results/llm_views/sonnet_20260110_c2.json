@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.187,
+  "confidence": 0.52,
+  "reasoning": "Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Liquid Staking) faces meaningful headwinds in the current bear regime. Key signals: (1) Bear market macro regime with DeFi TVL contracting -1.7% over 30 days weighs heavily on the sector; (2) Cluster 30-day return of -6.32% and negative Sharpe of -1.17 confirm sustained downward momentum; (3) Max drawdown of -15% signals elevated risk with limited near-term recovery catalyst; (4) Mixed TVL signals \u2014 AAVE (+2.6%, $34.5B dominant) and CRV (+0.7%) show relative resilience, partially offsetting SUSHI (-17.5%) and CAKE (-8.1%) weakness; (5) The 14-day return of +5.20% introduces a short-term mean-reversion signal that moderates the bearish outlook, but the 7-day return of -1.20% suggests that bounce may already be fading. Annualized return estimated at ~-18.7% reflects the bear trend with partial credit for AAVE/CRV fundamental support. Confidence is moderate (0.52) given conflicting short-term vs. medium-term signals and the cluster's broad 45.4% annualized volatility making point estimates inherently uncertain.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.187,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Liquid Staking) faces meaningful headwinds in the current bear regime. Key signals: (1) Bear market macro regime with DeFi TVL contracting -1.7% over 30 days weighs heavily on the sector; (2) Cluster 30-day return of -6.32% and negative Sharpe of -1.17 confirm sustained downward momentum; (3) Max drawdown of -15% signals elevated risk with limited near-term recovery catalyst; (4) Mixed TVL signals \u2014 AAVE (+2.6%, $34.5B dominant) and CRV (+0.7%) show relative resilience, partially offsetting SUSHI (-17.5%) and CAKE (-8.1%) weakness; (5) The 14-day return of +5.20% introduces a short-term mean-reversion signal that moderates the bearish outlook, but the 7-day return of -1.20% suggests that bounce may already be fading. Annualized return estimated at ~-18.7% reflects the bear trend with partial credit for AAVE/CRV fundamental support. Confidence is moderate (0.52) given conflicting short-term vs. medium-term signals and the cluster's broad 45.4% annualized volatility making point estimates inherently uncertain.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:07:03.932184+00:00",
+  "enriched": false
+}

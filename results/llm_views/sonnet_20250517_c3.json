@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.52,
+  "reasoning": "CVX (Convex Finance) shows strong 30-day momentum (+31.57%) in a moderate bull market with DeFi TVL up +34.9%, suggesting a supportive macro backdrop. However, the near-term signal is notably bearish: the 7-day return of -8.53% and 14-day return of -2.16% indicate a meaningful short-term reversal and loss of momentum heading into the forecast window. CVX TVL growth (+31.2% to $1.185B) reflects solid protocol fundamentals, and the high Sharpe ratio (3.37) suggests the prior bull run was relatively efficient. Balancing the strong 30-day trend against recent negative momentum and elevated annualized volatility (78.6%), I project a modestly positive annualized return of ~42% for the next 14 days \u2014 well below the 30-day pace but above zero, reflecting mean-reversion potential from the recent drawdown (-14.9% max). Confidence is moderate (0.52) given the conflicting short- vs. medium-term signals and inherently high volatility of yield-focused DeFi assets.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.52, \"reasoning\": \"CVX (Convex Finance) shows strong 30-day momentum (+31.57%) in a moderate bull market with DeFi TVL up +34.9%, suggesting a supportive macro backdrop. However, the near-term signal is notably bearish: the 7-day return of -8.53% and 14-day return of -2.16% indicate a meaningful short-term reversal and loss of momentum heading into the forecast window. CVX TVL growth (+31.2% to $1.185B) reflects solid protocol fundamentals, and the high Sharpe ratio (3.37) suggests the prior bull run was relatively efficient. Balancing the strong 30-day trend against recent negative momentum and elevated annualized volatility (78.6%), I project a modestly positive annualized return of ~42% for the next 14 days \u2014 well below the 30-day pace but above zero, reflecting mean-reversion potential from the recent drawdown (-14.9% max). Confidence is moderate (0.52) given the conflicting short- vs. medium-term signals and inherently high volatility of yield-focused DeFi assets.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:56:36.248549+00:00",
+  "enriched": false
+}

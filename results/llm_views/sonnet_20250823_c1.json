@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.72,
+  "confidence": 0.52,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) shows strong momentum with a 14-day return of +12.43% and a 30-day return of +15.16%, annualizing to roughly 90-115% on a trailing basis. The Moderate Bull regime and +22% DeFi TVL growth over 30 days provide a supportive macro backdrop. However, the cluster's elevated annualized volatility of 81.5% and a max drawdown of -18.7% signal significant tail risk. Momentum is decelerating slightly (7d: +11.51% vs 14d: +12.43% on a cumulative basis, suggesting recent pace is stabilizing). These tokens (LINK, OP, ARB, ENS, GRT) lack direct TVL-generating revenue, making them more sensitive to sentiment and broader market flows than fundamentals. Forecasting a modestly discounted annualized return of ~72% (vs ~110% trailing) to account for mean-reversion risk, momentum plateauing, and the absence of protocol revenue fundamentals. Confidence is moderate (0.52) given high volatility, limited on-chain fundamentals data, and the inherent unpredictability of a 14-day forward window in a momentum-driven regime.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.52, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) shows strong momentum with a 14-day return of +12.43% and a 30-day return of +15.16%, annualizing to roughly 90-115% on a trailing basis. The Moderate Bull regime and +22% DeFi TVL growth over 30 days provide a supportive macro backdrop. However, the cluster's elevated annualized volatility of 81.5% and a max drawdown of -18.7% signal significant tail risk. Momentum is decelerating slightly (7d: +11.51% vs 14d: +12.43% on a cumulative basis, suggesting recent pace is stabilizing). These tokens (LINK, OP, ARB, ENS, GRT) lack direct TVL-generating revenue, making them more sensitive to sentiment and broader market flows than fundamentals. Forecasting a modestly discounted annualized return of ~72% (vs ~110% trailing) to account for mean-reversion risk, momentum plateauing, and the absence of protocol revenue fundamentals. Confidence is moderate (0.52) given high volatility, limited on-chain fundamentals data, and the inherent unpredictability of a 14-day forward window in a momentum-driven regime.\"}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:00:39.583551+00:00",
+  "enriched": false
+}

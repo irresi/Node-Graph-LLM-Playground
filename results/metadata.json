@@ -1,19 +1,19 @@
 {
-  "model": "haiku",
+  "model": "sonnet",
   "mode": "views-only",
   "pipeline": "single-agent",
-  "enrich": "true",
-  "scope": "multi-period",
+  "enrich": "false",
+  "scope": "single-period",
   "periods": "",
   "clear_cache": "false",
   "caller_run_id": "manual",
   "main_repo_sha": "HEAD",
-  "completed_at": "2026-02-17T13:26:59Z",
+  "completed_at": "2026-02-17T16:08:45Z",
   "status": "success",
-  "view_count": 80,
+  "view_count": 160,
   "multi_agent_view_count": 80,
   "enriched_view_count": 80,
   "enriched_ma_view_count": 80,
   "multiperiod_view_count": 818,
-  "workflow_run_id": "22100267851"
+  "workflow_run_id": "22105490082"
 }

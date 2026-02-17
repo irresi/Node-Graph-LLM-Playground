@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) is under severe bearish pressure with a -23.04% 30-day return, annualized volatility of 79.5%, and a deeply negative Sharpe ratio of -2.44. The 7-day return of -15.43% indicates accelerating downside momentum, with no sign of stabilization. The broader DeFi market is also contracting sharply (-17% TVL in 30 days). None of the tokens (LINK, OP, ARB, ENS, GRT) have meaningful TVL to anchor fundamental support. Annualizing the recent 14-day return trajectory (-13.97% over ~14 days \u2248 -0.997/year) and applying a partial mean-reversion discount (bear markets rarely sustain at maximum velocity), I estimate a forward annualized return of approximately -72%. Confidence is moderate at 0.62 \u2014 the strong momentum signal is clear, but infrastructure tokens can exhibit sharp short-covering rallies, introducing meaningful upside tail risk even within a bear regime.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) is under severe bearish pressure with a -23.04% 30-day return, annualized volatility of 79.5%, and a deeply negative Sharpe ratio of -2.44. The 7-day return of -15.43% indicates accelerating downside momentum, with no sign of stabilization. The broader DeFi market is also contracting sharply (-17% TVL in 30 days). None of the tokens (LINK, OP, ARB, ENS, GRT) have meaningful TVL to anchor fundamental support. Annualizing the recent 14-day return trajectory (-13.97% over ~14 days \u2248 -0.997/year) and applying a partial mean-reversion discount (bear markets rarely sustain at maximum velocity), I estimate a forward annualized return of approximately -72%. Confidence is moderate at 0.62 \u2014 the strong momentum signal is clear, but infrastructure tokens can exhibit sharp short-covering rallies, introducing meaningful upside tail risk even within a bear regime.\"}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:04:25.665816+00:00",
+  "enriched": false
+}

@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.187,
+  "confidence": 0.52,
+  "reasoning": "Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Liquid Staking) shows constructive but mixed signals. Positive factors: strong 7-day momentum (+9.58% annualizes to ~250%+ but likely mean-reverts), broad TVL growth across majors (AAVE +15%, CAKE +20.9%, CRV +10.6%), overall DeFi TVL expanding +8.2% MoM, and AAVE's dominant $44.9B TVL providing sector stability. Negative/tempering factors: market regime is Neutral/Range-bound (limiting sustained directional moves), elevated annualized volatility at 55.5% with a -15.4% max drawdown signals tail risk, Sharpe of 0.51 indicates modest risk-adjusted returns, and the 30-day return (+3.39%) lags the recent 7-day spike suggesting possible short-term overshoot. Annualizing the 14-day return base (+3.55%) yields ~92%, but discounting heavily for mean-reversion in a range-bound regime, momentum decay, and cluster-wide correlation risk, a realistic 14-day forward annualized expectation settles near 18-19%. Confidence is moderate given regime uncertainty and high intra-cluster dispersion across very different protocol types.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.187,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Liquid Staking) shows constructive but mixed signals. Positive factors: strong 7-day momentum (+9.58% annualizes to ~250%+ but likely mean-reverts), broad TVL growth across majors (AAVE +15%, CAKE +20.9%, CRV +10.6%), overall DeFi TVL expanding +8.2% MoM, and AAVE's dominant $44.9B TVL providing sector stability. Negative/tempering factors: market regime is Neutral/Range-bound (limiting sustained directional moves), elevated annualized volatility at 55.5% with a -15.4% max drawdown signals tail risk, Sharpe of 0.51 indicates modest risk-adjusted returns, and the 30-day return (+3.39%) lags the recent 7-day spike suggesting possible short-term overshoot. Annualizing the 14-day return base (+3.55%) yields ~92%, but discounting heavily for mean-reversion in a range-bound regime, momentum decay, and cluster-wide correlation risk, a realistic 14-day forward annualized expectation settles near 18-19%. Confidence is moderate given regime uncertainty and high intra-cluster dispersion across very different protocol types.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:02:41.223643+00:00",
+  "enriched": false
+}

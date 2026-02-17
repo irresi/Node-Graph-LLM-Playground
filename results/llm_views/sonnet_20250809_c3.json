@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.72,
+  "confidence": 0.38,
+  "reasoning": "CVX (Convex Finance) shows strong 30-day momentum (+52.49%) within a broader DeFi bull market (+26.1% TVL growth), and CVX's own TVL expansion (+29.7% to $1.49B) signals solid fundamental backing. However, the 14-day return of -15.87% amid the 30-day surge indicates significant mean-reversion pressure and elevated choppiness consistent with the 129.6% annualized volatility. The Sharpe of 3.40 is impressive but the -35.6% max drawdown warns of sharp intra-period corrections. Annualizing the 7-day return (+10.52%) yields ~175%, but the recent 14-day pullback tempers near-term expectations. Blending momentum, reversion risk, and fundamental strength, a 72% annualized return forecast for the next 14-day window is reasonable, though confidence is low (0.38) given the high vol, conflicting short-term signals, and single-token cluster concentration risk.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.38, \"reasoning\": \"CVX (Convex Finance) shows strong 30-day momentum (+52.49%) within a broader DeFi bull market (+26.1% TVL growth), and CVX's own TVL expansion (+29.7% to $1.49B) signals solid fundamental backing. However, the 14-day return of -15.87% amid the 30-day surge indicates significant mean-reversion pressure and elevated choppiness consistent with the 129.6% annualized volatility. The Sharpe of 3.40 is impressive but the -35.6% max drawdown warns of sharp intra-period corrections. Annualizing the 7-day return (+10.52%) yields ~175%, but the recent 14-day pullback tempers near-term expectations. Blending momentum, reversion risk, and fundamental strength, a 72% annualized return forecast for the next 14-day window is reasonable, though confidence is low (0.38) given the high vol, conflicting short-term signals, and single-token cluster concentration risk.\"}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:00:21.418987+00:00",
+  "enriched": false
+}

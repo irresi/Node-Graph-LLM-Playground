@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.67,
+  "reasoning": "Cluster 2 is exhibiting severe, accelerating downward momentum across all timeframes (7d: -17.98%, 14d: -27.51%, 30d: -37.55%), consistent with a confirmed bear regime. Annualizing the 14-day return of -27.51% yields approximately -72% on an annualized basis, which serves as the primary anchor for this forecast. Key bearish signals: (1) Overall DeFi TVL contracted -22.9% in 30 days, signaling broad capital flight; (2) The cluster's Sharpe ratio of -4.11 reflects deeply negative risk-adjusted performance; (3) Max drawdown of -39.7% suggests limited structural support; (4) Major protocol TVLs are all declining sharply, with SUSHI (-32.2%) and UNI (-27.2%) leading losses, while even the more resilient AAVE (-18.4%) and CAKE (-14.0%) are deteriorating. Modest offsetting factors include: AAVE and CAKE showing relative strength (shallower TVL declines), and the cluster's diversification across DEX, lending, and liquid staking sub-sectors may dampen tail risk. Confidence is moderate (0.67) rather than high due to the inherent mean-reversion risk in deeply oversold conditions \u2014 a sharp bear-market relief rally over a 14-day window cannot be ruled out \u2014 and uncertainty around macro crypto catalysts. Net forecast: continued bearish drift, broadly in line with recent momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.72,\n  \"confidence\": 0.67,\n  \"reasoning\": \"Cluster 2 is exhibiting severe, accelerating downward momentum across all timeframes (7d: -17.98%, 14d: -27.51%, 30d: -37.55%), consistent with a confirmed bear regime. Annualizing the 14-day return of -27.51% yields approximately -72% on an annualized basis, which serves as the primary anchor for this forecast. Key bearish signals: (1) Overall DeFi TVL contracted -22.9% in 30 days, signaling broad capital flight; (2) The cluster's Sharpe ratio of -4.11 reflects deeply negative risk-adjusted performance; (3) Max drawdown of -39.7% suggests limited structural support; (4) Major protocol TVLs are all declining sharply, with SUSHI (-32.2%) and UNI (-27.2%) leading losses, while even the more resilient AAVE (-18.4%) and CAKE (-14.0%) are deteriorating. Modest offsetting factors include: AAVE and CAKE showing relative strength (shallower TVL declines), and the cluster's diversification across DEX, lending, and liquid staking sub-sectors may dampen tail risk. Confidence is moderate (0.67) rather than high due to the inherent mean-reversion risk in deeply oversold conditions \u2014 a sharp bear-market relief rally over a 14-day window cannot be ruled out \u2014 and uncertainty around macro crypto catalysts. Net forecast: continued bearish drift, broadly in line with recent momentum.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:08:27.045536+00:00",
+  "enriched": false
+}

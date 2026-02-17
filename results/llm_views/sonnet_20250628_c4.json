@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.48,
+  "confidence": 0.72,
+  "reasoning": "BAL/Cluster 4 is exhibiting strong negative momentum across all timeframes (7d: -4.11%, 14d: -10.10%, 30d: -18.63%), consistent with a bear market regime. The Sharpe ratio of -2.99 and max drawdown of -19.6% indicate persistent selling pressure with no near-term reversal signals. TVL is declining (-7.9% over 30 days) at $736M, suggesting capital outflows from the Balancer protocol. Annualizing the 14-day trend (~-10.1% over 14 days \u2248 -263% annualized) provides a worst-case anchor; however, mean-reversion and volatility dampening over the forecast horizon temper this. With 52.3% annualized volatility and sustained bear conditions, a forward annualized return of approximately -48% is a reasonable central estimate. Confidence is moderate (0.72) given clear directional signals but inherent uncertainty in short-term crypto forecasting.",
+  "raw_response": "```json\n{\"expected_return\": -0.48, \"confidence\": 0.72, \"reasoning\": \"BAL/Cluster 4 is exhibiting strong negative momentum across all timeframes (7d: -4.11%, 14d: -10.10%, 30d: -18.63%), consistent with a bear market regime. The Sharpe ratio of -2.99 and max drawdown of -19.6% indicate persistent selling pressure with no near-term reversal signals. TVL is declining (-7.9% over 30 days) at $736M, suggesting capital outflows from the Balancer protocol. Annualizing the 14-day trend (~-10.1% over 14 days \u2248 -263% annualized) provides a worst-case anchor; however, mean-reversion and volatility dampening over the forecast horizon temper this. With 52.3% annualized volatility and sustained bear conditions, a forward annualized return of approximately -48% is a reasonable central estimate. Confidence is moderate (0.72) given clear directional signals but inherent uncertainty in short-term crypto forecasting.\"}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:58:34.608963+00:00",
+  "enriched": false
+}

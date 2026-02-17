@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.38,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) shows strong near-term bearish momentum with -13.46% over 7 days and -13.32% over 14 days, despite a broader DeFi bull market (+19.6% TVL growth). This divergence suggests sector-specific headwinds \u2014 likely rotation out of L2/infrastructure tokens (ARB, OP) and oracle/indexing plays (LINK, GRT, ENS) into yield-bearing DeFi protocols capturing the TVL surge. The negative Sharpe (-0.14) and severe max drawdown (-24.8%) over 30 days reinforce a weak risk-adjusted profile. Annualizing the recent 14-day return of ~-13.3% yields approximately -0.35 to -0.45 on an annualized basis. Some mean-reversion potential exists given oversold conditions and positive macro DeFi backdrop, but momentum is firmly negative. Low confidence reflects high annualized volatility (91.3%) and the tension between macro tailwinds and cluster-specific underperformance.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.38,\n  \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) shows strong near-term bearish momentum with -13.46% over 7 days and -13.32% over 14 days, despite a broader DeFi bull market (+19.6% TVL growth). This divergence suggests sector-specific headwinds \u2014 likely rotation out of L2/infrastructure tokens (ARB, OP) and oracle/indexing plays (LINK, GRT, ENS) into yield-bearing DeFi protocols capturing the TVL surge. The negative Sharpe (-0.14) and severe max drawdown (-24.8%) over 30 days reinforce a weak risk-adjusted profile. Annualizing the recent 14-day return of ~-13.3% yields approximately -0.35 to -0.45 on an annualized basis. Some mean-reversion potential exists given oversold conditions and positive macro DeFi backdrop, but momentum is firmly negative. Low confidence reflects high annualized volatility (91.3%) and the tension between macro tailwinds and cluster-specific underperformance.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:56:53.957946+00:00",
+  "enriched": false
+}

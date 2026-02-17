@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "BAL (Balancer) shows persistent bearish momentum with a steep 14-day return of -14.16% and a -7.3% TVL decline over 30 days, signaling both price weakness and capital outflows from the protocol. The negative Sharpe ratio (-0.29) and significant max drawdown (-19.4%) confirm poor risk-adjusted performance. The broader DeFi market is neutral/range-bound with modest TVL growth (+4.9%), providing limited macro tailwinds for a single-token DEX cluster already underperforming. The 7-day return of -0.81% suggests some near-term deceleration in selling pressure, but the structural TVL bleed and weak fundamentals make a meaningful recovery unlikely over the next 14 days. Annualizing the 14-day trend with a partial mean-reversion discount yields approximately -42% expected annualized return. Confidence is low (0.35) due to single-token concentration risk, high annualized volatility (82.3%), and the inherent uncertainty of momentum continuation vs. mean reversion in a range-bound market.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.35, \"reasoning\": \"BAL (Balancer) shows persistent bearish momentum with a steep 14-day return of -14.16% and a -7.3% TVL decline over 30 days, signaling both price weakness and capital outflows from the protocol. The negative Sharpe ratio (-0.29) and significant max drawdown (-19.4%) confirm poor risk-adjusted performance. The broader DeFi market is neutral/range-bound with modest TVL growth (+4.9%), providing limited macro tailwinds for a single-token DEX cluster already underperforming. The 7-day return of -0.81% suggests some near-term deceleration in selling pressure, but the structural TVL bleed and weak fundamentals make a meaningful recovery unlikely over the next 14 days. Annualizing the 14-day trend with a partial mean-reversion discount yields approximately -42% expected annualized return. Confidence is low (0.35) due to single-token concentration risk, high annualized volatility (82.3%), and the inherent uncertainty of momentum continuation vs. mean reversion in a range-bound market.\"}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:01:46.541186+00:00",
+  "enriched": false
+}

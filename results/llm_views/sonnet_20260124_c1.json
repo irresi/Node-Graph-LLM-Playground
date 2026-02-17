@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.38,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) shows significant near-term bearish momentum with -12.96% over 7 days and -10.91% over 14 days, despite a modest +0.68% 30-day return suggesting recent sharp deterioration. The broader DeFi market is neutral/range-bound with only +3.0% TVL growth, providing limited macro tailwind. The cluster's high annualized volatility (54.9%) and poor Sharpe ratio (0.10) reflect weak risk-adjusted performance. No meaningful TVL metrics are available for most tokens (infrastructure/L2 tokens), reducing fundamental anchoring. Momentum indicators dominate: annualizing the 14-day return of -10.91% yields approximately -0.285 annualized, but the accelerating 7-day decline suggests continued near-term pressure. A partial mean-reversion offset is applied given the magnitude of the drawdown (-16.9% max drawdown already absorbed), but the regime remains unfavorable. Confidence is low (0.38) due to high volatility, lack of TVL fundamentals for most tokens, and conflicting short vs. medium-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.38, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) shows significant near-term bearish momentum with -12.96% over 7 days and -10.91% over 14 days, despite a modest +0.68% 30-day return suggesting recent sharp deterioration. The broader DeFi market is neutral/range-bound with only +3.0% TVL growth, providing limited macro tailwind. The cluster's high annualized volatility (54.9%) and poor Sharpe ratio (0.10) reflect weak risk-adjusted performance. No meaningful TVL metrics are available for most tokens (infrastructure/L2 tokens), reducing fundamental anchoring. Momentum indicators dominate: annualizing the 14-day return of -10.91% yields approximately -0.285 annualized, but the accelerating 7-day decline suggests continued near-term pressure. A partial mean-reversion offset is applied given the magnitude of the drawdown (-16.9% max drawdown already absorbed), but the regime remains unfavorable. Confidence is low (0.38) due to high volatility, lack of TVL fundamentals for most tokens, and conflicting short vs. medium-term signals.\"}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:07:33.571826+00:00",
+  "enriched": false
+}

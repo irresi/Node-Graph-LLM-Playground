@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.87,
+  "confidence": 0.52,
+  "reasoning": "CVX (Convex Finance) is exhibiting exceptional momentum with a 75.70% 30-day return and a remarkably high Sharpe ratio of 6.08, suggesting risk-adjusted returns well above noise. The 7-day (+23%) and 14-day (+54.4%) cadence indicates accelerating momentum rather than deceleration, supported by a 41.3% TVL surge to $1.44B \u2014 a strong fundamental anchor. The broader DeFi bull regime with +37.7% TVL growth provides a favorable macro tailwind. However, at 104.6% annualized volatility and after such a steep run-up, mean-reversion risk is elevated; the -14.2% max drawdown hints at sharp intra-trend corrections. Forecasting a forward annualized return of ~87% reflects continued momentum with a partial haircut for likely consolidation or pullback over the 14-day window. Confidence is moderate (0.52) given the extreme recent appreciation makes extrapolation unreliable \u2014 parabolic moves in single-token yield clusters frequently revert sharply once momentum exhausts.",
+  "raw_response": "```json\n{\"expected_return\": 0.87, \"confidence\": 0.52, \"reasoning\": \"CVX (Convex Finance) is exhibiting exceptional momentum with a 75.70% 30-day return and a remarkably high Sharpe ratio of 6.08, suggesting risk-adjusted returns well above noise. The 7-day (+23%) and 14-day (+54.4%) cadence indicates accelerating momentum rather than deceleration, supported by a 41.3% TVL surge to $1.44B \u2014 a strong fundamental anchor. The broader DeFi bull regime with +37.7% TVL growth provides a favorable macro tailwind. However, at 104.6% annualized volatility and after such a steep run-up, mean-reversion risk is elevated; the -14.2% max drawdown hints at sharp intra-trend corrections. Forecasting a forward annualized return of ~87% reflects continued momentum with a partial haircut for likely consolidation or pullback over the 14-day window. Confidence is moderate (0.52) given the extreme recent appreciation makes extrapolation unreliable \u2014 parabolic moves in single-token yield clusters frequently revert sharply once momentum exhausts.\"}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:59:43.535143+00:00",
+  "enriched": false
+}

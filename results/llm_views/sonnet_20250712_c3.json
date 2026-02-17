@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.38,
+  "reasoning": "CVX shows strong short-term momentum (+32.83% over 7 days, +25.69% over 14 days) but operates in a bear market regime with significant headwinds. The annualized return estimate of ~0.42 reflects mean-reversion expectations after the recent sharp rally \u2014 momentum may persist briefly but is likely to fade. TVL declining -3.4% over 30 days signals weakening protocol fundamentals for Convex Finance. High annualized volatility (84.4%) and a meaningful max drawdown (-18.4%) indicate elevated risk. The Sharpe of 0.64 is modest. Confidence is low (0.38) given the contradiction between strong recent price action and bearish macro regime, making directional conviction difficult \u2014 the cluster could either continue momentum or sharply revert.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.38, \"reasoning\": \"CVX shows strong short-term momentum (+32.83% over 7 days, +25.69% over 14 days) but operates in a bear market regime with significant headwinds. The annualized return estimate of ~0.42 reflects mean-reversion expectations after the recent sharp rally \u2014 momentum may persist briefly but is likely to fade. TVL declining -3.4% over 30 days signals weakening protocol fundamentals for Convex Finance. High annualized volatility (84.4%) and a meaningful max drawdown (-18.4%) indicate elevated risk. The Sharpe of 0.64 is modest. Confidence is low (0.38) given the contradiction between strong recent price action and bearish macro regime, making directional conviction difficult \u2014 the cluster could either continue momentum or sharply revert.\"}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:59:03.053015+00:00",
+  "enriched": false
+}

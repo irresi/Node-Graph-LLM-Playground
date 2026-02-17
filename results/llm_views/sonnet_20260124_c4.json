@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.52,
+  "reasoning": "BAL (Balancer) is exhibiting strong negative momentum across all timeframes: -9.43% (7d), -8.79% (14d), -21.63% (30d), with a deeply negative Sharpe ratio of -5.72 and a max drawdown of -19%. These are clear bearish signals. The only positive data point is the TVL growth of +10.3% ($270M), which suggests protocol fundamentals are not deteriorating \u2014 potentially a mild contrarian buffer. However, TVL growth has not translated into price recovery, indicating sell pressure likely from token-specific or macro-DEX-sector dynamics. The broader DeFi market is neutral/range-bound (+3.0% TVL, 30d), providing no tailwind. Given persistent downtrend momentum and no clear reversal catalyst, the 14-day outlook remains negative. Annualizing the recent 14-day pace (~-8.79% over 14 days \u2248 -0.229 annualized) and applying slight mean-reversion discount given TVL support, we arrive at approximately -0.28 annualized. Confidence is moderate given single-token cluster concentration and the conflicting TVL signal.",
+  "raw_response": "```json\n{\"expected_return\": -0.28, \"confidence\": 0.52, \"reasoning\": \"BAL (Balancer) is exhibiting strong negative momentum across all timeframes: -9.43% (7d), -8.79% (14d), -21.63% (30d), with a deeply negative Sharpe ratio of -5.72 and a max drawdown of -19%. These are clear bearish signals. The only positive data point is the TVL growth of +10.3% ($270M), which suggests protocol fundamentals are not deteriorating \u2014 potentially a mild contrarian buffer. However, TVL growth has not translated into price recovery, indicating sell pressure likely from token-specific or macro-DEX-sector dynamics. The broader DeFi market is neutral/range-bound (+3.0% TVL, 30d), providing no tailwind. Given persistent downtrend momentum and no clear reversal catalyst, the 14-day outlook remains negative. Annualizing the recent 14-day pace (~-8.79% over 14 days \u2248 -0.229 annualized) and applying slight mean-reversion discount given TVL support, we arrive at approximately -0.28 annualized. Confidence is moderate given single-token cluster concentration and the conflicting TVL signal.\"}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:08:05.430015+00:00",
+  "enriched": false
+}

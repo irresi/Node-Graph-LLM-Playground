@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.38,
+  "reasoning": "BAL (Balancer) presents a mixed signal environment. Positive factors: strong 30-day cluster return of +11.27%, robust TVL growth of +16.5% ($779M), and a broader DeFi bull market with TVL up +19.6%. However, significant near-term headwinds dominate the 14-day outlook: consecutive negative momentum with -3.52% over 7 days and -6.15% over 14 days signals a deteriorating short-term trend, likely reflecting profit-taking after the 30-day run-up. The Sharpe ratio of 0.81 is moderate, but annualized volatility of 116.7% and a max drawdown of -18.1% underscore high risk. As a single-token DEX cluster, BAL also carries concentration risk. Annualizing the recent 14-day return of -6.15% would imply ~-160% annualized, but mean-reversion toward the 30-day trend and positive macro DeFi tailwinds suggest a modest positive forward return. Confidence is low given the conflicting short vs. medium-term signals and high volatility regime.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.38, \"reasoning\": \"BAL (Balancer) presents a mixed signal environment. Positive factors: strong 30-day cluster return of +11.27%, robust TVL growth of +16.5% ($779M), and a broader DeFi bull market with TVL up +19.6%. However, significant near-term headwinds dominate the 14-day outlook: consecutive negative momentum with -3.52% over 7 days and -6.15% over 14 days signals a deteriorating short-term trend, likely reflecting profit-taking after the 30-day run-up. The Sharpe ratio of 0.81 is moderate, but annualized volatility of 116.7% and a max drawdown of -18.1% underscore high risk. As a single-token DEX cluster, BAL also carries concentration risk. Annualizing the recent 14-day return of -6.15% would imply ~-160% annualized, but mean-reversion toward the 30-day trend and positive macro DeFi tailwinds suggest a modest positive forward return. Confidence is low given the conflicting short vs. medium-term signals and high volatility regime.\"}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:57:21.715971+00:00",
+  "enriched": false
+}

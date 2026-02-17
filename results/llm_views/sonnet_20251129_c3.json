@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.38,
+  "reasoning": "CVX faces a challenging environment: broader DeFi TVL down 16.5% in 30 days with a confirmed bear regime, and the cluster has shed 19.63% over 30 days with a severe Sharpe of -1.89 and max drawdown of -28.2%. However, the recent 7-day bounce of +12.55% signals short-term mean-reversion momentum that may carry partially into the 14-day window. CVX's TVL at $953M with only -2.2% 30d change shows relative protocol resilience vs. the broader market selloff, suggesting some fundamental support. Balancing the dominant bearish macro trend against the nascent short-term recovery, I forecast a moderately negative annualized return (~-42%), annualizing the weak 14-day return of +2.32% adjusted downward for continued bear pressure. Confidence is low (0.38) due to high annualized volatility of 87.4% and conflicting short- vs. long-term signals making directional conviction difficult.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.38, \"reasoning\": \"CVX faces a challenging environment: broader DeFi TVL down 16.5% in 30 days with a confirmed bear regime, and the cluster has shed 19.63% over 30 days with a severe Sharpe of -1.89 and max drawdown of -28.2%. However, the recent 7-day bounce of +12.55% signals short-term mean-reversion momentum that may carry partially into the 14-day window. CVX's TVL at $953M with only -2.2% 30d change shows relative protocol resilience vs. the broader market selloff, suggesting some fundamental support. Balancing the dominant bearish macro trend against the nascent short-term recovery, I forecast a moderately negative annualized return (~-42%), annualizing the weak 14-day return of +2.32% adjusted downward for continued bear pressure. Confidence is low (0.38) due to high annualized volatility of 87.4% and conflicting short- vs. long-term signals making directional conviction difficult.\"}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:05:22.348825+00:00",
+  "enriched": false
+}

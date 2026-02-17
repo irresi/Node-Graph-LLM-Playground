@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CVX is in a clear bear trend with -11.18% over 30 days and a deeply negative Sharpe ratio of -1.43, reflecting sustained selling pressure. The 7-day bounce of +1.95% offers a mild near-term countertrend signal, but the 14-day return of -5.04% suggests the bounce is fragile. TVL has declined -5.3% over 30 days to $949M, indicating capital outflows from the protocol. Overall DeFi TVL is also contracting (-1.3%), reinforcing a risk-off macro backdrop. High annualized volatility of 65.7% and a max drawdown of -16% suggest downside risk remains elevated. Annualizing the 14-day trend (~-5% over 2 weeks \u2248 -130% annualized) is too extreme; tempering with mean-reversion assumptions and the short-term bounce, a forward annualized return of approximately -42% is a reasonable central estimate for the next 14-day window. Confidence is moderate given high volatility and some conflicting short-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CVX is in a clear bear trend with -11.18% over 30 days and a deeply negative Sharpe ratio of -1.43, reflecting sustained selling pressure. The 7-day bounce of +1.95% offers a mild near-term countertrend signal, but the 14-day return of -5.04% suggests the bounce is fragile. TVL has declined -5.3% over 30 days to $949M, indicating capital outflows from the protocol. Overall DeFi TVL is also contracting (-1.3%), reinforcing a risk-off macro backdrop. High annualized volatility of 65.7% and a max drawdown of -16% suggest downside risk remains elevated. Annualizing the 14-day trend (~-5% over 2 weeks \u2248 -130% annualized) is too extreme; tempering with mean-reversion assumptions and the short-term bounce, a forward annualized return of approximately -42% is a reasonable central estimate for the next 14-day window. Confidence is moderate given high volatility and some conflicting short-term signals.\"}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:05:58.991397+00:00",
+  "enriched": false
+}

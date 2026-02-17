@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.72,
+  "confidence": 0.72,
+  "reasoning": "CVX is in severe distress: -33.87% over 30 days with accelerating momentum (-5.88% in 7d, -12.05% in 14d), indicating no signs of reversal. TVL down -14.4% to $1.03B signals capital flight from the Convex/Curve ecosystem. Bear market regime with negative DeFi TVL trend (-4.5%) removes any macro tailwind. Sharpe of -3.56 and max drawdown of -27.2% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-12.05% over 14d \u2248 -314% annualized) is extreme; applying a mean-reversion discount and momentum persistence factor yields a forecast of approximately -72% annualized. Confidence is moderate (0.72) given strong trend consistency but acknowledging potential for short-covering bounces or protocol-specific catalysts that could temporarily interrupt the downtrend.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.72, \"reasoning\": \"CVX is in severe distress: -33.87% over 30 days with accelerating momentum (-5.88% in 7d, -12.05% in 14d), indicating no signs of reversal. TVL down -14.4% to $1.03B signals capital flight from the Convex/Curve ecosystem. Bear market regime with negative DeFi TVL trend (-4.5%) removes any macro tailwind. Sharpe of -3.56 and max drawdown of -27.2% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-12.05% over 14d \u2248 -314% annualized) is extreme; applying a mean-reversion discount and momentum persistence factor yields a forecast of approximately -72% annualized. Confidence is moderate (0.72) given strong trend consistency but acknowledging potential for short-covering bounces or protocol-specific catalysts that could temporarily interrupt the downtrend.\"}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:58:26.398933+00:00",
+  "enriched": false
+}

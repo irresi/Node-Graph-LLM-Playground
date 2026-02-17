@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "BAL (Balancer) is exhibiting strong negative momentum across all timeframes: -8.77% over 7 days, -14.30% over 30 days, with a deeply negative Sharpe ratio of -2.13 and a max drawdown of -15.4%. The broader DeFi market regime is classified as Bear (strong downtrend), which creates structural headwinds. BAL's TVL has declined -11.0% over 30 days to $833M, signaling capital outflows from the protocol \u2014 a fundamental deterioration, not merely a price correction. The 14-day return of -2.60% being less severe than the 30-day suggests some short-term deceleration in selling pressure, but this is insufficient to signal reversal. Annualizing the recent 14-day momentum (-2.60% over ~14 days \u2248 -67% annualized), and tempering with mean-reversion expectations and some stabilization at current levels, a forward-looking annualized expected return of approximately -42% is estimated for the next 14-day window. Confidence is moderate (0.62) given that bear market regimes tend to persist but short-term bounces are plausible, and single-token clusters carry idiosyncratic event risk (e.g., governance changes, liquidity incentive announcements) that could shift the trajectory.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) is exhibiting strong negative momentum across all timeframes: -8.77% over 7 days, -14.30% over 30 days, with a deeply negative Sharpe ratio of -2.13 and a max drawdown of -15.4%. The broader DeFi market regime is classified as Bear (strong downtrend), which creates structural headwinds. BAL's TVL has declined -11.0% over 30 days to $833M, signaling capital outflows from the protocol \u2014 a fundamental deterioration, not merely a price correction. The 14-day return of -2.60% being less severe than the 30-day suggests some short-term deceleration in selling pressure, but this is insufficient to signal reversal. Annualizing the recent 14-day momentum (-2.60% over ~14 days \u2248 -67% annualized), and tempering with mean-reversion expectations and some stabilization at current levels, a forward-looking annualized expected return of approximately -42% is estimated for the next 14-day window. Confidence is moderate (0.62) given that bear market regimes tend to persist but short-term bounces are plausible, and single-token clusters carry idiosyncratic event risk (e.g., governance changes, liquidity incentive announcements) that could shift the trajectory.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:02:23.196573+00:00",
+  "enriched": false
+}

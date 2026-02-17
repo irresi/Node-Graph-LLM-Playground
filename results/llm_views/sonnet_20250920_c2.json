@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.14,
+  "confidence": 0.52,
+  "reasoning": "Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Liquid Staking) faces strong headwinds from the confirmed bear market regime. The 30-day cluster return of -4.23% and deeply negative Sharpe ratio (-0.59) with a -15.8% max drawdown signal sustained selling pressure. The 7-day return of -4.96% shows accelerating downside momentum, partially offset by the 14-day return of +2.48% suggesting brief mean-reversion bounces are possible. On the fundamental side, AAVE (+13.9% TVL 30d) and CAKE (+13.2% TVL 30d) show genuine protocol growth, providing a modest floor, while CRV's TVL contraction (-2.1%) and SUSHI's small base add drag. Overall DeFi TVL growth of +6.3% is constructive but insufficient to overcome macro bear pressure on token prices in a 14-day window. Annualizing the expected ~-0.54% 14-day loss (blending recent momentum with partial mean-reversion) yields approximately -14% annualized. Confidence is moderate at 0.52 due to high cluster volatility (59.9% annualized), the mixed signals between TVL growth and price momentum, and the inherent unpredictability of bear-market relief rallies.",
+  "raw_response": "```json\n{\"expected_return\": -0.14, \"confidence\": 0.52, \"reasoning\": \"Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Liquid Staking) faces strong headwinds from the confirmed bear market regime. The 30-day cluster return of -4.23% and deeply negative Sharpe ratio (-0.59) with a -15.8% max drawdown signal sustained selling pressure. The 7-day return of -4.96% shows accelerating downside momentum, partially offset by the 14-day return of +2.48% suggesting brief mean-reversion bounces are possible. On the fundamental side, AAVE (+13.9% TVL 30d) and CAKE (+13.2% TVL 30d) show genuine protocol growth, providing a modest floor, while CRV's TVL contraction (-2.1%) and SUSHI's small base add drag. Overall DeFi TVL growth of +6.3% is constructive but insufficient to overcome macro bear pressure on token prices in a 14-day window. Annualizing the expected ~-0.54% 14-day loss (blending recent momentum with partial mean-reversion) yields approximately -14% annualized. Confidence is moderate at 0.52 due to high cluster volatility (59.9% annualized), the mixed signals between TVL growth and price momentum, and the inherent unpredictability of bear-market relief rallies.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:02:05.337199+00:00",
+  "enriched": false
+}

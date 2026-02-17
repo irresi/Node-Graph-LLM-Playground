@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.387,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 (DEX/Lending/Derivatives/Liquid Staking) operates in a confirmed bull regime with strong macro tailwinds: DeFi TVL up +26.1% in 30 days and cluster itself delivering +18.47% over the same period. Annualizing the 7-day momentum of +13.13% suggests near-term bullish continuation. However, the 14-day return of only +0.69% versus the 30-day +18.47% signals that much of the recent gains were front-loaded, with a consolidation/mean-reversion phase already underway. AAVE dominates TVL at $37.3B (+29.8%) providing strong fundamental support, while SUSHI's +43% TVL surge adds speculative momentum. The Sharpe of 2.84 is elevated, suggesting some risk of reversion to mean. Annualized expected return of ~38.7% is derived by tempering the 30-day run-rate (~224% ann.) with the 14-day consolidation signal, the max drawdown risk of -19.1%, and the high annualized volatility of 54.6%. Confidence is moderate (0.62) given the mixed short-term momentum signals and the inherent 14-day forecast uncertainty in a high-volatility cluster.",
+  "raw_response": "```json\n{\"expected_return\": 0.387, \"confidence\": 0.62, \"reasoning\": \"Cluster 2 (DEX/Lending/Derivatives/Liquid Staking) operates in a confirmed bull regime with strong macro tailwinds: DeFi TVL up +26.1% in 30 days and cluster itself delivering +18.47% over the same period. Annualizing the 7-day momentum of +13.13% suggests near-term bullish continuation. However, the 14-day return of only +0.69% versus the 30-day +18.47% signals that much of the recent gains were front-loaded, with a consolidation/mean-reversion phase already underway. AAVE dominates TVL at $37.3B (+29.8%) providing strong fundamental support, while SUSHI's +43% TVL surge adds speculative momentum. The Sharpe of 2.84 is elevated, suggesting some risk of reversion to mean. Annualized expected return of ~38.7% is derived by tempering the 30-day run-rate (~224% ann.) with the 14-day consolidation signal, the max drawdown risk of -19.1%, and the high annualized volatility of 54.6%. Confidence is moderate (0.62) given the mixed short-term momentum signals and the inherent 14-day forecast uncertainty in a high-volatility cluster.\"}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:00:12.441402+00:00",
+  "enriched": false
+}

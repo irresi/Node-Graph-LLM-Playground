@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.31,
+  "confidence": 0.62,
+  "reasoning": "BAL/Cluster 4 is exhibiting strong negative momentum across all timeframes (7d: -5.33%, 14d: -8.79%, 30d: -11.56%), with an accelerating drawdown pattern suggesting deteriorating conditions rather than stabilization. The bear market regime provides an unfavorable macro backdrop for DEX tokens, while BAL's TVL decline of -4.3% over 30 days signals weakening protocol fundamentals and reduced fee revenue potential. The Sharpe ratio of -2.47 confirms risk-adjusted returns are deeply negative. Annualizing the recent 14-day trend (~-8.79% per 14 days) yields approximately -0.31 on an annualized basis. Confidence is moderate (0.62) as mean-reversion could temper further losses from oversold conditions, but momentum and regime indicators weigh heavily against recovery within the 14-day forecast window. Max drawdown of -15.1% also suggests limited downside cushion before potential capitulation risk emerges.",
+  "raw_response": "```json\n{\"expected_return\": -0.31, \"confidence\": 0.62, \"reasoning\": \"BAL/Cluster 4 is exhibiting strong negative momentum across all timeframes (7d: -5.33%, 14d: -8.79%, 30d: -11.56%), with an accelerating drawdown pattern suggesting deteriorating conditions rather than stabilization. The bear market regime provides an unfavorable macro backdrop for DEX tokens, while BAL's TVL decline of -4.3% over 30 days signals weakening protocol fundamentals and reduced fee revenue potential. The Sharpe ratio of -2.47 confirms risk-adjusted returns are deeply negative. Annualizing the recent 14-day trend (~-8.79% per 14 days) yields approximately -0.31 on an annualized basis. Confidence is moderate (0.62) as mean-reversion could temper further losses from oversold conditions, but momentum and regime indicators weigh heavily against recovery within the 14-day forecast window. Max drawdown of -15.1% also suggests limited downside cushion before potential capitulation risk emerges.\"}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:06:43.462801+00:00",
+  "enriched": false
+}

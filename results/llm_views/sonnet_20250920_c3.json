@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.3,
+  "reasoning": "CVX (Convex Finance) shows mixed signals: the 14-day return of +11.60% and 7-day return of +1.75% indicate short-term positive momentum, but the 30-day return of -5.81% and TVL decline of -10.6% reveal underlying weakness. The bear market regime (strong downtrend) and negative Sharpe ratio (-0.60) weigh heavily against sustained recovery. Max drawdown of -21.2% and high annualized volatility of 81.6% signal elevated risk. The recent 14-day bounce may reflect a short-term relief rally within a broader downtrend rather than a trend reversal. Projecting modest positive annualized returns (~8%) to reflect the near-term momentum offset by structural headwinds, with low confidence (0.30) given the bear regime, high volatility, and deteriorating TVL fundamentals.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.3, \"reasoning\": \"CVX (Convex Finance) shows mixed signals: the 14-day return of +11.60% and 7-day return of +1.75% indicate short-term positive momentum, but the 30-day return of -5.81% and TVL decline of -10.6% reveal underlying weakness. The bear market regime (strong downtrend) and negative Sharpe ratio (-0.60) weigh heavily against sustained recovery. Max drawdown of -21.2% and high annualized volatility of 81.6% signal elevated risk. The recent 14-day bounce may reflect a short-term relief rally within a broader downtrend rather than a trend reversal. Projecting modest positive annualized returns (~8%) to reflect the near-term momentum offset by structural headwinds, with low confidence (0.30) given the bear regime, high volatility, and deteriorating TVL fundamentals.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:02:13.042685+00:00",
+  "enriched": false
+}

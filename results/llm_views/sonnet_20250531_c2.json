@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.38,
+  "reasoning": "Cluster 2 (DEX/Lending/Derivatives mix) faces conflicting signals. Positive: Moderate Bull regime, strong 30d TVL growth (+19.6% overall, AAVE +19.6%, UNI +17.2%), and broad DeFi TVL expansion to $68B. Negative: Pronounced short-term momentum deterioration \u2014 7d return of -6.96% and 14d return of -8.66% indicate a recent sharp reversal despite the 30d positive print, suggesting the cluster peaked mid-period. High annualized volatility (76.5%) and a low Sharpe (0.29) with -18.5% max drawdown signal poor risk-adjusted dynamics. Smaller protocols (SUSHI TVL $158M, sluggish CAKE +4.8%) add drag. For the next 14-day window, the negative momentum is the dominant near-term signal; a mild recovery is possible given macro tailwinds, but the cluster is likely to remain under pressure. Annualizing a ~-1.5% to -2% expected 14-day return yields roughly -0.12 (-12%). Low confidence reflects high regime uncertainty and conflicting timeframe signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.38, \"reasoning\": \"Cluster 2 (DEX/Lending/Derivatives mix) faces conflicting signals. Positive: Moderate Bull regime, strong 30d TVL growth (+19.6% overall, AAVE +19.6%, UNI +17.2%), and broad DeFi TVL expansion to $68B. Negative: Pronounced short-term momentum deterioration \u2014 7d return of -6.96% and 14d return of -8.66% indicate a recent sharp reversal despite the 30d positive print, suggesting the cluster peaked mid-period. High annualized volatility (76.5%) and a low Sharpe (0.29) with -18.5% max drawdown signal poor risk-adjusted dynamics. Smaller protocols (SUSHI TVL $158M, sluggish CAKE +4.8%) add drag. For the next 14-day window, the negative momentum is the dominant near-term signal; a mild recovery is possible given macro tailwinds, but the cluster is likely to remain under pressure. Annualizing a ~-1.5% to -2% expected 14-day return yields roughly -0.12 (-12%). Low confidence reflects high regime uncertainty and conflicting timeframe signals.\"}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T15:57:03.738071+00:00",
+  "enriched": false
+}

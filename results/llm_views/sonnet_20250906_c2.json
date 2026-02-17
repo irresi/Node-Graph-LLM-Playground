@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.38,
+  "reasoning": "Cluster 2 (DeFi blue-chips: DEX, lending, derivatives, liquid staking) shows persistently negative momentum across all timeframes \u2014 7d: -1.22%, 14d: -14.89%, 30d: -1.11% \u2014 with the sharp 14-day drawdown of -14.89% being particularly concerning and suggesting a recent sharp sell-off. Max drawdown of -20% and a negative Sharpe ratio (-0.13) confirm weak risk-adjusted performance. The overall DeFi market is in a neutral/range-bound regime with modest TVL growth (+4.9% 30d), providing limited macro tailwind. At the protocol level, signals are mixed: AAVE TVL is growing strongly (+6.7%, $39.4B \u2014 the dominant weight in this cluster), CAKE and SUSHI show positive TVL momentum, but CRV (-10.6%) and UNI (-6.4%) are declining, reflecting continued rotation away from older DEX/liquidity protocols. Annualizing the recent 14-day return of -14.89% yields roughly -0.388, but mean-reversion dynamics after such a sharp drawdown, AAVE's fundamental strength, and the neutral (not bearish) macro regime support a partial recovery scenario. Expected annualized return is set at -0.18 (moderate negative), reflecting ongoing bearish momentum tempered by mean-reversion potential and AAVE's outsized fundamental weight. Confidence is low (0.38) due to high cluster volatility (74.5% annualized), mixed protocol signals, and the unpredictable depth and duration of the current correction.",
+  "raw_response": "```json\n{\"expected_return\": -0.18, \"confidence\": 0.38, \"reasoning\": \"Cluster 2 (DeFi blue-chips: DEX, lending, derivatives, liquid staking) shows persistently negative momentum across all timeframes \u2014 7d: -1.22%, 14d: -14.89%, 30d: -1.11% \u2014 with the sharp 14-day drawdown of -14.89% being particularly concerning and suggesting a recent sharp sell-off. Max drawdown of -20% and a negative Sharpe ratio (-0.13) confirm weak risk-adjusted performance. The overall DeFi market is in a neutral/range-bound regime with modest TVL growth (+4.9% 30d), providing limited macro tailwind. At the protocol level, signals are mixed: AAVE TVL is growing strongly (+6.7%, $39.4B \u2014 the dominant weight in this cluster), CAKE and SUSHI show positive TVL momentum, but CRV (-10.6%) and UNI (-6.4%) are declining, reflecting continued rotation away from older DEX/liquidity protocols. Annualizing the recent 14-day return of -14.89% yields roughly -0.388, but mean-reversion dynamics after such a sharp drawdown, AAVE's fundamental strength, and the neutral (not bearish) macro regime support a partial recovery scenario. Expected annualized return is set at -0.18 (moderate negative), reflecting ongoing bearish momentum tempered by mean-reversion potential and AAVE's outsized fundamental weight. Confidence is low (0.38) due to high cluster volatility (74.5% annualized), mixed protocol signals, and the unpredictable depth and duration of the current correction.\"}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:01:29.456334+00:00",
+  "enriched": false
+}

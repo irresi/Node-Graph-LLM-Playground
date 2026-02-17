@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 4 (BAL) is exhibiting severe distress across all timeframes: -95.56% (7d), -105.58% (14d), and -115.84% (30d) returns signal an accelerating downtrend with deeply negative momentum. The annualized volatility of 157.7% and Sharpe ratio of -6.17 confirm extreme risk-adjusted underperformance. BAL's TVL has declined -24.8% over 30 days to $196M, reflecting capital flight consistent with the broader DeFi bear market (-22.9% TVL decline, -$19B). The max drawdown of -70.4% indicates structural damage rather than a temporary dip. In a strong bear regime with deteriorating fundamentals and no reversal signals, continuation of the downtrend is the base case. The 14-day forward annualized return is forecasted at -85%, reflecting some mean-reversion buffer from the already extreme realized losses (returns below -100% annualized are mathematically bounded by zero on the downside for spot assets). Confidence is moderate at 0.72 given the high volatility environment introduces tail risk in both directions, though the weight of evidence strongly favors continued decline.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.72, \"reasoning\": \"Cluster 4 (BAL) is exhibiting severe distress across all timeframes: -95.56% (7d), -105.58% (14d), and -115.84% (30d) returns signal an accelerating downtrend with deeply negative momentum. The annualized volatility of 157.7% and Sharpe ratio of -6.17 confirm extreme risk-adjusted underperformance. BAL's TVL has declined -24.8% over 30 days to $196M, reflecting capital flight consistent with the broader DeFi bear market (-22.9% TVL decline, -$19B). The max drawdown of -70.4% indicates structural damage rather than a temporary dip. In a strong bear regime with deteriorating fundamentals and no reversal signals, continuation of the downtrend is the base case. The 14-day forward annualized return is forecasted at -85%, reflecting some mean-reversion buffer from the already extreme realized losses (returns below -100% annualized are mathematically bounded by zero on the downside for spot assets). Confidence is moderate at 0.72 given the high volatility environment introduces tail risk in both directions, though the weight of evidence strongly favors continued decline.\"}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:08:45.423208+00:00",
+  "enriched": false
+}

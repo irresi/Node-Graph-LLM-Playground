@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is a diversified DeFi blue-chip basket (DEX, Lending, Derivatives, Liquid Staking) facing severe headwinds: confirmed bear regime, -30.52% 30-day return, -2.25 Sharpe, and a -30% max drawdown signal sustained selling pressure. Overall DeFi TVL is down -11.2% over 30 days, and major constituents AAVE (-9.1% TVL), UNI (-6.7%), and SUSHI (-7.7%) show continued capital outflows \u2014 structurally bearish for governance/fee-accrual tokens. The sole bright spots are CRV (+11.7% TVL) and CAKE (+11.8% TVL), suggesting selective rotation but insufficient to offset broad weakness. The recent 7-day bounce (+3.00%) likely represents a bear-market relief rally rather than a trend reversal given the deeply negative 14-day (-30.89%) context. Annualizing a conservative forward-looking 14-day return of approximately -1.6% (discounting some mean-reversion from the bounce but respecting the dominant downtrend) yields roughly -0.42 annualized. Confidence is moderate at 0.62 \u2014 high volatility (113.9% annualized) and the mixed TVL signals (some protocols stabilizing) introduce meaningful uncertainty around the central estimate.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is a diversified DeFi blue-chip basket (DEX, Lending, Derivatives, Liquid Staking) facing severe headwinds: confirmed bear regime, -30.52% 30-day return, -2.25 Sharpe, and a -30% max drawdown signal sustained selling pressure. Overall DeFi TVL is down -11.2% over 30 days, and major constituents AAVE (-9.1% TVL), UNI (-6.7%), and SUSHI (-7.7%) show continued capital outflows \u2014 structurally bearish for governance/fee-accrual tokens. The sole bright spots are CRV (+11.7% TVL) and CAKE (+11.8% TVL), suggesting selective rotation but insufficient to offset broad weakness. The recent 7-day bounce (+3.00%) likely represents a bear-market relief rally rather than a trend reversal given the deeply negative 14-day (-30.89%) context. Annualizing a conservative forward-looking 14-day return of approximately -1.6% (discounting some mean-reversion from the bounce but respecting the dominant downtrend) yields roughly -0.42 annualized. Confidence is moderate at 0.62 \u2014 high volatility (113.9% annualized) and the mixed TVL signals (some protocols stabilizing) introduce meaningful uncertainty around the central estimate.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "sonnet",
+  "generated_at": "2026-02-17T16:03:20.182695+00:00",
+  "enriched": false
+}
