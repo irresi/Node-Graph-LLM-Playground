@@ -2,18 +2,18 @@
   "model": "haiku",
   "mode": "views-only",
   "pipeline": "single-agent",
-  "enrich": "false",
+  "enrich": "true",
   "scope": "multi-period",
   "periods": "",
   "clear_cache": "false",
   "caller_run_id": "manual",
   "main_repo_sha": "HEAD",
-  "completed_at": "2026-02-17T06:30:55Z",
+  "completed_at": "2026-02-17T13:26:59Z",
   "status": "success",
   "view_count": 80,
   "multi_agent_view_count": 80,
   "enriched_view_count": 80,
   "enriched_ma_view_count": 80,
   "multiperiod_view_count": 818,
-  "workflow_run_id": "22086860669"
+  "workflow_run_id": "22100267851"
 }
