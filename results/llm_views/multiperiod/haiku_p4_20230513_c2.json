@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 2 (MKR) faces headwinds: strong bear market regime, -21.2% 30-day decline, high volatility (48.6%), negative Sharpe ratio (-3.66), and declining TVL (-15.2%). The 14-day return (-10.63%) and continued downtrend suggest further weakness near-term. However, low confidence reflects: (1) single-token cluster limits diversification analysis, (2) bear markets can reverse sharply, (3) MKR governance token fundamentals independent of TVL trends. Annualized -85% over 14 days represents ~-1.6% daily decline extrapolated, consistent with recent momentum but volatile sentiment could shift rapidly.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 2 (MKR) faces headwinds: strong bear market regime, -21.2% 30-day decline, high volatility (48.6%), negative Sharpe ratio (-3.66), and declining TVL (-15.2%). The 14-day return (-10.63%) and continued downtrend suggest further weakness near-term. However, low confidence reflects: (1) single-token cluster limits diversification analysis, (2) bear markets can reverse sharply, (3) MKR governance token fundamentals independent of TVL trends. Annualized -85% over 14 days represents ~-1.6% daily decline extrapolated, consistent with recent momentum but volatile sentiment could shift rapidly.\"\n}\n```",
+  "date": "2023-05-14",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:34.344389+00:00"
+}

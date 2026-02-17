@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "BAL faces strong headwinds: bear market regime (-4.5% DeFi TVL change), negative momentum (-10.1% over 14d, -4.11% over 7d), declining TVL (-7.9%), and poor Sharpe ratio (-2.99). High annualized volatility (52.3%) and recent max drawdown (-19.6%) suggest continued downward pressure. Forecast reflects bear momentum extrapolation with modest mean reversion expectations. Low confidence due to bear regime volatility and limited single-token cluster diversification.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL faces strong headwinds: bear market regime (-4.5% DeFi TVL change), negative momentum (-10.1% over 14d, -4.11% over 7d), declining TVL (-7.9%), and poor Sharpe ratio (-2.99). High annualized volatility (52.3%) and recent max drawdown (-19.6%) suggest continued downward pressure. Forecast reflects bear momentum extrapolation with modest mean reversion expectations. Low confidence due to bear regime volatility and limited single-token cluster diversification.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:38:14.806353+00:00",
+  "enriched": false
+}

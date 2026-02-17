@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows negative momentum with -6.96% 7-day and -8.66% 14-day returns despite positive 30-day trend (+2.62%). Bull market regime and strong TVL growth (+19.6%) provide support, but recent weakness and 76.5% volatility suggest near-term downside risk. Moderate confidence reflects conflicting signals: positive macro fundamentals vs. deteriorating short-term technicals and recent drawdown from 30-day highs. Yield generation (UNI 20.32%, LDO 2.39%, RPL 2.07%) provides some downside protection. 14-day forecast annualized assumes partial recovery from oversold conditions but sustained weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows negative momentum with -6.96% 7-day and -8.66% 14-day returns despite positive 30-day trend (+2.62%). Bull market regime and strong TVL growth (+19.6%) provide support, but recent weakness and 76.5% volatility suggest near-term downside risk. Moderate confidence reflects conflicting signals: positive macro fundamentals vs. deteriorating short-term technicals and recent drawdown from 30-day highs. Yield generation (UNI 20.32%, LDO 2.39%, RPL 2.07%) provides some downside protection. 14-day forecast annualized assumes partial recovery from oversold conditions but sustained weakness.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:45.839871+00:00",
+  "enriched": true
+}

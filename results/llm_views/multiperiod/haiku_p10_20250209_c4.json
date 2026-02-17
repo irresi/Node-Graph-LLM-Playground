@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 faces severe headwinds: strong bear market regime (-13.3% DeFi TVL decline), brutal 30-day performance (-36.22%), extreme volatility (69.9%), and negative momentum (-10.56% in last 7 days, -30.50% in last 14 days). The tokens (oracle, infrastructure, L2) lack TVL support data, limiting fundamental analysis. However, the negative Sharpe ratio (-4.35) suggests unsustainable losses, and oversold conditions may provide some mean-reversion bounce. 14-day forecast reflects continued weakness but potential stabilization given the severity of recent drawdowns. Low confidence due to high uncertainty in bear markets and lack of concrete protocol fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 faces severe headwinds: strong bear market regime (-13.3% DeFi TVL decline), brutal 30-day performance (-36.22%), extreme volatility (69.9%), and negative momentum (-10.56% in last 7 days, -30.50% in last 14 days). The tokens (oracle, infrastructure, L2) lack TVL support data, limiting fundamental analysis. However, the negative Sharpe ratio (-4.35) suggests unsustainable losses, and oversold conditions may provide some mean-reversion bounce. 14-day forecast reflects continued weakness but potential stabilization given the severity of recent drawdowns. Low confidence due to high uncertainty in bear markets and lack of concrete protocol fundamentals.\"\n}\n```",
+  "date": "2025-02-10",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:20.505848+00:00"
+}

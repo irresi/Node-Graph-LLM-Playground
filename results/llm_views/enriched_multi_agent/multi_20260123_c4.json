@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both researchers converge on a bearish view with strong data support: BAL faces a critical token-protocol disconnect (TVL +1",
+  "n_agents": 24,
+  "date": "2026-01-24 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

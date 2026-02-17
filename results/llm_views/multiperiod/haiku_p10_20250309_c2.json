@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 faces strong headwinds: bear market regime with -17.9% TVL decline, severe recent momentum (-28.41% in 7 days, -34.42% in 14 days), and negative Sharpe ratio (-2.22). High volatility (82.4% annualized) and continued TVL erosion across protocols (SUSHI -26.8%, SNX -28.0%) suggest further downside. However, extreme drawdowns (-32.5% max) and oversold conditions may limit additional losses. Confidence moderated due to potential mean reversion and capitulation signals, but near-term outlook remains decidedly negative.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 faces strong headwinds: bear market regime with -17.9% TVL decline, severe recent momentum (-28.41% in 7 days, -34.42% in 14 days), and negative Sharpe ratio (-2.22). High volatility (82.4% annualized) and continued TVL erosion across protocols (SUSHI -26.8%, SNX -28.0%) suggest further downside. However, extreme drawdowns (-32.5% max) and oversold conditions may limit additional losses. Confidence moderated due to potential mean reversion and capitulation signals, but near-term outlook remains decidedly negative.\"\n}\n```",
+  "date": "2025-03-10",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:00.175025+00:00"
+}

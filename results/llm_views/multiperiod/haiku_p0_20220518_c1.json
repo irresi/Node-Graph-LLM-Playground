@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear market downturn (-63.61% over 30d, -57.51% over 14d) with extreme volatility (97.2% annualized). Recent 7-day bounce (+3.05%) suggests potential oversold conditions, but DeFi TVL collapse (-45.1% monthly) and negative Sharpe ratio (-5.50) indicate structural weakness. Expected mean reversion toward recent 14-day trend over next 14 days, but low confidence due to macro uncertainty and high drawdown risk (-49% max). Recovery potential exists but downside risks dominate in this bear regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear market downturn (-63.61% over 30d, -57.51% over 14d) with extreme volatility (97.2% annualized). Recent 7-day bounce (+3.05%) suggests potential oversold conditions, but DeFi TVL collapse (-45.1% monthly) and negative Sharpe ratio (-5.50) indicate structural weakness. Expected mean reversion toward recent 14-day trend over next 14 days, but low confidence due to macro uncertainty and high drawdown risk (-49% max). Recovery potential exists but downside risks dominate in this bear regime.\"\n}\n```",
+  "date": "2022-05-19",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:17:51.443383+00:00"
+}

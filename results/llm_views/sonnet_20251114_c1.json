@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.42,
-  "confidence": 0.55,
-  "reasoning": "CAKE/DEX cluster faces significant headwinds: strong bear market regime with DeFi TVL down 17.2% over 30 days, a severe 30-day cluster return of -38.26%, and a deeply negative Sharpe ratio of -4.21 indicating poor risk-adjusted performance. TVL for CAKE is down 7.0% over 30 days, signaling capital outflows. However, there is a modest short-term countertrend signal with the 7-day return at +6.29% suggesting a potential dead-cat bounce or brief relief rally. The 14-day return of +0.30% is near-flat, indicating the recent bounce may already be exhausting. Annualized expected return is estimated at approximately -42%, reflecting the dominant bearish trend with a slight upward adjustment for the near-term momentum. Confidence is moderate (0.55) given the conflicting short-term vs. long-term signals and inherent volatility (76.3% annualized) in single-token DEX clusters.",
-  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.55, \"reasoning\": \"CAKE/DEX cluster faces significant headwinds: strong bear market regime with DeFi TVL down 17.2% over 30 days, a severe 30-day cluster return of -38.26%, and a deeply negative Sharpe ratio of -4.21 indicating poor risk-adjusted performance. TVL for CAKE is down 7.0% over 30 days, signaling capital outflows. However, there is a modest short-term countertrend signal with the 7-day return at +6.29% suggesting a potential dead-cat bounce or brief relief rally. The 14-day return of +0.30% is near-flat, indicating the recent bounce may already be exhausting. Annualized expected return is estimated at approximately -42%, reflecting the dominant bearish trend with a slight upward adjustment for the near-term momentum. Confidence is moderate (0.55) given the conflicting short-term vs. long-term signals and inherent volatility (76.3% annualized) in single-token DEX clusters.\"}\n```",
-  "date": "2025-11-14",
+  "expected_return": -0.72,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) is under severe bearish pressure with a -23.04% 30-day return, annualized volatility of 79.5%, and a deeply negative Sharpe ratio of -2.44. The 7-day return of -15.43% indicates accelerating downside momentum, with no sign of stabilization. The broader DeFi market is also contracting sharply (-17% TVL in 30 days). None of the tokens (LINK, OP, ARB, ENS, GRT) have meaningful TVL to anchor fundamental support. Annualizing the recent 14-day return trajectory (-13.97% over ~14 days \u2248 -0.997/year) and applying a partial mean-reversion discount (bear markets rarely sustain at maximum velocity), I estimate a forward annualized return of approximately -72%. Confidence is moderate at 0.62 \u2014 the strong momentum signal is clear, but infrastructure tokens can exhibit sharp short-covering rallies, introducing meaningful upside tail risk even within a bear regime.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) is under severe bearish pressure with a -23.04% 30-day return, annualized volatility of 79.5%, and a deeply negative Sharpe ratio of -2.44. The 7-day return of -15.43% indicates accelerating downside momentum, with no sign of stabilization. The broader DeFi market is also contracting sharply (-17% TVL in 30 days). None of the tokens (LINK, OP, ARB, ENS, GRT) have meaningful TVL to anchor fundamental support. Annualizing the recent 14-day return trajectory (-13.97% over ~14 days \u2248 -0.997/year) and applying a partial mean-reversion discount (bear markets rarely sustain at maximum velocity), I estimate a forward annualized return of approximately -72%. Confidence is moderate at 0.62 \u2014 the strong momentum signal is clear, but infrastructure tokens can exhibit sharp short-covering rallies, introducing meaningful upside tail risk even within a bear regime.\"}\n```",
+  "date": "2025-11-15",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:14:41.738417+00:00",
+  "generated_at": "2026-02-17T16:04:25.665816+00:00",
   "enriched": false
 }

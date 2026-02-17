@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows positive 14-day momentum (+7.72%) despite bear market regime. AAVE's strong TVL growth (+5.4%) supports fundamentals, but volatility is high (57.1% annualized) and max drawdown (-22.9%) suggests elevated risk. Sharpe ratio of 0.57 indicates moderate risk-adjusted returns. Annualizing 14-day return of +7.72% yields ~28% annual equivalent, but sustainability is questionable in bear market with macro headwinds. Confidence constrained by regime weakness and momentum reversal risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster shows positive 14-day momentum (+7.72%) despite bear market regime. AAVE's strong TVL growth (+5.4%) supports fundamentals, but volatility is high (57.1% annualized) and max drawdown (-22.9%) suggests elevated risk. Sharpe ratio of 0.57 indicates moderate risk-adjusted returns. Annualizing 14-day return of +7.72% yields ~28% annual equivalent, but sustainability is questionable in bear market with macro headwinds. Confidence constrained by regime weakness and momentum reversal risk.\"\n}\n```",
+  "date": "2025-07-06",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:43.824302+00:00"
+}

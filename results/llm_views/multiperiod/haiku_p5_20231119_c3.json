@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows momentum deceleration after exceptional 30-day run (+42.28%), with recent 7-day pullback (-2.08%) suggesting consolidation. Moderate bull regime and strong protocol TVL growth (+16-18% across major protocols) support continued upside, but at lower pace than recent extremes. Forecasting 18% annualized return reflects expected 2-3% 14-day gain with elevated volatility (42.4% annualized). Confidence moderated to 0.62 due to momentum reversal signals and typical mean reversion after extreme gains.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum Analysis:**\n   - 30-day return: +42.28% (strong)\n   - 14-day return: +6.68% (moderate)\n   - 7-day return: -2.08% (recent pullback)\n   - Pattern suggests momentum exhaustion after strong 30-day run\n\n2. **Volatility & Risk Assessment:**\n   - Annualized volatility: 42.4% (high)\n   - Sharpe ratio: 8.37 (excellent risk-adjusted returns historically)\n   - Max drawdown: -5.3% (relatively contained for this volatility level)\n\n3. **Market Regime:**\n   - Overall DeFi TVL up 22.8% in 30 days (supportive)\n   - \"Moderate Bull\" regime (positive but not euphoric)\n   - Suggests continued but measured upside\n\n4. **Protocol Health:**\n   - TVL-weighted metrics show consistent positive momentum across major protocols\n   - AAVE (largest TVL at $5.7B) showing +16.6% TVL growth\n   - Diversified across categories reduces idiosyncratic risk\n\n5. **Mean Reversion Considerations:**\n   - 42.28% 30-day return is exceptional; typical mean reversion would suggest slower gains ahead\n   - Recent 7-day pullback (-2.08%) suggests possible consolidation phase\n   - 14-day window is too short for full mean reversion but shows deceleration trend\n\n**Forecast Rationale:**\n- Given the 7-day pullback after strong gains, I expect moderate consolidation\n- Bull regime and strong TVL growth suggest upside bias, but not at 42% pace\n- 14-day annualized return should reflect slower momentum than recent extremes\n- High volatility suggests both upside and downside risk\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Cluster shows momentum deceleration after exceptional 30-day run (+42.28%), with recent 7-day pullback (-2.08%) suggesting consolidation. Moderate bull regime and strong protocol TVL growth (+16-18% across major protocols) support continued upside, but at lower pace than recent extremes. Forecasting 18% annualized return reflects expected 2-3% 14-day gain with elevated volatility (42.4% annualized). Confidence moderated to 0.62 due to momentum reversal signals and typical mean reversion after extreme gains.\"}\n```",
+  "date": "2023-11-20",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:43:04.842545+00:00"
+}

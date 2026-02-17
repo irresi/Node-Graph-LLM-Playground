@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 faces significant headwinds: bear market regime with -9.6% DeFi TVL decline, recent 30-day underperformance of -19.17%, and elevated volatility (52.3% annualized). The negative Sharpe ratio (-3.08) and -24% max drawdown indicate risk-adjusted returns are poor. However, DYDX's +32.5% TVL growth suggests some protocol resilience. The recent deceleration from -19.17% (30d) to -8.07% (14d) to -10.79% (7d) indicates stabilization but with lingering selling pressure. Most holdings (SUSHI, COMP, YFI, CVX) show negative TVL trends. Forecasting continued weakness but at a moderated pace given 14-day time horizon. Confidence is moderate due to unpredictable bear market reversals and protocol-specific catalysts.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 faces significant headwinds: bear market regime with -9.6% DeFi TVL decline, recent 30-day underperformance of -19.17%, and elevated volatility (52.3% annualized). The negative Sharpe ratio (-3.08) and -24% max drawdown indicate risk-adjusted returns are poor. However, DYDX's +32.5% TVL growth suggests some protocol resilience. The recent deceleration from -19.17% (30d) to -8.07% (14d) to -10.79% (7d) indicates stabilization but with lingering selling pressure. Most holdings (SUSHI, COMP, YFI, CVX) show negative TVL trends. Forecasting continued weakness but at a moderated pace given 14-day time horizon. Confidence is moderate due to unpredictable bear market reversals and protocol-specific catalysts.\"\n}\n```",
+  "date": "2024-04-04",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:13.341308+00:00"
+}

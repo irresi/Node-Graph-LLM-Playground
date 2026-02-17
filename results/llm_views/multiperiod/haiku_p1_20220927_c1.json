@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster faces headwinds from declining TVL (except GMX), negative 14-day momentum (-12.74%), and high volatility (61.5%). Despite Moderate Bull regime, lack of participation suggests structural weakness. Expected slight negative return over next 14 days annualized (~-8%), with moderate confidence due to high volatility and unpredictability of DeFi markets.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Overall DeFi TVL is declining (-7.8% over 30 days), indicating a challenging macro environment\n- Market regime is \"Moderate Bull\" which is somewhat positive, but TVL contraction suggests underlying weakness\n\n**Cluster-Specific Metrics:**\n- Recent momentum is negative: -0.54% (7d), -12.74% (14d), -2.92% (30d)\n- High volatility (61.5% annualized) with negative Sharpe ratio (-0.40)\n- Significant max drawdown of -23.2% indicates recent stress\n\n**Token Composition Analysis:**\n- **Mixed TVL trends**: GMX showing strength (+24.7%), but SNX heavily declining (-32.1%)\n- **Largest components**: LDO ($6.1B) and CVX ($4.8B) both declining (-10.8%, -6.7%)\n- **Small but volatile**: SNX and RPL represent smaller allocations but high volatility\n- **Total represented TVL**: ~$11.8B across the 5 tokens\n\n**Key Observations:**\n1. The cluster underperformed over the last 14 days (-12.74%), suggesting negative momentum\n2. Despite \"Moderate Bull\" regime, the cluster hasn't participated in upside\n3. High volatility with negative returns = poor risk-adjusted performance\n4. Most tokens declining in TVL except GMX, suggesting sector-wide pressure\n5. The 7-day performance (-0.54%) slightly better than 14-day suggests potential stabilization, but very slight\n\n**Forecast Reasoning:**\nGiven the negative momentum, declining TVL across most holdings, high volatility, and weak fundamentals despite a moderate bull regime, I expect mean reversion toward neutral-to-negative territory. However, the \"Moderate Bull\" regime and GMX's strength provide some support. The 14-day negative return is likely to continue or stabilize near zero, not reverse sharply upward.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.55, \"reasoning\": \"Cluster faces headwinds from declining TVL (except GMX), negative 14-day momentum (-12.74%), and high volatility (61.5%). Despite Moderate Bull regime, lack of participation suggests structural weakness. Expected slight negative return over next 14 days annualized (~-8%), with moderate confidence due to high volatility and unpredictability of DeFi markets.\"}\n```",
+  "date": "2022-09-28",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:36.558614+00:00"
+}

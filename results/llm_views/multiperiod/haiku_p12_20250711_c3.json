@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows strong short-term momentum (+17.33% over 7d, +18.79% over 14d) contrasting sharply with -4.18% 30d return, suggesting potential mean reversion in bear market. High volatility (73.3% annualized) and negative Sharpe ratio (-0.48) indicate elevated risk. TVL growth in major components (AAVE +13.9%, SUSHI +28.2%) provides modest fundamental support, but the bear regime and negative 30d performance create significant headwinds. Annualized projection from recent 14d momentum offers 35% annualized return, but sustainability is questionable given regime. Low confidence reflects volatility and regime mismatch.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+17.33% over 7d, +18.79% over 14d) contrasting sharply with -4.18% 30d return, suggesting potential mean reversion in bear market. High volatility (73.3% annualized) and negative Sharpe ratio (-0.48) indicate elevated risk. TVL growth in major components (AAVE +13.9%, SUSHI +28.2%) provides modest fundamental support, but the bear regime and negative 30d performance create significant headwinds. Annualized projection from recent 14d momentum offers 35% annualized return, but sustainability is questionable given regime. Low confidence reflects volatility and regime mismatch.\"\n}\n```",
+  "date": "2025-07-12",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:02.934016+00:00"
+}

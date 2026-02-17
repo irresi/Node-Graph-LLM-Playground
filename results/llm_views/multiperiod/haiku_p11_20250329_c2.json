@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear regime with -27.95% 30-day return and negative momentum (-7.55% in last 7 days). High volatility (72.4%) and poor Sharpe ratio (-3.24) indicate distressed conditions. MKR shows resilience (+7.8% TVL growth), but SNX is collapsing (-48.7% TVL). Expect continued downside over 14 days, though some stabilization possible given severity of recent losses. Moderate confidence due to high volatility and potential mean reversion, but overall negative technical/fundamental setup dominates.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear regime with -27.95% 30-day return and negative momentum (-7.55% in last 7 days). High volatility (72.4%) and poor Sharpe ratio (-3.24) indicate distressed conditions. MKR shows resilience (+7.8% TVL growth), but SNX is collapsing (-48.7% TVL). Expect continued downside over 14 days, though some stabilization possible given severity of recent losses. Moderate confidence due to high volatility and potential mean reversion, but overall negative technical/fundamental setup dominates.\"\n}\n```",
+  "date": "2025-03-30",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:28.641552+00:00"
+}

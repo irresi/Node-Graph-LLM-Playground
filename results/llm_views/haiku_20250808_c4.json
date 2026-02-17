@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 exhibits strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of +0.30% suggests recent momentum may be decelerating, and the high volatility (63.5% annualized) with -20.2% max drawdown indicates significant downside risk. The infrastructure/L2 token category is sensitive to broader market sentiment. Annualized forward return estimate balances bullish momentum against deceleration signals and volatility, with moderate confidence due to limited protocol-level TVL data for these tokens and the unpredictable nature of infrastructure token valuations.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 exhibits strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of +0.30% suggests recent momentum may be decelerating, and the high volatility (63.5% annualized) with -20.2% max drawdown indicates significant downside risk. The infrastructure/L2 token category is sensitive to broader market sentiment. Annualized forward return estimate balances bullish momentum against deceleration signals and volatility, with moderate confidence due to limited protocol-level TVL data for these tokens and the unpredictable nature of infrastructure token valuations.\"\n}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:39:53.546553+00:00",
+  "enriched": false
+}

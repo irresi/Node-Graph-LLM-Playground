@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -19.25% 30-day decline and -20.07% 14-day decline. High volatility (89.5%) and negative Sharpe ratio (-1.81) indicate distressed conditions. However, mixed signals: UNI/CAKE show positive TVL momentum (+6.9%, +15.5%), and recent 7-day bounce (+0.37%) suggests potential stabilization. AAVE's large TVL dominance (-7.0% 30d) is a headwind. Forecasting continued weakness over next 14 days given macro bear regime and recent momentum, but with moderate confidence due to potential mean reversion and protocol strength.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -19.25% 30-day decline and -20.07% 14-day decline. High volatility (89.5%) and negative Sharpe ratio (-1.81) indicate distressed conditions. However, mixed signals: UNI/CAKE show positive TVL momentum (+6.9%, +15.5%), and recent 7-day bounce (+0.37%) suggests potential stabilization. AAVE's large TVL dominance (-7.0% 30d) is a headwind. Forecasting continued weakness over next 14 days given macro bear regime and recent momentum, but with moderate confidence due to potential mean reversion and protocol strength.\"\n}\n```",
+  "date": "2025-10-24",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:39.200244+00:00"
+}

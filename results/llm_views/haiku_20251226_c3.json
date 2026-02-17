@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with weak protocol fundamentals (SNX -24.5%, SUSHI -15.7% TVL) offset by slight 7-day bounce (+1.25%). LDO dominance provides some stability. High volatility (62.4%) suggests elevated downside risk despite potential short-term recovery. Expected modest negative return over 14 days with moderate confidence.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Regime Assessment:**\n- Strong bear market with -23.52% monthly decline\n- TVL essentially flat (+0.2%), indicating capital preservation concerns\n- Negative Sharpe ratio (-3.17) shows poor risk-adjusted returns\n\n**Cluster Composition Dynamics:**\n- Heavy concentration in LDO (liquid staking) with $25.7B TVL (largest exposure)\n- Mixed protocol health: LDO stable (-1.2% TVL change), but SNX (-24.5%) and SUSHI (-15.7%) showing significant weakness\n- DEX tokens (UNI, SUSHI) facing headwinds in bear market with reduced trading volumes\n\n**Recent Momentum Signals:**\n- Positive 7-day return (+1.25%) suggests potential bottoming\n- But negative 14-day return (-5.73%) shows recent bounce is weak\n- 62.4% annualized volatility creates significant downside/upside risk\n\n**Key Considerations:**\n1. **Negative sentiment**: Bear regime typically extends 2-4 weeks; cluster is already -23.52% YTD\n2. **Protocol fundamentals**: LDO dominance provides some stability, but DEX exposure (UNI, SUSHI) remains challenged\n3. **Technical setup**: 7-day bounce (+1.25%) could indicate short-term reversal, but conviction is low\n4. **Volatility asymmetry**: High volatility (62.4%) in bear markets often produces lower returns despite potential for recovery\n\n**Forecast Reasoning:**\nGiven the bear regime, weak protocol metrics (especially for SNX, SUSHI), but slight positive momentum, I expect modest negative returns over the next 14 days with moderate-to-low confidence. The cluster may stabilize but faces resistance to meaningful recovery without broader market improvement.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.55, \"reasoning\": \"Bear market regime with weak protocol fundamentals (SNX -24.5%, SUSHI -15.7% TVL) offset by slight 7-day bounce (+1.25%). LDO dominance provides some stability. High volatility (62.4%) suggests elevated downside risk despite potential short-term recovery. Expected modest negative return over 14 days with moderate confidence.\"}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:33.772912+00:00",
+  "enriched": false
+}

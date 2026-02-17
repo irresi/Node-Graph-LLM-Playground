@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market regime with persistent negative momentum (-8.66% 7d, -8.14% 14d). Both LDO and RPL experiencing TVL erosion. High volatility (36.2%) and poor Sharpe ratio (-4.33) suggest continued weakness over 14 days, though some mean-reversion relief possible. Confidence moderate due to volatile regime and potential for policy/macro catalysts. Annualized -12% reflects ~-1.3% expected 2-week return in challenging market environment.",
+  "raw_response": "I'll analyze the provided data for Cluster 3 (LDO, RPL - Liquid Staking tokens) and provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market regime with 11.9% TVL decline over 30 days\n- Negative momentum across the board (7-day: -8.66%, 14-day: -8.14%, 30-day: -18.65%)\n- High volatility (36.2% annualized) with significant drawdown risk (-21.8% max)\n\n**Cluster Fundamentals:**\n- Liquid staking is a core DeFi primitive but highly correlated with broader market sentiment\n- LDO (Lido) dominates with $13,953M TVL but saw 4.8% decline\n- RPL (Rocket Pool) is smaller ($1,075M) with 7.1% decline, showing larger relative weakness\n- Sharpe ratio of -4.33 indicates terrible risk-adjusted returns in current regime\n\n**Key Observations:**\n1. **Momentum is negative**: Recent 7-day and 14-day returns are both negative, suggesting continued selling pressure\n2. **Regime matters**: In bear markets, even fundamental projects underperform due to macro factors and leverage liquidations\n3. **TVL erosion**: Both protocols losing TVL, indicating staker exits and reduced confidence\n4. **Volatility is high**: 36.2% annualized volatility means significant swings in either direction, but downside bias is clear\n5. **No reversal signals**: The trend is consistently negative without obvious bounce indicators\n\n**14-Day Forecast Rationale:**\nGiven the bear regime, negative momentum, and TVL erosion, I expect continued weakness but with some mean-reversion potential as short-term oversold conditions may create minor relief bounces. However, the fundamental trend remains downward.\n\n```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bear market regime with persistent negative momentum (-8.66% 7d, -8.14% 14d). Both LDO and RPL experiencing TVL erosion. High volatility (36.2%) and poor Sharpe ratio (-4.33) suggest continued weakness over 14 days, though some mean-reversion relief possible. Confidence moderate due to volatile regime and potential for policy/macro catalysts. Annualized -12% reflects ~-1.3% expected 2-week return in challenging market environment.\"\n}\n```",
+  "date": "2023-08-21",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:51.298969+00:00"
+}

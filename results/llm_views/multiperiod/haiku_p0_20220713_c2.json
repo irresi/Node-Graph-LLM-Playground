@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.13,
+  "confidence": 0.62,
+  "reasoning": "Cluster showed strong 14d return (+22.43%) but momentum is decelerating. Moderate bull regime supports positive returns, but TVL contraction (-8.8% DeFi-wide), stretched valuations after 30% rally, and elevated volatility (79.7%) suggest consolidation. Expect 13% annualized return over 14 days with moderate confidence due to high uncertainty in momentum sustainability.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Current Market Position:**\n- The cluster has shown strong momentum: 7-day return of +7.52%, 14-day of +22.43%, and 30-day of +30.03%\n- Volatility is elevated at 79.7% (annualized), but the Sharpe ratio of 3.17 indicates strong risk-adjusted returns\n- Market regime is \"Moderate Bull,\" providing tailwinds\n\n**Key Observations:**\n\n1. **Momentum Signals:** The decelerating return pattern (30d: 30.03% > 14d: 22.43% > 7d: 7.52%) suggests momentum may be cooling after a strong rally\n\n2. **TVL Dynamics:** The broader DeFi market shows weakness (-8.8% TVL 30-day change), with cluster components showing mixed trends:\n   - CRV and AAVE declining significantly (-12.1%, -14.3%)\n   - UNI relatively stable (-1.0%)\n   - Overall TVL contraction suggests caution\n\n3. **Volatility & Risk:** At 79.7% annualized volatility, the cluster is highly volatile. The -18.5% max drawdown indicates significant downside risk potential\n\n4. **Valuation Consideration:** After a 30% 30-day run-up, mean reversion risks are elevated. The cluster is likely extended on a technical basis\n\n**Forecast Rationale:**\n- The moderate bull regime supports continued positive returns\n- However, momentum is decelerating and valuations are stretched after the 30% rally\n- TVL contraction in the broader market is concerning for protocol fundamentals\n- 14-day horizon is relatively short; I expect some consolidation but not a reversal given the positive regime\n\n**Expected Return Calculation:**\nNormalizing the 14-day recent return (+22.43%) and accounting for:\n- Momentum deceleration (adjusting down ~40%)\n- Volatility reversion potential\n- Positive market regime support\n\nAnnualized 14-day return estimate: ~12-15%\n\n```json\n{\"expected_return\": 0.13, \"confidence\": 0.62, \"reasoning\": \"Cluster showed strong 14d return (+22.43%) but momentum is decelerating. Moderate bull regime supports positive returns, but TVL contraction (-8.8% DeFi-wide), stretched valuations after 30% rally, and elevated volatility (79.7%) suggest consolidation. Expect 13% annualized return over 14 days with moderate confidence due to high uncertainty in momentum sustainability.\"}\n```",
+  "date": "2022-07-14",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:10.399240+00:00"
+}

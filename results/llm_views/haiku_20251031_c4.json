@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 exhibits severe bearish signals: -38.13% 30-day loss in strong bear market regime, extreme volatility (106.3% annualized), deeply negative Sharpe ratio (-3.01), and -35.4% max drawdown. Recent momentum is poor (-6.84% 7-day, -1.59% 14-day). Infrastructure/L2 tokens typically underperform during risk-off periods. However, 14-day momentum is less negative than 30-day performance, suggesting potential stabilization or oversold conditions. Low confidence reflects high uncertainty in near-term direction amid elevated volatility and weak fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 exhibits severe bearish signals: -38.13% 30-day loss in strong bear market regime, extreme volatility (106.3% annualized), deeply negative Sharpe ratio (-3.01), and -35.4% max drawdown. Recent momentum is poor (-6.84% 7-day, -1.59% 14-day). Infrastructure/L2 tokens typically underperform during risk-off periods. However, 14-day momentum is less negative than 30-day performance, suggesting potential stabilization or oversold conditions. Low confidence reflects high uncertainty in near-term direction amid elevated volatility and weak fundamentals.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:42:42.050140+00:00",
+  "enriched": false
+}

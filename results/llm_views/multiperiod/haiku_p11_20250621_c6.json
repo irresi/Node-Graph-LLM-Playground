@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "YFI faces headwinds from bear market regime (DeFi TVL down 6.6% YTD, -24.48% 30d return). Recent momentum is negative (-9.07% 7d, -11.85% 14d), though deceleration from -24.48% suggests potential stabilization. TVL decline of -11.7% indicates protocol stress. High volatility (44.5% annualized) and deeply negative Sharpe ratio (-4.62) suggest mean-reversion risk. However, YFI's governance and revenue-sharing model may provide downside support. Confidence tempered by regime uncertainty and single-token cluster concentration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"YFI faces headwinds from bear market regime (DeFi TVL down 6.6% YTD, -24.48% 30d return). Recent momentum is negative (-9.07% 7d, -11.85% 14d), though deceleration from -24.48% suggests potential stabilization. TVL decline of -11.7% indicates protocol stress. High volatility (44.5% annualized) and deeply negative Sharpe ratio (-4.62) suggest mean-reversion risk. However, YFI's governance and revenue-sharing model may provide downside support. Confidence tempered by regime uncertainty and single-token cluster concentration.\"\n}\n```",
+  "date": "2025-06-22",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:15.130806+00:00"
+}

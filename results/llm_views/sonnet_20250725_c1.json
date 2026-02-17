@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.38,
-  "confidence": 0.62,
-  "reasoning": "CAKE/DEX cluster shows strong momentum with +18.41% over 30 days and an impressive Sharpe ratio of 3.68, indicating risk-adjusted returns are robust. The 14-day return of +6.26% annualizes to ~163%, but mean reversion and sustainability concerns temper this. Broad DeFi TVL is up +33.6% in a confirmed bull regime, and CAKE's own TVL grew +14.3% to $2B, signaling healthy protocol fundamentals. However, single-token concentration risk, the relatively modest 7-day return of +1.41% (suggesting momentum may be cooling near-term), and annualized volatility of 42% all warrant caution. A 38% annualized expected return reflects continued bullish tailwinds with some deceleration from peak momentum, while moderate confidence (0.62) accounts for single-asset idiosyncratic risk and potential short-term consolidation.",
-  "raw_response": "```json\n{\"expected_return\": 0.38, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster shows strong momentum with +18.41% over 30 days and an impressive Sharpe ratio of 3.68, indicating risk-adjusted returns are robust. The 14-day return of +6.26% annualizes to ~163%, but mean reversion and sustainability concerns temper this. Broad DeFi TVL is up +33.6% in a confirmed bull regime, and CAKE's own TVL grew +14.3% to $2B, signaling healthy protocol fundamentals. However, single-token concentration risk, the relatively modest 7-day return of +1.41% (suggesting momentum may be cooling near-term), and annualized volatility of 42% all warrant caution. A 38% annualized expected return reflects continued bullish tailwinds with some deceleration from peak momentum, while moderate confidence (0.62) accounts for single-asset idiosyncratic risk and potential short-term consolidation.\"}\n```",
-  "date": "2025-07-25",
+  "expected_return": 0.72,
+  "confidence": 0.52,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) shows strong 30-day momentum (+33.45%) in a confirmed bull regime with DeFi TVL up +37.7%. The 14-day return of +14.16% annualizes to ~369%, but mean reversion pressure is evident from the near-flat 7-day return (-0.09%), signaling short-term exhaustion after a sharp run-up. The elevated Sharpe ratio (4.48) reflects recent efficiency but is unsustainably high, suggesting normalization ahead. Annualized cluster volatility of 62.7% with a shallow max drawdown (-9.5%) indicates orderly bullish structure. LINK, ARB, OP, ENS, and GRT are fundamentally sound infrastructure tokens with macro tailwinds (L2 adoption, oracle demand), but lack direct yield-generating TVL, limiting protocol-level fundamental anchoring. Forecast of ~72% annualized return reflects continued bull trend at a moderated pace post-consolidation, discounted from recent realized returns. Confidence is moderate (0.52) given the conflicting signals between strong 30d momentum and 7d stall, and the inherently high volatility of the cluster.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.52, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) shows strong 30-day momentum (+33.45%) in a confirmed bull regime with DeFi TVL up +37.7%. The 14-day return of +14.16% annualizes to ~369%, but mean reversion pressure is evident from the near-flat 7-day return (-0.09%), signaling short-term exhaustion after a sharp run-up. The elevated Sharpe ratio (4.48) reflects recent efficiency but is unsustainably high, suggesting normalization ahead. Annualized cluster volatility of 62.7% with a shallow max drawdown (-9.5%) indicates orderly bullish structure. LINK, ARB, OP, ENS, and GRT are fundamentally sound infrastructure tokens with macro tailwinds (L2 adoption, oracle demand), but lack direct yield-generating TVL, limiting protocol-level fundamental anchoring. Forecast of ~72% annualized return reflects continued bull trend at a moderated pace post-consolidation, discounted from recent realized returns. Confidence is moderate (0.52) given the conflicting signals between strong 30d momentum and 7d stall, and the inherently high volatility of the cluster.\"}\n```",
+  "date": "2025-07-26",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:07:42.739369+00:00",
+  "generated_at": "2026-02-17T15:59:22.862959+00:00",
   "enriched": false
 }

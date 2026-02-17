@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 4 shows strong recent momentum (+21.87% in 30 days, +15.67% in 14 days) within a bull market regime with elevated TVL growth. The 7-day return of +4.37% annualizes to ~228%, suggesting potential mean reversion. However, the high Sharpe ratio (6.50) and low max drawdown (-4.1%) indicate quality performance. Forecasting 42% annualized return (3% over 14 days) reflects: (1) momentum continuation at ~60-70% of recent pace, (2) bull market support, (3) moderate confidence due to reversion risk after strong outperformance and macro uncertainty. Mixed protocol signals (DYDX slight decline, CVX slower growth) add caution.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (+21.87% in 30 days, +15.67% in 14 days) within a bull market regime with elevated TVL growth. The 7-day return of +4.37% annualizes to ~228%, suggesting potential mean reversion. However, the high Sharpe ratio (6.50) and low max drawdown (-4.1%) indicate quality performance. Forecasting 42% annualized return (3% over 14 days) reflects: (1) momentum continuation at ~60-70% of recent pace, (2) bull market support, (3) moderate confidence due to reversion risk after strong outperformance and macro uncertainty. Mixed protocol signals (DYDX slight decline, CVX slower growth) add caution.\"\n}\n```",
+  "date": "2024-02-22",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:49.471808+00:00"
+}

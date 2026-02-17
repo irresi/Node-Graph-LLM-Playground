@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 shows strong recent momentum (+30.53% over 14d, +28.89% over 30d) in a bull market with expanding DeFi TVL (+20.6%). However, annualizing the 14-day return (~85%) carries significant risk: (1) mean reversion is likely after such strong gains, (2) high volatility (32.5% annualized) and recent max drawdown (-5.4%) suggest the cluster is extended, (3) the 7-day return (+19.02%) suggests momentum may be moderating. The strong Sharpe ratio (7.47) is encouraging but likely overstated given the short observation period. Confidence is moderate due to difficulty sustaining such high returns and elevated drawdown risk in a momentum-driven environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows strong recent momentum (+30.53% over 14d, +28.89% over 30d) in a bull market with expanding DeFi TVL (+20.6%). However, annualizing the 14-day return (~85%) carries significant risk: (1) mean reversion is likely after such strong gains, (2) high volatility (32.5% annualized) and recent max drawdown (-5.4%) suggest the cluster is extended, (3) the 7-day return (+19.02%) suggests momentum may be moderating. The strong Sharpe ratio (7.47) is encouraging but likely overstated given the short observation period. Confidence is moderate due to difficulty sustaining such high returns and elevated drawdown risk in a momentum-driven environment.\"\n}\n```",
+  "date": "2023-01-18",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:46.611042+00:00"
+}

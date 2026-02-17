@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.42,
-  "confidence": 0.62,
-  "reasoning": "CAKE/DEX cluster shows strong 30-day momentum (+19.21%) within a bull market regime (DeFi TVL +29.9% over 30 days). The 7-day (+2.33%) and 14-day (+4.75%) returns indicate moderating but still positive near-term momentum. TVL growth of +13.5% to $2.06B signals sustained protocol fundamentals. Annualizing the 14-day return (~4.75% \u00d7 26 \u2248 123%) is likely overstated due to mean reversion risk; a more conservative forward estimate of ~42% annualized reflects the strong trend with expected deceleration. The Sharpe ratio of 2.80 is exceptional but unsustainable, and the -18.4% max drawdown highlights meaningful downside risk. Confidence is moderate (0.62) given single-token cluster concentration, high annualized volatility (57.5%), and the inherent unpredictability of short 14-day windows in DEX tokens.",
-  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster shows strong 30-day momentum (+19.21%) within a bull market regime (DeFi TVL +29.9% over 30 days). The 7-day (+2.33%) and 14-day (+4.75%) returns indicate moderating but still positive near-term momentum. TVL growth of +13.5% to $2.06B signals sustained protocol fundamentals. Annualizing the 14-day return (~4.75% \u00d7 26 \u2248 123%) is likely overstated due to mean reversion risk; a more conservative forward estimate of ~42% annualized reflects the strong trend with expected deceleration. The Sharpe ratio of 2.80 is exceptional but unsustainable, and the -18.4% max drawdown highlights meaningful downside risk. Confidence is moderate (0.62) given single-token cluster concentration, high annualized volatility (57.5%), and the inherent unpredictability of short 14-day windows in DEX tokens.\"}\n```",
-  "date": "2025-08-08",
+  "expected_return": 0.72,
+  "confidence": 0.52,
+  "reasoning": "Cluster 1 (LINK, OP, ARB, ENS, GRT) shows strong 30-day momentum (+23.57%) in a confirmed bull market with DeFi TVL up +26.1%. The Sharpe ratio of 3.12 indicates excellent risk-adjusted performance. However, the 14-day return (+0.30%) is sharply lower than the 7-day (+13.24%), suggesting very recent consolidation after a strong run, with the bulk of short-term gains potentially front-loaded. Annualizing the 14-day return of ~0.30% yields only ~7.8%, while the 30-day trend annualizes to ~570%\u2014unsustainable. Infrastructure/L2 tokens (OP, ARB, GRT) lack TVL metrics, limiting fundamental anchoring. Balancing the strong macro tailwind and momentum against mean-reversion risk from the recent consolidation and high annualized volatility (63.5%), a forward 14-day annualized return of ~72% is plausible but with moderate-low confidence given the mixed short-term signals and absence of TVL-based fundamentals for 4 of 5 tokens.",
+  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.52, \"reasoning\": \"Cluster 1 (LINK, OP, ARB, ENS, GRT) shows strong 30-day momentum (+23.57%) in a confirmed bull market with DeFi TVL up +26.1%. The Sharpe ratio of 3.12 indicates excellent risk-adjusted performance. However, the 14-day return (+0.30%) is sharply lower than the 7-day (+13.24%), suggesting very recent consolidation after a strong run, with the bulk of short-term gains potentially front-loaded. Annualizing the 14-day return of ~0.30% yields only ~7.8%, while the 30-day trend annualizes to ~570%\u2014unsustainable. Infrastructure/L2 tokens (OP, ARB, GRT) lack TVL metrics, limiting fundamental anchoring. Balancing the strong macro tailwind and momentum against mean-reversion risk from the recent consolidation and high annualized volatility (63.5%), a forward 14-day annualized return of ~72% is plausible but with moderate-low confidence given the mixed short-term signals and absence of TVL-based fundamentals for 4 of 5 tokens.\"}\n```",
+  "date": "2025-08-09",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:08:37.060550+00:00",
+  "generated_at": "2026-02-17T16:00:01.941686+00:00",
   "enriched": false
 }

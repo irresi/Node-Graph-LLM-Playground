@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "I'll analyze the debate between the Bull and Bear researchers to produce a calibrated forecast.\n\n## Analysis\n\n**Evidence Assessment:**\n\n1. **Data-Backed Consensus**: All three analysts agree on negati",
+  "n_agents": 6,
+  "date": "2025-12-13 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

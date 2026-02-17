@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.45,
+  "reasoning": "YFI shows positive 14-day momentum (+7.19%) and growing TVL (+5.7%), supported by bullish DeFi regime. However, high volatility (60.3%) and poor Sharpe ratio limit confidence. Forecasting ~2.8% 14-day return (~42% annualized), with moderate-low confidence due to single-token concentration and drawdown risk.",
+  "raw_response": "I'll analyze the Cluster 4 (YFI token) data to provide a 14-day expected return forecast.\n\n## Analysis:\n\n**Positive Factors:**\n- Strong 7-day momentum: +1.86% (positive trajectory)\n- Solid 14-day return: +7.19% (demonstrates recent strength)\n- YFI TVL growing: +5.7% over 30 days (protocol fundamentals improving)\n- Overall DeFi market in moderate bull regime with +25.7% TVL growth\n- The cluster has recovered significantly from 30-day decline (-2.68%), suggesting mean reversion potential\n\n**Negative Factors:**\n- High volatility (60.3% annualized) increases forecast uncertainty\n- Negative Sharpe ratio (-0.37) indicates risk-adjusted returns have been poor\n- Significant max drawdown (-18.6%) shows downside vulnerability\n- Single-token cluster concentrates risk\n- Recent momentum may not sustain if broader sentiment shifts\n\n**Forecast Logic:**\n- 14-day recent return of +7.19% suggests positive near-term momentum\n- Given the moderate bull market regime and YFI TVL growth, I expect continuation but with moderation\n- The high volatility warrants a conservative confidence level\n- Annualizing a 14-day forecast: assuming ~4% return over 14 days in current conditions would imply ~104% annualized (but should discount for reversion)\n- More conservatively: expecting 2-3% over 14 days = ~52-78% annualized, but further discounting to ~40% given volatility risk\n\n**Confidence Rationale:**\n- Single token concentration and high volatility reduce confidence\n- Recent positive momentum and protocol metrics provide some support\n- Confidence level: 0.45 (moderate-low, acknowledging uncertainty)\n\n```json\n{\"expected_return\": 0.42, \"confidence\": 0.45, \"reasoning\": \"YFI shows positive 14-day momentum (+7.19%) and growing TVL (+5.7%), supported by bullish DeFi regime. However, high volatility (60.3%) and poor Sharpe ratio limit confidence. Forecasting ~2.8% 14-day return (~42% annualized), with moderate-low confidence due to single-token concentration and drawdown risk.\"}\n```",
+  "date": "2025-08-15",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:55.521561+00:00"
+}

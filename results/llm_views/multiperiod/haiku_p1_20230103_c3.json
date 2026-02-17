@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with cluster underperformance (-14.43% 30-day) and elevated volatility (40.8%) suggest continued downside. Recent 7-day rebound (+0.75%) provides partial offset. Annualized -18% return reflects near-term weakness with moderate confidence due to infrastructure token resilience and potential short-term stabilization.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze the key factors to generate a forecast for Cluster 3 (LINK, OP, ENS, GRT) over the next 14 days.\n\n## Analysis:\n\n**Bearish Factors:**\n- Strong bear market regime with -4.8% DeFi TVL decline\n- Cluster significantly underperforming: -14.43% over 30 days vs. broader DeFi decline\n- Highly negative Sharpe ratio (-2.97) indicates poor risk-adjusted returns\n- High volatility (40.8% annualized) with -19.9% max drawdown suggests elevated downside risk\n- 14-day return of -0.20% shows continued weakness despite recent 7-day recovery (+0.75%)\n\n**Neutral/Mitigating Factors:**\n- Recent 7-day rebound (+0.75%) suggests potential short-term stabilization\n- Infrastructure/Oracle tokens (LINK, GRT) and L2 solutions (OP, ENS) have long-term utility despite near-term headwinds\n- Limited TVL data makes fundamental analysis difficult, but these are established protocols\n\n**14-Day Forecast Rationale:**\nGiven the strong bear regime, the cluster's recent underperformance, and the mixed but slightly positive 7-day momentum, I expect modest negative returns over the next 14 days. The cluster may see continued weakness as the bear market persists, but the recent +0.75% 7-day return suggests some floor-building. I'm moderately confident given the clear bearish regime, but tempered by short-term momentum ambiguity.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.65, \"reasoning\": \"Bear market regime with cluster underperformance (-14.43% 30-day) and elevated volatility (40.8%) suggest continued downside. Recent 7-day rebound (+0.75%) provides partial offset. Annualized -18% return reflects near-term weakness with moderate confidence due to infrastructure token resilience and potential short-term stabilization.\"}\n```",
+  "date": "2023-01-04",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:38.164344+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "Bear market regime with -11.18% 30-day decline and -5.04% 14-day return suggest continued downward pressure. Recent 7-day bounce (+1.95%) shows some stabilization but likely temporary. High volatility (65.7%) and negative Sharpe ratio (-1.43) indicate poor risk-adjusted returns. Modest protocol yields (~5% APY) insufficient to offset market headwinds. Forecast annualized -18% return over next 14 days with low confidence due to high volatility and uncertain momentum reversal.",
+  "raw_response": "I'll analyze the provided data for Cluster 3 (CVX - Convex Finance) to forecast the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -1.3% TVL decline over 30 days\n2. **Recent Momentum**: Mixed signals\n   - 7-day return: +1.95% (positive)\n   - 14-day return: -5.04% (negative)\n   - 30-day return: -11.18% (strongly negative)\n3. **Volatility**: 65.7% annualized - very high risk asset\n4. **Sharpe Ratio**: -1.43 - negative risk-adjusted returns over the last 30 days\n5. **Max Drawdown**: -16.0% - significant downside risk\n6. **TVL Health**: CVX TVL down 5.3% in 30 days, but protocol still has $642M TVL with active governance\n7. **Yield Metrics**: Modest APYs (1-5%), not attractive enough to offset market headwinds\n\n**Reasoning for Forecast:**\n\n- The 7-day rebound (+1.95%) suggests some stabilization after the 30-day decline, but this is weak momentum in a bear market\n- The 14-day return (-5.04%) shows the rebound may be temporary\n- High volatility and negative Sharpe ratio indicate poor risk-reward profile\n- Active DAO governance is positive, but insufficient to drive returns in a bear market\n- CVX is a yield/governance token; without strong market tailwinds, returns depend on yield generation, which is modest (~5% at best)\n\n**14-Day Forecast:**\n\nGiven the bear market regime, high volatility, recent momentum weakness despite 7-day bounce, and mediocre fundamentals, I expect continuation of downward pressure with high uncertainty.\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Bear market regime with -11.18% 30-day decline and -5.04% 14-day return suggest continued downward pressure. Recent 7-day bounce (+1.95%) shows some stabilization but likely temporary. High volatility (65.7%) and negative Sharpe ratio (-1.43) indicate poor risk-adjusted returns. Modest protocol yields (~5% APY) insufficient to offset market headwinds. Forecast annualized -18% return over next 14 days with low confidence due to high volatility and uncertain momentum reversal.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:20.104602+00:00",
+  "enriched": true
+}

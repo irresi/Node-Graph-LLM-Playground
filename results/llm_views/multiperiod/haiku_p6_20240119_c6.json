@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 6 shows mixed signals: strong 30-day performance (+12.48%) and solid Sharpe ratio (1.93) support bullish momentum, but recent weakness (7-day: -10.78%, 14-day: -0.76%) suggests consolidation or pullback. The moderate bull regime and TVL growth in key protocols (AAVE +12.7%, LDO +8.8%, RPL +13.9%) provide fundamental support. However, COMP weakness (-4.1% TVL change) and elevated volatility (54.3%) create uncertainty. Annualizing the modest 14-day return with positive regime bias yields 0.18, but confidence is tempered by recent momentum reversal and concentration risk in LDO (43% of cluster TVL).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 6 shows mixed signals: strong 30-day performance (+12.48%) and solid Sharpe ratio (1.93) support bullish momentum, but recent weakness (7-day: -10.78%, 14-day: -0.76%) suggests consolidation or pullback. The moderate bull regime and TVL growth in key protocols (AAVE +12.7%, LDO +8.8%, RPL +13.9%) provide fundamental support. However, COMP weakness (-4.1% TVL change) and elevated volatility (54.3%) create uncertainty. Annualizing the modest 14-day return with positive regime bias yields 0.18, but confidence is tempered by recent momentum reversal and concentration risk in LDO (43% of cluster TVL).\"\n}\n```",
+  "date": "2024-01-20",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:09.839383+00:00"
+}

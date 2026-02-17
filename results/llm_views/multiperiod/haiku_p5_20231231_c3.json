@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Bull market regime with strong 14-day momentum (+18.74%) supports continued positive returns. However, recent 7-day deceleration (+7.65%) and mixed protocol fundamentals (UNI, SUSHI declining TVL; AAVE, CAKE gaining) suggest moderation ahead. Elevated 30-day volatility (38.8%) and -10.7% max drawdown indicate risk. The cluster's strong Sharpe ratio (3.37) provides confidence, but annualizing the recent 14-day return (+18.74% = ~1.34x annualized) likely overstates near-term prospects. Forecast reflects mean reversion from recent peaks while maintaining bull market bias. Moderate confidence due to execution risk and market regime sustainability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Bull market regime with strong 14-day momentum (+18.74%) supports continued positive returns. However, recent 7-day deceleration (+7.65%) and mixed protocol fundamentals (UNI, SUSHI declining TVL; AAVE, CAKE gaining) suggest moderation ahead. Elevated 30-day volatility (38.8%) and -10.7% max drawdown indicate risk. The cluster's strong Sharpe ratio (3.37) provides confidence, but annualizing the recent 14-day return (+18.74% = ~1.34x annualized) likely overstates near-term prospects. Forecast reflects mean reversion from recent peaks while maintaining bull market bias. Moderate confidence due to execution risk and market regime sustainability.\"\n}\n```",
+  "date": "2024-01-01",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:24.298230+00:00"
+}

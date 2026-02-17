@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with high volatility and recent -18% 30-day decline. However, 7-day recovery (+0.62%) and positive TVL trends in AAVE (+3%) and CRV (+7.1%) suggest stabilization. Low confidence due to extreme volatility (48.8% annualized) and broader market weakness. Expect modest single-digit annualized return over 14 days with significant downside risk. Confidence limited by unpredictable bear market conditions.",
+  "raw_response": "I'll analyze Cluster 2 to provide an expected return forecast for the next 14 days.\n\n## Analysis\n\n**Current Market Environment:**\n- Bear market regime with strong downtrend\n- DeFi TVL essentially flat (0.2% 30-day change)\n- Cluster already down -18.14% over 30 days with high volatility (48.8%)\n- Max drawdown of -22.7% indicates severe recent stress\n\n**Recent Momentum Signals:**\n- 7-day return: +0.62% (slight recovery/stabilization)\n- 14-day return: -7.47% (negative but better than 30-day)\n- Negative Sharpe ratio (-3.12) indicates poor risk-adjusted returns\n\n**Protocol Fundamentals:**\n- AAVE (largest position by TVL at $33B) showing +3.0% TVL growth - positive signal\n- CRV showing +7.1% TVL growth - moderate positive signal\n- UNI and CAKE showing TVL declines (-4.9%, -11.0%) - weakness\n- SUSHI showing severe decline (-15.7%) - significant weakness\n- Yield metrics modest across most protocols (0.5-4% range)\n\n**Governance Activity:**\n- Multiple active governance discussions (GMX has 1 active proposal)\n- No major negative governance events\n- Normal protocol maintenance activity\n\n**14-Day Specific Considerations:**\n- The cluster is showing early signs of stabilization (7-day +0.62%)\n- However, in a bear market with recent -22.7% max drawdown, recovery is typically slow\n- High volatility (48.8% annualized = ~5.2% per week) suggests significant risk remains\n- Some protocols gaining TVL (AAVE, CRV) provide modest support\n- But broader bear regime limits upside potential\n\n**Forecast Reasoning:**\nGiven the bear market regime, recent heavy losses, but emerging signs of stabilization and some protocol strength, I expect a modest recovery or stabilization over 14 days. The cluster is unlikely to experience significant downside from current levels in the immediate term, but also unlikely to achieve strong gains.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market regime with high volatility and recent -18% 30-day decline. However, 7-day recovery (+0.62%) and positive TVL trends in AAVE (+3%) and CRV (+7.1%) suggest stabilization. Low confidence due to extreme volatility (48.8% annualized) and broader market weakness. Expect modest single-digit annualized return over 14 days with significant downside risk. Confidence limited by unpredictable bear market conditions.\"}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:41.985467+00:00",
+  "enriched": true
+}

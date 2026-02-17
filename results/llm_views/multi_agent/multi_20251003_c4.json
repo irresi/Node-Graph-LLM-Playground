@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL presents a genuine thesis clash: TVL strength (+21.3% 30d) suggests protocol momentum, but token-protocol disconnect and ",
+  "n_agents": 24,
+  "date": "2025-10-04 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

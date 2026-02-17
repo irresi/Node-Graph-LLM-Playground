@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime with strong 30-day momentum (+19.60%) and excellent Sharpe ratio (3.42) support positive outlook. However, recent deceleration (7-day: +5.08%, 14-day: +1.11%) and high volatility (48.2%) suggest momentum is cooling. L2/infrastructure tokens are sensitive to broader market sentiment and regulatory developments. Annualized 14-day forecast of 0.42 reflects bull conditions tempered by momentum fade and elevated volatility risk. Confidence moderate (0.65) due to macro uncertainty and limited protocol fundamentals for these infrastructure tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bull market regime with strong 30-day momentum (+19.60%) and excellent Sharpe ratio (3.42) support positive outlook. However, recent deceleration (7-day: +5.08%, 14-day: +1.11%) and high volatility (48.2%) suggest momentum is cooling. L2/infrastructure tokens are sensitive to broader market sentiment and regulatory developments. Annualized 14-day forecast of 0.42 reflects bull conditions tempered by momentum fade and elevated volatility risk. Confidence moderate (0.65) due to macro uncertainty and limited protocol fundamentals for these infrastructure tokens.\"\n}\n```",
+  "date": "2024-03-02",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:37.240915+00:00"
+}

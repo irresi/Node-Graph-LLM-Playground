@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -19.9% TVL decline and -17.46% 30-day cluster loss. However, positive 14-day momentum (+2.18%) and 7-day consolidation (-5.85%) suggest potential stabilization or brief relief rally. High volatility (110% annualized) and negative Sharpe ratio (-1.33) indicate elevated risk. LINK, OP, ENS, GRT are infrastructure/oracle tokens with limited TVL data, making fundamental analysis difficult. Expected 14-day return annualized to -45%, but low confidence (0.35) due to regime uncertainty and lack of protocol metrics. Near-term technicals are mixed, but macro headwinds dominate.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -19.9% TVL decline and -17.46% 30-day cluster loss. However, positive 14-day momentum (+2.18%) and 7-day consolidation (-5.85%) suggest potential stabilization or brief relief rally. High volatility (110% annualized) and negative Sharpe ratio (-1.33) indicate elevated risk. LINK, OP, ENS, GRT are infrastructure/oracle tokens with limited TVL data, making fundamental analysis difficult. Expected 14-day return annualized to -45%, but low confidence (0.35) due to regime uncertainty and lack of protocol metrics. Near-term technicals are mixed, but macro headwinds dominate.\"\n}\n```",
+  "date": "2022-11-23",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:44.093177+00:00"
+}

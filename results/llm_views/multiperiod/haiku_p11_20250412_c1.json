@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.55,
+  "reasoning": "Cluster 1 faces headwinds from a moderate bear market regime (-7.1% DeFi TVL decline) and poor recent performance (-9.18% over 30 days, -6.54% over 14 days). However, recent 7-day momentum shows +0.15% recovery, suggesting potential short-term stabilization. The high annualized volatility (82.5%) and negative Sharpe ratio (-0.93) indicate elevated downside risk. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL metrics but are sentiment-sensitive. Over the next 14 days, I expect continued near-term weakness as the bear regime persists, with modest annualized returns around -28%. Medium confidence reflects the volatile nature of these tokens and uncertainty around market regime reversal.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 1 faces headwinds from a moderate bear market regime (-7.1% DeFi TVL decline) and poor recent performance (-9.18% over 30 days, -6.54% over 14 days). However, recent 7-day momentum shows +0.15% recovery, suggesting potential short-term stabilization. The high annualized volatility (82.5%) and negative Sharpe ratio (-0.93) indicate elevated downside risk. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL metrics but are sentiment-sensitive. Over the next 14 days, I expect continued near-term weakness as the bear regime persists, with modest annualized returns around -28%. Medium confidence reflects the volatile nature of these tokens and uncertainty around market regime reversal.\"\n}\n```\n\n**Key factors:**\n- **Negative regime**: Overall DeFi TVL declining suggests reduced investor appetite\n- **Weak momentum**: 14-day return (-6.54%) outweighs limited 7-day recovery\n- **High volatility**: 82.5% annualized volatility creates significant uncertainty\n- **Limited upside catalysts**: No strong protocol fundamentals or TVL growth to drive recovery\n- **Stabilization signals**: Small positive 7-day return provides slight optimism, reducing confidence penalty",
+  "date": "2025-04-13",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:52.797449+00:00"
+}

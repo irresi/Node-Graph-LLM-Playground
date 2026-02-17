@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (DEX/Lending) shows strong 30-day momentum (+11.55%) in a moderate bull market with improving TVL (+8.1%). However, recent deceleration is notable: 14-day return (+0.36%) significantly lags 30-day, suggesting momentum fade. Mixed protocol fundamentals with CAKE's declining TVL (-3.7%) offset gains from UNI (+10.9%) and SUSHI (+13.9%). High volatility (43.4% annualized) and -12% max drawdown indicate elevated risk. The strong 7-day rebound (+9.69%) provides modest near-term support, but extrapolating the decelerating trend suggests normalized returns. Annualized forecast of 28% assumes partial recovery of 30-day momentum with mean reversion toward fundamentals over 14 days. Confidence moderate due to momentum divergence and protocol heterogeneity.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 (DEX/Lending) shows strong 30-day momentum (+11.55%) in a moderate bull market with improving TVL (+8.1%). However, recent deceleration is notable: 14-day return (+0.36%) significantly lags 30-day, suggesting momentum fade. Mixed protocol fundamentals with CAKE's declining TVL (-3.7%) offset gains from UNI (+10.9%) and SUSHI (+13.9%). High volatility (43.4% annualized) and -12% max drawdown indicate elevated risk. The strong 7-day rebound (+9.69%) provides modest near-term support, but extrapolating the decelerating trend suggests normalized returns. Annualized forecast of 28% assumes partial recovery of 30-day momentum with mean reversion toward fundamentals over 14 days. Confidence moderate due to momentum divergence and protocol heterogeneity.\"\n}\n```",
+  "date": "2023-02-21",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:55.925811+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with severe recent drawdown (-19.71% in 30d, -8.46% in 14d). High volatility (56.3% annualized) and negative Sharpe ratio (-2.94) indicate risk-adjusted losses. Mixed protocol fundamentals (COMP +3.1% TVL vs SNX -23% TVL) suggest weakness in derivatives/staking sectors. Negative momentum (7d: -5.84%) and declining overall TVL (-1.1%) point to continued headwinds. 14-day forward return forecast conservatively assumes mean reversion from recent steep declines but remains bearish given macro conditions. Moderate confidence due to unpredictability of sharp reversals in bear markets and cluster composition across heterogeneous protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with severe recent drawdown (-19.71% in 30d, -8.46% in 14d). High volatility (56.3% annualized) and negative Sharpe ratio (-2.94) indicate risk-adjusted losses. Mixed protocol fundamentals (COMP +3.1% TVL vs SNX -23% TVL) suggest weakness in derivatives/staking sectors. Negative momentum (7d: -5.84%) and declining overall TVL (-1.1%) point to continued headwinds. 14-day forward return forecast conservatively assumes mean reversion from recent steep declines but remains bearish given macro conditions. Moderate confidence due to unpredictability of sharp reversals in bear markets and cluster composition across heterogeneous protocols.\"\n}\n```",
+  "date": "2025-01-27",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:46.017903+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with strong downtrend (-20.82% over 14 days, -12.98% over 30 days) and negative momentum (-3.81% in last 7 days). TVL fundamentals mixed: UNI showing resilience (+2.9%), but CAKE severely declining (-15.2%). Cluster volatility of 38.9% is elevated. Negative Sharpe ratio (-2.81) indicates risk-adjusted returns are poor. Expected 14-day return of approximately -2.4% annualizes to -0.85. Moderate confidence due to uncertain duration of bear regime and potential for mean reversion, but near-term headwinds appear significant.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong downtrend (-20.82% over 14 days, -12.98% over 30 days) and negative momentum (-3.81% in last 7 days). TVL fundamentals mixed: UNI showing resilience (+2.9%), but CAKE severely declining (-15.2%). Cluster volatility of 38.9% is elevated. Negative Sharpe ratio (-2.81) indicates risk-adjusted returns are poor. Expected 14-day return of approximately -2.4% annualizes to -0.85. Moderate confidence due to uncertain duration of bear regime and potential for mean reversion, but near-term headwinds appear significant.\"\n}\n```",
+  "date": "2023-05-02",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:01.434464+00:00"
+}

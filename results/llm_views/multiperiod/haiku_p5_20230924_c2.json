@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.58,
+  "reasoning": "Cluster 2 (CRV/CVX) shows strong recent momentum with 14-day return of +17.33% and positive 7-day performance (+14.54%), supporting near-term bullish continuation. However, several headwinds limit confidence: (1) Bear market regime with declining overall DeFi TVL (-3.4% 30d), (2) Both tokens experiencing TVL outflows (CRV -12.5%, CVX -10.6%), (3) Elevated volatility (44% annualized) and severe drawdown (-17.4%) suggest fragile momentum, (4) Mean reversion risk after outsized recent gains. The 0.42 annualized return (\u22482.3% over 14 days) assumes continued but decelerating momentum with increased probability of pullback. Strong recent Sharpe ratio (1.65) is encouraging but may not persist in bear regime. High volatility and TVL deterioration justify moderate-to-low confidence despite positive technicals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 2 (CRV/CVX) shows strong recent momentum with 14-day return of +17.33% and positive 7-day performance (+14.54%), supporting near-term bullish continuation. However, several headwinds limit confidence: (1) Bear market regime with declining overall DeFi TVL (-3.4% 30d), (2) Both tokens experiencing TVL outflows (CRV -12.5%, CVX -10.6%), (3) Elevated volatility (44% annualized) and severe drawdown (-17.4%) suggest fragile momentum, (4) Mean reversion risk after outsized recent gains. The 0.42 annualized return (\u22482.3% over 14 days) assumes continued but decelerating momentum with increased probability of pullback. Strong recent Sharpe ratio (1.65) is encouraging but may not persist in bear regime. High volatility and TVL deterioration justify moderate-to-low confidence despite positive technicals.\"\n}\n```",
+  "date": "2023-09-25",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:21.591618+00:00"
+}

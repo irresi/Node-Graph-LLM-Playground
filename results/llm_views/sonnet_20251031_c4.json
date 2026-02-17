@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.72,
+  "expected_return": -0.42,
   "confidence": 0.62,
-  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is under severe bearish pressure with a -34.51% 30-day return, -2.69 Sharpe, and a max drawdown of -35.4%. The broader DeFi market is in a strong downtrend with TVL contracting -11.3%. Short-term momentum shows slight deceleration (-5.76% over 7d vs -5.98% over 14d), suggesting the pace of decline may be marginally stabilizing but no meaningful reversal signal is present. Annualizing the recent 14-day return of ~-6% yields approximately -72% annualized. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL backing, making them more vulnerable to sentiment-driven selling. LINK has some fundamental grounding as a leading oracle but offers no near-term catalyst. Confidence is moderate (0.62) given high volatility (107.6% annualized) and the potential for short-term mean reversion or macro-driven relief rallies that are difficult to time.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is under severe bearish pressure with a -34.51% 30-day return, -2.69 Sharpe, and a max drawdown of -35.4%. The broader DeFi market is in a strong downtrend with TVL contracting -11.3%. Short-term momentum shows slight deceleration (-5.76% over 7d vs -5.98% over 14d), suggesting the pace of decline may be marginally stabilizing but no meaningful reversal signal is present. Annualizing the recent 14-day return of ~-6% yields approximately -72% annualized. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL backing, making them more vulnerable to sentiment-driven selling. LINK has some fundamental grounding as a leading oracle but offers no near-term catalyst. Confidence is moderate (0.62) given high volatility (107.6% annualized) and the potential for short-term mean reversion or macro-driven relief rallies that are difficult to time.\"}\n```",
-  "date": "2025-10-31",
+  "reasoning": "BAL faces strong headwinds across all key indicators: bear market regime with DeFi TVL down 12.5% over 30 days, BAL-specific TVL collapsing -22.3% in 30 days signaling capital flight from the protocol, and a deeply negative Sharpe ratio of -1.89 reflecting poor risk-adjusted performance. The 30-day return of -15.52% with a max drawdown of -21.6% confirms sustained selling pressure. The only mildly constructive signal is the 14-day return of +0.20%, suggesting a very brief consolidation, but this is insufficient to overcome the dominant bear trend. Annualizing the 30-day momentum trajectory (-15.52% \u00d7 12) yields approximately -186% annualized, though mean-reversion and volatility clustering temper the extreme projection. Given 69.1% annualized volatility, a moderate bearish forecast of -42% annualized is applied, reflecting persistent downtrend with some probability of short-term bounce. Confidence is moderate at 0.62 \u2014 bear trend is clear but the 14-day micro-bounce introduces uncertainty about whether a temporary relief rally could distort the 14-day forward window.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL faces strong headwinds across all key indicators: bear market regime with DeFi TVL down 12.5% over 30 days, BAL-specific TVL collapsing -22.3% in 30 days signaling capital flight from the protocol, and a deeply negative Sharpe ratio of -1.89 reflecting poor risk-adjusted performance. The 30-day return of -15.52% with a max drawdown of -21.6% confirms sustained selling pressure. The only mildly constructive signal is the 14-day return of +0.20%, suggesting a very brief consolidation, but this is insufficient to overcome the dominant bear trend. Annualizing the 30-day momentum trajectory (-15.52% \u00d7 12) yields approximately -186% annualized, though mean-reversion and volatility clustering temper the extreme projection. Given 69.1% annualized volatility, a moderate bearish forecast of -42% annualized is applied, reflecting persistent downtrend with some probability of short-term bounce. Confidence is moderate at 0.62 \u2014 bear trend is clear but the 14-day micro-bounce introduces uncertainty about whether a temporary relief rally could distort the 14-day forward window.\"}\n```",
+  "date": "2025-11-01",
   "cluster_id": 4,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "balancer"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:14:21.584589+00:00",
+  "generated_at": "2026-02-17T16:04:17.229857+00:00",
   "enriched": false
 }

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 (MKR) faces headwinds from bear market regime with -9.6% DeFi TVL decline and -13.1% protocol TVL erosion. Recent 14-day return of -6.56% suggests downward momentum, but the negative Sharpe ratio (-0.48) and high volatility (79%) indicate risk-adjusted returns are poor. However, MKR's concentration in a single lending token and recent stabilization (7-day return -0.84% vs 30-day -4.49%) suggest potential for recovery. Moderate confidence due to macro bear conditions offsetting any protocol fundamentals improvement.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 2 (MKR) faces headwinds from bear market regime with -9.6% DeFi TVL decline and -13.1% protocol TVL erosion. Recent 14-day return of -6.56% suggests downward momentum, but the negative Sharpe ratio (-0.48) and high volatility (79%) indicate risk-adjusted returns are poor. However, MKR's concentration in a single lending token and recent stabilization (7-day return -0.84% vs 30-day -4.49%) suggest potential for recovery. Moderate confidence due to macro bear conditions offsetting any protocol fundamentals improvement.\"\n}\n```",
+  "date": "2024-07-11",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:59.553264+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "MKR faces headwinds from bear market regime (-8.1% TVL decline), negative 14-day momentum (-18.82%), and significant TVL contraction (-14.6% in 30d). The 7-day return of -5.97% suggests continued downward pressure. While the 30-day +3.06% return shows some resilience, recent deceleration is concerning. High volatility (89.1%) and weak Sharpe ratio (0.29) indicate elevated risk. Annualized projection from current 14-day trend suggests negative returns, though low confidence reflects MKR's tendency for volatile reversals and the possibility of market stabilization. The lending protocol category faces refinancing pressures in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR faces headwinds from bear market regime (-8.1% TVL decline), negative 14-day momentum (-18.82%), and significant TVL contraction (-14.6% in 30d). The 7-day return of -5.97% suggests continued downward pressure. While the 30-day +3.06% return shows some resilience, recent deceleration is concerning. High volatility (89.1%) and weak Sharpe ratio (0.29) indicate elevated risk. Annualized projection from current 14-day trend suggests negative returns, though low confidence reflects MKR's tendency for volatile reversals and the possibility of market stabilization. The lending protocol category faces refinancing pressures in bear markets.\"\n}\n```",
+  "date": "2024-04-18",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:27.142387+00:00"
+}

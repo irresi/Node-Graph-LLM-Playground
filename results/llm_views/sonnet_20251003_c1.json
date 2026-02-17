@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.72,
-  "confidence": 0.62,
-  "reasoning": "CAKE/PancakeSwap shows strong momentum with +25.45% 30-day return and impressive Sharpe ratio of 2.60, indicating risk-adjusted performance is excellent. TVL growth of +15.7% to $2.53B signals robust protocol fundamentals and user adoption. The 7-day return of +17.99% suggests accelerating momentum into the forecast window. However, annualized volatility of 82.1% and a max drawdown of -17.9% highlight significant downside risk, warranting some return moderation from raw momentum extrapolation. The moderate bull market regime supports continued positive drift. Forecasting ~72% annualized return (implying ~2.5% over 14 days) reflects mean-reversion pressure on the recent outsized gains while still capturing positive momentum in a supportive macro DeFi environment (+4.7% TVL growth). Confidence is moderate at 0.62 due to single-token cluster concentration risk and elevated volatility making short-term directionality uncertain.",
-  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.62, \"reasoning\": \"CAKE/PancakeSwap shows strong momentum with +25.45% 30-day return and impressive Sharpe ratio of 2.60, indicating risk-adjusted performance is excellent. TVL growth of +15.7% to $2.53B signals robust protocol fundamentals and user adoption. The 7-day return of +17.99% suggests accelerating momentum into the forecast window. However, annualized volatility of 82.1% and a max drawdown of -17.9% highlight significant downside risk, warranting some return moderation from raw momentum extrapolation. The moderate bull market regime supports continued positive drift. Forecasting ~72% annualized return (implying ~2.5% over 14 days) reflects mean-reversion pressure on the recent outsized gains while still capturing positive momentum in a supportive macro DeFi environment (+4.7% TVL growth). Confidence is moderate at 0.62 due to single-token cluster concentration risk and elevated volatility making short-term directionality uncertain.\"}\n```",
-  "date": "2025-10-03",
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster 1 (infrastructure/oracle/L2 tokens) presents mixed signals: the broader DeFi market is healthy with +8.2% TVL growth, and the recent 7-day bounce of +7.00% suggests short-term momentum recovery. However, the 30-day return of -4.52%, a Sharpe ratio of -0.74, and a steep max drawdown of -21.7% indicate underlying weakness and elevated risk. The neutral/range-bound market regime limits upside conviction. The 14-day return of -6.52% vs. the 7-day +7.00% suggests high choppiness rather than a sustained trend. Annualizing a modest positive outlook (~0.5% over 14 days) given the tentative recovery, but confidence remains low given the high volatility (51.6% annualized), lack of TVL fundamentals for most tokens, and the conflicting short- vs. medium-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Cluster 1 (infrastructure/oracle/L2 tokens) presents mixed signals: the broader DeFi market is healthy with +8.2% TVL growth, and the recent 7-day bounce of +7.00% suggests short-term momentum recovery. However, the 30-day return of -4.52%, a Sharpe ratio of -0.74, and a steep max drawdown of -21.7% indicate underlying weakness and elevated risk. The neutral/range-bound market regime limits upside conviction. The 14-day return of -6.52% vs. the 7-day +7.00% suggests high choppiness rather than a sustained trend. Annualizing a modest positive outlook (~0.5% over 14 days) given the tentative recovery, but confidence remains low given the high volatility (51.6% annualized), lack of TVL fundamentals for most tokens, and the conflicting short- vs. medium-term momentum signals.\"}\n```",
+  "date": "2025-10-04",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:12:01.124364+00:00",
+  "generated_at": "2026-02-17T16:02:30.745428+00:00",
   "enriched": false
 }

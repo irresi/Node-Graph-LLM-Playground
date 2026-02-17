@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows positive 30-day momentum (+8.89%) with strong Sharpe ratio (1.99), but recent 7-day decline (-1.10%) and neutral market regime suggest consolidation. High volatility (37.6%) and lack of TVL data for most tokens limit confidence. Near-term outlook cautiously positive but uncertain given range-bound market conditions and infrastructure/L2 token sensitivity to macro sentiment.",
+  "raw_response": "Based on the market context and cluster analysis for Cluster 4 (LINK, OP, ARB, ENS, GRT), here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows positive 30-day momentum (+8.89%) with strong Sharpe ratio (1.99), but recent 7-day decline (-1.10%) and neutral market regime suggest consolidation. High volatility (37.6%) and lack of TVL data for most tokens limit confidence. Near-term outlook cautiously positive but uncertain given range-bound market conditions and infrastructure/L2 token sensitivity to macro sentiment.\"\n}\n```\n\n**Key Reasoning:**\n- **Positive factors**: 30-day return of +8.89%, Sharpe ratio of 1.99 indicates good risk-adjusted returns, manageable max drawdown of -7.5%\n- **Negative factors**: 7-day pullback of -1.10% suggests momentum loss, neutral/range-bound market regime limits upside, high volatility (37.6%) increases risk\n- **Confidence moderation**: Lack of TVL protocol data for most tokens (OP, ARB, ENS, GRT are infrastructure/L2 tokens without DeFi-specific metrics), and the recent bearish turn within the bullish 30-day trend creates uncertainty\n- **Annualization**: The moderate 14-day forecast extrapolates to ~12% annualized return, balancing the strong historical Sharpe ratio against current headwinds",
+  "date": "2023-08-07",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:29.116274+00:00"
+}

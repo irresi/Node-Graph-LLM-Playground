@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster faces headwinds from bear market regime (-6.95% in last 7 days) and negative Sharpe ratio (-0.62), partially offset by recent 14-day bounce (+1.40%) and AAVE's strong TVL growth (+13.9%). High volatility (70.8%) and max drawdown (-17.6%) limit confidence. Mixed momentum with TVL growth in major protocols (UNI, AAVE, SUSHI) suggests some protocol strength, but overall bearish trend dominance and weak risk-adjusted returns point to continued downside pressure. Forecasting modestly negative returns annualized to ~-18% based on recent 7-day trajectory and bear regime persistence.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster faces headwinds from bear market regime (-6.95% in last 7 days) and negative Sharpe ratio (-0.62), partially offset by recent 14-day bounce (+1.40%) and AAVE's strong TVL growth (+13.9%). High volatility (70.8%) and max drawdown (-17.6%) limit confidence. Mixed momentum with TVL growth in major protocols (UNI, AAVE, SUSHI) suggests some protocol strength, but overall bearish trend dominance and weak risk-adjusted returns point to continued downside pressure. Forecasting modestly negative returns annualized to ~-18% based on recent 7-day trajectory and bear regime persistence.\"\n}\n```",
+  "date": "2025-09-20",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:12.933503+00:00"
+}

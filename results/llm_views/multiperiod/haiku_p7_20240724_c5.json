@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "Cluster down 16.7% in 30 days but stabilizing (14d return -0.75%). Bear market regime limits upside, but extreme drawdown suggests potential bounce-back. AAVE fundamentals positive. High volatility (60.6%) and negative Sharpe ratio (-2.32) warrant low-to-moderate confidence. Modeling mild mean reversion over 14 days in volatile environment.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Bear market regime with strong downtrend\n- Overall DeFi TVL flat to slightly negative (-0.4% 30d)\n- This cluster heavily weighted toward mature protocols (UNI, AAVE, CRV)\n\n**Cluster Performance Signals:**\n- 30-day return: -16.72% (significant drawdown)\n- 7-day return: -7.83% (continued weakness)\n- 14-day return: -0.75% (recent stabilization/bounce signal)\n- Volatility: 60.6% annualized (high but typical for DeFi)\n- Sharpe ratio: -2.32 (negative risk-adjusted returns)\n- Max drawdown: -23.7% (already experienced major decline)\n\n**Protocol Fundamentals:**\n- Mixed signals: AAVE TVL up +6.0% (bullish), but most others declining\n- Large, established protocols with institutional interest (UNI, AAVE, CRV)\n- Combined TVL across measured protocols: ~$23.1B (substantial)\n\n**Key Observations:**\n1. The cluster has already experienced a -23.7% max drawdown, suggesting we may be near capitulation\n2. The 14-day return of -0.75% shows recent stabilization vs. the -7.83% 7-day decline\n3. In bear markets with high volatility, mean reversion and bounce-back trades are common\n4. However, the overall market regime remains bearish\n\n**Forecast Rationale:**\nGiven the extreme negative recent performance, the cluster is likely to experience some technical bounce-back over the next 14 days. However, the bearish regime limits upside. I'm modeling a modest recovery reflecting mean reversion in a volatile environment, with limited confidence given macro headwinds.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Cluster down 16.7% in 30 days but stabilizing (14d return -0.75%). Bear market regime limits upside, but extreme drawdown suggests potential bounce-back. AAVE fundamentals positive. High volatility (60.6%) and negative Sharpe ratio (-2.32) warrant low-to-moderate confidence. Modeling mild mean reversion over 14 days in volatile environment.\"}\n```",
+  "date": "2024-07-25",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:43.535812+00:00"
+}

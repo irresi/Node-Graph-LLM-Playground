@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster in severe bear market with -26.05% 30-day return and -28.80% 14-day return, indicating strong downward momentum. Infrastructure/Oracle tokens (LINK, OP, ARB, ENS, GRT) typically show high volatility during bear markets. Overall DeFi TVL declining (-4.9% 30-day), suggesting continued headwinds. However, confidence is moderate due to: (1) potential mean reversion after steep declines, (2) limited TVL data for most tokens constraining fundamental analysis, (3) cryptocurrency markets can reverse sharply on macro news or sentiment shifts. The -0.85 annualized return reflects expectation of continued weakness but at a slower pace than recent acceleration, accounting for oversold conditions and potential stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in severe bear market with -26.05% 30-day return and -28.80% 14-day return, indicating strong downward momentum. Infrastructure/Oracle tokens (LINK, OP, ARB, ENS, GRT) typically show high volatility during bear markets. Overall DeFi TVL declining (-4.9% 30-day), suggesting continued headwinds. However, confidence is moderate due to: (1) potential mean reversion after steep declines, (2) limited TVL data for most tokens constraining fundamental analysis, (3) cryptocurrency markets can reverse sharply on macro news or sentiment shifts. The -0.85 annualized return reflects expectation of continued weakness but at a slower pace than recent acceleration, accounting for oversold conditions and potential stabilization.\"\n}\n```",
+  "date": "2023-06-12",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:35.059006+00:00"
+}

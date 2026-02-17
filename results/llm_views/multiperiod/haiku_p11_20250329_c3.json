@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with strong downtrend (-18.74% in 30d, -11.68% in 7d). Recent 14d momentum shows deceleration (-2.03%), suggesting potential stabilization. High volatility (86% annualized) and negative Sharpe ratio (-1.83) indicate elevated risk. DeFi TVL declining (-8.6% 30d) pressures yields. However, the 7d-to-14d improvement suggests momentum exhaustion. Forecast: -45% annualized (approximately -1.7% over 14 days), reflecting continued bearish pressure with modest mean reversion as oversold conditions develop. Moderate confidence due to regime uncertainty and volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with strong downtrend (-18.74% in 30d, -11.68% in 7d). Recent 14d momentum shows deceleration (-2.03%), suggesting potential stabilization. High volatility (86% annualized) and negative Sharpe ratio (-1.83) indicate elevated risk. DeFi TVL declining (-8.6% 30d) pressures yields. However, the 7d-to-14d improvement suggests momentum exhaustion. Forecast: -45% annualized (approximately -1.7% over 14 days), reflecting continued bearish pressure with modest mean reversion as oversold conditions develop. Moderate confidence due to regime uncertainty and volatility.\"\n}\n```",
+  "date": "2025-03-30",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:32.817078+00:00"
+}

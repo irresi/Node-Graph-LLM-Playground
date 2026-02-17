@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.38,
+  "confidence": 0.52,
+  "reasoning": "Positive 14-day momentum (+5.20%) suggests recovery from bear market bottom, supported by stable TVL in major protocols and yield generation (UNI 20.32%, LDO 2.39%). However, bear market regime, negative Sharpe ratio, and recent 7-day pullback (-1.20%) limit upside. High volatility (45.4%) creates uncertainty. Forecast: ~1.4% over 14 days annualized to 38%. Confidence moderate due to macro headwinds and mean reversion risk.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 2 (DEX/Lending/Yield/Derivatives)\n\n**Key Observations:**\n\n1. **Market Regime Context:**\n   - Strong bear market (-1.7% overall DeFi TVL over 30 days)\n   - Cluster down -6.32% over 30 days, but up +5.20% over 14 days\n   - Recent momentum is positive (7-day: -1.20%, showing stabilization)\n   - High volatility (45.4% annualized) with -15% max drawdown\n\n2. **Cluster Composition Analysis:**\n   - Mix of established protocols (AAVE $34.4B TVL, UNI $4.2B, CRV $2.2B)\n   - Several strong performers in staking (LDO $18.7B, RPL $2.7B)\n   - Some weakness in smaller protocols (SUSHI -17.5% 30d change)\n\n3. **Momentum Indicators:**\n   - Positive 14-day return (+5.20%) suggests recovery from bear bottom\n   - Negative Sharpe ratio (-1.17) indicates risk-adjusted returns are poor\n   - 7-day momentum (-1.20%) shows recent pullback from recovery\n\n4. **Fundamental Factors:**\n   - Solid yield generation (weighted by TVL): UNI 20.32%, LDO 2.39%, RPL 2.07%\n   - Governance activity remains active across all protocols\n   - TVL relatively stable with some protocols gaining (CRV +0.7%, AAVE +2.6%)\n   - Large allocations to liquid staking (LDO, RPL) provide yield stability\n\n5. **Forward-Looking Considerations:**\n   - Recovery bounce may face resistance in bear market\n   - 14-day forecast period is short; limited catalysts visible\n   - Yield generation provides some downside support\n   - High volatility creates both risk and opportunity\n\n**Forecast Rationale:**\nGiven the positive 14-day momentum (+5.20%), stabilizing market conditions, and underlying yield generation, I expect modest continued recovery over the next 14 days. However, the bear market regime and recent 7-day pullback suggest caution. The short timeframe and elevated volatility limit confidence.\n\nConverting 14-day expectations to annualized (\u00d726 periods):\n- Conservative recovery scenario: 2-3% over 14 days \u2192 ~52-78% annualized\n- Adjusted for realistic mean reversion and risk: ~1.5% over 14 days \u2192 ~39% annualized\n\n```json\n{\"expected_return\": 0.38, \"confidence\": 0.52, \"reasoning\": \"Positive 14-day momentum (+5.20%) suggests recovery from bear market bottom, supported by stable TVL in major protocols and yield generation (UNI 20.32%, LDO 2.39%). However, bear market regime, negative Sharpe ratio, and recent 7-day pullback (-1.20%) limit upside. High volatility (45.4%) creates uncertainty. Forecast: ~1.4% over 14 days annualized to 38%. Confidence moderate due to macro headwinds and mean reversion risk.\"}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:07.779532+00:00",
+  "enriched": true
+}

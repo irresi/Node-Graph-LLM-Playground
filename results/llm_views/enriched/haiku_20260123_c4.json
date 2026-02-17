@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "BAL has experienced severe 30-day drawdown (-21.63%) despite positive TVL growth (+10.3%) and solid yields (11.95% APY). In a neutral market regime, partial mean reversion is likely over 14 days, but weak recent momentum and high volatility (31.8%) limit confidence. Expect modest recovery driven by valuation attraction and protocol fundamentals, offset by technical selling pressure.",
+  "raw_response": "Based on the provided market context for Cluster 4 (BAL/Balancer), I'll analyze the key factors to forecast the expected 14-day annualized return:\n\n## Analysis\n\n**Negative Momentum Indicators:**\n- 30-day return: -21.63% (significant decline)\n- 7-day return: -9.43% and 14-day return: -8.79% show continued weakness\n- Negative Sharpe ratio (-5.72) indicates poor risk-adjusted returns\n- High volatility (31.8% annualized) with -19.0% max drawdown\n\n**Positive Fundamentals:**\n- TVL growth: +10.3% (30-day), showing protocol usage confidence\n- Healthy yield metrics: 11.95% TVL-weighted avg APY across pools\n- Active governance with 2 ongoing proposals, indicating protocol engagement\n- DeFi market TVL up +3.0%, showing general market recovery\n\n**Market Context:**\n- Neutral/Range-bound regime suggests mean reversion opportunity\n- Cluster has declined significantly, potentially approaching support levels\n- The recent sharp drawdown may be overextended relative to fundamentals\n\n**Forecast Rationale:**\nGiven the severe recent underperformance against positive TVL metrics and yield profile, I expect a partial mean reversion over the next 14 days. However, the negative momentum and high volatility warrant caution. The 11.95% yield provides some downside support, but the token momentum remains weak.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL has experienced severe 30-day drawdown (-21.63%) despite positive TVL growth (+10.3%) and solid yields (11.95% APY). In a neutral market regime, partial mean reversion is likely over 14 days, but weak recent momentum and high volatility (31.8%) limit confidence. Expect modest recovery driven by valuation attraction and protocol fundamentals, offset by technical selling pressure.\"\n}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:46.325750+00:00",
+  "enriched": true
+}

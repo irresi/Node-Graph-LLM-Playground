@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.65,
+  "reasoning": "CVX in strong bear market with -30.41% 30-day return and -18.30% 14-day return. High volatility (87.4% annualized) and negative Sharpe ratio (-2.92) suggest continued downside risk. However, stable TVL (-4.0% change) and moderate yield APY (5.14%) provide some downside support. Governance activity remains active. Forecast reflects bearish momentum continuation with mild recovery offset by structural yield, annualized over 14-day period. Moderate confidence due to extreme volatility and potential oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.65,\n  \"reasoning\": \"CVX in strong bear market with -30.41% 30-day return and -18.30% 14-day return. High volatility (87.4% annualized) and negative Sharpe ratio (-2.92) suggest continued downside risk. However, stable TVL (-4.0% change) and moderate yield APY (5.14%) provide some downside support. Governance activity remains active. Forecast reflects bearish momentum continuation with mild recovery offset by structural yield, annualized over 14-day period. Moderate confidence due to extreme volatility and potential oversold conditions.\"\n}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:23.178298+00:00",
+  "enriched": true
+}

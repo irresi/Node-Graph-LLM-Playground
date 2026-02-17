@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.42,
+  "reasoning": "Bear market regime with -13.56% 30-day return and -3% TVL decline across DeFi. Recent 14-day bounce (+2.61%) suggests short-term oversold conditions, but weak Sharpe ratio (-3.06) and -1.93% 7-day return indicate downtrend resumption likely. AAVE's +2.1% TVL growth is offset by weakness in UNI (-6.1%), CAKE (-11.7%), COMP (-10.5%). High volatility (37.2% annualized) and ongoing bear market suggest continued pressure. Annualized forecast of -28% reflects elevated downside risk with limited upside catalysts, though recent momentum provides modest hedging. Low-to-moderate confidence due to market regime uncertainty and potential for capitulation-driven reversal.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Bear market regime with -13.56% 30-day return and -3% TVL decline across DeFi. Recent 14-day bounce (+2.61%) suggests short-term oversold conditions, but weak Sharpe ratio (-3.06) and -1.93% 7-day return indicate downtrend resumption likely. AAVE's +2.1% TVL growth is offset by weakness in UNI (-6.1%), CAKE (-11.7%), COMP (-10.5%). High volatility (37.2% annualized) and ongoing bear market suggest continued pressure. Annualized forecast of -28% reflects elevated downside risk with limited upside catalysts, though recent momentum provides modest hedging. Low-to-moderate confidence due to market regime uncertainty and potential for capitulation-driven reversal.\"\n}\n```",
+  "date": "2026-01-02",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:25.882883+00:00"
+}

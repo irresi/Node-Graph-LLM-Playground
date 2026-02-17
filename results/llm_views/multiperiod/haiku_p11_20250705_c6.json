@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "YFI shows strong recent momentum (+8.18% over 14 days, +0.34% over 7 days) and exceptional TVL growth (+40.7% in 30 days), suggesting positive fundamental developments. However, confidence is tempered by: (1) the overall bear market regime limiting upside potential, (2) high volatility (49.2% annualized) creating significant downside risk, (3) the 30-day return of exactly 0% suggesting recent gains may be mean-reverting, and (4) single-token cluster concentration risk. The annualized forecast reflects the recent 14-day trajectory while accounting for bear market headwinds and volatility. Low-to-moderate confidence reflects elevated uncertainty in a weak macro environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"YFI shows strong recent momentum (+8.18% over 14 days, +0.34% over 7 days) and exceptional TVL growth (+40.7% in 30 days), suggesting positive fundamental developments. However, confidence is tempered by: (1) the overall bear market regime limiting upside potential, (2) high volatility (49.2% annualized) creating significant downside risk, (3) the 30-day return of exactly 0% suggesting recent gains may be mean-reverting, and (4) single-token cluster concentration risk. The annualized forecast reflects the recent 14-day trajectory while accounting for bear market headwinds and volatility. Low-to-moderate confidence reflects elevated uncertainty in a weak macro environment.\"\n}\n```",
+  "date": "2025-07-06",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:48.412056+00:00"
+}

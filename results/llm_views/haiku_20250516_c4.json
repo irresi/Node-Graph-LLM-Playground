@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong 30-day momentum (+31.36%) in a moderate bull market with excellent risk-adjusted returns (Sharpe 3.28). However, recent 7-day pullback (-1.13%) suggests momentum may be consolidating. The 14-day return (+10.49%) indicates continued strength but decelerating gains. Extrapolating the 14-day momentum (~+10.49%) to annualized would yield ~+175%, but mean-reversion mechanics and the recent weekly decline warrant conservative moderation. Given the strong recent performance, positive market regime, but lack of TVL protocol data and emerging deceleration signals, a 42% annualized return reflects the cluster's growth trajectory while accounting for reduced conviction on continued outperformance. Confidence is moderate due to limited fundamental visibility on most L2/infrastructure tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong 30-day momentum (+31.36%) in a moderate bull market with excellent risk-adjusted returns (Sharpe 3.28). However, recent 7-day pullback (-1.13%) suggests momentum may be consolidating. The 14-day return (+10.49%) indicates continued strength but decelerating gains. Extrapolating the 14-day momentum (~+10.49%) to annualized would yield ~+175%, but mean-reversion mechanics and the recent weekly decline warrant conservative moderation. Given the strong recent performance, positive market regime, but lack of TVL protocol data and emerging deceleration signals, a 42% annualized return reflects the cluster's growth trajectory while accounting for reduced conviction on continued outperformance. Confidence is moderate due to limited fundamental visibility on most L2/infrastructure tokens.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:06.848300+00:00",
+  "enriched": false
+}

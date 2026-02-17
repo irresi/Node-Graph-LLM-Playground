@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.62,
+  "confidence": 0.58,
+  "reasoning": "Strong bear market regime with cluster underperforming -27.6% in 30d. Negative momentum (-6.64% 7d, -8.67% 14d), deteriorating TVL across all protocols, and high volatility (90.4%) suggest continued decline. Annualized -62% reflects ~4.3% weekly decline extrapolated. Moderate confidence due to high volatility and potential mean reversion rallies offsetting directional weakness. Bear regime dominates, but extreme oversold conditions create uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected 14-day return.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Strong bear market regime with -17% TVL decline over 30 days\n- Cluster significantly underperforming: -27.6% in 30 days vs -17% market TVL decline\n- Recent momentum is deeply negative: -6.64% (7d), -8.67% (14d)\n- Very high volatility (90.4% annualized) and negative Sharpe ratio (-2.57)\n\n**Cluster Composition Analysis:**\n- Weighted heavily toward LDO (liquid staking): $27.1B TVL (largest position)\n- DEX tokens (UNI, SUSHI): moderate positions, both down ~19-21%\n- Derivatives/infrastructure (SNX, RPL): more volatile, SNX severely down -49.6%\n- The cluster is concentrated in protocol-level infrastructure heavily impacted by market downturns\n\n**Key Observations:**\n1. **Momentum**: Consecutive negative returns suggest continued selling pressure\n2. **Volatility**: 90.4% annualized volatility indicates significant intra-period swings possible\n3. **Regime**: Bear market with technical breakdown - typically leads to continued weakness\n4. **Relative weakness**: Cluster down -27.6% vs market -17%, showing sector-specific pressure\n5. **TVL deterioration**: All components showing negative 30d TVL changes, indicating reduced protocol usage/adoption\n\n**Risk Factors:**\n- Potential for oversold bounce (high volatility could create mean reversion)\n- But underlying negative TVL trends suggest fundamental weakness\n- Bear market typically accelerates in prolonged downtrends\n\n**Forecast Rationale:**\nIn a strong bear regime with negative momentum and sector-specific weakness, I expect continued downward pressure over the next 14 days. However, the extreme volatility and oversold conditions may provide some intra-period relief rallies. The 14-day return has been -8.67%, suggesting a continuation at similar or slightly worse rates.\n\n```json\n{\n  \"expected_return\": -0.62,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Strong bear market regime with cluster underperforming -27.6% in 30d. Negative momentum (-6.64% 7d, -8.67% 14d), deteriorating TVL across all protocols, and high volatility (90.4%) suggest continued decline. Annualized -62% reflects ~4.3% weekly decline extrapolated. Moderate confidence due to high volatility and potential mean reversion rallies offsetting directional weakness. Bear regime dominates, but extreme oversold conditions create uncertainty.\"\n}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:43:07.458028+00:00",
+  "enriched": false
+}

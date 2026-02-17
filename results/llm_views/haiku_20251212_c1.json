@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.02,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime and negative momentum weigh heavily, but CAKE's TVL growth (+2.1%) and decelerating losses suggest potential stabilization. 14-day horizon may allow partial recovery, but high volatility and poor Sharpe ratio limit confidence. Modest positive return expected due to short timeframe and potential oversold conditions.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze this to forecast the expected annualized return for Cluster 1 (CAKE) over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n1. **Market Regime**: Bear market with strong downtrend (-1.3% TVL change in DeFi overall)\n2. **Recent Performance**: \n   - 30-day return: -10.82%\n   - 14-day return: -8.00%\n   - 7-day return: -2.94%\n   - Trend: Deceleration in losses (weekly losses declining)\n\n3. **CAKE Protocol Health**: \n   - TVL increasing (+2.1% in 30 days) - positive fundamental signal\n   - Maintains $2,627M TVL despite bear market\n   - Shows relative strength vs. broader market\n\n4. **Risk Metrics**:\n   - High volatility (54.4% annualized)\n   - Negative Sharpe ratio (-1.67) indicates poor risk-adjusted returns\n   - Max drawdown of -14.2% shows significant downside risk\n\n5. **Momentum Signal**: The deceleration in losses (7-day losses of -2.94% vs. 14-day of -8.00%) suggests potential stabilization or bottoming pattern\n\n**Forecast Rationale:**\n- The bear market regime and negative Sharpe ratio suggest continued downside pressure\n- However, CAKE's protocol TVL growth (+2.1%) is a bullish divergence\n- The recent deceleration in losses suggests momentum may be shifting\n- Over 14 days specifically, expect mean reversion toward 0 or modest positive returns\n- High volatility and bear market backdrop warrant moderate confidence\n\n```json\n{\"expected_return\": 0.02, \"confidence\": 0.35, \"reasoning\": \"Bear market regime and negative momentum weigh heavily, but CAKE's TVL growth (+2.1%) and decelerating losses suggest potential stabilization. 14-day horizon may allow partial recovery, but high volatility and poor Sharpe ratio limit confidence. Modest positive return expected due to short timeframe and potential oversold conditions.\"}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:43:55.187326+00:00",
+  "enriched": false
+}

@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "I'll analyze both the Bull and Bear arguments against the analyst reports to produce a calibrated forecast.\n\nLet me structure my synthesis:\n\n**Key Data Points (Objective):**\n- 30-day cluster return: +",
+  "n_agents": 12,
+  "date": "2025-07-26 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

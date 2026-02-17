@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bull researcher conceded the data is legitimately bearish, while bear researcher presented a coherent structural decline the",
+  "n_agents": 12,
+  "date": "2025-12-27 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

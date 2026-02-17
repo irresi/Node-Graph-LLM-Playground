@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Strong TVL growth and bull market regime support continued outperformance, but recent 54.21% 14-day return faces mean reversion pressure. 75.6% volatility and -8.5% max drawdown indicate downside risk. Forecasting +18% annualized return (0.34% 14-day equivalent) with moderate confidence reflecting momentum sustainability uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Positive Factors:**\n1. **Strong Recent Momentum**: 14-day return of +54.21% and 7-day return of +37.85% indicate sustained upward momentum\n2. **Bull Market Regime**: Strong uptrend with moderate volatility suggests favorable market conditions\n3. **TVL Growth**: All three protocols showing significant TVL increases (LDO +48.6%, SUSHI +51.3%, CRV +16.5%)\n4. **Exceptional Sharpe Ratio**: 4.96 indicates excellent risk-adjusted returns\n5. **Overall DeFi Growth**: +33.9% TVL growth across DeFi suggests sector tailwinds\n\n**Risk/Caution Factors:**\n1. **Mean Reversion Risk**: Recent 54.21% 14-day return is exceptionally strong and may face consolidation\n2. **High Volatility**: 75.6% annualized volatility indicates significant price swings\n3. **Extraction Risk**: With such strong recent performance, profit-taking is likely\n4. **Max Drawdown**: -8.5% shows meaningful downside can occur even in bull markets\n5. **Valuation Stretch**: After +44.63% monthly return, tokens may be overbought\n\n**Forecast Methodology:**\n- The cluster's recent 14-day return of +54.21% annualizes to ~1.37 (assuming continued performance)\n- However, mean reversion dynamics suggest this exceptional pace is unsustainable\n- Applying a conservative adjustment for momentum loss and profit-taking\n- The strong fundamentals (TVL growth) support continued outperformance, but at a moderated rate\n- Expected performance: modest positive but significantly below recent trend\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Strong TVL growth and bull market regime support continued outperformance, but recent 54.21% 14-day return faces mean reversion pressure. 75.6% volatility and -8.5% max drawdown indicate downside risk. Forecasting +18% annualized return (0.34% 14-day equivalent) with moderate confidence reflecting momentum sustainability uncertainty.\"\n}\n```",
+  "date": "2025-07-20",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:15.282098+00:00"
+}

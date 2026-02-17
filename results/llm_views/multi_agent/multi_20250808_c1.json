@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "I appreciate the transparency from all contributors. Let me synthesize this debate objectively.\n\n## Key Observations\n\n**Data Quality Issues:**\n- All three analysts acknowledge incomplete information\n-",
+  "n_agents": 6,
+  "date": "2025-08-09 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

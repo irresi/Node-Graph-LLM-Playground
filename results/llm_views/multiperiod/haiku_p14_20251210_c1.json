@@ -1,0 +1,30 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Strong bearish regime with -30.23% 30-day loss and -6.06% recent 7-day decline indicate sustained downward momentum. However, AAVE (+3.6%) and CRV (+1.9%) show stabilization within the cluster, suggesting some protocols are finding support. Elevated 58.9% volatility and -4.31 Sharpe ratio reflect poor risk-adjusted returns. Over 14 days in this bear market with weak momentum, expecting continued weakness annualized to -85%. Confidence moderated due to potential mean reversion and protocol-level divergences, but downtrend momentum is clear.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bearish regime with -30.23% 30-day loss and -6.06% recent 7-day decline indicate sustained downward momentum. However, AAVE (+3.6%) and CRV (+1.9%) show stabilization within the cluster, suggesting some protocols are finding support. Elevated 58.9% volatility and -4.31 Sharpe ratio reflect poor risk-adjusted returns. Over 14 days in this bear market with weak momentum, expecting continued weakness annualized to -85%. Confidence moderated due to potential mean reversion and protocol-level divergences, but downtrend momentum is clear.\"\n}\n```",
+  "date": "2025-12-11",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:29.523852+00:00"
+}

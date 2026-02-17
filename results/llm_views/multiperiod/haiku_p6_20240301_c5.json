@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime with strong 30-day momentum (+33.41%) and excellent Sharpe ratio (5.32) support positive outlook. However, recent 7-day pullback (-1.35%) and moderate max drawdown (-5.5%) suggest momentum may be consolidating. TVL growth remains solid (25-26% for both tokens). 14-day forward forecast of +18% annualized reflects mean reversion from exceptional 30-day performance while maintaining bullish bias. Confidence moderated due to recent momentum deceleration and inherent volatility in DEX tokens (52.8% annualized).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bull market regime with strong 30-day momentum (+33.41%) and excellent Sharpe ratio (5.32) support positive outlook. However, recent 7-day pullback (-1.35%) and moderate max drawdown (-5.5%) suggest momentum may be consolidating. TVL growth remains solid (25-26% for both tokens). 14-day forward forecast of +18% annualized reflects mean reversion from exceptional 30-day performance while maintaining bullish bias. Confidence moderated due to recent momentum deceleration and inherent volatility in DEX tokens (52.8% annualized).\"\n}\n```",
+  "date": "2024-03-02",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:49:45.729115+00:00"
+}

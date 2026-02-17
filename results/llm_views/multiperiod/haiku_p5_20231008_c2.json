@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "Recent -8.72% 7-day decline suggests oversold conditions favoring technical bounce, but CRV TVL erosion (-8.4%) and negative 14d momentum (-5.14%) limit conviction. Moderate bull regime and solid Sharpe ratio (1.74) support modest positive expected return over 14 days, with annualized return ~8%. Confidence is moderate due to conflicting signals between recent momentum and fundamental TVL trends.",
+  "raw_response": "Looking at this DeFi cluster data, I'll analyze the key factors to forecast the 14-day expected return:\n\n**Key Analysis Points:**\n\n1. **Recent Momentum (Bearish Signal)**\n   - 7-day return: -8.72% (sharp recent decline)\n   - 14-day return: -5.14% (negative trend)\n   - This contrasts with the strong 30-day +8.98% return, suggesting recent momentum has reversed\n\n2. **Protocol Fundamentals (Concerning)**\n   - CRV TVL declined -8.4% in 30 days (significant outflow)\n   - CVX TVL declined -1.6% (modest outflow)\n   - Combined TVL weakness suggests reduced capital confidence\n\n3. **Volatility & Risk Metrics**\n   - High annualized volatility at 43.5% (typical for yield tokens)\n   - Sharpe ratio of 1.74 is solid, but max drawdown of -10.5% shows downside risk\n   - Current positioning after -8.72% recent drop may have exhausted short-term selling\n\n4. **Market Regime**\n   - Overall DeFi in \"Moderate Bull\" regime (supportive)\n   - TVL decline of -0.9% indicates slight headwinds\n\n5. **Mean Reversion & Positioning**\n   - After sharp 7-day decline, some technical bounce-back possible\n   - However, TVL erosion suggests fundamental concerns\n\n**Forecast Rationale:**\nGiven the recent sharp decline contrasting with longer-term strength, I expect modest mean reversion over the next 14 days, but TVL weakness limits upside. The cluster likely consolidates near current levels with slight positive bias from the moderate bull regime.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Recent -8.72% 7-day decline suggests oversold conditions favoring technical bounce, but CRV TVL erosion (-8.4%) and negative 14d momentum (-5.14%) limit conviction. Moderate bull regime and solid Sharpe ratio (1.74) support modest positive expected return over 14 days, with annualized return ~8%. Confidence is moderate due to conflicting signals between recent momentum and fundamental TVL trends.\"\n}\n```",
+  "date": "2023-10-09",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:43.946074+00:00"
+}

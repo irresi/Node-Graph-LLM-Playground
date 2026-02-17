@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 shows strong recent momentum (+11.51% 7d, +12.43% 14d, +15.16% 30d) in a moderate bull market with positive TVL trends (+22% overall). The 81.5% annualized volatility and 1.56 Sharpe ratio indicate efficient risk-adjusted returns. However, confidence is moderate due to: (1) lack of TVL data for 4 of 5 tokens limiting fundamental analysis, (2) high volatility creating forecast uncertainty, (3) momentum-based extrapolation risk in crypto markets, and (4) potential mean reversion from recent strong performance. The 28% annualized return forecast reflects continued but moderating momentum over the next 14 days, accounting for typical DeFi market cyclicality.",
+  "raw_response": "Based on the market context and cluster analysis, here's my forecast:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows strong recent momentum (+11.51% 7d, +12.43% 14d, +15.16% 30d) in a moderate bull market with positive TVL trends (+22% overall). The 81.5% annualized volatility and 1.56 Sharpe ratio indicate efficient risk-adjusted returns. However, confidence is moderate due to: (1) lack of TVL data for 4 of 5 tokens limiting fundamental analysis, (2) high volatility creating forecast uncertainty, (3) momentum-based extrapolation risk in crypto markets, and (4) potential mean reversion from recent strong performance. The 28% annualized return forecast reflects continued but moderating momentum over the next 14 days, accounting for typical DeFi market cyclicality.\"\n}\n```",
+  "date": "2025-08-23",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:12.805956+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows mixed signals: recent 7-day momentum is strong (+8.64%) suggesting potential reversal from bear regime, but 30-day trend remains negative (-5.05%) with elevated volatility (28.6%) and poor Sharpe ratio (-1.48). Bear market regime and TVL contraction (except AAVE) create headwinds. The 14-day forecast annualizes recent positive momentum (+3.25% over 14d \u2248 8.4% annualized), but low confidence reflects macro uncertainty, high drawdown risk (-13.3% max), and conflicting technical signals. Position sizing should account for volatility and regime risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows mixed signals: recent 7-day momentum is strong (+8.64%) suggesting potential reversal from bear regime, but 30-day trend remains negative (-5.05%) with elevated volatility (28.6%) and poor Sharpe ratio (-1.48). Bear market regime and TVL contraction (except AAVE) create headwinds. The 14-day forecast annualizes recent positive momentum (+3.25% over 14d \u2248 8.4% annualized), but low confidence reflects macro uncertainty, high drawdown risk (-13.3% max), and conflicting technical signals. Position sizing should account for volatility and regime risk.\"\n}\n```",
+  "date": "2023-09-19",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:30.347437+00:00"
+}

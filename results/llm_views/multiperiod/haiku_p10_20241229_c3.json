@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with negative 14-day momentum (-18.74%) suggests continued downside. However, blue-chip protocols (UNI, AAVE) provide some downside support. Annualized -18% reflects mean reversion from the +23.26% 30-day spike. Confidence limited by extreme volatility and regime uncertainty.",
+  "raw_response": "Looking at this DeFi cluster analysis, I'll provide a quantitative forecast based on the provided metrics.\n\n## Analysis\n\n**Key Observations:**\n1. **Market Regime**: Bear market with -5.9% TVL decline and strong downtrend\n2. **Momentum Reversal**: 30-day return of +23.26% vs recent deterioration (-2.49% in 7d, -18.74% in 14d)\n3. **Volatility**: 88.3% annualized volatility with -21.2% max drawdown indicates high risk\n4. **Fundamentals**: Mixed - UNI declining (-7.9% TVL), AAVE stable (+1.3% TVL)\n5. **Quality Metrics**: Strong Sharpe ratio (2.21) suggests good risk-adjusted returns historically\n\n**Forecast Rationale:**\n- The cluster showed strong recovery in the 30-day window but has entered a clear downtrend in recent days\n- The bear market regime typically reduces the probability of sustained positive returns\n- High volatility (88.3%) and recent negative momentum (-18.74% over 14 days) suggest continued downside pressure\n- However, both UNI and AAVE are blue-chip DeFi protocols with support levels that may prevent catastrophic declines\n- The next 14 days fall entirely within the reversion period after the 30-day rally, suggesting mean reversion to lower levels\n\n**Return Estimate:**\nGiven the bear regime, negative short-term momentum, and reverting from an elevated 30-day return, I expect modest negative returns with moderation from protocol fundamentals.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.62, \"reasoning\": \"Bear market regime with negative 14-day momentum (-18.74%) suggests continued downside. However, blue-chip protocols (UNI, AAVE) provide some downside support. Annualized -18% reflects mean reversion from the +23.26% 30-day spike. Confidence limited by extreme volatility and regime uncertainty.\"}\n```",
+  "date": "2024-12-30",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:02.530502+00:00"
+}

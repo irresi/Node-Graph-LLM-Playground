@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows oversold conditions after -18.23% 14-day drawdown with recent recovery momentum. LDO's strong TVL fundamentals support modest upside. Neutral market regime and high volatility (86% annualized) limit conviction. Mean reversion expected over next 14 days, but UNI decline and overall Sharpe ratio of 0.24 constrain upside. Moderate confidence due to uncertain market regime and mixed protocol metrics.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Current Market Conditions:**\n- Overall DeFi TVL growing modestly (+4.9% in 30 days)\n- Market regime: Neutral/Range-bound (suggests lower directional conviction)\n- Cluster volatility: 86.0% annualized (high, typical for DeFi)\n\n**Cluster-Specific Metrics:**\n- 30-day return: +2.51% (positive but modest)\n- 7-day return: -2.98% (recent weakness)\n- 14-day return: -18.23% (significant recent drawdown, but recovering in last 7 days)\n- Max drawdown: -21.3% (indicates volatility with recovery potential)\n- Sharpe ratio: 0.24 (low risk-adjusted returns)\n\n**Protocol Composition Analysis:**\n- LDO dominates the cluster (TVL $37.6B, ~82% of cluster TVL)\n- LDO showing strong TVL growth (+8.1% in 30 days)\n- UNI declining TVL (-6.4%, largest concern)\n- SUSHI and SNX showing positive momentum (+11.8% and +7.6% respectively)\n- RPL stable with modest growth (+6.7%)\n\n**Forward-Looking Assessment:**\n- Recent 14-day drawdown of -18.23% suggests oversold conditions with potential mean reversion\n- The 7-day rebound (-2.98% loss vs -18.23% over 14 days) indicates recovery momentum\n- Neutral market regime limits upside but provides stability\n- LDO's strong fundamentals (liquid staking narrative) support moderate upside\n- UNI's TVL decline is a headwind\n\n**14-Day Forecast Rationale:**\nThe cluster appears to be recovering from oversold conditions. With a neutral market regime and mixed fundamentals, I expect modest positive returns from mean reversion, tempered by the high volatility environment. The forecast assumes the cluster continues its recent recovery trajectory without major market disruptions.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows oversold conditions after -18.23% 14-day drawdown with recent recovery momentum. LDO's strong TVL fundamentals support modest upside. Neutral market regime and high volatility (86% annualized) limit conviction. Mean reversion expected over next 14 days, but UNI decline and overall Sharpe ratio of 0.24 constrain upside. Moderate confidence due to uncertain market regime and mixed protocol metrics.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:46.412835+00:00",
+  "enriched": false
+}

@@ -1,14 +1,26 @@
 {
-  "expected_return": -0.52,
-  "confidence": 0.72,
-  "reasoning": "BAL/Balancer is exhibiting strong negative momentum across all timeframes (7d: -9.34%, 14d: -10.73%, 30d: -18.01%) with a deeply negative Sharpe ratio of -2.89, indicating risk-adjusted returns are severely degraded. The broader DeFi market is in a confirmed bear regime with TVL declining 7.1% over 30 days, and BAL's own TVL is contracting faster at -10.6%. Max drawdown of -19.7% signals sustained selling pressure with no clear reversal signals. Annualizing the recent 14-day return trajectory (~-10.73% / 14d \u2248 -280% annualized) suggests extreme downside, but mean-reversion and liquidity floor effects make a full continuation unlikely. A moderated annualized forecast of -52% reflects persistent bearish momentum tempered by potential oversold bounce dynamics. Confidence is moderate (0.72) given consistent cross-timeframe signal alignment, though short-term crypto volatility (52.4% annualized) introduces meaningful uncertainty around the point estimate.",
-  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.72, \"reasoning\": \"BAL/Balancer is exhibiting strong negative momentum across all timeframes (7d: -9.34%, 14d: -10.73%, 30d: -18.01%) with a deeply negative Sharpe ratio of -2.89, indicating risk-adjusted returns are severely degraded. The broader DeFi market is in a confirmed bear regime with TVL declining 7.1% over 30 days, and BAL's own TVL is contracting faster at -10.6%. Max drawdown of -19.7% signals sustained selling pressure with no clear reversal signals. Annualizing the recent 14-day return trajectory (~-10.73% / 14d \u2248 -280% annualized) suggests extreme downside, but mean-reversion and liquidity floor effects make a full continuation unlikely. A moderated annualized forecast of -52% reflects persistent bearish momentum tempered by potential oversold bounce dynamics. Confidence is moderate (0.72) given consistent cross-timeframe signal alignment, though short-term crypto volatility (52.4% annualized) introduces meaningful uncertainty around the point estimate.\"}\n```",
-  "date": "2025-06-27",
+  "expected_return": -0.47,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, LST) is under significant stress. Bear market regime with strong downtrend, -14.05% cluster return over 30 days, and a deeply negative Sharpe of -1.60 all point to persistent selling pressure. The 14-day return of -13.16% nearly matches the full 30-day loss, suggesting momentum has not bottomed. Max drawdown of -27% and annualized volatility of 73.6% indicate elevated tail risk. AAVE is the TVL anchor ($24.7B, -0.7% 30d) providing relative stability, but smaller protocols like SUSHI (-10.4% TVL) and CRV (-6.7% TVL) are hemorrhaging capital. The 7-day return of -1.64% suggests a slight short-term deceleration in losses, offering marginal mean-reversion potential. Annualizing the 14-day trend (-13.16% over ~14 days \u2248 -47% annualized) as a base case, with slight upward adjustment for possible stabilization near support levels. Confidence is moderate \u2014 bear regimes can persist or reverse sharply, and AAVE/MKR fundamentals provide a floor.",
+  "raw_response": "```json\n{\"expected_return\": -0.47, \"confidence\": 0.62, \"reasoning\": \"Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, LST) is under significant stress. Bear market regime with strong downtrend, -14.05% cluster return over 30 days, and a deeply negative Sharpe of -1.60 all point to persistent selling pressure. The 14-day return of -13.16% nearly matches the full 30-day loss, suggesting momentum has not bottomed. Max drawdown of -27% and annualized volatility of 73.6% indicate elevated tail risk. AAVE is the TVL anchor ($24.7B, -0.7% 30d) providing relative stability, but smaller protocols like SUSHI (-10.4% TVL) and CRV (-6.7% TVL) are hemorrhaging capital. The 7-day return of -1.64% suggests a slight short-term deceleration in losses, offering marginal mean-reversion potential. Annualizing the 14-day trend (-13.16% over ~14 days \u2248 -47% annualized) as a base case, with slight upward adjustment for possible stabilization near support levels. Confidence is moderate \u2014 bear regimes can persist or reverse sharply, and AAVE/MKR fundamentals provide a floor.\"}\n```",
+  "date": "2025-06-28",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:06:07.449839+00:00",
+  "generated_at": "2026-02-17T15:58:17.540281+00:00",
   "enriched": false
 }

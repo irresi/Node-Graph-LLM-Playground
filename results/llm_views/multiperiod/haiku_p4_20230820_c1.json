@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -28.81% 30-day decline and strong negative momentum (-19.83% last 7 days, -20.02% last 14 days). Cluster volatility of 43.2% annualized supports continued elevated downside risk. TVL declines across major protocols (CRV -30.8%, AAVE -20.8%) indicate deteriorating fundamentals. However, some stabilization may occur after such sharp declines, preventing worst-case scenarios. Negative Sharpe ratio (-5.60) reflects risk-adjusted underperformance. Forecast assumes continued bearish pressure with modest recovery probability, yielding -85% annualized return over next 14 days. Confidence moderated by potential for mean reversion and reduced further downside after recent sharp losses.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -28.81% 30-day decline and strong negative momentum (-19.83% last 7 days, -20.02% last 14 days). Cluster volatility of 43.2% annualized supports continued elevated downside risk. TVL declines across major protocols (CRV -30.8%, AAVE -20.8%) indicate deteriorating fundamentals. However, some stabilization may occur after such sharp declines, preventing worst-case scenarios. Negative Sharpe ratio (-5.60) reflects risk-adjusted underperformance. Forecast assumes continued bearish pressure with modest recovery probability, yielding -85% annualized return over next 14 days. Confidence moderated by potential for mean reversion and reduced further downside after recent sharp losses.\"\n}\n```",
+  "date": "2023-08-21",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:38.430199+00:00"
+}

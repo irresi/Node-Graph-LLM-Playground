@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.42,
+  "reasoning": "ENS shows strong recent momentum (+46% in 30 days, +20% in 7 days) with excellent Sharpe ratio (2.72), but faces headwinds: (1) Single-token cluster concentration risk, (2) Infrastructure tokens lack TVL fundamentals for valuation, (3) Neutral market regime limits upside, (4) 142% annualized volatility suggests mean reversion risk after +20% 7-day gain, (5) Max drawdown of -26.9% indicates downside vulnerability. Annualizing 14-day forward momentum of ~18% (interpolating between 7-day and 30-day trends) yields ~85% annualized return, but confidence is moderate due to high volatility, single-token concentration, and lack of on-chain TVL metrics to support fundamentals.",
+  "raw_response": "```json\n{\"expected_return\": 0.85, \"confidence\": 0.42, \"reasoning\": \"ENS shows strong recent momentum (+46% in 30 days, +20% in 7 days) with excellent Sharpe ratio (2.72), but faces headwinds: (1) Single-token cluster concentration risk, (2) Infrastructure tokens lack TVL fundamentals for valuation, (3) Neutral market regime limits upside, (4) 142% annualized volatility suggests mean reversion risk after +20% 7-day gain, (5) Max drawdown of -26.9% indicates downside vulnerability. Annualizing 14-day forward momentum of ~18% (interpolating between 7-day and 30-day trends) yields ~85% annualized return, but confidence is moderate due to high volatility, single-token concentration, and lack of on-chain TVL metrics to support fundamentals.\"}\n```",
+  "date": "2024-02-08",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:21.818754+00:00"
+}

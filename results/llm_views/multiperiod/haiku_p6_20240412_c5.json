@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 5 (SUSHI/CAKE) faces significant headwinds: strong bear market regime (-18.3% DeFi TVL decline), severe recent momentum (-50.2% 30-day return, -45.6% 14-day return), and high volatility (79.6% annualized). SUSHI shows steeper TVL erosion (-30.8%) than CAKE (-4.2%), suggesting differential stress. The negative Sharpe ratio (-5.30) and -39.5% max drawdown indicate sustained downside pressure. DEX tokens are particularly vulnerable in bear markets due to volume-dependent revenue models. Forecasting continued weakness over 14 days is justified, though confidence is moderate (0.45) due to potential capitulation/bounce scenarios in severely oversold conditions and CAKE's relative stability. Annualized return estimate of -85% reflects extrapolation of recent 14-day momentum to a full year, appropriate for near-term tactical forecasting in adverse conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 5 (SUSHI/CAKE) faces significant headwinds: strong bear market regime (-18.3% DeFi TVL decline), severe recent momentum (-50.2% 30-day return, -45.6% 14-day return), and high volatility (79.6% annualized). SUSHI shows steeper TVL erosion (-30.8%) than CAKE (-4.2%), suggesting differential stress. The negative Sharpe ratio (-5.30) and -39.5% max drawdown indicate sustained downside pressure. DEX tokens are particularly vulnerable in bear markets due to volume-dependent revenue models. Forecasting continued weakness over 14 days is justified, though confidence is moderate (0.45) due to potential capitulation/bounce scenarios in severely oversold conditions and CAKE's relative stability. Annualized return estimate of -85% reflects extrapolation of recent 14-day momentum to a full year, appropriate for near-term tactical forecasting in adverse conditions.\"\n}\n```",
+  "date": "2024-04-13",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:51:34.876170+00:00"
+}

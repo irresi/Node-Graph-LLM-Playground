@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both researchers acknowledge the severity of bearish signals: -47.22% 30-day loss, Sharpe ratio -4.66, DeFi TVL contraction ",
+  "n_agents": 6,
+  "date": "2026-02-07 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with strong downtrend (-26.18% over 7d, -29.66% over 14d). Cluster showing severe momentum loss (Sharpe ratio -3.38) with high volatility (56.8%). TVL declining across major protocols (AAVE -6.6%, UNI -14.9%, COMP -17.1%). However, oversold conditions and capitulation signals suggest potential mean reversion within 14d window, hence negative but less severe forecast than recent trend. High volatility increases confidence range; underlying fundamentals remain weak with TVL contraction across the DeFi ecosystem (-13.6% 30d).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bear market regime with strong downtrend (-26.18% over 7d, -29.66% over 14d). Cluster showing severe momentum loss (Sharpe ratio -3.38) with high volatility (56.8%). TVL declining across major protocols (AAVE -6.6%, UNI -14.9%, COMP -17.1%). However, oversold conditions and capitulation signals suggest potential mean reversion within 14d window, hence negative but less severe forecast than recent trend. High volatility increases confidence range; underlying fundamentals remain weak with TVL contraction across the DeFi ecosystem (-13.6% 30d).\"\n}\n```",
+  "date": "2024-08-06",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:34.319065+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 5 faces severe headwinds: bear market regime, -42.54% 30-day return, negative 7/14-day momentum (-20.64%, -21.19%), and collapsing TVL (-30.6% BAL, -17.6% AAVE). While extreme drawdowns often precede oversold bounces, the persistent downtrend and deteriorating fundamentals suggest continued pressure. Forecasting mean reversion is risky given sustained selling. Low confidence due to high volatility (72.7% annualized) and unpredictable bear market dynamics, but the -0.85 annualized return reflects elevated risk of further 10-15% 14-day declines rather than recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 5 faces severe headwinds: bear market regime, -42.54% 30-day return, negative 7/14-day momentum (-20.64%, -21.19%), and collapsing TVL (-30.6% BAL, -17.6% AAVE). While extreme drawdowns often precede oversold bounces, the persistent downtrend and deteriorating fundamentals suggest continued pressure. Forecasting mean reversion is risky given sustained selling. Low confidence due to high volatility (72.7% annualized) and unpredictable bear market dynamics, but the -0.85 annualized return reflects elevated risk of further 10-15% 14-day declines rather than recovery.\"\n}\n```",
+  "date": "2025-03-02",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:42.609723+00:00"
+}

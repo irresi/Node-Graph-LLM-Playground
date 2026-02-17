@@ -1,0 +1,23 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Recent 14-day momentum is positive (+2.91%) and the cluster showed +2.58% in last 7 days, suggesting potential mean reversion from the -11.23% 30-day decline in a bear market. However, confidence is moderate due to: (1) bearish overall regime and negative 30-day returns, (2) high volatility (39.5% annualized) and negative Sharpe ratio (-2.39) indicating poor risk-adjusted returns, (3) mixed protocol fundamentals with some tokens like SUSHI and BAL showing significant TVL declines. The positive short-term momentum could drive 2-3% additional gains over 14 days, annualizing to ~18%, but the bearish macro context and extreme volatility limit conviction.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"Recent 14-day momentum is positive (+2.91%) and the cluster showed +2.58% in last 7 days, suggesting potential mean reversion from the -11.23% 30-day decline in a bear market. However, confidence is moderate due to: (1) bearish overall regime and negative 30-day returns, (2) high volatility (39.5% annualized) and negative Sharpe ratio (-2.39) indicating poor risk-adjusted returns, (3) mixed protocol fundamentals with some tokens like SUSHI and BAL showing significant TVL declines. The positive short-term momentum could drive 2-3% additional gains over 14 days, annualizing to ~18%, but the bearish macro context and extreme volatility limit conviction.\"}\n```",
+  "date": "2023-05-28",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:54.197263+00:00"
+}

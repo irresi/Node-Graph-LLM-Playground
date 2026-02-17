@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "DYDX in harsh bear market with -25.72% 30-day return and 72.5% volatility. Recent 7-day bounce (+14.48%) likely relief rally in oversold conditions. TVL declining faster than DeFi average (-13.8%). Expected modest negative return over 14 days as downtrend persists, but high volatility and potential support levels limit confidence to 0.45.",
+  "raw_response": "I'll analyze this DeFi cluster (DYDX) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Current State Assessment:**\n- **Market Regime**: Strong bear market (-16.4% TVL decline, -25.72% 30-day return)\n- **Cluster Performance**: Severe underperformance with -25.72% 30-day return and -36.4% max drawdown\n- **Volatility**: Extremely high at 72.5% annualized\n- **Risk-Adjusted Returns**: Negative Sharpe ratio (-2.98) indicates returns don't compensate for risk\n\n**Momentum Signals (Mixed):**\n- Recent 7-day recovery: +14.48% (potential bounce from oversold conditions)\n- But 14-day return: -15.83% (shows weakness when extending timeframe)\n- Negative 30-day trend dominates the overall picture\n\n**Protocol Fundamentals:**\n- DYDX TVL down 13.8% in 30 days (underperforming DeFi average decline)\n- Single-token cluster with no diversification\n- Derivatives protocol in a bear market (typically suffer higher volatility and outflows)\n\n**Key Considerations:**\n1. The 7-day bounce (+14.48%) is modest against the 30-day decline and likely represents a relief rally in an oversold condition\n2. In persistent bear markets, bounces often fail to sustain\n3. High volatility (72.5%) makes prediction inherently uncertain\n4. TVL outflows suggest deteriorating fundamentals\n\n**Forecast Reasoning:**\nGiven the bear regime, negative momentum over longer timeframes, and deteriorating fundamentals, I expect continued weakness over the next 14 days, though potentially with some volatility. The recent bounce suggests near-term support exists, but the downtrend is likely to resume or stabilize at negative territory.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"DYDX in harsh bear market with -25.72% 30-day return and 72.5% volatility. Recent 7-day bounce (+14.48%) likely relief rally in oversold conditions. TVL declining faster than DeFi average (-13.8%). Expected modest negative return over 14 days as downtrend persists, but high volatility and potential support levels limit confidence to 0.45.\"}\n```",
+  "date": "2024-08-14",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:51.769552+00:00"
+}

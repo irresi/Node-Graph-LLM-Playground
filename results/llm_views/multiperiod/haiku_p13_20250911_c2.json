@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear regime with -18.87% 30-day return and -25.5% max drawdown. However, recent 7-day recovery (+7.33%) and positive SUSHI TVL (+6.4%) suggest potential stabilization. Negative 14-day return (-0.74%) indicates momentum shift. High annualized volatility (78.1%) and negative Sharpe ratio (-2.03) warrant cautious outlook. LDO's large TVL weighting ($38.5B) provides some stability despite -8.2% 30d decline. Forecasting modest continued downside with moderate confidence due to macro bear pressure offsetting recent micro-recovery signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear regime with -18.87% 30-day return and -25.5% max drawdown. However, recent 7-day recovery (+7.33%) and positive SUSHI TVL (+6.4%) suggest potential stabilization. Negative 14-day return (-0.74%) indicates momentum shift. High annualized volatility (78.1%) and negative Sharpe ratio (-2.03) warrant cautious outlook. LDO's large TVL weighting ($38.5B) provides some stability despite -8.2% 30d decline. Forecasting modest continued downside with moderate confidence due to macro bear pressure offsetting recent micro-recovery signals.\"\n}\n```",
+  "date": "2025-09-12",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:29.789758+00:00"
+}

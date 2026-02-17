@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "YFI is experiencing severe downward momentum in a bear market regime with -34.21% 30-day loss and -14.95% 7-day decline. High volatility (47% annualized) and negative Sharpe ratio (-6.12) indicate risk-adjusted returns are poor. TVL decline of -9.9% suggests weakening protocol fundamentals. The 14-day annualized forecast of -1.85 reflects continued downside pressure, though the extreme recent losses may provide some mean reversion bounce. Low confidence (0.35) due to high volatility and uncertain macro conditions in a bear market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"YFI is experiencing severe downward momentum in a bear market regime with -34.21% 30-day loss and -14.95% 7-day decline. High volatility (47% annualized) and negative Sharpe ratio (-6.12) indicate risk-adjusted returns are poor. TVL decline of -9.9% suggests weakening protocol fundamentals. The 14-day annualized forecast of -1.85 reflects continued downside pressure, though the extreme recent losses may provide some mean reversion bounce. Low confidence (0.35) due to high volatility and uncertain macro conditions in a bear market.\"\n}\n```",
+  "date": "2025-12-19",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:07.214932+00:00"
+}

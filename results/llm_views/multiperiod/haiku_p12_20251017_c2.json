@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Cluster 2 is in severe distress with -49.82% 30-day decline and -39.34% 14-day decline in a bear market regime. The -4.06% 7-day return suggests potential stabilization or capitulation. High volatility (107.1% annualized) and negative Sharpe ratio (-3.91) indicate risk-off conditions. However, infrastructure tokens (LINK, OP, ARB, ENS, GRT) typically show mean reversion after extreme drawdowns. Given the strong negative momentum, ongoing bear market, and lack of positive TVL catalysts, we expect continued downside pressure over the next 14 days, but at a declining rate. The -0.85 annualized return reflects expected further losses, while confidence is moderate due to potential stabilization signals and mean reversion possibilities in such oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 is in severe distress with -49.82% 30-day decline and -39.34% 14-day decline in a bear market regime. The -4.06% 7-day return suggests potential stabilization or capitulation. High volatility (107.1% annualized) and negative Sharpe ratio (-3.91) indicate risk-off conditions. However, infrastructure tokens (LINK, OP, ARB, ENS, GRT) typically show mean reversion after extreme drawdowns. Given the strong negative momentum, ongoing bear market, and lack of positive TVL catalysts, we expect continued downside pressure over the next 14 days, but at a declining rate. The -0.85 annualized return reflects expected further losses, while confidence is moderate due to potential stabilization signals and mean reversion possibilities in such oversold conditions.\"\n}\n```",
+  "date": "2025-10-18",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:56.150894+00:00"
+}

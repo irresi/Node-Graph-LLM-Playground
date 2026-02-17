@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.68,
+  "reasoning": "RPL (Rocket Pool) shows strong fundamentals with +14.2% TVL growth and excellent Sharpe ratio (1.86). Recent momentum is positive (7-day +15.50% > 14-day +10.14%), supported by bullish DeFi regime. However, 89% annualized volatility and strong recent returns suggest partial mean reversion. Forecast 28% annualized return over 14 days with moderate confidence, accounting for momentum persistence but recognizing volatility and potential pullback risk.",
+  "raw_response": "I'll analyze the DeFi cluster data provided to forecast the expected annualized return for the next 14 days.\n\n## Analysis\n\n**Cluster Composition & Fundamentals:**\n- Single token cluster (RPL - Rocket Pool)\n- Liquid staking category with strong TVL of $1,739M\n- TVL growth of +14.2% over 30 days indicates healthy protocol adoption\n\n**Recent Performance Trajectory:**\n- 30-day return: +19.76%\n- 14-day return: +10.14%\n- 7-day return: +15.50%\n- The momentum shows recent acceleration (7-day > 14-day suggests positive recent momentum)\n\n**Risk Metrics:**\n- Volatility (annualized): 89.0% - indicating high but not extreme volatility\n- Sharpe ratio: 1.86 - excellent risk-adjusted returns\n- Max drawdown: -14.4% - manageable downside\n- These metrics suggest quality risk-adjusted performance\n\n**Market Environment:**\n- Overall DeFi TVL growth: +10.2% (30 days)\n- Moderate Bull market regime supports continued positive momentum\n- Liquid staking remains a core DeFi primitive with sustained demand\n\n**Forecast Considerations:**\n- The recent 7-day acceleration (+15.50% vs 14-day +10.14%) suggests momentum continuation\n- Liquid staking protocols typically benefit from sustained bull market sentiment\n- However, regression to mean from the strong recent returns is a reasonable expectation\n- The high annualized volatility suggests mean reversion dynamics\n\nGiven the positive momentum, strong Sharpe ratio, growing TVL fundamentals, and moderate bull market regime, I forecast moderate positive returns with some regression from the exceptional recent performance.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.68, \"reasoning\": \"RPL (Rocket Pool) shows strong fundamentals with +14.2% TVL growth and excellent Sharpe ratio (1.86). Recent momentum is positive (7-day +15.50% > 14-day +10.14%), supported by bullish DeFi regime. However, 89% annualized volatility and strong recent returns suggest partial mean reversion. Forecast 28% annualized return over 14 days with moderate confidence, accounting for momentum persistence but recognizing volatility and potential pullback risk.\"}\n```",
+  "date": "2024-01-15",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:54.629370+00:00"
+}

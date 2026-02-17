@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.65,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Both researchers agree on fundamental weakness: -9.85% 7d decline, negative Sharpe ratio, and cluster underperformance vs br",
+  "n_agents": 12,
+  "date": "2026-01-24 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market regime with -7.6% TVL decline and cluster down -12.79% in 30 days. Recent 7-day momentum (-13.53%) suggests continued downward pressure. However, AAVE's stable TVL (+0.5%) and CAKE's recovery (+8.4%) provide some stabilization. The negative Sharpe ratio (-2.56) and high volatility (42%) indicate risk-adjusted returns are poor. Expecting continued weakness over 14 days but at a moderated pace as oversold conditions may provide some mean reversion support. Annualized from expected -0.5% to -0.4% near-term return.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bear market regime with -7.6% TVL decline and cluster down -12.79% in 30 days. Recent 7-day momentum (-13.53%) suggests continued downward pressure. However, AAVE's stable TVL (+0.5%) and CAKE's recovery (+8.4%) provide some stabilization. The negative Sharpe ratio (-2.56) and high volatility (42%) indicate risk-adjusted returns are poor. Expecting continued weakness over 14 days but at a moderated pace as oversold conditions may provide some mean reversion support. Annualized from expected -0.5% to -0.4% near-term return.\"\n}\n```",
+  "date": "2025-09-26",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:53.510558+00:00"
+}

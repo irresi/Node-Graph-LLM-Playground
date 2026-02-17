@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 faces strong headwinds: bear market regime, severe 14-day drawdown (-19.18%), elevated volatility (43.7%), and negative Sharpe ratio (-2.30). However, COMP shows TVL growth (+8.0%) suggesting selective strength. Near-term momentum is deeply negative, but oversold conditions and potential mean reversion over 14 days prevent extreme bearishness. Mixed protocol fundamentals and high uncertainty in bear markets warrant moderate confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 faces strong headwinds: bear market regime, severe 14-day drawdown (-19.18%), elevated volatility (43.7%), and negative Sharpe ratio (-2.30). However, COMP shows TVL growth (+8.0%) suggesting selective strength. Near-term momentum is deeply negative, but oversold conditions and potential mean reversion over 14 days prevent extreme bearishness. Mixed protocol fundamentals and high uncertainty in bear markets warrant moderate confidence.\"\n}\n```",
+  "date": "2024-11-04",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:05.283605+00:00"
+}

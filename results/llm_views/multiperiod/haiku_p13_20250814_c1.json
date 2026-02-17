@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster shows strong 14-day momentum (+13.29%) within a moderate bull regime with positive TVL trends (+25.7% DeFi market growth). However, annualized forecast is tempered by: (1) High volatility (73.8%) and significant max drawdown (-21.6%) creating near-term reversion risk, (2) Mixed protocol fundamentals with SNX TVL declining -3.5% offsetting DYDX growth of +8.3%, (3) Infrastructure tokens (OP, ARB) lacking TVL data create uncertainty, (4) Recent momentum may not sustain over full 14-day period given mean-reversion pressures. 42% annualized return reflects above-market expectations from positive regime and recent performance, but moderate confidence reflects elevated volatility and mixed underlying metrics.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+13.29%) within a moderate bull regime with positive TVL trends (+25.7% DeFi market growth). However, annualized forecast is tempered by: (1) High volatility (73.8%) and significant max drawdown (-21.6%) creating near-term reversion risk, (2) Mixed protocol fundamentals with SNX TVL declining -3.5% offsetting DYDX growth of +8.3%, (3) Infrastructure tokens (OP, ARB) lacking TVL data create uncertainty, (4) Recent momentum may not sustain over full 14-day period given mean-reversion pressures. 42% annualized return reflects above-market expectations from positive regime and recent performance, but moderate confidence reflects elevated volatility and mixed underlying metrics.\"\n}\n```",
+  "date": "2025-08-15",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:38.414251+00:00"
+}

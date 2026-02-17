@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "BAL faces headwinds from bearish market regime (strong downtrend, negative Sharpe ratio of -2.47) and recent momentum deterioration (-5.33% over 7d, -8.79% over 14d). TVL declining 4.3% in 30d suggests reduced protocol activity. However, moderate confidence reflects: (1) governance activity showing protocol development (BIP-910/911), (2) reasonable APY at 11.95% providing some yield buffer, (3) DEX category volatility making 14-day forecasts uncertain. Extrapolating recent -8.79% 14-day trend annualizes to approximately -35%, consistent with bear market and elevated volatility (39.3% annualized). Single-token cluster increases idiosyncratic risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL faces headwinds from bearish market regime (strong downtrend, negative Sharpe ratio of -2.47) and recent momentum deterioration (-5.33% over 7d, -8.79% over 14d). TVL declining 4.3% in 30d suggests reduced protocol activity. However, moderate confidence reflects: (1) governance activity showing protocol development (BIP-910/911), (2) reasonable APY at 11.95% providing some yield buffer, (3) DEX category volatility making 14-day forecasts uncertain. Extrapolating recent -8.79% 14-day trend annualizes to approximately -35%, consistent with bear market and elevated volatility (39.3% annualized). Single-token cluster increases idiosyncratic risk.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:52.057450+00:00",
+  "enriched": true
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows strong positive momentum (14d: +9.80%, 7d: +4.23%) after severe bear pressure (30d: -19.90%), suggesting potential oversold bounce. However, high uncertainty persists: (1) overall DeFi TVL declining -9.3% indicates macro headwinds, (2) extreme volatility (72.8% annualized) with negative Sharpe (-2.30) suggests mean reversion may reverse, (3) protocol TVLs mixed with SNX down -30% signaling sector weakness. Annualized 14-day forecast of +28% reflects recent momentum but confidence capped at 0.45 due to bearish macro regime and sustainability risk of bounce.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster shows strong positive momentum (14d: +9.80%, 7d: +4.23%) after severe bear pressure (30d: -19.90%), suggesting potential oversold bounce. However, high uncertainty persists: (1) overall DeFi TVL declining -9.3% indicates macro headwinds, (2) extreme volatility (72.8% annualized) with negative Sharpe (-2.30) suggests mean reversion may reverse, (3) protocol TVLs mixed with SNX down -30% signaling sector weakness. Annualized 14-day forecast of +28% reflects recent momentum but confidence capped at 0.45 due to bearish macro regime and sustainability risk of bounce.\"\n}\n```",
+  "date": "2025-04-21",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:14.113916+00:00"
+}

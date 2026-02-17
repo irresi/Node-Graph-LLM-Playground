@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.05,
+  "confidence": 0.55,
+  "reasoning": "Recent sharp 7-day decline (-19.4%) following 30-day rally (+40.94%) suggests mean reversion and profit-taking. Extreme volatility (116.5% annualized) and -31.9% max drawdown indicate high uncertainty. Moderate bull market regime provides modest support. Low confidence due to high volatility and lack of fundamental data for infrastructure token. Slight negative bias reflecting current downtrend, but constrained by overall positive DeFi sentiment.",
+  "raw_response": "I'll analyze the market context and cluster data to provide a forecast for Cluster 3 (ENS token).\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum is Negative**: The 7-day return is -19.40% and 14-day return is -17.03%, showing a sharp pullback from the strong 30-day gain of +40.94%. This indicates the cluster may be experiencing profit-taking or mean reversion.\n\n2. **High Volatility**: Annualized volatility of 116.5% is extremely high, suggesting significant price swings and unpredictability in the short term.\n\n3. **Strong Historical Sharpe Ratio**: A Sharpe ratio of 2.95 over 30 days is excellent, but this is backward-looking and may not persist.\n\n4. **Concerning Max Drawdown**: -31.9% maximum drawdown in the last 30 days indicates the token has experienced severe corrections, and we're currently in a downtrend phase.\n\n5. **Positive Market Regime**: The overall DeFi market is in a moderate bull regime with +19.6% TVL growth, which provides some macro support.\n\n6. **Limited Fundamental Data**: ENS is an infrastructure token without TVL metrics, making it harder to assess on-chain adoption trends.\n\n**Forecast Rationale:**\n\nGiven the 19.4% 7-day decline following a strong 40% 30-day rally, the cluster appears to be in a correction phase. The extreme volatility combined with recent negative momentum suggests mean reversion is underway. However, the moderate bull market regime and positive TVL trends in DeFi provide some downside support. The high volatility also implies potential for both recovery and further decline, which reduces confidence in directional forecasts.\n\n```json\n{\"expected_return\": -0.05, \"confidence\": 0.55, \"reasoning\": \"Recent sharp 7-day decline (-19.4%) following 30-day rally (+40.94%) suggests mean reversion and profit-taking. Extreme volatility (116.5% annualized) and -31.9% max drawdown indicate high uncertainty. Moderate bull market regime provides modest support. Low confidence due to high volatility and lack of fundamental data for infrastructure token. Slight negative bias reflecting current downtrend, but constrained by overall positive DeFi sentiment.\"}\n```",
+  "date": "2024-06-13",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:16.272592+00:00"
+}

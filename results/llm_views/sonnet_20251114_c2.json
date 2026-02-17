@@ -1,14 +1,26 @@
 {
-  "expected_return": -0.72,
+  "expected_return": -0.68,
   "confidence": 0.72,
-  "reasoning": "BAL/Cluster 2 is exhibiting severe bearish momentum across all timeframes: -5.27% (7d), -21.77% (14d), -29.95% (30d), with a catastrophic TVL decline of -64.3% signaling deep capital flight from the Balancer protocol. The broader DeFi market is also in a strong downtrend (-17.2% TVL in 30d). The Sharpe ratio of -4.27 and max drawdown of -28.1% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-21.77% over ~14 days) yields approximately -72% annualized, which aligns with the cluster's realized volatility of 58.9% to the downside. A mean-reversion bounce is possible but unlikely given the magnitude of TVL outflows, which typically precede continued price deterioration. Confidence is moderate (0.72) rather than high due to inherent uncertainty in short-term crypto forecasting and the small possibility of a technical relief rally.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.72, \"reasoning\": \"BAL/Cluster 2 is exhibiting severe bearish momentum across all timeframes: -5.27% (7d), -21.77% (14d), -29.95% (30d), with a catastrophic TVL decline of -64.3% signaling deep capital flight from the Balancer protocol. The broader DeFi market is also in a strong downtrend (-17.2% TVL in 30d). The Sharpe ratio of -4.27 and max drawdown of -28.1% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-21.77% over ~14 days) yields approximately -72% annualized, which aligns with the cluster's realized volatility of 58.9% to the downside. A mean-reversion bounce is possible but unlikely given the magnitude of TVL outflows, which typically precede continued price deterioration. Confidence is moderate (0.72) rather than high due to inherent uncertainty in short-term crypto forecasting and the small possibility of a technical relief rally.\"}\n```",
-  "date": "2025-11-14",
+  "reasoning": "Cluster 2 (DEX/Lending/Derivatives) is under severe stress in a confirmed bear regime. The 30-day return of -22.45% annualizes to roughly -90%+, and the 7-day (-9.20%) and 14-day (-8.92%) returns show persistent, near-linear downward momentum with no sign of deceleration. TVL is contracting sharply across anchor protocols \u2014 AAVE (-17.3%), UNI (-21.4%), SUSHI (-19.5%) \u2014 signaling capital flight rather than temporary volatility. The Sharpe of -2.61 and max drawdown of -21.7% confirm systemic selling pressure. A modest mean-reversion discount is applied versus the trailing 30-day pace (annualized ~-68% vs trailing ~-95%) since 14-day windows often capture partial rebounds, but the macro bear regime and negative TVL momentum suppress any bullish offset. Confidence is moderate (0.72) given high realized volatility (72.2%) introduces wide outcome dispersion despite directional clarity.",
+  "raw_response": "```json\n{\"expected_return\": -0.68, \"confidence\": 0.72, \"reasoning\": \"Cluster 2 (DEX/Lending/Derivatives) is under severe stress in a confirmed bear regime. The 30-day return of -22.45% annualizes to roughly -90%+, and the 7-day (-9.20%) and 14-day (-8.92%) returns show persistent, near-linear downward momentum with no sign of deceleration. TVL is contracting sharply across anchor protocols \u2014 AAVE (-17.3%), UNI (-21.4%), SUSHI (-19.5%) \u2014 signaling capital flight rather than temporary volatility. The Sharpe of -2.61 and max drawdown of -21.7% confirm systemic selling pressure. A modest mean-reversion discount is applied versus the trailing 30-day pace (annualized ~-68% vs trailing ~-95%) since 14-day windows often capture partial rebounds, but the macro bear regime and negative TVL momentum suppress any bullish offset. Confidence is moderate (0.72) given high realized volatility (72.2%) introduces wide outcome dispersion despite directional clarity.\"}\n```",
+  "date": "2025-11-15",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:14:52.223160+00:00",
+  "generated_at": "2026-02-17T16:04:34.777266+00:00",
   "enriched": false
 }

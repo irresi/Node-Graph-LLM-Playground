@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "BAL showing strong negative momentum (-21.63% over 30d, -9.43% over 7d) despite TVL growth (+10.3%), suggesting sentiment weakness outweighs fundamental improvement. Neutral market regime and high volatility (31.8% annualized) limit conviction. Extrapolating recent 7-14d trend (-8.79% to -9.43%) over next 14 days yields approximately -85% annualized, but low confidence (0.45) reflects potential mean reversion and the difficulty of sustaining such losses. Negative Sharpe ratio (-5.72) indicates risk-adjusted returns are poor.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL showing strong negative momentum (-21.63% over 30d, -9.43% over 7d) despite TVL growth (+10.3%), suggesting sentiment weakness outweighs fundamental improvement. Neutral market regime and high volatility (31.8% annualized) limit conviction. Extrapolating recent 7-14d trend (-8.79% to -9.43%) over next 14 days yields approximately -85% annualized, but low confidence (0.45) reflects potential mean reversion and the difficulty of sustaining such losses. Negative Sharpe ratio (-5.72) indicates risk-adjusted returns are poor.\"\n}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:45:14.941008+00:00",
+  "enriched": false
+}

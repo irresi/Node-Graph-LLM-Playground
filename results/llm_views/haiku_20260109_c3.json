@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.42,
+  "reasoning": "Cluster faces headwinds from bearish market regime (TVL declining -1.7%), negative 30-day momentum (-2.66%), and high volatility (56.7% annualized). However, recent 14-day return (+7.90%) suggests potential mean reversion or temporary relief rally. Mixed protocol health: LDO dominates TVL but declining (-3.1%), SUSHI severely pressured (-17.5%), SNX showing resilience (+1.5%). Given strong downtrend persistence, negative Sharpe ratio (-0.39), and only moderate recent momentum improvement, expect continued weakness over next 14 days. Low confidence due to volatile regime and conflicting signals between recent bounce and underlying bearish fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster faces headwinds from bearish market regime (TVL declining -1.7%), negative 30-day momentum (-2.66%), and high volatility (56.7% annualized). However, recent 14-day return (+7.90%) suggests potential mean reversion or temporary relief rally. Mixed protocol health: LDO dominates TVL but declining (-3.1%), SUSHI severely pressured (-17.5%), SNX showing resilience (+1.5%). Given strong downtrend persistence, negative Sharpe ratio (-0.39), and only moderate recent momentum improvement, expect continued weakness over next 14 days. Low confidence due to volatile regime and conflicting signals between recent bounce and underlying bearish fundamentals.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:54.790522+00:00",
+  "enriched": false
+}

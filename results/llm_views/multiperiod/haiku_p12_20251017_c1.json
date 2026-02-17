@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -11.2% DeFi TVL decline constrains upside. Recent 7-day rebound (+0.72%) suggests potential stabilization after -22.57% 14-day drawdown, but negative Sharpe ratio (-0.65) and high volatility (114.2%) indicate structural weakness. CAKE's strong TVL growth (+11.8%) provides modest fundamental support, while BAL's TVL decline (-5.4%) reflects protocol headwinds. Negative 30-day momentum (-8.80%) combined with bear regime suggests continued pressure over next 14 days, though recent bounce limits downside expectations.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -11.2% DeFi TVL decline constrains upside. Recent 7-day rebound (+0.72%) suggests potential stabilization after -22.57% 14-day drawdown, but negative Sharpe ratio (-0.65) and high volatility (114.2%) indicate structural weakness. CAKE's strong TVL growth (+11.8%) provides modest fundamental support, while BAL's TVL decline (-5.4%) reflects protocol headwinds. Negative 30-day momentum (-8.80%) combined with bear regime suggests continued pressure over next 14 days, though recent bounce limits downside expectations.\"\n}\n```",
+  "date": "2025-10-18",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:51.471629+00:00"
+}

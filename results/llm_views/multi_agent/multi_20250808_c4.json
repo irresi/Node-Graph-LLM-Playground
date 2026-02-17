@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.04,
+  "confidence": 0.45,
+  "reasoning": "I need to synthesize the on-chain, sentiment, and technical data alongside both researcher perspectives to produce a calibrated forecast.\n\nLet me analyze the key tensions:\n\n**Supporting Evidence for U",
+  "n_agents": 24,
+  "date": "2025-08-09 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

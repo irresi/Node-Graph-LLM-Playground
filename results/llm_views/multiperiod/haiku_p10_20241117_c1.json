@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 shows strong recent momentum with 14-day return of +30.97% and positive 7-day trend (+2.62%), supported by moderate bull market regime and rising DeFi TVL (+15.8%). However, elevated annualized volatility (63.2%) and recent max drawdown (-14.9%) suggest elevated risk. The 14-day return annualizes to approximately 280%, but mean reversion is likely given recent outperformance. TVL metrics are mixed (CRV declining, MKR/CVX stable). Confidence moderated to 0.62 due to volatility, potential consolidation after strong move, and typical pullback patterns in DeFi cycles.",
+  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 1 shows strong recent momentum with 14-day return of +30.97% and positive 7-day trend (+2.62%), supported by moderate bull market regime and rising DeFi TVL (+15.8%). However, elevated annualized volatility (63.2%) and recent max drawdown (-14.9%) suggest elevated risk. The 14-day return annualizes to approximately 280%, but mean reversion is likely given recent outperformance. TVL metrics are mixed (CRV declining, MKR/CVX stable). Confidence moderated to 0.62 due to volatility, potential consolidation after strong move, and typical pullback patterns in DeFi cycles.\"\n}\n```\n\n**Key Factors:**\n- **Bullish**: Strong recent performance, positive market regime, robust Sharpe ratio (2.36)\n- **Bearish**: High volatility, recent drawdown history, mixed TVL fundamentals, momentum likely unsustainable\n- **Forecast**: Expecting continued positive returns but at a decelerated pace with partial mean reversion",
+  "date": "2024-11-18",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:28.673147+00:00"
+}

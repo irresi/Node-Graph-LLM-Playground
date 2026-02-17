@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.55,
+  "reasoning": "MKR has experienced consistent negative returns (-15% over 30 days) with high volatility (59.1% annualized) and poor risk-adjusted returns (Sharpe: -2.14). While the broader DeFi market shows moderate bull momentum (+19.6% TVL growth) and MKR's protocol TVL grew +17.5%, the token's price momentum remains bearish across all timeframes (7d, 14d, 30d all negative). The negative expected return reflects recent downtrend momentum, though confidence is moderate due to potential mean reversion given positive protocol fundamentals and market recovery. The 14-day forecast is less certain than the recent trend suggests due to the divergence between strong protocol metrics and weak token performance.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"MKR has experienced consistent negative returns (-15% over 30 days) with high volatility (59.1% annualized) and poor risk-adjusted returns (Sharpe: -2.14). While the broader DeFi market shows moderate bull momentum (+19.6% TVL growth) and MKR's protocol TVL grew +17.5%, the token's price momentum remains bearish across all timeframes (7d, 14d, 30d all negative). The negative expected return reflects recent downtrend momentum, though confidence is moderate due to potential mean reversion given positive protocol fundamentals and market recovery. The 14-day forecast is less certain than the recent trend suggests due to the divergence between strong protocol metrics and weak token performance.\"\n}\n```",
+  "date": "2024-06-13",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:09.289826+00:00"
+}

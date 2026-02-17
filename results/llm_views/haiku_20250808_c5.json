@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.72,
+  "reasoning": "Bull regime with strong protocol fundamentals (AAVE +29.8%, GMX +37.4% TVL growth) supports continued upside. 7-day momentum rebound (+11.49%) after mid-period dip suggests recovery, but cluster volatility (52.9%) and recent -2.85% 14-day return indicate some consolidation. Forecast moderate continuation of bull trend with some pullback risk. 28% annualized reflects 14-day view balancing momentum strength against mean reversion dynamics.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bull regime with +26.1% TVL growth (30-day)\n- Strong overall market momentum\n- Cluster outperformed: +17.99% (30-day) vs implied market strength\n\n**Cluster Momentum Signals:**\n- 7-day return: +11.49% (strong recent momentum)\n- 14-day return: -2.85% (significant pullback in middle period)\n- 30-day return: +17.99% (net positive despite volatility)\n- This shows: recent strength after a mid-period dip\n\n**Protocol Fundamentals:**\n- AAVE (largest position, 37.3B TVL): +29.8% TVL growth - strongest performer\n- GMX: +37.4% TVL growth - exceptional momentum\n- CRV, COMP, MKR: Moderate TVL growth (5-16%)\n- Weighted average TVL growth: ~16-18% range\n\n**Risk Assessment:**\n- Volatility: 52.9% annualized (high but typical for DeFi)\n- Sharpe ratio: 2.86 (excellent risk-adjusted returns)\n- Max drawdown: -18% (significant but managed)\n- Recent pattern suggests consolidation after strong rally\n\n**14-Day Forecast Reasoning:**\nThe cluster shows strong fundamentals with solid TVL growth across protocols. The 7-day rebound after a 14-day dip suggests market volatility but underlying strength. Given:\n- Bull market regime continuation likely\n- AAVE and GMX showing exceptional TVL growth\n- Recent momentum turning positive (last 7 days)\n- But: momentum may moderate after strong 30-day run\n- Expected mean reversion toward 8-12% annualized range\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Bull regime with strong protocol fundamentals (AAVE +29.8%, GMX +37.4% TVL growth) supports continued upside. 7-day momentum rebound (+11.49%) after mid-period dip suggests recovery, but cluster volatility (52.9%) and recent -2.85% 14-day return indicate some consolidation. Forecast moderate continuation of bull trend with some pullback risk. 28% annualized reflects 14-day view balancing momentum strength against mean reversion dynamics.\"\n}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:01.781745+00:00",
+  "enriched": false
+}

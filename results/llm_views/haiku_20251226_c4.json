@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 operates in a strong bear market regime with DeFi TVL essentially flat (+0.2%) and the overall market in pronounced downtrend. The cluster's recent performance is deeply negative: -20.05% (30d), -11.63% (14d), -2.56% (7d), indicating accelerating momentum losses. However, the 7d/14d trend shows deceleration in the rate of decline, suggesting potential stabilization. The cluster comprises infrastructure/L2 tokens and an oracle asset, which typically benefit from longer-term adoption but suffer during bear markets. With 60.3% annualized volatility and a -2.79 Sharpe ratio, downside risk remains elevated. The 14-day forecast is modeled as a continuation of recent weakness but at a slower pace than the full 30-day period, reflecting some stabilization signals. Confidence is moderate due to regime uncertainty and limited TVL data for most assets.",
+  "raw_response": "Based on the provided market context for Cluster 4 (LINK, OP, ARB, ENS, GRT), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 operates in a strong bear market regime with DeFi TVL essentially flat (+0.2%) and the overall market in pronounced downtrend. The cluster's recent performance is deeply negative: -20.05% (30d), -11.63% (14d), -2.56% (7d), indicating accelerating momentum losses. However, the 7d/14d trend shows deceleration in the rate of decline, suggesting potential stabilization. The cluster comprises infrastructure/L2 tokens and an oracle asset, which typically benefit from longer-term adoption but suffer during bear markets. With 60.3% annualized volatility and a -2.79 Sharpe ratio, downside risk remains elevated. The 14-day forecast is modeled as a continuation of recent weakness but at a slower pace than the full 30-day period, reflecting some stabilization signals. Confidence is moderate due to regime uncertainty and limited TVL data for most assets.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:38.892497+00:00",
+  "enriched": false
+}

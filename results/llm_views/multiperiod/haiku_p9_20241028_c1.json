@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with strong negative momentum (-6.85% 7d, -7.05% 14d). High volatility (55.9% annualized) and negative Sharpe ratio (-2.42) suggest continued weakness. TVL declining across both CVX (-11.1%) and RPL (-2.3%) indicates reduced protocol activity. However, confidence is moderate due to potential oversold conditions and potential mean reversion in highly volatile assets. Annualized extrapolation of recent 14-day performance yields approximately -0.85 annual return, though near-term recovery is possible given extreme conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with strong negative momentum (-6.85% 7d, -7.05% 14d). High volatility (55.9% annualized) and negative Sharpe ratio (-2.42) suggest continued weakness. TVL declining across both CVX (-11.1%) and RPL (-2.3%) indicates reduced protocol activity. However, confidence is moderate due to potential oversold conditions and potential mean reversion in highly volatile assets. Annualized extrapolation of recent 14-day performance yields approximately -0.85 annual return, though near-term recovery is possible given extreme conditions.\"\n}\n```",
+  "date": "2024-10-29",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:30.299801+00:00"
+}

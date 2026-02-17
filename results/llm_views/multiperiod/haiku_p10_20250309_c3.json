@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with severe 30-day decline (-32.17%) suggests potential mean reversion bounce from oversold levels. However, persistent TVL declines (-20.3% UNI, -11.8% AAVE) and poor risk metrics (Sharpe -2.85) limit upside. 7-day deceleration of losses hints at potential stabilization. Forecasting modest positive return with low confidence due to continued bearish fundamentals and high volatility (94.8%). Low confidence reflects significant uncertainty in bear market conditions.",
+  "raw_response": "I'll analyze this DeFi cluster (UNI, AAVE) to provide a 14-day expected return forecast.\n\nLet me evaluate the key factors:\n\n**Market Context Analysis:**\n- **Regime**: Strong bear market with -17.9% TVL decline over 30 days\n- **Cluster Performance**: Severely underperforming with -32.17% 30-day return and -33.75% 14-day return\n- **Volatility**: Extremely high at 94.8% annualized, indicating significant instability\n- **Sharpe Ratio**: -2.85 indicates poor risk-adjusted returns in current conditions\n\n**Protocol Fundamentals:**\n- **UNI (Uniswap)**: -20.3% TVL change, still the largest DEX despite market stress\n- **AAVE (Aave)**: -11.8% TVL change, largest lending protocol with more stable TVL relative to UNI\n\n**Momentum Signals:**\n- **Accelerating Decline**: 7-day return (-24.06%) is slightly better than 14-day (-33.75%), suggesting deceleration in losses\n- **Max Drawdown**: -33.9% indicates we may be near capitulation territory\n- **Trend Direction**: Consistent downward pressure across all timeframes\n\n**Forecast Rationale:**\nIn a strong bear market, oversold conditions sometimes lead to mean reversion bounces, but this cluster shows no signs of stabilization yet. The TVL declines persist, suggesting fundamental weakness. However, the 7-day return being less negative than the 14-day return hints at a potential stabilization or near-term bounce.\n\nGiven:\n1. Extreme volatility provides upside optionality\n2. Potential for technical bounce from oversold levels\n3. Continued market headwinds and TVL destruction\n4. Weak Sharpe ratio indicates risk/reward is poor\n\nI forecast modest recovery potential, but with low confidence given the strong downtrend.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market regime with severe 30-day decline (-32.17%) suggests potential mean reversion bounce from oversold levels. However, persistent TVL declines (-20.3% UNI, -11.8% AAVE) and poor risk metrics (Sharpe -2.85) limit upside. 7-day deceleration of losses hints at potential stabilization. Forecasting modest positive return with low confidence due to continued bearish fundamentals and high volatility (94.8%). Low confidence reflects significant uncertainty in bear market conditions.\"}\n```",
+  "date": "2025-03-10",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:07.991193+00:00"
+}

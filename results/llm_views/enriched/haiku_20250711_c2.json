@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows strong 14-day momentum (+13.35%) but remains in bear market regime with negative Sharpe ratio (-0.99). Recent bounce may continue briefly (supporting 15-20% annualized return), but elevated volatility (63.9%) and max drawdown (-18.6%) create significant downside risk. TVL growth in AAVE (+13.9%) and SUSHI (+28.2%) provides some fundamental support. Confidence is moderate-low due to conflicting signals between recent momentum and bearish macro regime. Forecast assumes 50% probability bounce continuation, 40% reversion risk.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime Conflict**: The market is in a bear regime (strong downtrend), yet the cluster shows strong recent momentum:\n   - 7-day return: +13.16%\n   - 14-day return: +13.35%\n   - 30-day return: -7.54%\n   \n   This suggests a recent reversal or bounce within a broader downtrend.\n\n2. **Volatility & Risk**: \n   - Annualized volatility: 63.9% (very high)\n   - Sharpe ratio: -0.99 (negative risk-adjusted returns)\n   - Max drawdown: -18.6% (severe)\n   - This is a highly volatile cluster with negative risk-adjusted performance\n\n3. **Cluster Composition**: Mix of DEX, lending, derivatives, and liquid staking protocols - diverse but capital-intensive sectors showing mixed TVL trends:\n   - AAVE (largest): +13.9% TVL growth (strong)\n   - SUSHI: +28.2% TVL growth (exceptional)\n   - UNI: +6.0% TVL growth (moderate)\n   - CRV: +2.4% TVL growth (weak)\n\n4. **Governance Health**: Active governance across most protocols (GMX has active proposals), suggesting engaged communities but no major protocol upgrades that would drive outsized returns.\n\n5. **Yield Metrics**: \n   - UNI: 20.32% APY (strong, but IL risk)\n   - SUSHI: 2.20% APY (weak)\n   - CRV: 3.01% APY (modest)\n   - AAVE/COMP: <1% APY (minimal)\n   - LDO/RPL: ~2% APY (staking-based, stable)\n\n**Forecast Rationale:**\n\nThe recent 14-day momentum (+13.35%) is strong but likely represents a tactical bounce in a bear market. The fundamental headwinds (bear regime, negative Sharpe ratio, high drawdown) suggest limited sustainability. A 14-day forward outlook should normalize this bounce while respecting the underlying market weakness.\n\nAnnualizing the recent 14-day return of +13.35% would yield ~235% annually, which is unrealistic given market regime. The sustainable return is likely 10-30% annualized based on:\n- Bounce continuation probability: ~50%\n- Bear market reversion risk: ~40%\n- Structural yield support: ~10-20% APY on best performers\n\nI estimate a modest positive return with moderate-to-low confidence given the regime contradiction.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+13.35%) but remains in bear market regime with negative Sharpe ratio (-0.99). Recent bounce may continue briefly (supporting 15-20% annualized return), but elevated volatility (63.9%) and max drawdown (-18.6%) create significant downside risk. TVL growth in AAVE (+13.9%) and SUSHI (+28.2%) provides some fundamental support. Confidence is moderate-low due to conflicting signals between recent momentum and bearish macro regime. Forecast assumes 50% probability bounce continuation, 40% reversion risk.\"\n}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:06.822414+00:00",
+  "enriched": true
+}

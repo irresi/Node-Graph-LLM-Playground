@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "Recent 14-day momentum (+14.06% annualized) suggests short-term continuation, but bearish market regime (-7.5% TVL decline), declining MKR TVL (-8.7%), and high volatility (65.8%) create significant headwinds. Moderate confidence due to momentum persistence partially offset by fundamental weakness and mean reversion risk in volatile markets.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n**Analysis of Cluster 3 (MKR):**\n\n**Key Observations:**\n\n1. **Market Regime**: Bear market with -7.5% TVL decline over 30 days, indicating challenging conditions for DeFi assets.\n\n2. **Recent Momentum**: \n   - 7-day return: +8.02%\n   - 14-day return: +14.06%\n   - 30-day return: -3.07%\n   - This shows recent strong momentum reversal after initial losses\n\n3. **Volatility Profile**: \n   - Annualized volatility of 65.8% is very high\n   - Max drawdown of -18.1% indicates significant downside risk\n   - Negative Sharpe ratio (-0.39) suggests poor risk-adjusted returns historically\n\n4. **Protocol Fundamentals**:\n   - MKR (Maker) TVL declined -8.7% in 30 days, tracking with broader bear market\n   - Single token cluster, so no diversification benefit\n   - Lending protocol in challenging market conditions\n\n5. **Forecast Considerations**:\n   - The 14-day positive momentum (+14.06%) could continue short-term\n   - However, bear market regime and declining TVL suggest headwinds\n   - High volatility presents both upside and downside risk\n   - Momentum-driven gains may face mean reversion\n\n**Forecast Rationale:**\nGiven the recent 14-day momentum of +14.06% annualized (~2% over 14 days), but tempered by the bearish market regime, declining TVL, and risk of momentum reversal, I estimate a modest positive return with moderate confidence. The high volatility and negative historical Sharpe ratio reduce conviction.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Recent 14-day momentum (+14.06% annualized) suggests short-term continuation, but bearish market regime (-7.5% TVL decline), declining MKR TVL (-8.7%), and high volatility (65.8%) create significant headwinds. Moderate confidence due to momentum persistence partially offset by fundamental weakness and mean reversion risk in volatile markets.\"\n}\n```",
+  "date": "2024-07-03",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:05.449442+00:00"
+}

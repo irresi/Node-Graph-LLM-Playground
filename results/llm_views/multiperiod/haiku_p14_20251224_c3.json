@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.42,
+  "reasoning": "SNX faces headwinds from a bear market regime with negative 30-day returns (-28.42%), declining TVL (-22.3%), and a poor Sharpe ratio (-3.85). However, recent 7-day momentum is positive (+8.73%), suggesting potential short-term recovery. The 14-day return (-10.48%) sits between these extremes. High volatility (62% annualized) and max drawdown of -32.9% indicate elevated risk. Given the mixed signals\u2014negative medium-term trend vs. positive recent momentum\u2014I forecast a modest negative annualized return with low-to-moderate confidence. The bear market regime and deteriorating TVL are concerning, but the potential for mean reversion in the next 14 days provides some upside uncertainty.",
+  "raw_response": "Based on the market context and cluster data provided, here is my forecast for Cluster 3 (SNX) over the next 14 days:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"SNX faces headwinds from a bear market regime with negative 30-day returns (-28.42%), declining TVL (-22.3%), and a poor Sharpe ratio (-3.85). However, recent 7-day momentum is positive (+8.73%), suggesting potential short-term recovery. The 14-day return (-10.48%) sits between these extremes. High volatility (62% annualized) and max drawdown of -32.9% indicate elevated risk. Given the mixed signals\u2014negative medium-term trend vs. positive recent momentum\u2014I forecast a modest negative annualized return with low-to-moderate confidence. The bear market regime and deteriorating TVL are concerning, but the potential for mean reversion in the next 14 days provides some upside uncertainty.\"\n}\n```\n\n**Key factors:**\n1. **Bear market regime** - Structural headwind for DeFi tokens\n2. **Negative TVL trend** (-22.3%) - Suggests reduced protocol demand/utility\n3. **High volatility** (62%) - Creates both risk and opportunity for reversals\n4. **Positive 7-day momentum** (+8.73%) - Short-term technical strength, but inconsistent with longer-term trend\n5. **Low confidence** - Mixed signals make prediction difficult; the cluster could stabilize or continue declining",
+  "date": "2025-12-25",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:06.411458+00:00"
+}

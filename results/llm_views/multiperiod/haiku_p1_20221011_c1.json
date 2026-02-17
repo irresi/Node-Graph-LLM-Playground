@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -29.1% 30-day cluster decline and negative Sharpe ratio (-4.87) suggests continued pressure. However, 14-day return (-5.28%) shows deceleration vs. 30-day trend, indicating potential stabilization. Mixed TVL dynamics (GMX +12.6% vs. LDO -22.5%) add complexity. High volatility (50.2% annualized) and -21.8% max drawdown increase forecast uncertainty. Expecting modest negative returns in near-term with elevated risk, but slower deterioration than recent pace.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -29.1% 30-day cluster decline and negative Sharpe ratio (-4.87) suggests continued pressure. However, 14-day return (-5.28%) shows deceleration vs. 30-day trend, indicating potential stabilization. Mixed TVL dynamics (GMX +12.6% vs. LDO -22.5%) add complexity. High volatility (50.2% annualized) and -21.8% max drawdown increase forecast uncertainty. Expecting modest negative returns in near-term with elevated risk, but slower deterioration than recent pace.\"\n}\n```",
+  "date": "2022-10-12",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:48.997261+00:00"
+}

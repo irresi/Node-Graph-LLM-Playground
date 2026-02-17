@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.28,
-  "confidence": 0.52,
-  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) faces significant headwinds: bear market regime, deeply negative 30-day return (-17.09%), poor Sharpe ratio (-1.65), and broad TVL erosion across all constituents \u2014 most notably SNX (-20.7% TVL 30d) and SUSHI (-6.7%). However, the recent 7-day momentum (+11.22%) and 14-day return (+2.43%) suggest a short-term relief rally or mean-reversion bounce is underway, partially offsetting the bearish structural backdrop. LDO dominates TVL-weighting (~77% of cluster TVL at $23.2B) and its relatively modest TVL decline (-2.8%) provides some stabilization. Annualizing the 14-day trend (+2.43% over 14d \u2248 +63% annualized) against the 30-day structural drag and bear regime, a cautious net negative annualized forecast of -28% is applied, reflecting the bear trend resuming after the bounce fades. Confidence is moderate (0.52) given the conflicting short-term vs. medium-term signals and high volatility (87.1% annualized).",
-  "raw_response": "```json\n{\"expected_return\": -0.28, \"confidence\": 0.52, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) faces significant headwinds: bear market regime, deeply negative 30-day return (-17.09%), poor Sharpe ratio (-1.65), and broad TVL erosion across all constituents \u2014 most notably SNX (-20.7% TVL 30d) and SUSHI (-6.7%). However, the recent 7-day momentum (+11.22%) and 14-day return (+2.43%) suggest a short-term relief rally or mean-reversion bounce is underway, partially offsetting the bearish structural backdrop. LDO dominates TVL-weighting (~77% of cluster TVL at $23.2B) and its relatively modest TVL decline (-2.8%) provides some stabilization. Annualizing the 14-day trend (+2.43% over 14d \u2248 +63% annualized) against the 30-day structural drag and bear regime, a cautious net negative annualized forecast of -28% is applied, reflecting the bear trend resuming after the bounce fades. Confidence is moderate (0.52) given the conflicting short-term vs. medium-term signals and high volatility (87.1% annualized).\"}\n```",
-  "date": "2025-06-13",
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CVX is in a strong bear trend with a -21.96% 30-day return and a deeply negative Sharpe ratio of -2.27, indicating persistent risk-adjusted underperformance. The max drawdown of -29.5% signals significant selling pressure. While the 7-day return of +1.57% offers a faint short-term relief signal, the 14-day return of -5.78% suggests the bounce is fragile and not yet indicative of a trend reversal. TVL is relatively stable at $1.17B with only a -0.5% 30-day decline, providing some fundamental support, but the broader DeFi market regime is bearish with minimal TVL growth (+1.2%). Annualized return is extrapolated from the 14-day trajectory (-5.78%) scaled to ~365/14 \u2248 26x, adjusted conservatively downward given bear regime persistence but partially offset by the recent 7-day uptick. Confidence is moderate given single-token cluster concentration risk and mixed short-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CVX is in a strong bear trend with a -21.96% 30-day return and a deeply negative Sharpe ratio of -2.27, indicating persistent risk-adjusted underperformance. The max drawdown of -29.5% signals significant selling pressure. While the 7-day return of +1.57% offers a faint short-term relief signal, the 14-day return of -5.78% suggests the bounce is fragile and not yet indicative of a trend reversal. TVL is relatively stable at $1.17B with only a -0.5% 30-day decline, providing some fundamental support, but the broader DeFi market regime is bearish with minimal TVL growth (+1.2%). Annualized return is extrapolated from the 14-day trajectory (-5.78%) scaled to ~365/14 \u2248 26x, adjusted conservatively downward given bear regime persistence but partially offset by the recent 7-day uptick. Confidence is moderate given single-token cluster concentration risk and mixed short-term signals.\"}\n```",
+  "date": "2025-06-14",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:05:25.609716+00:00",
+  "generated_at": "2026-02-17T15:57:48.809045+00:00",
   "enriched": false
 }

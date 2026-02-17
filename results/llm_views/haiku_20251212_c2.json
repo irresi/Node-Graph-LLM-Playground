@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.35,
+  "reasoning": "BAL faces structural headwinds (TVL -12.5% vs market -1.3%) in a bear regime, but 7-day momentum shows deceleration suggesting near-term stabilization. Forecasting modest negative returns over 14 days with low confidence due to high volatility (48.4%) and unpredictability of bear market bottoms.",
+  "raw_response": "I'll analyze the provided market context for Cluster 2 (BAL token) to forecast the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Market Context:**\n- Bear market regime with strong downtrend\n- Overall DeFi TVL declined 1.3% in 30 days\n- BAL TVL declined 12.5% in 30 days, significantly outpacing market decline\n\n**Recent Performance:**\n- 30-day return: -18.70%\n- 14-day return: -2.79%\n- 7-day return: -0.09% (showing deceleration of losses)\n- High volatility: 48.4% annualized\n- Negative Sharpe ratio: -3.25\n- Max drawdown: -16.8%\n\n**Key Observations:**\n1. **Momentum deterioration**: The 7-day loss (-0.09%) is much smaller than the 14-day loss (-2.79%), suggesting downward momentum is slowing\n2. **Relative underperformance**: BAL's TVL decline (-12.5%) exceeds market decline (-1.3%), indicating potential competitive pressures or user outflows specific to Balancer\n3. **Volatility context**: 48.4% annualized volatility suggests potential for recovery bounces in bear markets\n4. **Market regime**: Strong bear market typically leads to continued but potentially stabilizing weakness\n\n**Forecast Rationale:**\nGiven the deceleration of losses over shorter timeframes and extreme bearishness (negative Sharpe ratio), I expect a slight recovery or stabilization over the next 14 days. However, the bear regime and structural TVL concerns limit upside. I'm forecasting modest negative returns with moderate-to-low confidence given the high uncertainty in bear markets.\n\n```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces structural headwinds (TVL -12.5% vs market -1.3%) in a bear regime, but 7-day momentum shows deceleration suggesting near-term stabilization. Forecasting modest negative returns over 14 days with low confidence due to high volatility (48.4%) and unpredictability of bear market bottoms.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:02.640646+00:00",
+  "enriched": false
+}

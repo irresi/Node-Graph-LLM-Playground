@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 shows strong 14-day momentum (+17.90%) but recent weakness (-3.75% in 7d) suggests potential pullback. The 1.44 Sharpe ratio and moderate bull market regime support continued upside, but high volatility (71.9%) and -15.8% max drawdown warrant caution. Infrastructure/L2 tokens are sensitive to market sentiment and regulatory developments. Annualizing the recent 14-day strength (+17.90%) yields ~120% annualized, but adjusting down 75% for mean reversion, recent weakness, and execution risk gives 28% expected return. Confidence held at 0.62 due to momentum reversal signals and lack of clear protocol TVL growth catalysts.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows strong 14-day momentum (+17.90%) but recent weakness (-3.75% in 7d) suggests potential pullback. The 1.44 Sharpe ratio and moderate bull market regime support continued upside, but high volatility (71.9%) and -15.8% max drawdown warrant caution. Infrastructure/L2 tokens are sensitive to market sentiment and regulatory developments. Annualizing the recent 14-day strength (+17.90%) yields ~120% annualized, but adjusting down 75% for mean reversion, recent weakness, and execution risk gives 28% expected return. Confidence held at 0.62 due to momentum reversal signals and lack of clear protocol TVL growth catalysts.\"\n}\n```",
+  "date": "2025-05-03",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:37.414832+00:00"
+}

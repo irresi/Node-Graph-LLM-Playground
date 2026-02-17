@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.62,
+  "reasoning": "DYDX shows strong fundamentals with +30.6% TVL growth and 4.40 Sharpe ratio in bull regime. However, momentum is decelerating (3.26% 7-day vs 20.27% 14-day) and 107.8% volatility creates mean reversion risk after +56.42% 30-day run. Expect continued but moderated gains over next 14 days.",
+  "raw_response": "I'll analyze this DeFi cluster (DYDX) and provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong recent momentum: +56.42% (30-day), +20.27% (14-day), +3.26% (7-day)\n- Excellent Sharpe ratio of 4.40 indicates quality risk-adjusted returns\n- TVL growth of +30.6% (30-day) shows increasing protocol adoption\n- Overall DeFi market in moderate bull regime with +25.2% TVL growth\n- Derivatives category benefits from increased trading activity in bull markets\n\n**Risk Factors:**\n- Very high volatility at 107.8% annualized suggests significant price swings\n- Recent rapid gains (+56.42% in 30 days) create potential mean reversion risk\n- Single-token cluster lacks diversification\n- Max drawdown of -12.8% shows recent pullback risk\n- Momentum is decelerating (7-day return of 3.26% is lower than pace from 14-30 days)\n\n**Analysis:**\nThe cluster has shown exceptional performance recently, but the deceleration from 14-day to 7-day returns suggests momentum may be waning. The high volatility and strong recent gains create both upside and downside risk. Given the bull market regime and positive TVL trends, I expect continued positive returns, but at a moderated pace compared to the exceptional 30-day performance.\n\nThe 14-day forward-looking period should benefit from:\n- Sustained bull market conditions\n- Continued TVL growth\n- Derivatives trading volume during market momentum\n\nHowever, I'm moderating expectations due to momentum deceleration and high volatility.\n\n```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"DYDX shows strong fundamentals with +30.6% TVL growth and 4.40 Sharpe ratio in bull regime. However, momentum is decelerating (3.26% 7-day vs 20.27% 14-day) and 107.8% volatility creates mean reversion risk after +56.42% 30-day run. Expect continued but moderated gains over next 14 days.\"\n}\n```",
+  "date": "2024-12-16",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:41.770313+00:00"
+}

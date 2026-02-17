@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.082,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.082,\n  \"confidence\": 0.72,\n  \"reasoning\": \"CVX exhibits genuine bearish fundamentals across all three analyst dimensions with no credible bullish offset. TVL contract",
+  "n_agents": 18,
+  "date": "2025-06-28 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

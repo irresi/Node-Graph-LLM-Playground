@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.72,
-  "confidence": 0.68,
-  "reasoning": "Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is exhibiting severe bearish momentum with a -38.23% 30-day return and a deeply negative Sharpe ratio of -5.59. The 14-day return of -14.12% annualizes to approximately -72%, which anchors the near-term forecast. Across the cluster, TVL is broadly deteriorating \u2014 SNX is particularly alarming at -38.8% 30d TVL decline, while even the largest constituent LDO shows -3.7% TVL erosion. The overall DeFi market regime is confirmed Bear with aggregate TVL slightly negative (-0.8%), providing no macro tailwind. Short-term momentum (-7.81% over 7 days) suggests the pace of decline may be moderating slightly versus the 30-day trend, but there is no clear reversal signal. The annualized expected return of -0.72 (-72%) reflects extrapolation of the 14-day realized trend with a modest mean-reversion haircut. Confidence is moderate (0.68) given the consistency of bearish signals across timeframes and fundamentals, tempered by the possibility of a short-term technical bounce given extreme oversold conditions and the risk of capitulation-driven reversals inherent in high-volatility (57.5% annualized vol) DeFi assets.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.72,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is exhibiting severe bearish momentum with a -38.23% 30-day return and a deeply negative Sharpe ratio of -5.59. The 14-day return of -14.12% annualizes to approximately -72%, which anchors the near-term forecast. Across the cluster, TVL is broadly deteriorating \u2014 SNX is particularly alarming at -38.8% 30d TVL decline, while even the largest constituent LDO shows -3.7% TVL erosion. The overall DeFi market regime is confirmed Bear with aggregate TVL slightly negative (-0.8%), providing no macro tailwind. Short-term momentum (-7.81% over 7 days) suggests the pace of decline may be moderating slightly versus the 30-day trend, but there is no clear reversal signal. The annualized expected return of -0.72 (-72%) reflects extrapolation of the 14-day realized trend with a modest mean-reversion haircut. Confidence is moderate (0.68) given the consistency of bearish signals across timeframes and fundamentals, tempered by the possibility of a short-term technical bounce given extreme oversold conditions and the risk of capitulation-driven reversals inherent in high-volatility (57.5% annualized vol) DeFi assets.\"\n}\n```",
-  "date": "2025-12-12",
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CVX is in a clear bear trend with -11.18% over 30 days and a deeply negative Sharpe ratio of -1.43, reflecting sustained selling pressure. The 7-day bounce of +1.95% offers a mild near-term countertrend signal, but the 14-day return of -5.04% suggests the bounce is fragile. TVL has declined -5.3% over 30 days to $949M, indicating capital outflows from the protocol. Overall DeFi TVL is also contracting (-1.3%), reinforcing a risk-off macro backdrop. High annualized volatility of 65.7% and a max drawdown of -16% suggest downside risk remains elevated. Annualizing the 14-day trend (~-5% over 2 weeks \u2248 -130% annualized) is too extreme; tempering with mean-reversion assumptions and the short-term bounce, a forward annualized return of approximately -42% is a reasonable central estimate for the next 14-day window. Confidence is moderate given high volatility and some conflicting short-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CVX is in a clear bear trend with -11.18% over 30 days and a deeply negative Sharpe ratio of -1.43, reflecting sustained selling pressure. The 7-day bounce of +1.95% offers a mild near-term countertrend signal, but the 14-day return of -5.04% suggests the bounce is fragile. TVL has declined -5.3% over 30 days to $949M, indicating capital outflows from the protocol. Overall DeFi TVL is also contracting (-1.3%), reinforcing a risk-off macro backdrop. High annualized volatility of 65.7% and a max drawdown of -16% suggest downside risk remains elevated. Annualizing the 14-day trend (~-5% over 2 weeks \u2248 -130% annualized) is too extreme; tempering with mean-reversion assumptions and the short-term bounce, a forward annualized return of approximately -42% is a reasonable central estimate for the next 14-day window. Confidence is moderate given high volatility and some conflicting short-term signals.\"}\n```",
+  "date": "2025-12-13",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:16:33.441025+00:00",
+  "generated_at": "2026-02-17T16:05:58.991397+00:00",
   "enriched": false
 }

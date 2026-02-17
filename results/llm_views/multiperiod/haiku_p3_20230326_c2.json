@@ -1,0 +1,28 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with negative momentum (7d: -6.63%, 14d: -7.05%) and deteriorating fundamentals. Most major protocols show negative TVL trends except BAL (+8.3%). High volatility (50.1% annualized) and poor Sharpe ratio (-1.73) indicate risk-off sentiment. While cluster is diversified across infrastructure/yield/DEX/derivatives, the sustained downtrend and weak macro conditions suggest continued headwinds. Annualized projection from recent 14-day performance (-7.05% over 2 weeks = ~26 periods) yields approximately -0.42 annualized return. Moderate confidence due to bear market volatility and potential for oversold bounces, offset by clear negative momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with negative momentum (7d: -6.63%, 14d: -7.05%) and deteriorating fundamentals. Most major protocols show negative TVL trends except BAL (+8.3%). High volatility (50.1% annualized) and poor Sharpe ratio (-1.73) indicate risk-off sentiment. While cluster is diversified across infrastructure/yield/DEX/derivatives, the sustained downtrend and weak macro conditions suggest continued headwinds. Annualized projection from recent 14-day performance (-7.05% over 2 weeks = ~26 periods) yields approximately -0.42 annualized return. Moderate confidence due to bear market volatility and potential for oversold bounces, offset by clear negative momentum.\"\n}\n```",
+  "date": "2023-03-27",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:59.990795+00:00"
+}

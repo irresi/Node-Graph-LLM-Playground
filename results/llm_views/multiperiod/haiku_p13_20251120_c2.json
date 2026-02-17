@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster 2 operates in a strong bear market regime with DeFi TVL down 20.1% and cluster-specific downtrend of -24.76% over 30 days. Recent momentum is mixed (7d: -11.9%, 14d: -4.67%) suggesting deceleration of losses, but extreme volatility (86.8% annualized) and negative Sharpe ratio (-2.40) indicate significant risk. The portfolio is weighted heavily toward LDO ($24.6B TVL, -23.9% 30d change), which faces uncertainty in liquid staking derivatives amid broader market weakness. CVX shows relative resilience (-4.8%), but CRV (-14.8%), SUSHI (-25%), and RPL (-27.5%) suggest continued pressure. Given the macro bear environment, negative momentum, and technical oversold conditions that may offer slight stabilization, forecasting -85% annualized return (approximately -3.3% over 14 days) balances downside risks with modest mean reversion potential. Low confidence reflects high volatility and regime-dependent forecasting challenges.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 2 operates in a strong bear market regime with DeFi TVL down 20.1% and cluster-specific downtrend of -24.76% over 30 days. Recent momentum is mixed (7d: -11.9%, 14d: -4.67%) suggesting deceleration of losses, but extreme volatility (86.8% annualized) and negative Sharpe ratio (-2.40) indicate significant risk. The portfolio is weighted heavily toward LDO ($24.6B TVL, -23.9% 30d change), which faces uncertainty in liquid staking derivatives amid broader market weakness. CVX shows relative resilience (-4.8%), but CRV (-14.8%), SUSHI (-25%), and RPL (-27.5%) suggest continued pressure. Given the macro bear environment, negative momentum, and technical oversold conditions that may offer slight stabilization, forecasting -85% annualized return (approximately -3.3% over 14 days) balances downside risks with modest mean reversion potential. Low confidence reflects high volatility and regime-dependent forecasting challenges.\"\n}\n```",
+  "date": "2025-11-21",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:19.696767+00:00"
+}

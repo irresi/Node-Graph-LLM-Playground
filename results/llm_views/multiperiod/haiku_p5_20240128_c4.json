@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with negative 14d momentum (-11.74%) suggests continued weakness, but liquid staking protocol stability and potential mean reversion provide some upside. High volatility (95.2%) and poor recent Sharpe (-0.49) limit confidence. Forecast assumes -2% to -3% return over 14 days, annualized to ~-0.25, reflecting bearish technical setup tempered by protocol fundamentals.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze Cluster 4 (RPL - Liquid Staking) to forecast its expected 14-day return.\n\n**Analysis:**\n\n1. **Market Regime & Momentum**: The DeFi market is in a bear regime with strong downtrend. The cluster shows negative momentum across all timeframes (-1.64% 7d, -11.74% 14d, -5.58% 30d), suggesting continued weakness.\n\n2. **Protocol Fundamentals**: RPL has stable TVL ($1,578M with +0.7% 30d change), indicating reasonable protocol health despite market headwinds. Liquid staking protocols are generally more resilient.\n\n3. **Volatility & Risk**: The annualized volatility of 95.2% is extremely high, indicating significant price swings. The Sharpe ratio of -0.49 shows poor risk-adjusted returns in the recent period, and the -24.6% max drawdown indicates substantial downside risk.\n\n4. **Forecast Logic**: In a bear market with strong recent downtrend momentum, despite stable fundamentals, the technical picture suggests continued weakness. However, liquid staking protocols tend to have institutional support. The 14-day period follows the worst recent performance (-11.74%), so some mean reversion is possible.\n\n5. **14-day Annualization**: A 14-day forecast annualizes over 26 periods (365/14), so even small movements compound significantly.\n\nGiven the bear regime, negative momentum, but stable fundamentals and potential for mean reversion:\n\n```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bear market regime with negative 14d momentum (-11.74%) suggests continued weakness, but liquid staking protocol stability and potential mean reversion provide some upside. High volatility (95.2%) and poor recent Sharpe (-0.49) limit confidence. Forecast assumes -2% to -3% return over 14 days, annualized to ~-0.25, reflecting bearish technical setup tempered by protocol fundamentals.\"\n}\n```",
+  "date": "2024-01-29",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:14.258619+00:00"
+}

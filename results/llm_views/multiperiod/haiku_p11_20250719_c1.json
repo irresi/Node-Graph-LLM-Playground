@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum with +34.94% over 14 days and +33.88% over 30 days in a bull market regime. High Sharpe ratio (4.14) indicates quality risk-adjusted returns. However, elevated annualized volatility (68.7%) and recent momentum deceleration (7-day: +18.24% vs 14-day: +34.94%) suggest mean reversion risk. Limited TVL data for most tokens and the infrastructure/L2 category's sensitivity to broader market sentiment reduce confidence. Annualized projection of ~85% reflects continued positive momentum but tempered by typical pullback patterns after strong runs.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong momentum with +34.94% over 14 days and +33.88% over 30 days in a bull market regime. High Sharpe ratio (4.14) indicates quality risk-adjusted returns. However, elevated annualized volatility (68.7%) and recent momentum deceleration (7-day: +18.24% vs 14-day: +34.94%) suggest mean reversion risk. Limited TVL data for most tokens and the infrastructure/L2 category's sensitivity to broader market sentiment reduce confidence. Annualized projection of ~85% reflects continued positive momentum but tempered by typical pullback patterns after strong runs.\"\n}\n```",
+  "date": "2025-07-20",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:52.344432+00:00"
+}

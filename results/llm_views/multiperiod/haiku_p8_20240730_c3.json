@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.58,
+  "reasoning": "Negative 14-day momentum (-9.08%) in bear market regime with declining TVL suggests continued weakness. MKR faces headwinds from reduced DeFi activity. However, moderate confidence due to high volatility and potential mean reversion bounces in lending protocols during downturns.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected annualized return over the next 14 days.\n\n**Analysis of Cluster 3 (MKR - Lending):**\n\n**Key Observations:**\n\n1. **Recent Momentum is Negative**: \n   - 7-day return: -1.63%\n   - 14-day return: -9.08%\n   - This shows a clear downtrend over the past two weeks, despite positive 30-day performance\n\n2. **Market Regime Context**:\n   - Overall DeFi market is in a **bear regime** with strong downtrend\n   - DeFi TVL down 2.5% (30-day), indicating reduced capital inflows\n   - MKR's TVL down 3.1% (30-day), underperforming the broader market slightly\n\n3. **Volatility and Risk Metrics**:\n   - High annualized volatility: 74.1% (typical for DeFi lending tokens)\n   - Sharpe ratio of 1.06 suggests moderate risk-adjusted returns historically\n   - Max drawdown of -17.4% in last 30 days indicates significant downside risk\n\n4. **Mean Reversion vs. Momentum**:\n   - The 30-day return of +9.35% masks the recent weakness\n   - The 14-day return of -9.08% is more relevant for forward-looking 14-day prediction\n   - Current trajectory suggests continued weakness in the near term\n\n5. **Lending Protocol Context**:\n   - MKR is governance token for Maker (DAI stablecoin protocol)\n   - Bear market conditions typically pressure lending protocol tokens\n   - Declining TVL suggests less optimistic outlook\n\n**Forecast Rationale:**\nGiven the negative 14-day momentum (-9.08%), bear market regime, declining TVL, and recent weakness overriding the longer-term positive return, I expect continued underperformance over the next 14 days. However, extreme drawdowns can trigger bounces, so the forecast is modestly negative rather than severely negative.\n\n```json\n{\"expected_return\": -0.25, \"confidence\": 0.58, \"reasoning\": \"Negative 14-day momentum (-9.08%) in bear market regime with declining TVL suggests continued weakness. MKR faces headwinds from reduced DeFi activity. However, moderate confidence due to high volatility and potential mean reversion bounces in lending protocols during downturns.\"}\n```",
+  "date": "2024-07-31",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:59:39.858507+00:00"
+}

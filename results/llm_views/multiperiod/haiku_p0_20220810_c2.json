@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.25,
+  "confidence": 0.62,
+  "reasoning": "Strong fundamentals and favorable bull regime support continued gains, but recent 52.74% 30-day return faces mean reversion pressure. 14-day annualized forecast of 25% reflects deceleration from trailing momentum (+14.87% in 14d = 77% annualized) tempered by market normalization. High volatility (73.7%) and excellent Sharpe (6.01) suggest quality exposure. Confidence moderate due to unpredictability of continuation after such strong outperformance.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Current Market Conditions:**\n- Strong bull regime with +38.5% TVL growth over 30 days\n- Cluster has significantly outperformed with +52.74% return\n- High volatility (73.7% annualized) but excellent risk-adjusted returns (Sharpe: 6.01)\n- Modest drawdown (-9.6%) indicates controlled downside\n\n**Momentum Signals:**\n- 7-day return: +8.17%\n- 14-day return: +14.87%\n- 30-day return: +52.74%\n- Acceleration pattern: returns are front-loaded (14d captures 28% of 30d gains)\n\n**Key Considerations:**\n1. **Mean Reversion Risk**: The cluster's 52.74% return in 30 days is exceptionally strong. Market history suggests such gains face normalization pressure.\n2. **Decelerating Momentum**: The 7-day return (+8.17%) is lower than the average daily rate from the first 16 days, suggesting momentum may be waning.\n3. **Favorable Fundamentals**: Large TVL bases (AAVE: $7.4B, CRV: $6.2B, UNI: $5.8B) with positive growth indicate protocol strength.\n4. **Volatility Premium**: High volatility (73.7%) in a bull regime typically supports further gains, but carries elevated tail risk.\n5. **Regime Sustainability**: Moderate Bull classification suggests we're not in extreme euphoria, leaving room for continued gains.\n\n**Forecast Rationale:**\nGiven the strong recent performance, I expect some mean reversion but continued positive momentum in a favorable market regime. The deceleration in weekly returns suggests the cluster won't maintain its 30-day pace. A reasonable expectation is continued outperformance, but at a more moderate rate than the trailing 14-day period.\n\nConverting to annualized: A 14-day return target of ~6-8% would annualize to approximately 22-28%. I'll use the midpoint with moderate confidence due to mean reversion risks.\n\n```json\n{\"expected_return\": 0.25, \"confidence\": 0.62, \"reasoning\": \"Strong fundamentals and favorable bull regime support continued gains, but recent 52.74% 30-day return faces mean reversion pressure. 14-day annualized forecast of 25% reflects deceleration from trailing momentum (+14.87% in 14d = 77% annualized) tempered by market normalization. High volatility (73.7%) and excellent Sharpe (6.01) suggest quality exposure. Confidence moderate due to unpredictability of continuation after such strong outperformance.\"}\n```",
+  "date": "2022-08-11",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:50.518364+00:00"
+}

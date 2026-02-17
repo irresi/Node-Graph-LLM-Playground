@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 shows mixed signals: positive 7-day momentum (+8.47%) suggests short-term recovery, but strong bear market regime and negative 30-day performance (-6.44%) create headwinds. Oracle/Infrastructure/L2 tokens are cyclical and sensitive to macro sentiment. The 14-day return near zero (+0.10%) indicates consolidation. Annualized from recent 7-day momentum would suggest ~0.08, but low confidence (0.35) reflects high volatility (32.9%), negative Sharpe ratio (-1.65), and bear market context. Limited TVL data reduces conviction. The cluster faces resistance from sustained bearish regime despite recent bounce.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 shows mixed signals: positive 7-day momentum (+8.47%) suggests short-term recovery, but strong bear market regime and negative 30-day performance (-6.44%) create headwinds. Oracle/Infrastructure/L2 tokens are cyclical and sensitive to macro sentiment. The 14-day return near zero (+0.10%) indicates consolidation. Annualized from recent 7-day momentum would suggest ~0.08, but low confidence (0.35) reflects high volatility (32.9%), negative Sharpe ratio (-1.65), and bear market context. Limited TVL data reduces conviction. The cluster faces resistance from sustained bearish regime despite recent bounce.\"\n}\n```",
+  "date": "2023-09-19",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:45.995373+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Cluster 4 is in severe bear market conditions with -47.22% 30-day loss and accelerating downtrend (-22.93% in last 7 days). The -4.66 Sharpe ratio and 85.1% annualized volatility indicate highly unfavorable risk-adjusted returns. The overall DeFi TVL declined 22.9% in 30 days, signaling systemic weakness. While L2/infrastructure tokens historically show cyclical patterns, the current momentum is strongly negative. Over 14 days, I project continued downside pressure with -85% annualized return (approximately -3.2% for the 14-day period), though with moderate confidence due to potential for sharp mean-reversion bounces in high-volatility bear markets. The lack of TVL growth across these infrastructure tokens provides no fundamental support for reversal.",
+  "raw_response": "Based on the market context and cluster metrics provided, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 4 is in severe bear market conditions with -47.22% 30-day loss and accelerating downtrend (-22.93% in last 7 days). The -4.66 Sharpe ratio and 85.1% annualized volatility indicate highly unfavorable risk-adjusted returns. The overall DeFi TVL declined 22.9% in 30 days, signaling systemic weakness. While L2/infrastructure tokens historically show cyclical patterns, the current momentum is strongly negative. Over 14 days, I project continued downside pressure with -85% annualized return (approximately -3.2% for the 14-day period), though with moderate confidence due to potential for sharp mean-reversion bounces in high-volatility bear markets. The lack of TVL growth across these infrastructure tokens provides no fundamental support for reversal.\"\n}\n```\n\n**Key Drivers:**\n1. **Negative momentum cascade**: 7-day decline accelerating from 30-day trends\n2. **Market regime**: Strong bear market with systemic TVL outflows\n3. **Risk metrics**: Extreme volatility (85.1%) and deeply negative Sharpe ratio\n4. **Structural concern**: Infrastructure tokens showing no TVL support\n5. **Mitigation factor**: High volatility could enable sharp reversals (hence 0.65 vs. higher confidence)",
+  "date": "2026-02-07",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:45:51.421486+00:00",
+  "enriched": false
+}

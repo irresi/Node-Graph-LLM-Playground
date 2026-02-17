@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "OP (Optimism) is an L2 infrastructure token in a severe bear market (-45.1% TVL decline over 30 days). The cluster shows zero momentum metrics (0% returns across 7/14/30-day periods, 0% volatility), suggesting either data issues or market inefficiency. Given the strong bear regime, negative DeFi sentiment, and lack of positive momentum catalysts, a cautious negative outlook is warranted over 14 days. However, low confidence due to sparse data (single token, no TVL metrics), zero volatility readings suggesting incomplete market observation, and infrastructure tokens' potential resilience during downturns. A 14-day annualized return of -45% reflects the sector's current trajectory.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"OP (Optimism) is an L2 infrastructure token in a severe bear market (-45.1% TVL decline over 30 days). The cluster shows zero momentum metrics (0% returns across 7/14/30-day periods, 0% volatility), suggesting either data issues or market inefficiency. Given the strong bear regime, negative DeFi sentiment, and lack of positive momentum catalysts, a cautious negative outlook is warranted over 14 days. However, low confidence due to sparse data (single token, no TVL metrics), zero volatility readings suggesting incomplete market observation, and infrastructure tokens' potential resilience during downturns. A 14-day annualized return of -45% reflects the sector's current trajectory.\"\n}\n```",
+  "date": "2022-05-19",
+  "period_idx": 0,
+  "cluster_id": 3,
+  "members": [
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:00.002479+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.65,
+  "reasoning": "Cluster in bear market with strong negative momentum (-17.11% over 7 days, -9.22% over 30 days). High volatility (61.2% annualized) and negative Sharpe ratio (-1.26) indicate poor risk-adjusted returns. LDO shows strong TVL growth (+4.8%), providing some fundamental support, but this is outweighed by severe market headwinds and max drawdown of -21.3%. Near-term outlook remains bearish given overall DeFi TVL decline (-4.9%) and sustained downtrend. Confidence moderate due to potential for sharp reversals in volatile markets and LDO's TVL strength providing some resilience.",
+  "raw_response": "Based on the provided market context for Cluster 3 (LDO, RPL - Liquid Staking tokens), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster in bear market with strong negative momentum (-17.11% over 7 days, -9.22% over 30 days). High volatility (61.2% annualized) and negative Sharpe ratio (-1.26) indicate poor risk-adjusted returns. LDO shows strong TVL growth (+4.8%), providing some fundamental support, but this is outweighed by severe market headwinds and max drawdown of -21.3%. Near-term outlook remains bearish given overall DeFi TVL decline (-4.9%) and sustained downtrend. Confidence moderate due to potential for sharp reversals in volatile markets and LDO's TVL strength providing some resilience.\"\n}\n```\n\n**Key factors in this forecast:**\n\n1. **Negative momentum dominance**: The identical 7-day and 14-day returns (-17.11% and -17.13%) indicate sustained selling pressure with minimal recovery attempts.\n\n2. **Market regime**: Strong bear market with declining overall DeFi TVL suggests sector-wide headwinds unlikely to reverse in 14 days.\n\n3. **Technical distress signals**: Max drawdown of -21.3% and negative Sharpe ratio (-1.26) indicate the cluster is trading below risk-adjusted equilibrium.\n\n4. **Fundamental offset**: LDO's +4.8% TVL growth provides mild counterbalance, preventing a more severe forecast, but doesn't overcome macro weakness.\n\n5. **Volatility consideration**: 61.2% annualized volatility allows for potential 14-day swings, hence moderate (0.65) rather than high confidence in the directional forecast.",
+  "date": "2023-06-12",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:30.615911+00:00"
+}

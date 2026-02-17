@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 shows mixed signals: strong 30-day momentum (+24.36%, Sharpe 2.95) and positive TVL trends, but recent weakness with -2.36% 7-day return and -11.2% max drawdown suggest momentum is reversing. The moderate bull regime supports upside, but near-term consolidation likely. TVL-weighted average APYs are modest (0.52-20.32%), with many large positions yielding <3%. 14-day forward annualized of ~18% accounts for continued but slower growth from current position, weighted down by near-term risk from recent selloff and typical mean reversion after strong runs.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows mixed signals: strong 30-day momentum (+24.36%, Sharpe 2.95) and positive TVL trends, but recent weakness with -2.36% 7-day return and -11.2% max drawdown suggest momentum is reversing. The moderate bull regime supports upside, but near-term consolidation likely. TVL-weighted average APYs are modest (0.52-20.32%), with many large positions yielding <3%. 14-day forward annualized of ~18% accounts for continued but slower growth from current position, weighted down by near-term risk from recent selloff and typical mean reversion after strong runs.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:22.476777+00:00",
+  "enriched": true
+}

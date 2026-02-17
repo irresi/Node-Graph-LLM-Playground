@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.42,
+  "reasoning": "DYDX is in a severe downtrend with -29.84% 7-day and -31.49% 14-day returns despite modest -19% TVL decline. The bear market regime, extreme volatility (93.5% annualized), and deeply negative Sharpe ratio (-1.97) suggest continued weakness. However, the cluster is single-token concentrated, limiting diversification benefits. The sharp recent momentum (-29.84% over 7 days) suggests potential oversold conditions that could lead to mean reversion, but the broader bear market and TVL erosion dominate the outlook. Forecasting a sustained annualized decline of -125% (approximately -2.4% over 14 days) reflects downside momentum while acknowledging low confidence given extreme volatility and potential technical rebounds. The negative confidence reflects high uncertainty in this volatile, bear market environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.25,\n  \"confidence\": 0.42,\n  \"reasoning\": \"DYDX is in a severe downtrend with -29.84% 7-day and -31.49% 14-day returns despite modest -19% TVL decline. The bear market regime, extreme volatility (93.5% annualized), and deeply negative Sharpe ratio (-1.97) suggest continued weakness. However, the cluster is single-token concentrated, limiting diversification benefits. The sharp recent momentum (-29.84% over 7 days) suggests potential oversold conditions that could lead to mean reversion, but the broader bear market and TVL erosion dominate the outlook. Forecasting a sustained annualized decline of -125% (approximately -2.4% over 14 days) reflects downside momentum while acknowledging low confidence given extreme volatility and potential technical rebounds. The negative confidence reflects high uncertainty in this volatile, bear market environment.\"\n}\n```",
+  "date": "2025-03-10",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:17.507706+00:00"
+}

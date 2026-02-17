@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.42,
-  "confidence": 0.35,
-  "reasoning": "CAKE (PancakeSwap) faces significant headwinds: the broader DeFi market is in a strong bear regime with TVL down 8.8% over 30 days. While the 30-day cluster return is nominally positive (+12.87%) and TVL growth is encouraging (+14.7%), the sharp 7-day reversal of -25.69% signals strong near-term selling pressure and momentum deterioration. The 14-day return of -6.97% confirms the recent downtrend is already in motion. Annualized volatility of 173.4% with a max drawdown of -39.8% indicates extreme risk. Extrapolating the 7-day momentum forward over 14 days in a bear regime yields a deeply negative expected return. Low confidence reflects high volatility and the conflicting signals between strong TVL fundamentals and deteriorating price momentum.",
-  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) faces significant headwinds: the broader DeFi market is in a strong bear regime with TVL down 8.8% over 30 days. While the 30-day cluster return is nominally positive (+12.87%) and TVL growth is encouraging (+14.7%), the sharp 7-day reversal of -25.69% signals strong near-term selling pressure and momentum deterioration. The 14-day return of -6.97% confirms the recent downtrend is already in motion. Annualized volatility of 173.4% with a max drawdown of -39.8% indicates extreme risk. Extrapolating the 7-day momentum forward over 14 days in a bear regime yields a deeply negative expected return. Low confidence reflects high volatility and the conflicting signals between strong TVL fundamentals and deteriorating price momentum.\"}\n```",
-  "date": "2025-10-17",
+  "expected_return": -0.72,
+  "confidence": 0.65,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) is exhibiting severe bearish momentum across multiple timeframes: -4.06% (7d), -39.34% (14d), -49.82% (30d), with a deeply negative Sharpe ratio of -3.91 and a max drawdown of -40.2%. The broader DeFi market is in a confirmed bear regime with TVL contracting -11.2% over 30 days. Annualizing the recent 14-day return of -39.34% yields approximately -0.72 (-72%), which aligns with the sustained downtrend trajectory. Infrastructure/L2 tokens typically lag recovery cycles and have no direct yield/TVL buffers to cushion further downside. Momentum signals remain strongly negative with no evidence of reversal. Confidence is moderate (0.65) rather than high because: (1) these tokens are deeply oversold and a technical mean-reversion bounce is plausible over a 14-day window, (2) macro crypto catalysts could shift sentiment rapidly, and (3) annualized projections from short windows carry high variance given the 107.1% annualized volatility.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.65, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) is exhibiting severe bearish momentum across multiple timeframes: -4.06% (7d), -39.34% (14d), -49.82% (30d), with a deeply negative Sharpe ratio of -3.91 and a max drawdown of -40.2%. The broader DeFi market is in a confirmed bear regime with TVL contracting -11.2% over 30 days. Annualizing the recent 14-day return of -39.34% yields approximately -0.72 (-72%), which aligns with the sustained downtrend trajectory. Infrastructure/L2 tokens typically lag recovery cycles and have no direct yield/TVL buffers to cushion further downside. Momentum signals remain strongly negative with no evidence of reversal. Confidence is moderate (0.65) rather than high because: (1) these tokens are deeply oversold and a technical mean-reversion bounce is plausible over a 14-day window, (2) macro crypto catalysts could shift sentiment rapidly, and (3) annualized projections from short windows carry high variance given the 107.1% annualized volatility.\"}\n```",
+  "date": "2025-10-18",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:13:01.053472+00:00",
+  "generated_at": "2026-02-17T16:03:09.221444+00:00",
   "enriched": false
 }

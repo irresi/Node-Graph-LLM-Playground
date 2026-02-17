@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market regime with -19.8% DeFi TVL decline and -33.85% cluster 30-day loss. Negative momentum persists (7d: -7.01%, 14d: -13.26%) with high volatility (84.4%) and poor Sharpe ratio (-3.37). Protocol TVL erosion across all positions (CVX worst at -26.3%). However, oversold conditions and potential stabilization after 35.2% max drawdown suggest forecast is better than recent performance. Expecting continued weakness but at slower pace in next 14 days, with annualized return of -85% reflecting elevated near-term downside risk in this bear regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bear market regime with -19.8% DeFi TVL decline and -33.85% cluster 30-day loss. Negative momentum persists (7d: -7.01%, 14d: -13.26%) with high volatility (84.4%) and poor Sharpe ratio (-3.37). Protocol TVL erosion across all positions (CVX worst at -26.3%). However, oversold conditions and potential stabilization after 35.2% max drawdown suggest forecast is better than recent performance. Expecting continued weakness but at slower pace in next 14 days, with annualized return of -85% reflecting elevated near-term downside risk in this bear regime.\"\n}\n```",
+  "date": "2025-03-16",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:05.235770+00:00"
+}

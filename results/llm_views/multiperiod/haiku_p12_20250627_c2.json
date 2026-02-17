@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 faces headwinds from a bear market regime (-4.5% TVL decline) and weak 30-day performance (-27.83%). However, recent 7-day momentum is positive (+1.85%), suggesting potential mean reversion. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL exposure but may benefit from ecosystem activity. The negative 14-day return (-8.72%) and high volatility (76.6%) create uncertainty. Given the bear market context but improving short-term momentum, forecasting continued weakness with moderate confidence reflecting the mixed signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 2 faces headwinds from a bear market regime (-4.5% TVL decline) and weak 30-day performance (-27.83%). However, recent 7-day momentum is positive (+1.85%), suggesting potential mean reversion. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL exposure but may benefit from ecosystem activity. The negative 14-day return (-8.72%) and high volatility (76.6%) create uncertainty. Given the bear market context but improving short-term momentum, forecasting continued weakness with moderate confidence reflecting the mixed signals.\"\n}\n```",
+  "date": "2025-06-28",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:31.951385+00:00"
+}

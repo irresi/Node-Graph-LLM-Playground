@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 (CRV/CVX) faces severe headwinds: bear market regime, -43.38% 30-day loss, extreme 143.9% volatility, and negative -2.53 Sharpe ratio. However, recent 7-day recovery (+1.93%) and CRV's positive TVL momentum (+11.7%) suggest potential bounce. CVX weakness (-25.4% TVL change) is concerning. With overall DeFi TVL declining -11.2%, near-term 14-day outlook is likely continued pressure despite minor recovery signals. Low confidence due to extreme volatility and conflicting indicators in a bear regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) faces severe headwinds: bear market regime, -43.38% 30-day loss, extreme 143.9% volatility, and negative -2.53 Sharpe ratio. However, recent 7-day recovery (+1.93%) and CRV's positive TVL momentum (+11.7%) suggest potential bounce. CVX weakness (-25.4% TVL change) is concerning. With overall DeFi TVL declining -11.2%, near-term 14-day outlook is likely continued pressure despite minor recovery signals. Low confidence due to extreme volatility and conflicting indicators in a bear regime.\"\n}\n```",
+  "date": "2025-10-18",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:04.513972+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+12.98%) and attractive Sharpe ratio (1.83) in bull market regime with +22.3% TVL growth. However, recent 7-day pullback (-1.89%) suggests momentum loss. Oracle/Infrastructure tokens are sensitive to broader market sentiment and regulatory developments. 14-day forecast of +18% annualized reflects positive fundamentals tempered by near-term consolidation risk and uncertainty in infrastructure sector performance.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+12.98%) and attractive Sharpe ratio (1.83) in bull market regime with +22.3% TVL growth. However, recent 7-day pullback (-1.89%) suggests momentum loss. Oracle/Infrastructure tokens are sensitive to broader market sentiment and regulatory developments. 14-day forecast of +18% annualized reflects positive fundamentals tempered by near-term consolidation risk and uncertainty in infrastructure sector performance.\"\n}\n```",
+  "date": "2024-05-30",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:36.535416+00:00"
+}

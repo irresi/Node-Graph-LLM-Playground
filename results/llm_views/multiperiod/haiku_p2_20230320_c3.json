@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 is in a bear market regime with negative momentum across the 7, 14, and 30-day periods (-2.38%, -1.55%, -5.76% respectively). Mixed protocol fundamentals show CRV, COMP, and YFI declining significantly in TVL, while BAL and SNX show strength. High volatility (61% annualized) and negative Sharpe ratio (-0.79) indicate elevated risk in a downtrend. Recent 14-day momentum of -1.55% annualized to -0.28 suggests continued modest downside pressure over the next 14 days, though moderated by some protocol stability. Confidence is moderate due to overall bear regime uncertainty and mixed protocol signals.",
+  "raw_response": "Based on the market context and cluster analysis provided, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 is in a bear market regime with negative momentum across the 7, 14, and 30-day periods (-2.38%, -1.55%, -5.76% respectively). Mixed protocol fundamentals show CRV, COMP, and YFI declining significantly in TVL, while BAL and SNX show strength. High volatility (61% annualized) and negative Sharpe ratio (-0.79) indicate elevated risk in a downtrend. Recent 14-day momentum of -1.55% annualized to -0.28 suggests continued modest downside pressure over the next 14 days, though moderated by some protocol stability. Confidence is moderate due to overall bear regime uncertainty and mixed protocol signals.\"\n}\n```\n\n**Key Factors:**\n- **Market Regime**: Strong downtrend with DeFi TVL barely positive (+1.3%) signals weak market conditions\n- **Momentum**: Deteriorating 14-day return (-1.55%) suggests continued negative pressure\n- **Protocol Health**: Mixed signals\u2014CRV and COMP weakness offset by SNX gains, but majority of TVL declining\n- **Volatility Risk**: 61% annualized volatility creates significant uncertainty around point forecasts\n- **Technical**: Negative Sharpe ratio and -22.9% max drawdown indicate poor risk-adjusted returns",
+  "date": "2023-03-21",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:36.597577+00:00"
+}

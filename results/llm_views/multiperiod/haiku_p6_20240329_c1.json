@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum with 13.65% 30-day return and positive 7/14-day trends in moderate bull regime. However, extrapolating past performance carries risk given 51.5% annualized volatility and recent -16.6% max drawdown. Mixed protocol fundamentals (SNX +22.5%, MKR -4.2%, CRV -1.2%) suggest mean reversion risk. Forecast annualizes recent 14-day performance (+5.61%) over 26 periods, adjusted down 15% for volatility and partial momentum fade. Medium confidence reflects strong technical setup offset by macro uncertainty and cluster composition dispersion.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong momentum with 13.65% 30-day return and positive 7/14-day trends in moderate bull regime. However, extrapolating past performance carries risk given 51.5% annualized volatility and recent -16.6% max drawdown. Mixed protocol fundamentals (SNX +22.5%, MKR -4.2%, CRV -1.2%) suggest mean reversion risk. Forecast annualizes recent 14-day performance (+5.61%) over 26 periods, adjusted down 15% for volatility and partial momentum fade. Medium confidence reflects strong technical setup offset by macro uncertainty and cluster composition dispersion.\"\n}\n```",
+  "date": "2024-03-30",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:37.254083+00:00"
+}

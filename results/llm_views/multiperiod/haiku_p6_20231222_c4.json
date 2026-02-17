@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (LINK/GRT) shows strong recent momentum with +18.77% 30-day return and exceptional Sharpe ratio of 2.72 in a bull market regime. However, the 14-day return (+2.81%) suggests deceleration from the 7-day peak (+12.80%), indicating potential mean reversion. The annualized forecast of 42% reflects positive technical momentum and bull regime tailwinds, but confidence is moderate (0.62) due to: (1) lack of TVL data for LINK and GRT (limiting fundamental assessment), (2) recent deceleration trend suggesting overbought conditions, and (3) infrastructure/oracle tokens' volatility (57.9% annualized) creating forecast uncertainty. Oracle tokens like LINK typically see cyclical demand tied to DeFi activity spikes, while GRT's utility is protocol-dependent. The -11% max drawdown indicates risk concentration.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (LINK/GRT) shows strong recent momentum with +18.77% 30-day return and exceptional Sharpe ratio of 2.72 in a bull market regime. However, the 14-day return (+2.81%) suggests deceleration from the 7-day peak (+12.80%), indicating potential mean reversion. The annualized forecast of 42% reflects positive technical momentum and bull regime tailwinds, but confidence is moderate (0.62) due to: (1) lack of TVL data for LINK and GRT (limiting fundamental assessment), (2) recent deceleration trend suggesting overbought conditions, and (3) infrastructure/oracle tokens' volatility (57.9% annualized) creating forecast uncertainty. Oracle tokens like LINK typically see cyclical demand tied to DeFi activity spikes, while GRT's utility is protocol-dependent. The -11% max drawdown indicates risk concentration.\"\n}\n```",
+  "date": "2023-12-23",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:00.708858+00:00"
+}

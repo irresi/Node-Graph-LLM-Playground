@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows bearish momentum with -9.69% 7-day and -8.86% 14-day returns despite positive 30-day performance. Recent downtrend contradicts moderate bull regime. MKR's -10.7% TVL decline and low Sharpe ratio (0.10) suggest weak risk-adjusted returns. However, overall DeFi TVL growth (+19.6%) and positive 30-day cluster return (+0.80%) provide some support. High volatility (67.9%) and max drawdown (-17.2%) indicate elevated risk. Near-term bearish technicals outweigh fundamental support, suggesting continued weakness in next 14 days, though potential for rebound exists given broader market strength. Moderate confidence due to conflicting signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows bearish momentum with -9.69% 7-day and -8.86% 14-day returns despite positive 30-day performance. Recent downtrend contradicts moderate bull regime. MKR's -10.7% TVL decline and low Sharpe ratio (0.10) suggest weak risk-adjusted returns. However, overall DeFi TVL growth (+19.6%) and positive 30-day cluster return (+0.80%) provide some support. High volatility (67.9%) and max drawdown (-17.2%) indicate elevated risk. Near-term bearish technicals outweigh fundamental support, suggesting continued weakness in next 14 days, though potential for rebound exists given broader market strength. Moderate confidence due to conflicting signals.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:41.680001+00:00",
+  "enriched": false
+}

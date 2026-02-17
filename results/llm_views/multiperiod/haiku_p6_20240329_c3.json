@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster 3 (OP, ARB, ENS) shows mixed signals: recent 7-day momentum is positive (+4.88%) after a weak 30-day period (-4.55%), suggesting potential mean reversion. The moderate bull market regime supports upside, but high volatility (53.4% annualized) and negative Sharpe ratio (-0.72) indicate elevated risk. L2 infrastructure tokens are sentiment-driven; positive momentum combined with broader DeFi TVL growth (+4.1%) suggests 14-day tailwinds, but the recent -23.1% drawdown limits conviction. Forecasting modest positive returns with moderate confidence reflecting the volatility and reversion dynamics.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 3 (OP, ARB, ENS) shows mixed signals: recent 7-day momentum is positive (+4.88%) after a weak 30-day period (-4.55%), suggesting potential mean reversion. The moderate bull market regime supports upside, but high volatility (53.4% annualized) and negative Sharpe ratio (-0.72) indicate elevated risk. L2 infrastructure tokens are sentiment-driven; positive momentum combined with broader DeFi TVL growth (+4.1%) suggests 14-day tailwinds, but the recent -23.1% drawdown limits conviction. Forecasting modest positive returns with moderate confidence reflecting the volatility and reversion dynamics.\"\n}\n```",
+  "date": "2024-03-30",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:48.703149+00:00"
+}

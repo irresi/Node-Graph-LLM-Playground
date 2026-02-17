@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows concerning momentum with negative 7-day (-7.69%) and 14-day (-4.37%) returns despite positive 30-day performance (+0.50%), indicating recent deterioration. Neutral market regime and modest TVL growth (+3.0% overall DeFi) provide limited tailwinds. High volatility (46.1% annualized) and low Sharpe ratio (0.09) suggest risk-adjusted returns are weak. Mixed protocol fundamentals with some decline (CRV -3.0%, COMP -1.4%, GMX -3.6%) offset by AAVE stability. Expect continued consolidation with downside bias in near term, hence annualized -12% over 14 days. Moderate confidence due to range-bound regime and fundamental divergence across protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows concerning momentum with negative 7-day (-7.69%) and 14-day (-4.37%) returns despite positive 30-day performance (+0.50%), indicating recent deterioration. Neutral market regime and modest TVL growth (+3.0% overall DeFi) provide limited tailwinds. High volatility (46.1% annualized) and low Sharpe ratio (0.09) suggest risk-adjusted returns are weak. Mixed protocol fundamentals with some decline (CRV -3.0%, COMP -1.4%, GMX -3.6%) offset by AAVE stability. Expect continued consolidation with downside bias in near term, hence annualized -12% over 14 days. Moderate confidence due to range-bound regime and fundamental divergence across protocols.\"\n}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:45:33.612872+00:00",
+  "enriched": false
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "YFI shows mixed signals: recent 14-day momentum is positive (+4.87%) after severe 30-day underperformance (-11.26%), suggesting potential oversold recovery. However, bear market regime, declining TVL (-7.9%), and high volatility (44.8%) create significant headwinds. The negative 30-day Sharpe ratio (-2.11) and -21% max drawdown indicate risk-adjusted returns are poor. Modest positive bias from short-term bounce, but low confidence due to macro bear conditions and protocol uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"YFI shows mixed signals: recent 14-day momentum is positive (+4.87%) after severe 30-day underperformance (-11.26%), suggesting potential oversold recovery. However, bear market regime, declining TVL (-7.9%), and high volatility (44.8%) create significant headwinds. The negative 30-day Sharpe ratio (-2.11) and -21% max drawdown indicate risk-adjusted returns are poor. Modest positive bias from short-term bounce, but low confidence due to macro bear conditions and protocol uncertainty.\"\n}\n```",
+  "date": "2026-01-02",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:29.400636+00:00"
+}

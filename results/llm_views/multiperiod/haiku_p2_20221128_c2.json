@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Strong bear market regime with -26.9% DeFi TVL decline and cluster down 28.68% over 30 days. However, recent 7-day rebound (+2.48%) suggests potential short-term stabilization. The cluster's extreme volatility (102.6% annualized) and negative Sharpe ratio (-2.35) indicate risk-adjusted returns are poor. Over 14 days, expect continued downward pressure given macro headwinds, though the recent bounce provides some near-term cushion. Low confidence due to high volatility and uncertain bear market duration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Strong bear market regime with -26.9% DeFi TVL decline and cluster down 28.68% over 30 days. However, recent 7-day rebound (+2.48%) suggests potential short-term stabilization. The cluster's extreme volatility (102.6% annualized) and negative Sharpe ratio (-2.35) indicate risk-adjusted returns are poor. Over 14 days, expect continued downward pressure given macro headwinds, though the recent bounce provides some near-term cushion. Low confidence due to high volatility and uncertain bear market duration.\"\n}\n```",
+  "date": "2022-11-29",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:41.338566+00:00"
+}

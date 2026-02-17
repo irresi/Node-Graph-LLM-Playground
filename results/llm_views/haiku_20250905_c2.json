@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "BAL has experienced significant negative momentum (-14.16% over 14 days, -0.81% over 7 days) with high volatility (82.3% annualized). The underlying TVL decline (-7.3% in 30 days) suggests reduced protocol adoption. However, the negative Sharpe ratio (-0.29) and recent trend deceleration (7-day decline much smaller than 14-day) indicate potential stabilization. In a neutral/range-bound market regime with 102.6B TVL showing modest 4.9% growth, we expect continued but moderating downside pressure over the next 14 days. Confidence is moderate due to high volatility and the possibility of mean reversion in a sideways market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL has experienced significant negative momentum (-14.16% over 14 days, -0.81% over 7 days) with high volatility (82.3% annualized). The underlying TVL decline (-7.3% in 30 days) suggests reduced protocol adoption. However, the negative Sharpe ratio (-0.29) and recent trend deceleration (7-day decline much smaller than 14-day) indicate potential stabilization. In a neutral/range-bound market regime with 102.6B TVL showing modest 4.9% growth, we expect continued but moderating downside pressure over the next 14 days. Confidence is moderate due to high volatility and the possibility of mean reversion in a sideways market.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:39.253876+00:00",
+  "enriched": false
+}

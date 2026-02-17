@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is heavily impacted by bear market regime with DeFi TVL down 17% (30d). The cluster's own 30-day return of -22.45% and negative 7/14-day momentum (-9.20%, -8.92%) suggest downward pressure persists. However, annualized volatility of 72.2% implies potential mean reversion within 14 days. Key tailwinds: strong governance activity across protocols (UNI, LDO, GMX, SNX) and solid yield generation (UNI 20.32%, YFI 4.10%, LDO 2.39%, RPL 2.07% APY) could provide support. Key headwinds: negative Sharpe ratio (-2.61), -21.7% max drawdown, and continued TVL decline across major protocols (UNI -21.4%, AAVE -17.3%) suggest underlying weakness. Forecast assumes modest continued decline over 14 days but with lower magnitude than recent 30-day drop, reflecting partial stabilization from oversold conditions and protocol fundamentals. Low-to-moderate confidence reflects high volatility and bear regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is heavily impacted by bear market regime with DeFi TVL down 17% (30d). The cluster's own 30-day return of -22.45% and negative 7/14-day momentum (-9.20%, -8.92%) suggest downward pressure persists. However, annualized volatility of 72.2% implies potential mean reversion within 14 days. Key tailwinds: strong governance activity across protocols (UNI, LDO, GMX, SNX) and solid yield generation (UNI 20.32%, YFI 4.10%, LDO 2.39%, RPL 2.07% APY) could provide support. Key headwinds: negative Sharpe ratio (-2.61), -21.7% max drawdown, and continued TVL decline across major protocols (UNI -21.4%, AAVE -17.3%) suggest underlying weakness. Forecast assumes modest continued decline over 14 days but with lower magnitude than recent 30-day drop, reflecting partial stabilization from oversold conditions and protocol fundamentals. Low-to-moderate confidence reflects high volatility and bear regime uncertainty.\"\n}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:19.298864+00:00",
+  "enriched": true
+}

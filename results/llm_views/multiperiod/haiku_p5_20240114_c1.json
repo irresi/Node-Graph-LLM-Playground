@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+17.42%) but recent 14-day return turned negative (-0.98%), indicating consolidation. Bull market regime supports modest upside, but high volatility (55.7%) and cooling momentum suggest cautious outlook. SNX weakness partially offset by COMP/MKR TVL growth. Expect moderate positive returns with mean reversion from recent highs.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong 30-day cluster return (+17.42%) with excellent Sharpe ratio (2.63)\n- Positive market regime (Moderate Bull)\n- Overall DeFi TVL growth (+10.2% 30-day)\n- Recent 7-day momentum is positive (+9.37%)\n- MKR and COMP showing TVL growth\n\n**Concerning Indicators:**\n- 14-day return is negative (-0.98%), suggesting recent deceleration/consolidation\n- SNX showing significant TVL decline (-9.2% 30-day)\n- High volatility (55.7% annualized) creates execution risk\n- Max drawdown of -15.0% shows meaningful downside risk\n- Momentum appears to be cooling after strong 30-day run\n\n**Analysis:**\nThe cluster has shown strong momentum over 30 days but the 14-day negative return and recent cooling suggest we're potentially entering a consolidation phase. The recent 7-day bounce (+9.37%) indicates some recovery, but this follows a 14-day drawdown, suggesting choppy conditions.\n\nFor the next 14 days, I expect:\n- Continued consolidation rather than breakout\n- Mean reversion from the strong 30-day gains\n- Potential for sideways movement with slight positive bias given the bull regime\n- The high volatility creates both upside and downside risk\n\n**Calculation:**\n- Annualizing the recent 7-day trend would be unsustainably high\n- The 14-day negative return and volatility suggest lower near-term returns\n- Bull regime provides floor support\n- Conservative estimate: 2-5% annualized return for next 14 days\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+17.42%) but recent 14-day return turned negative (-0.98%), indicating consolidation. Bull market regime supports modest upside, but high volatility (55.7%) and cooling momentum suggest cautious outlook. SNX weakness partially offset by COMP/MKR TVL growth. Expect moderate positive returns with mean reversion from recent highs.\"\n}\n```",
+  "date": "2024-01-15",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:35.892627+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with negative momentum (-4.82% last 7d, -7.57% last 14d) and high volatility (47.2% annualized). Mixed TVL trends show some resilience (LDO +4.9%, AAVE +4.8%) but offset by weakness in COMP (-6.8%) and GMX (-4.6%). Negative Sharpe ratio (-2.00) and 20.4% max drawdown indicate distressed conditions. Forecasting continued decline over next 14 days given market regime persistence, but moderating from recent pace due to modest TVL stabilization in major protocols. Annualized -35% reflects elevated tail risk in bear market while acknowledging some fundamental support.",
+  "raw_response": "```json\n{\"expected_return\": -0.35, \"confidence\": 0.62, \"reasoning\": \"Cluster in bear market with negative momentum (-4.82% last 7d, -7.57% last 14d) and high volatility (47.2% annualized). Mixed TVL trends show some resilience (LDO +4.9%, AAVE +4.8%) but offset by weakness in COMP (-6.8%) and GMX (-4.6%). Negative Sharpe ratio (-2.00) and 20.4% max drawdown indicate distressed conditions. Forecasting continued decline over next 14 days given market regime persistence, but moderating from recent pace due to modest TVL stabilization in major protocols. Annualized -35% reflects elevated tail risk in bear market while acknowledging some fundamental support.\"}\n```",
+  "date": "2024-02-03",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:43.727388+00:00"
+}

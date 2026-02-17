@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.0,
+  "confidence": 0.2,
+  "reasoning": "I appreciate the detailed setup, but I need to be transparent about what I'm observing here:\n\n## Critical Assessment\n\n**The Bull Researcher explicitly refused to construct a bullish case**, arguing th",
+  "n_agents": 6,
+  "date": "2025-06-14 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

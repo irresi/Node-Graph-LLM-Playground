@@ -1,0 +1,28 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster 2 shows strong momentum with 13.98% 30-day return and bullish market regime. 7-14 day returns (5.39%-7.48%) suggest deceleration but remain positive. TVL growth across major protocols (UNI +20.5%, CRV +20.2%) indicates fundamental strength. However, annualized extrapolation of recent momentum is inherently uncertain; 42.6% volatility and -10.4% max drawdown suggest elevated risk. The strong Sharpe ratio (2.76) is positive, but mean reversion after a 30-day rally is likely. Forecast moderately positive returns with moderate confidence, reflecting momentum continuation tempered by realistic expectations of deceleration in a 14-day window.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster 2 shows strong momentum with 13.98% 30-day return and bullish market regime. 7-14 day returns (5.39%-7.48%) suggest deceleration but remain positive. TVL growth across major protocols (UNI +20.5%, CRV +20.2%) indicates fundamental strength. However, annualized extrapolation of recent momentum is inherently uncertain; 42.6% volatility and -10.4% max drawdown suggest elevated risk. The strong Sharpe ratio (2.76) is positive, but mean reversion after a 30-day rally is likely. Forecast moderately positive returns with moderate confidence, reflecting momentum continuation tempered by realistic expectations of deceleration in a 14-day window.\"\n}\n```",
+  "date": "2023-04-10",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:16.783165+00:00"
+}

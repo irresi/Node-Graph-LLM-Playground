@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with strong recent downtrend (-8.31% in 7-day, -6.36% in 14-day). Cluster volatility at 55.5% annualized suggests continued elevated risk. Mixed TVL signals (AAVE +2.1%, COMP +4.6% vs UNI -2.5%, CRV -4.8%) indicate divergent protocol health. Negative Sharpe ratio (-0.97) and -19.1% max drawdown reflect distressed conditions. Forecasting modest negative returns with mean reversion toward recent 14-day average (-6.36% \u2192 -0.42% annualized). Confidence moderate due to high volatility and uncertain market inflection point; bear regime persistence outweighs isolated protocol strength.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bear market regime with strong recent downtrend (-8.31% in 7-day, -6.36% in 14-day). Cluster volatility at 55.5% annualized suggests continued elevated risk. Mixed TVL signals (AAVE +2.1%, COMP +4.6% vs UNI -2.5%, CRV -4.8%) indicate divergent protocol health. Negative Sharpe ratio (-0.97) and -19.1% max drawdown reflect distressed conditions. Forecasting modest negative returns with mean reversion toward recent 14-day average (-6.36% \u2192 -0.42% annualized). Confidence moderate due to high volatility and uncertain market inflection point; bear regime persistence outweighs isolated protocol strength.\"\n}\n```",
+  "date": "2024-09-03",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:17.652091+00:00"
+}

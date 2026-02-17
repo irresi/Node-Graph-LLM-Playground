@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Moderate bull market regime and +22.1% DeFi TVL growth provide tailwind for cluster recovery. Recent 7-day +3.21% rebound suggests mean-reversion from -15.72% 14-day drawdown. High volatility (83.6% annualized) and limited TVL data reduce confidence. Expected 14-day return of ~2.1% annualizes to ~0.18, but elevated volatility and recent weakness necessitate below-average confidence. Position between recent lows and longer-term trends.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze the key factors to forecast expected returns for Cluster 1 over the next 14 days.\n\n## Analysis:\n\n**Key Observations:**\n1. **Mixed Momentum**: The 14-day return is -15.72% (negative), but the 30-day return is +9.10% (positive), suggesting recent weakness after a strong period\n2. **Market Regime**: Overall DeFi market is in a Moderate Bull regime with +22.1% TVL growth (positive macro backdrop)\n3. **Volatility Profile**: High annualized volatility (83.6%) with a Sharpe ratio of 0.91, indicating reasonable risk-adjusted returns but high price swings\n4. **Recent Recovery Signal**: 7-day return of +3.21% suggests potential recovery from the 14-day drawdown, though we're still below the 30-day baseline\n5. **Max Drawdown**: -17.3% indicates significant downside risk in this cluster\n6. **Cluster Composition**: Mix of oracle (LINK), infrastructure (OP, ARB), and naming/indexing (ENS, GRT) - all strategically important but with limited TVL data\n\n**Forecast Rationale:**\n- The positive macro environment (bull regime, DeFi TVL growth) supports upside potential\n- The recent 7-day recovery (+3.21%) suggests momentum reversal from the 14-day low\n- However, the cluster's high volatility and recent sharp drawdown (-15.72% in 14 days) warrant caution\n- Annualizing the 7-day recovery (+3.21%) would imply ~50%+ annualized, but this is likely unsustainably elevated\n- A mean-reversion dynamic is likely, where the cluster recovers toward its 30-day trend without explosive upside\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Moderate bull market regime and +22.1% DeFi TVL growth provide tailwind for cluster recovery. Recent 7-day +3.21% rebound suggests mean-reversion from -15.72% 14-day drawdown. High volatility (83.6% annualized) and limited TVL data reduce confidence. Expected 14-day return of ~2.1% annualizes to ~0.18, but elevated volatility and recent weakness necessitate below-average confidence. Position between recent lows and longer-term trends.\"\n}\n```",
+  "date": "2025-05-25",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:39.749776+00:00"
+}

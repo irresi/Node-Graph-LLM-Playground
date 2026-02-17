@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows positive momentum (+9.58% 7-day return) but decelerating trend (14-day +3.55%, 30-day +3.39%). Neutral market regime and high volatility (55.5% annualized) create uncertainty. Strong TVL growth in AAVE (+15%), CAKE (+20.9%), and CRV (+10.6%) supports underlying fundamentals. However, Sharpe ratio of 0.51 indicates modest risk-adjusted returns. Governance activity is steady across major protocols (UNI, AAVE, LDO, SNX) with no major risks signaled. Yield metrics show solid APY opportunities (UNI 20.32%, YFI 4.10%, LDO 2.39%) that could support price stability. The recent 7-day outperformance (+9.58%) is notable but may face mean reversion in a range-bound market. Annualized forecast reflects cautious optimism on continued modest gains tempered by volatility and regime constraints.",
+  "raw_response": "Based on my analysis of Cluster 2 (DEX, Lending, Liquid Staking, Derivatives, and Yield protocols), here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows positive momentum (+9.58% 7-day return) but decelerating trend (14-day +3.55%, 30-day +3.39%). Neutral market regime and high volatility (55.5% annualized) create uncertainty. Strong TVL growth in AAVE (+15%), CAKE (+20.9%), and CRV (+10.6%) supports underlying fundamentals. However, Sharpe ratio of 0.51 indicates modest risk-adjusted returns. Governance activity is steady across major protocols (UNI, AAVE, LDO, SNX) with no major risks signaled. Yield metrics show solid APY opportunities (UNI 20.32%, YFI 4.10%, LDO 2.39%) that could support price stability. The recent 7-day outperformance (+9.58%) is notable but may face mean reversion in a range-bound market. Annualized forecast reflects cautious optimism on continued modest gains tempered by volatility and regime constraints.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:18.895486+00:00",
+  "enriched": true
+}

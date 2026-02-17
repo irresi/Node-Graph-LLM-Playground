@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.68,
+  "reasoning": "Strong fundamentals (TVL growth +14-94%) and bullish market regime support continued gains, but recent 55.27% 30-day return is unsustainably high. Momentum fade and mean reversion likely. Forecasting 22% annualized (lower than recent pace but higher than historical avg). Moderate confidence due to high volatility (58.8%) and typical momentum reversal patterns. The exceptional Sharpe ratio (7.89) will likely normalize.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong recent momentum: 14-day return of +33.93%, 7-day return of +14.98%\n- Excellent Sharpe ratio of 7.89 (risk-adjusted returns are exceptional)\n- Bullish market regime with +45.8% TVL growth in DeFi overall\n- Solid TVL growth across protocols (SNX +93.7%, BAL +45.4%, COMP +40.3%)\n- Cluster volatility of 58.8% is high but manageable given the strong returns\n\n**Risk Factors:**\n- Maximum drawdown of -10.3% indicates recent volatility/corrections are possible\n- High annualized volatility (58.8%) suggests mean reversion risk\n- Momentum-based forecasts typically regress toward mean\n- Overheated conditions: 30-day return of +55.27% is exceptional and may not sustain\n- The exceptional 7.89 Sharpe ratio is unsustainably high and likely to normalize\n\n**Analysis:**\nThe cluster has shown remarkable performance with strong fundamentals (TVL growth) and positive market conditions. However, the recent returns are significantly elevated compared to historical norms. Momentum typically fades, and the high volatility suggests near-term consolidation or correction is likely.\n\nFor a 14-day forward forecast:\n- The cluster would need to maintain ~33.93% / 26 weeks = ~1.3% weekly returns to sustain current trajectory annualized\n- More realistically, we'd expect regression toward mean after such strong moves\n- Conservative estimate: 15-25% annualized return (vs. the exceptional 55.27% recent performance)\n- Moderate confidence due to: strong fundamentals, but unsustainably high recent returns\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.68, \"reasoning\": \"Strong fundamentals (TVL growth +14-94%) and bullish market regime support continued gains, but recent 55.27% 30-day return is unsustainably high. Momentum fade and mean reversion likely. Forecasting 22% annualized (lower than recent pace but higher than historical avg). Moderate confidence due to high volatility (58.8%) and typical momentum reversal patterns. The exceptional Sharpe ratio (7.89) will likely normalize.\"}\n```",
+  "date": "2024-12-02",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:03.621923+00:00"
+}

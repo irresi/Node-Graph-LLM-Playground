@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime with +12.4% TVL growth supports positive momentum. Cluster showed strong 14-day return of +8.15% but 7-day deceleration to +1.26% suggests momentum consolidation. Mixed protocol fundamentals: SNX strong (+26.5% TVL growth) but DYDX declining (-3.8%). High annualized volatility (58%) and recent max drawdown (-8.6%) indicate elevated risk. Conservative 14-day forward forecast of 42% annualized reflects continued bull bias tempered by decelerating momentum and concentration risk in oracle/derivative tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bull market regime with +12.4% TVL growth supports positive momentum. Cluster showed strong 14-day return of +8.15% but 7-day deceleration to +1.26% suggests momentum consolidation. Mixed protocol fundamentals: SNX strong (+26.5% TVL growth) but DYDX declining (-3.8%). High annualized volatility (58%) and recent max drawdown (-8.6%) indicate elevated risk. Conservative 14-day forward forecast of 42% annualized reflects continued bull bias tempered by decelerating momentum and concentration risk in oracle/derivative tokens.\"\n}\n```",
+  "date": "2026-01-16",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:34.053646+00:00"
+}

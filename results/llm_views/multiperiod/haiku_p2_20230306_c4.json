@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 (LINK, OP, ENS) shows persistent downward momentum with -13.93% 30-day return in a moderate bear market regime. The negative Sharpe ratio (-1.95) and high volatility (60.1% annualized) indicate poor risk-adjusted returns. However, infrastructure tokens like LINK and OP have fundamental support from protocol adoption, suggesting partial mean reversion is possible over 14 days. The annualized forecast reflects continued but moderating downside pressure, with moderate confidence due to high volatility and uncertain recovery catalysts in the current bear regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 (LINK, OP, ENS) shows persistent downward momentum with -13.93% 30-day return in a moderate bear market regime. The negative Sharpe ratio (-1.95) and high volatility (60.1% annualized) indicate poor risk-adjusted returns. However, infrastructure tokens like LINK and OP have fundamental support from protocol adoption, suggesting partial mean reversion is possible over 14 days. The annualized forecast reflects continued but moderating downside pressure, with moderate confidence due to high volatility and uncertain recovery catalysts in the current bear regime.\"\n}\n```",
+  "date": "2023-03-07",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:18.156056+00:00"
+}

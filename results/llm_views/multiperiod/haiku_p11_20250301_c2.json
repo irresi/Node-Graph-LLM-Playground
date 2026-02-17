@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with -25.5% TVL decline and negative 30-day cluster return (-11.34%) suggest continued downward pressure. However, positive 14-day momentum (+8.30%) and recent 7-day weakness (-6.18%) indicate possible consolidation or recovery attempt. MKR's large TVL ($5.9B) provides some stability, but SNX's severe TVL collapse (-42.5%) and high cluster volatility (76.7%) create significant tail risk. Annualized forecast reflects bear regime persistence over 14 days with modest recovery probability, but elevated uncertainty in volatile derivative/lending protocols during market stress justifies moderate confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear market regime with -25.5% TVL decline and negative 30-day cluster return (-11.34%) suggest continued downward pressure. However, positive 14-day momentum (+8.30%) and recent 7-day weakness (-6.18%) indicate possible consolidation or recovery attempt. MKR's large TVL ($5.9B) provides some stability, but SNX's severe TVL collapse (-42.5%) and high cluster volatility (76.7%) create significant tail risk. Annualized forecast reflects bear regime persistence over 14 days with modest recovery probability, but elevated uncertainty in volatile derivative/lending protocols during market stress justifies moderate confidence.\"\n}\n```",
+  "date": "2025-03-02",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:28.572807+00:00"
+}

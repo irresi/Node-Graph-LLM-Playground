@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "Cluster 3 is in a severe bear market with -29.69% 30-day return and -2.73 Sharpe ratio, indicating poor risk-adjusted returns. However, the 7-day rebound of +6.18% suggests potential near-term stabilization or oversold conditions. The 14-day return of -0.97% shows slight recovery momentum. With TVL declining across all major protocols (CRV -39.5%, COMP -30.3%), fundamental deterioration persists. The extreme volatility (91.2% annualized) and -34.5% max drawdown indicate elevated downside risk. For a 14-day forecast, I expect continued weakness as bear pressure and TVL outflows likely persist, but the recent bounce moderates the decline. Confidence is moderate due to regime uncertainty\u2014bear markets can have sharp reversals, but current fundamentals remain weak.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 3 is in a severe bear market with -29.69% 30-day return and -2.73 Sharpe ratio, indicating poor risk-adjusted returns. However, the 7-day rebound of +6.18% suggests potential near-term stabilization or oversold conditions. The 14-day return of -0.97% shows slight recovery momentum. With TVL declining across all major protocols (CRV -39.5%, COMP -30.3%), fundamental deterioration persists. The extreme volatility (91.2% annualized) and -34.5% max drawdown indicate elevated downside risk. For a 14-day forecast, I expect continued weakness as bear pressure and TVL outflows likely persist, but the recent bounce moderates the decline. Confidence is moderate due to regime uncertainty\u2014bear markets can have sharp reversals, but current fundamentals remain weak.\"\n}\n```",
+  "date": "2022-11-29",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:45.999363+00:00"
+}

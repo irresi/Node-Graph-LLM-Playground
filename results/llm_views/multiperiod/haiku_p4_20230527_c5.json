@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "Cluster 5 (CAKE) shows severe bearish momentum with -49.64% 30-day return and -10.18% 14-day return in a strong downtrend market regime. High volatility (63.7% annualized) and negative Sharpe ratio (-6.55) indicate distressed conditions. TVL declining -9.6% suggests weakening fundamentals. However, extreme drawdowns (-42.4%) may indicate oversold conditions with potential mean reversion. Forecasting -185% annualized return (~-7.1% over 14 days) reflects continued weakness but acknowledges mean reversion possibility, hence moderate-low confidence (0.35) due to high uncertainty in volatile bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 5 (CAKE) shows severe bearish momentum with -49.64% 30-day return and -10.18% 14-day return in a strong downtrend market regime. High volatility (63.7% annualized) and negative Sharpe ratio (-6.55) indicate distressed conditions. TVL declining -9.6% suggests weakening fundamentals. However, extreme drawdowns (-42.4%) may indicate oversold conditions with potential mean reversion. Forecasting -185% annualized return (~-7.1% over 14 days) reflects continued weakness but acknowledges mean reversion possibility, hence moderate-low confidence (0.35) due to high uncertainty in volatile bear markets.\"\n}\n```",
+  "date": "2023-05-28",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:10.071396+00:00"
+}

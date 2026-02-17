@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "MKR shows strong recent momentum (+14.57% over 30 days, +13.52% over 7 days) with excellent Sharpe ratio (2.38), suggesting positive near-term dynamics. However, confidence is limited by: (1) overall bear market regime with negative DeFi TVL trends (-1.8% 30d), (2) MKR's TVL declining -7.4% suggesting weakening fundamentals, (3) high volatility (51.4% annualized) creates significant forecast uncertainty, and (4) momentum mean reversion risk after strong run. Annualized forecast of 28% reflects optimistic near-term continuation but heavily discounted for macro headwinds and fundamental deterioration.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR shows strong recent momentum (+14.57% over 30 days, +13.52% over 7 days) with excellent Sharpe ratio (2.38), suggesting positive near-term dynamics. However, confidence is limited by: (1) overall bear market regime with negative DeFi TVL trends (-1.8% 30d), (2) MKR's TVL declining -7.4% suggesting weakening fundamentals, (3) high volatility (51.4% annualized) creates significant forecast uncertainty, and (4) momentum mean reversion risk after strong run. Annualized forecast of 28% reflects optimistic near-term continuation but heavily discounted for macro headwinds and fundamental deterioration.\"\n}\n```",
+  "date": "2023-09-19",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:35.512640+00:00"
+}

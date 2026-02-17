@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.45,
+  "reasoning": "Strong 14-day momentum (+14.88%) and bull market regime support near-term upside, but TVL decline (-5.7%), deteriorating 30-day metrics (-0.64%), and high volatility (55.5%) introduce significant downside risk and mean reversion potential. Moderate confidence reflects the tension between positive momentum and weakening fundamentals.",
+  "raw_response": "I'll analyze this DeFi cluster forecast systematically based on the provided market context.\n\n## Analysis of Cluster 2 (DYDX)\n\n### Key Observations:\n\n1. **Recent Momentum**: Strong positive trajectory\n   - 7-day return: +5.62%\n   - 14-day return: +14.88%\n   - This shows significant recent upside momentum despite negative 30-day performance\n\n2. **Market Regime**: Bull market with strong uptrend\n   - Overall DeFi TVL growing +12.1% (30-day)\n   - Favorable macro environment for derivatives protocols\n\n3. **Protocol Health - Mixed Signals**:\n   - DYDX TVL declining -5.7% (30-day) suggests some user outflow\n   - However, the token price performance (+14.88% over 14 days) indicates market confidence despite TVL headwinds\n\n4. **Volatility & Risk Profile**:\n   - Annualized volatility: 55.5% (very high)\n   - Sharpe ratio: -0.10 (negative risk-adjusted returns over the evaluation period)\n   - Max drawdown: -11.6% (significant downside risk)\n\n5. **Momentum vs. Fundamentals Trade-off**:\n   - Strong recent price momentum (14-day: +14.88%)\n   - But deteriorating fundamentals (TVL decline, negative 30-day return)\n   - Suggests potential mean reversion risk or a shift in market sentiment\n\n### Forecast Rationale:\n\nGiven the strong 14-day momentum (+14.88%) and bull market regime, there's near-term upside potential. However, the TVL decline and negative 30-day returns suggest caution. The 14-day window is short enough that momentum could persist, but the fundamental deterioration limits conviction.\n\nFor a 14-day annualized return: Converting +14.88% over 14 days to annualized terms would imply ~152% annualized return, which seems unsustainable. A more conservative approach accounts for mean reversion and fundamental headwinds.\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Strong 14-day momentum (+14.88%) and bull market regime support near-term upside, but TVL decline (-5.7%), deteriorating 30-day metrics (-0.64%), and high volatility (55.5%) introduce significant downside risk and mean reversion potential. Moderate confidence reflects the tension between positive momentum and weakening fundamentals.\"\n}\n```",
+  "date": "2024-02-17",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:58.700934+00:00"
+}

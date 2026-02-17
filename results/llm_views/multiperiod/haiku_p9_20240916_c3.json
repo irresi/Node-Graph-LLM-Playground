@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster faces headwinds from moderate bear market regime (-8.2% TVL decline) despite recent 14-day bounce. High volatility (45.5% annualized) and poor Sharpe ratio (0.07) indicate elevated risk without compensation. Infrastructure/L2 tokens lack near-term catalysts. Forecast slight negative return annualized (-8%) over 14 days with moderate confidence (0.55) due to regime uncertainty and momentum reversal risk.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 3 (LINK, OP, ARB, ENS, GRT)\n\n**Key Observations:**\n\n1. **Market Regime**: Moderate bear market with -8.2% TVL decline over 30 days, indicating weakening DeFi fundamentals\n\n2. **Recent Momentum**: \n   - 7-day return: -2.49% (downward pressure)\n   - 14-day return: +2.47% (recent recovery)\n   - 30-day return: +0.36% (net neutral)\n   - The cluster shows bouncing behavior but overall weakness\n\n3. **Volatility Profile**: 45.5% annualized volatility is very high, indicating substantial price swings and risk\n\n4. **Risk Metrics**:\n   - Sharpe ratio of 0.07 indicates poor risk-adjusted returns\n   - Max drawdown of -22.4% shows significant downside exposure\n   - This is a high-risk, low-reward positioning\n\n5. **Cluster Composition**: Infrastructure and oracle tokens (LINK, OP, ARB, ENS, GRT) tend to track broader market sentiment and layer 2 adoption rates. With the bear regime, adoption momentum is likely dampened.\n\n6. **Fundamental Context**: No meaningful TVL data for most tokens (they're infrastructure/L2 tokens, not lending protocols), suggesting limited fundamental growth catalysts in near term\n\n**14-Day Forecast Rationale**:\n- The recent 14-day recovery (+2.47%) may face headwinds from the broader bear market\n- High volatility creates both upside and downside potential\n- Poor Sharpe ratio suggests risk is not being adequately compensated\n- Expected consolidation or slight decline in bear regime\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.55, \"reasoning\": \"Cluster faces headwinds from moderate bear market regime (-8.2% TVL decline) despite recent 14-day bounce. High volatility (45.5% annualized) and poor Sharpe ratio (0.07) indicate elevated risk without compensation. Infrastructure/L2 tokens lack near-term catalysts. Forecast slight negative return annualized (-8%) over 14 days with moderate confidence (0.55) due to regime uncertainty and momentum reversal risk.\"}\n```",
+  "date": "2024-09-17",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:33.243437+00:00"
+}

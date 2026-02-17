@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with cluster down 34% in 30 days. Recent 7-day decline of -12.77% indicates accelerating downside. SNX TVL collapse (-50.4%) and high volatility (80.5%) suggest continued weakness over 14 days, but extreme drawdowns and oversold conditions provide some mean-reversion upside potential, reducing conviction. Annualized estimate assumes -2-3% over 14 days in base case.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 1 and provide a return forecast.\n\n**Analysis:**\n\n1. **Market Regime**: Strong bear market with DeFi TVL down 20.1% over 30 days\n2. **Cluster Momentum**: Severely negative\n   - 30-day return: -34.05% (significantly worse than overall DeFi)\n   - 14-day return: -11.55%\n   - 7-day return: -12.77% (accelerating downside)\n   - Sharpe ratio of -3.55 indicates poor risk-adjusted returns\n\n3. **Volatility & Drawdown**: \n   - Annualized volatility of 80.5% (extremely high)\n   - Max drawdown of -30.8% shows significant downside exposure\n\n4. **Protocol Fundamentals**:\n   - SNX experiencing severe TVL outflow (-50.4% in 30 days)\n   - DYDX showing moderate decline (-10.9%)\n   - Mixed fundamental health suggests continued weakness ahead\n\n5. **Forward-Looking Considerations**:\n   - In bear markets, negative momentum often persists over 14-day periods\n   - High volatility creates risk, but current trend is downward\n   - No catalyst visible for mean reversion in this timeframe\n   - Recent 7-day decline (-12.77%) suggests continued selling pressure\n\n**Forecast Rationale:**\nGiven the strong downtrend, accelerating negative momentum in recent weeks, deteriorating protocol metrics (SNX TVL collapse), and broader bear market conditions, I expect continued weakness. However, extreme drawdowns often precede relief bounces. The high volatility suggests potential for recovery, but trend remains negative.\n\n```json\n{\"expected_return\": -0.45, \"confidence\": 0.65, \"reasoning\": \"Bear market regime with cluster down 34% in 30 days. Recent 7-day decline of -12.77% indicates accelerating downside. SNX TVL collapse (-50.4%) and high volatility (80.5%) suggest continued weakness over 14 days, but extreme drawdowns and oversold conditions provide some mean-reversion upside potential, reducing conviction. Annualized estimate assumes -2-3% over 14 days in base case.\"}\n```",
+  "date": "2025-11-21",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:14.699299+00:00"
+}

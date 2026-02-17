@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "BAL faces headwinds from bear market regime (-12.5% DeFi TVL decline) and significant TVL loss (-22.3% in 30d), but shows modest positive momentum over 14d (+0.20%). High volatility (69.1% annualized) and negative Sharpe ratio (-1.89) indicate risk-adjusted underperformance. The 7d return (-2.43%) suggests recent weakness is resuming. Forecasting continued modest decline with moderate confidence given conflicting signals and elevated uncertainty in current market conditions.",
+  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast for Cluster 2 (BAL) over the next 14 days:\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (-12.5% DeFi TVL decline) and significant TVL loss (-22.3% in 30d), but shows modest positive momentum over 14d (+0.20%). High volatility (69.1% annualized) and negative Sharpe ratio (-1.89) indicate risk-adjusted underperformance. The 7d return (-2.43%) suggests recent weakness is resuming. Forecasting continued modest decline with moderate confidence given conflicting signals and elevated uncertainty in current market conditions.\"\n}\n```\n\n**Key factors in this forecast:**\n1. **Bearish macro regime**: Overall DeFi TVL declining sharply (-12.5%), indicating risk-off sentiment\n2. **Weak fundamentals**: BAL's TVL down -22.3% (30d), suggesting losing competitive position\n3. **Mixed momentum**: Positive 14d return (+0.20%) but negative 7d return (-2.43%) shows recent deterioration\n4. **High risk**: Volatility at 69.1% and negative Sharpe ratio (-1.89) indicate poor risk-adjusted returns\n5. **Moderate confidence**: Conflicting signals (recent positive vs. fundamental weakness) and elevated market uncertainty limit conviction to 0.55",
+  "date": "2025-11-01",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:42:34.111541+00:00",
+  "enriched": false
+}

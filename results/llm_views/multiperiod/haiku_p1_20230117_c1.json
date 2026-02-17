@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster shows strong bull-regime momentum with +39.31% 30-day return and excellent Sharpe ratio (8.18). However, forecasting next 14 days at similar magnitude carries mean-reversion risk given the recent 19.8% 7-day surge suggests momentum may be overextended. TVL growth across protocols (especially LDO +36.4%, RPL +39.9%) provides fundamental support. Annualized 42% return assumes partial continuation of recent momentum while moderating from the 7-day acceleration. Confidence tempered by high volatility (40.4%) and -7.1% max drawdown indicating elevated tail risk in current bull environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster shows strong bull-regime momentum with +39.31% 30-day return and excellent Sharpe ratio (8.18). However, forecasting next 14 days at similar magnitude carries mean-reversion risk given the recent 19.8% 7-day surge suggests momentum may be overextended. TVL growth across protocols (especially LDO +36.4%, RPL +39.9%) provides fundamental support. Annualized 42% return assumes partial continuation of recent momentum while moderating from the 7-day acceleration. Confidence tempered by high volatility (40.4%) and -7.1% max drawdown indicating elevated tail risk in current bull environment.\"\n}\n```",
+  "date": "2023-01-18",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:42.398994+00:00"
+}

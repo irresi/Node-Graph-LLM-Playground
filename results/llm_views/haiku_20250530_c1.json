@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "CAKE shows positive 30-day momentum (+11.63%) with strong Sharpe ratio (1.17) in a moderate bull market (+19.6% DeFi TVL growth). However, recent 7-day weakness (-1.15%) suggests potential consolidation or profit-taking. TVL growth (+4.8%) is moderately positive but slower than market. High volatility (83.2%) and recent drawdown (-17.7%) indicate elevated risk. Annualized forecast of ~18% reflects recovery potential from recent weakness while accounting for momentum fade and market correction risk over 14 days.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows positive 30-day momentum (+11.63%) with strong Sharpe ratio (1.17) in a moderate bull market (+19.6% DeFi TVL growth). However, recent 7-day weakness (-1.15%) suggests potential consolidation or profit-taking. TVL growth (+4.8%) is moderately positive but slower than market. High volatility (83.2%) and recent drawdown (-17.7%) indicate elevated risk. Annualized forecast of ~18% reflects recovery potential from recent weakness while accounting for momentum fade and market correction risk over 14 days.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:16.719697+00:00",
+  "enriched": false
+}

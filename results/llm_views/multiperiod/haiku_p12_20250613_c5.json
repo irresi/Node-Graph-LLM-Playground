@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 shows strong short-term momentum (7d: +12.17%, 14d: +18.53%) despite a bear market regime, indicating contrarian strength in yield/lending/derivatives tokens. However, mixed fundamentals temper outlook: MKR's -18.5% TVL decline suggests protocol stress, while GMX (+7.6%) and YFI (+12.4%) show resilience. The 63.2% annualized volatility and 0.29 Sharpe ratio indicate risk-adjusted returns are modest. Extrapolating recent 14-day momentum (+18.53%) to 14 annualized days yields ~45% expected return, but confidence is moderate (0.62) due to: (1) bear market headwinds limiting sustainability, (2) MKR's deteriorating TVL, (3) high volatility suggesting mean reversion risk, and (4) potential momentum exhaustion. The 14-day window is too short to confirm trend reversal.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 shows strong short-term momentum (7d: +12.17%, 14d: +18.53%) despite a bear market regime, indicating contrarian strength in yield/lending/derivatives tokens. However, mixed fundamentals temper outlook: MKR's -18.5% TVL decline suggests protocol stress, while GMX (+7.6%) and YFI (+12.4%) show resilience. The 63.2% annualized volatility and 0.29 Sharpe ratio indicate risk-adjusted returns are modest. Extrapolating recent 14-day momentum (+18.53%) to 14 annualized days yields ~45% expected return, but confidence is moderate (0.62) due to: (1) bear market headwinds limiting sustainability, (2) MKR's deteriorating TVL, (3) high volatility suggesting mean reversion risk, and (4) potential momentum exhaustion. The 14-day window is too short to confirm trend reversal.\"\n}\n```",
+  "date": "2025-06-14",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:24.428000+00:00"
+}

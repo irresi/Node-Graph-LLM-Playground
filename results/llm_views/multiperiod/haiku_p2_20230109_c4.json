@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows strong short-term momentum (7-day: +14.72%, 14-day: +13.30%) recovering from bear regime, but overall 30-day performance remains negative (-1.10%) with high volatility (46.5%) and poor Sharpe ratio (-0.20). The 14-day forecast annualizes recent momentum, but low confidence reflects: (1) macro bear market regime, (2) high volatility and drawdown risk (-20.2% max), (3) infrastructure tokens (OP, ENS, LINK) lack TVL fundamentals for valuation support, and (4) momentum-based projections are unreliable in choppy markets. Expect mean reversion toward negative returns.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows strong short-term momentum (7-day: +14.72%, 14-day: +13.30%) recovering from bear regime, but overall 30-day performance remains negative (-1.10%) with high volatility (46.5%) and poor Sharpe ratio (-0.20). The 14-day forecast annualizes recent momentum, but low confidence reflects: (1) macro bear market regime, (2) high volatility and drawdown risk (-20.2% max), (3) infrastructure tokens (OP, ENS, LINK) lack TVL fundamentals for valuation support, and (4) momentum-based projections are unreliable in choppy markets. Expect mean reversion toward negative returns.\"\n}\n```",
+  "date": "2023-01-10",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:18.362577+00:00"
+}

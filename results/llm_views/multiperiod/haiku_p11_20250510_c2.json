@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.68,
+  "reasoning": "Bull regime with strong TVL growth supports continued upside. Recent 14-day return of +14.16% annualizes to ~130% but is likely elevated. Moderated forecast assumes partial momentum continuation (~25-35% annualized return) over next 14 days, tempered by pullback risk after +31% monthly move. Strong Sharpe ratio (4.24) and low drawdown support medium-high confidence, but unsustained momentum patterns in the 7d vs 14d returns suggest caution. Lending/derivatives fundamentals (real TVL, protocol growth) provide stability.",
+  "raw_response": "I'll analyze the market context and cluster metrics to provide a 14-day expected return forecast for Cluster 2 (MKR, SNX, GMX).\n\n## Analysis\n\n**Current Market Environment:**\n- Strong bull regime with +42.5% TVL growth over 30 days\n- DeFi market showing healthy expansion and investor appetite\n- Moderate volatility despite uptrend\n\n**Cluster Fundamentals:**\n- Lending & Derivatives exposure (defensive DeFi segments with real yield)\n- Strong recent performance: +31.47% (30d), +24.73% (7d), +14.16% (14d)\n- Excellent risk-adjusted returns: Sharpe ratio of 4.24\n- Contained drawdown: -12.8% max despite volatile environment\n\n**Protocol-Specific Metrics:**\n- **MKR**: Large TVL base ($6.46B), steady growth (+16.6%), governance/stability focus\n- **SNX**: Smaller TVL ($105M) but strong momentum (+38.1%), high growth potential\n- **GMX**: Solid TVL ($422M), consistent growth (+17.9%), core derivatives infrastructure\n\n**Forward-Looking Considerations:**\n- The 14-day return (+14.16%) is lower than 7-day (+24.73%), suggesting potential momentum deceleration\n- Bull market regime typically sustains 2-4 weeks before pullback\n- The cluster's low drawdown despite gains suggests resilient fundamentals\n- TVL expansion indicates real user adoption, not just speculation\n\n**Forecast Approach:**\nGiven the +14.16% 14-day historical return and current momentum, but accounting for:\n1. Mean reversion tendency after strong runs\n2. Bull market typically sustaining 2-4 weeks\n3. The clustering of lending/derivatives provides stability\n4. Potential market saturation at elevated levels\n\nI estimate continuation at a moderated pace from the 14-day trend.\n\n```json\n{\"expected_return\": 0.32, \"confidence\": 0.68, \"reasoning\": \"Bull regime with strong TVL growth supports continued upside. Recent 14-day return of +14.16% annualizes to ~130% but is likely elevated. Moderated forecast assumes partial momentum continuation (~25-35% annualized return) over next 14 days, tempered by pullback risk after +31% monthly move. Strong Sharpe ratio (4.24) and low drawdown support medium-high confidence, but unsustained momentum patterns in the 7d vs 14d returns suggest caution. Lending/derivatives fundamentals (real TVL, protocol growth) provide stability.\"}\n```",
+  "date": "2025-05-11",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:08.572942+00:00"
+}

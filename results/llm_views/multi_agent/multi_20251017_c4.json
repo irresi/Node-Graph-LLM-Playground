@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.085,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.085,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL faces genuine macro headwinds (DeFi TVL -11.2%, bear regime dominance) with no protocol-specific catalysts to offset se",
+  "n_agents": 24,
+  "date": "2025-10-18 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

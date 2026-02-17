@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) faces headwinds from bear market regime and severe recent momentum (-19.63% over 14d, -10.37% over 7d). High volatility (39.2% annualized) and negative Sharpe ratio (-2.71) indicate risk-off sentiment. However, infrastructure tokens (LINK, OP, ARB) and domain services (ENS) have fundamental utility that may provide some support. The 14d return suggests continued downward pressure, but the cluster's critical role in DeFi could limit further deterioration. Moderate confidence reflects the challenging regime balanced against intrinsic value of core protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) faces headwinds from bear market regime and severe recent momentum (-19.63% over 14d, -10.37% over 7d). High volatility (39.2% annualized) and negative Sharpe ratio (-2.71) indicate risk-off sentiment. However, infrastructure tokens (LINK, OP, ARB) and domain services (ENS) have fundamental utility that may provide some support. The 14d return suggests continued downward pressure, but the cluster's critical role in DeFi could limit further deterioration. Moderate confidence reflects the challenging regime balanced against intrinsic value of core protocols.\"\n}\n```",
+  "date": "2024-11-04",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:18.735044+00:00"
+}

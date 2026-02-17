@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.65,
+  "reasoning": "CVX faces significant headwinds: bear market regime (-12.5% DeFi TVL decline), severe 30-day drawdown (-42.39%), and elevated volatility (144.1% annualized). However, the recent 7-day and 14-day returns (-3.29%, -3.56%) show deceleration compared to the monthly decline, suggesting potential stabilization. The moderate governance activity (3 active proposals) and stable base yield (5.14% TVL-weighted APY) provide some support. The 14-day forecast extrapolates recent momentum with a slight bear bias, expecting continued weakness but at a moderated pace. Confidence is moderate due to high volatility and uncertain market macro conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.65,\n  \"reasoning\": \"CVX faces significant headwinds: bear market regime (-12.5% DeFi TVL decline), severe 30-day drawdown (-42.39%), and elevated volatility (144.1% annualized). However, the recent 7-day and 14-day returns (-3.29%, -3.56%) show deceleration compared to the monthly decline, suggesting potential stabilization. The moderate governance activity (3 active proposals) and stable base yield (5.14% TVL-weighted APY) provide some support. The 14-day forecast extrapolates recent momentum with a slight bear bias, expecting continued weakness but at a moderated pace. Confidence is moderate due to high volatility and uncertain market macro conditions.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:03.386657+00:00",
+  "enriched": true
+}

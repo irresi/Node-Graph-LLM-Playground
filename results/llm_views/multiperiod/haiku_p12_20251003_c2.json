@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster 2 shows mixed signals: recent 7-day momentum is strong (+7.00%), suggesting positive near-term trend reversal from the 30-day decline (-4.52%). However, high volatility (51.6% annualized) and negative Sharpe ratio (-0.74) indicate risk-adjusted returns are poor. The neutral market regime and limited protocol fundamentals (most tokens lack TVL data) reduce forecast confidence. The 14-day return (-6.52%) suggests headwinds, but the sharp 7-day recovery indicates potential for continued upside if momentum sustains. Infrastructure/L2 tokens (OP, ARB, ENS) are benefiting from ecosystem growth, while LINK and GRT face competitive pressures. Forecasting modest positive annualized return over 14 days, but with low-to-moderate confidence due to high volatility and unclear fundamental drivers.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 2 shows mixed signals: recent 7-day momentum is strong (+7.00%), suggesting positive near-term trend reversal from the 30-day decline (-4.52%). However, high volatility (51.6% annualized) and negative Sharpe ratio (-0.74) indicate risk-adjusted returns are poor. The neutral market regime and limited protocol fundamentals (most tokens lack TVL data) reduce forecast confidence. The 14-day return (-6.52%) suggests headwinds, but the sharp 7-day recovery indicates potential for continued upside if momentum sustains. Infrastructure/L2 tokens (OP, ARB, ENS) are benefiting from ecosystem growth, while LINK and GRT face competitive pressures. Forecasting modest positive annualized return over 14 days, but with low-to-moderate confidence due to high volatility and unclear fundamental drivers.\"\n}\n```",
+  "date": "2025-10-04",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:30.494601+00:00"
+}

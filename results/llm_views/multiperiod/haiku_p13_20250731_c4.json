@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.22,
+  "confidence": 0.62,
+  "reasoning": "Recent 14-day decline of -13.72% suggests short-term weakness will likely persist 2-3 more days, but bull market regime and strong TVL growth (+14.8%) support partial recovery. Forecasting -22% annualized (modest continued weakness) over 14 days with moderate confidence. High volatility (49.6%) and contrarian signals (TVL growth vs price decline) limit conviction. Momentum continuation risk balanced against recovery potential.",
+  "raw_response": "I'll analyze the DeFi cluster data to provide a 14-day expected return forecast for Cluster 4 (YFI).\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows a concerning divergence:\n   - 7-day return: -6.26% (negative)\n   - 14-day return: -13.72% (significantly negative)\n   - 30-day return: +5.97% (positive overall)\n   - This indicates strong recent downtrend despite positive monthly performance\n\n2. **Volatility & Risk Metrics**:\n   - Annualized volatility: 49.6% (high)\n   - Sharpe ratio: 1.01 (reasonable risk-adjusted returns historically)\n   - Max drawdown: -15.7% (notable but not extreme)\n\n3. **Fundamental Health**:\n   - YFI TVL: $472M with +14.8% growth in 30 days\n   - Protocol fundamentals strengthening despite price weakness\n   - Bull market regime with +29.8% DeFi TVL growth\n\n4. **Momentum Reversal Signals**:\n   - Strong negative 7/14-day returns suggest oversold conditions\n   - Growing TVL (+14.8%) contradicts price decline (contrarian signal)\n   - Bull market regime supports recovery potential\n   - However, the sharp recent decline indicates caution\n\n**Forecast Rationale:**\n- The negative momentum is likely to continue for the next few days given the sharp recent decline\n- However, the fundamental strength (TVL growth) and bull market regime suggest partial recovery\n- Expecting mean reversion over 14 days, but weighted toward modest negative returns given momentum\n\n```json\n{\"expected_return\": -0.22, \"confidence\": 0.62, \"reasoning\": \"Recent 14-day decline of -13.72% suggests short-term weakness will likely persist 2-3 more days, but bull market regime and strong TVL growth (+14.8%) support partial recovery. Forecasting -22% annualized (modest continued weakness) over 14 days with moderate confidence. High volatility (49.6%) and contrarian signals (TVL growth vs price decline) limit conviction. Momentum continuation risk balanced against recovery potential.\"}\n```",
+  "date": "2025-08-01",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:33.201935+00:00"
+}

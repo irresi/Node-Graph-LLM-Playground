@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "DYDX shows recent weakness (-17.95% in 7 days) after strong monthly gains (+9.70%), suggesting oversold conditions. Bull regime, strong TVL growth (+29.9%), and 1.10 Sharpe ratio support partial recovery. However, high volatility (74.3%), recent drawdown, and single-token cluster composition limit confidence. Expect modest bounce-back with elevated risk.",
+  "raw_response": "I'll analyze the market data and cluster metrics to forecast the expected annualized return for Cluster 2 (DYDX) over the next 14 days.\n\n**Key Analysis Points:**\n\n1. **Recent Momentum**: The cluster shows conflicting signals:\n   - 30-day return: +9.70% (positive)\n   - 14-day return: -7.67% (negative)\n   - 7-day return: -17.95% (strongly negative)\n   - This indicates recent weakness despite strong month-to-date gains\n\n2. **Market Regime**: Bull market with moderate volatility provides structural support, though the 74.3% annualized volatility is quite high\n\n3. **Fundamentals**: DYDX TVL grew +29.9% over 30 days, showing strong protocol adoption and growth\n\n4. **Risk Metrics**: \n   - Sharpe ratio of 1.10 is respectable but not exceptional\n   - Max drawdown of -19.9% reflects significant downside risk\n   - High volatility (74.3%) suggests mean reversion potential\n\n5. **Technical Setup**: After -17.95% in 7 days, the cluster is oversold relative to its 30-day performance, suggesting potential bounce-back\n\n**Forecast Rationale:**\nThe strong -17.95% weekly decline following a +9.70% monthly gain suggests profit-taking and volatility. However, with improving fundamentals (TVL +29.9%) and bull market conditions, I expect a partial recovery. The next 14 days should see modest positive returns from mean reversion and renewed protocol interest, though high volatility remains a risk.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"DYDX shows recent weakness (-17.95% in 7 days) after strong monthly gains (+9.70%), suggesting oversold conditions. Bull regime, strong TVL growth (+29.9%), and 1.10 Sharpe ratio support partial recovery. However, high volatility (74.3%), recent drawdown, and single-token cluster composition limit confidence. Expect modest bounce-back with elevated risk.\"\n}\n```",
+  "date": "2024-03-16",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:08.979475+00:00"
+}

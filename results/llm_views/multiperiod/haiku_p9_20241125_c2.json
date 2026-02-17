@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum with 39.83% 30-day return and positive TVL growth across all tokens (especially SNX +54.5%). However, high annualized volatility (62.5%) and recent 14-day deceleration (26.28% vs 39.83% 30-day) suggest momentum may be cooling. Moderate bull regime supports continued gains but extrapolating recent returns risks overestimation. Forecast reflects strong recent performance with conservative confidence due to mean reversion risks and elevated valuations in bull markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong momentum with 39.83% 30-day return and positive TVL growth across all tokens (especially SNX +54.5%). However, high annualized volatility (62.5%) and recent 14-day deceleration (26.28% vs 39.83% 30-day) suggest momentum may be cooling. Moderate bull regime supports continued gains but extrapolating recent returns risks overestimation. Forecast reflects strong recent performance with conservative confidence due to mean reversion risks and elevated valuations in bull markets.\"\n}\n```",
+  "date": "2024-11-26",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:19.291170+00:00"
+}

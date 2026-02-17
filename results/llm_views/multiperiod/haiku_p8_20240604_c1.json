@@ -1,0 +1,31 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.58,
+  "reasoning": "Bull market regime supports positive bias, but 7-day decline and 30-to-7-day divergence suggest momentum fading. 14-day baseline of +0.81% annualizes to ~19%, but mean reversion pressures and high volatility (55.5%) warrant conservative adjustment to 8% annualized return. Medium confidence due to contradictory signals: fundamental strength balanced against near-term momentum loss.",
+  "raw_response": "Looking at this Cluster 1 analysis, I'll synthesize the key metrics to forecast the 14-day expected annualized return.\n\n## Key Analysis Points:\n\n**Positive Indicators:**\n- Bull market regime with strong TVL growth (+20% YoY)\n- Solid 30-day return of +11.32% with respectable Sharpe ratio (1.71)\n- Protocol fundamentals healthy: UNI, CRV, CAKE, BAL all showing positive TVL momentum\n- Cluster contains diverse, resilient protocols (DEX, lending, L2, derivatives, oracles)\n\n**Cautionary Signals:**\n- Recent 7-day performance deteriorating (-2.91%), suggesting momentum loss\n- 14-day return of only +0.81% indicates deceleration from 30-day pace\n- High annualized volatility (55.5%) creates execution risk\n- Max drawdown of -9.0% shows vulnerability to pullbacks\n- Extreme recent divergence (30-day strong, 7-day negative) suggests mean reversion risk\n\n**Forecasting Logic:**\nThe dramatic slowdown from 30-day (+11.32%) to 7-day (-2.91%) performance suggests the recent rally is cooling. In bull markets, clusters typically don't sustain 11%+ monthly returns continuously. The 14-day +0.81% is a more realistic baseline, suggesting we're transitioning to a consolidation phase.\n\nGiven:\n- Bull regime supports positive bias (typically 2-5% annualized in strong uptrends)\n- Recent momentum fade suggests tempered growth ahead\n- High volatility creates both risk and opportunity\n- Mean reversion pressures from stretched 30-day gains\n\nI estimate continued modest positive returns with medium-low confidence due to momentum uncertainties.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.58, \"reasoning\": \"Bull market regime supports positive bias, but 7-day decline and 30-to-7-day divergence suggest momentum fading. 14-day baseline of +0.81% annualizes to ~19%, but mean reversion pressures and high volatility (55.5%) warrant conservative adjustment to 8% annualized return. Medium confidence due to contradictory signals: fundamental strength balanced against near-term momentum loss.\"}\n```",
+  "date": "2024-06-05",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:20.070766+00:00"
+}

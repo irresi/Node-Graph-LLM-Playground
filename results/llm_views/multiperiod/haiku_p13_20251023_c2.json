@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.35,
+  "reasoning": "Strong bear market momentum with 14-day decline of -32.06% and accelerating losses (7-day worse than 30-day). LDO dominance provides some stability, but negative momentum, extreme drawdown, and poor risk metrics suggest further weakness likely. Low confidence due to 128.4% volatility and potential mean reversion in oversold conditions.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward-looking forecast. Let me break down the key factors:\n\n## Analysis\n\n**Market Environment:**\n- Strong bear market with -4.9% TVL decline over 30 days\n- Cluster down 31.39% in last 30 days with extremely high volatility (128.4% annualized)\n- Recent momentum deteriorating: -32.06% over 14 days vs -2.65% over 7 days suggests acceleration of losses\n\n**Cluster Composition Analysis:**\n- **LDO dominates** (~69% of TVL at $32.7B) - liquid staking is a core DeFi primitive but facing headwinds\n- **CRV** showing relative strength (+16.7% TVL change) despite general market weakness\n- **CVX, RPL** showing significant TVL outflows (-19.1%, -7.6%)\n- **SUSHI** near flat on TVL but weakest performer in bear market\n\n**Key Concerns:**\n1. Severe recent drawdown (-35.8% max) suggests capitulation may be near, but no clear reversal signals\n2. Negative Sharpe ratio (-2.05) indicates poor risk-adjusted returns\n3. High volatility (128.4%) makes recovery prediction unreliable\n4. 7-day momentum worse than 14-day suggests further downside pressure\n\n**Mitigating Factors:**\n1. Extreme valuations and positioning could support mean reversion\n2. Liquid staking (LDO) has structural demand despite market cycle\n3. CRV's TVL resilience suggests some protocol stability\n\n**Forecast Reasoning:**\nIn a severe bear market with continued momentum deterioration, mean reversion is possible but not guaranteed within 14 days. The cluster could see:\n- Continued 5-15% decline if bear trend persists\n- 10-25% bounce if capitulation complete and reversal begins\n\nGiven the persistence of negative momentum and lack of positive catalysts, I expect a modest negative return over the next 14 days with low-to-moderate confidence due to high volatility and unpredictability.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.35, \"reasoning\": \"Strong bear market momentum with 14-day decline of -32.06% and accelerating losses (7-day worse than 30-day). LDO dominance provides some stability, but negative momentum, extreme drawdown, and poor risk metrics suggest further weakness likely. Low confidence due to 128.4% volatility and potential mean reversion in oversold conditions.\"}\n```",
+  "date": "2025-10-24",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:35.362575+00:00"
+}

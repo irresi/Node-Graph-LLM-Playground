@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "BAL operating in severe bear market with -24.43% 30-day loss, -10.46% 7-day decline, and highly negative Sharpe ratio (-7.36). TVL declining (-5.3% 30d), indicating reduced protocol usage. However, low confidence due to bear market regime making predictions unreliable; extreme volatility (27.9% annualized) and -20.4% max drawdown suggest mean-reversion possibility or further deterioration. DEX sector under pressure with overall DeFi TVL contracting.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL operating in severe bear market with -24.43% 30-day loss, -10.46% 7-day decline, and highly negative Sharpe ratio (-7.36). TVL declining (-5.3% 30d), indicating reduced protocol usage. However, low confidence due to bear market regime making predictions unreliable; extreme volatility (27.9% annualized) and -20.4% max drawdown suggest mean-reversion possibility or further deterioration. DEX sector under pressure with overall DeFi TVL contracting.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:50.671913+00:00",
+  "enriched": false
+}

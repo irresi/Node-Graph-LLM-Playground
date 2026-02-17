@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with strong downtrend (-14.6% over 30d, -13.3% over 14d) suggests continued pressure. However, recent 7-day bounce (+1.64%) indicates potential short-term stabilization or oversold conditions. High volatility (36.7%) and negative Sharpe ratio (-3.34) reflect distressed conditions. CAKE's severe drawdown (-21.3%) is concerning, but UNI and SUSHI show relative stability. Forecast annualizes the recent 14-day decline with modest recovery expectations given oversold signals, but confidence is moderate due to macro bear conditions and token-specific headwinds (MKR TVL decline -6.2%). Expected 14-day return: ~-5.1% annualized to -42%.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear market regime with strong downtrend (-14.6% over 30d, -13.3% over 14d) suggests continued pressure. However, recent 7-day bounce (+1.64%) indicates potential short-term stabilization or oversold conditions. High volatility (36.7%) and negative Sharpe ratio (-3.34) reflect distressed conditions. CAKE's severe drawdown (-21.3%) is concerning, but UNI and SUSHI show relative stability. Forecast annualizes the recent 14-day decline with modest recovery expectations given oversold signals, but confidence is moderate due to macro bear conditions and token-specific headwinds (MKR TVL decline -6.2%). Expected 14-day return: ~-5.1% annualized to -42%.\"\n}\n```",
+  "date": "2022-12-27",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:55.568925+00:00"
+}

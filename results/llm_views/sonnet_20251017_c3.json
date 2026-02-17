@@ -1,18 +1,14 @@
 {
   "expected_return": -0.72,
   "confidence": 0.62,
-  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) is deeply negative across all timeframes with accelerating drawdown: -18.90% (7d), -25.06% (14d), -19.21% (30d), and a max drawdown of -31.3%. The annualized volatility of 138.1% and Sharpe of -1.17 confirm a strong bearish regime with poor risk-adjusted performance. Momentum is firmly negative with no reversal signals. TVL is broadly declining \u2014 LDO (-16%) and RPL (-15.8%) are particularly weak, and they dominate by TVL weight. The only outlier is SNX (+101.9% TVL), which may provide a marginal offset but is too small ($182M) to materially shift the cluster. Overall DeFi TVL is down -8.8% over 30 days, reinforcing macro headwinds. Extrapolating the 14-day trend (-25.06%) annualizes to approximately -72%, which serves as the base forecast. Confidence is moderate (0.62) as bear markets can see sharp short-covering bounces, and the SNX anomaly introduces some upside optionality.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) is deeply negative across all timeframes with accelerating drawdown: -18.90% (7d), -25.06% (14d), -19.21% (30d), and a max drawdown of -31.3%. The annualized volatility of 138.1% and Sharpe of -1.17 confirm a strong bearish regime with poor risk-adjusted performance. Momentum is firmly negative with no reversal signals. TVL is broadly declining \u2014 LDO (-16%) and RPL (-15.8%) are particularly weak, and they dominate by TVL weight. The only outlier is SNX (+101.9% TVL), which may provide a marginal offset but is too small ($182M) to materially shift the cluster. Overall DeFi TVL is down -8.8% over 30 days, reinforcing macro headwinds. Extrapolating the 14-day trend (-25.06%) annualizes to approximately -72%, which serves as the base forecast. Confidence is moderate (0.62) as bear markets can see sharp short-covering bounces, and the SNX anomaly introduces some upside optionality.\"}\n```",
-  "date": "2025-10-17",
+  "reasoning": "CVX is in severe distress: -44.14% over 30 days, -48.63% over 14 days, and a catastrophic max drawdown of -46.5%, all within a broader bear market with DeFi TVL down -11.2% and CVX's own TVL collapsing -25.4% to $998M. The Sharpe ratio of -2.41 confirms deeply negative risk-adjusted performance. The only mitigating signal is the recent 7-day bounce of +4.67%, suggesting a potential short-term dead-cat bounce or oversold relief rally. However, with strong macro downtrend pressure, deteriorating protocol fundamentals, and a bearish market regime, the dominant trajectory remains deeply negative. Annualizing the 14-day return trend (-48.63% over ~14 days \u2248 -87% annualized) provides a severe anchor; tempering this with the nascent 7-day recovery and mean-reversion probability, a forecast of approximately -72% annualized is warranted. Confidence is moderate at 0.62 given the high volatility (153.8% annualized) making near-term direction uncertain, and the conflicting short-term vs. medium-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"CVX is in severe distress: -44.14% over 30 days, -48.63% over 14 days, and a catastrophic max drawdown of -46.5%, all within a broader bear market with DeFi TVL down -11.2% and CVX's own TVL collapsing -25.4% to $998M. The Sharpe ratio of -2.41 confirms deeply negative risk-adjusted performance. The only mitigating signal is the recent 7-day bounce of +4.67%, suggesting a potential short-term dead-cat bounce or oversold relief rally. However, with strong macro downtrend pressure, deteriorating protocol fundamentals, and a bearish market regime, the dominant trajectory remains deeply negative. Annualizing the 14-day return trend (-48.63% over ~14 days \u2248 -87% annualized) provides a severe anchor; tempering this with the nascent 7-day recovery and mean-reversion probability, a forecast of approximately -72% annualized is warranted. Confidence is moderate at 0.62 given the high volatility (153.8% annualized) making near-term direction uncertain, and the conflicting short-term vs. medium-term momentum signals.\"}\n```",
+  "date": "2025-10-18",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:13:21.944197+00:00",
+  "generated_at": "2026-02-17T16:03:29.336143+00:00",
   "enriched": false
 }

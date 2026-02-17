@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+16.04%) and positive market regime, but recent 7-day and 14-day returns are negative (-4.60% and -0.84%), suggesting consolidation after rally. TVL growth across major protocols (CRV +16.7%, BAL +17.2%) indicates healthy fundamentals. High volatility (63.6%) and recent pullback warrant moderate confidence. Forecast assumes partial recovery from near-term weakness with continued protocol TVL growth supporting yield opportunities. Annualized from expected 14-day gain of ~0.52%.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+16.04%) and positive market regime, but recent 7-day and 14-day returns are negative (-4.60% and -0.84%), suggesting consolidation after rally. TVL growth across major protocols (CRV +16.7%, BAL +17.2%) indicates healthy fundamentals. High volatility (63.6%) and recent pullback warrant moderate confidence. Forecast assumes partial recovery from near-term weakness with continued protocol TVL growth supporting yield opportunities. Annualized from expected 14-day gain of ~0.52%.\"\n}\n```",
+  "date": "2022-08-17",
+  "period_idx": 1,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:53.887427+00:00"
+}

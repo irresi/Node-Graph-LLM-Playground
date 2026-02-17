@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "CAKE shows strong negative momentum (-18% over 14d, -4.72% over 7d) with high volatility (53.4% annualized) and negative Sharpe ratio (-1.95). However, the underlying protocol has positive fundamentals (TVL +5.7% in 30d) suggesting potential mean reversion. The range-bound market regime and elevated volatility create uncertainty. Low confidence reflects conflicting signals: bearish technical momentum vs. bullish TVL growth. Forecast conservatively negative expecting some continued weakness but potential stabilization given protocol strength.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE shows strong negative momentum (-18% over 14d, -4.72% over 7d) with high volatility (53.4% annualized) and negative Sharpe ratio (-1.95). However, the underlying protocol has positive fundamentals (TVL +5.7% in 30d) suggesting potential mean reversion. The range-bound market regime and elevated volatility create uncertainty. Low confidence reflects conflicting signals: bearish technical momentum vs. bullish TVL growth. Forecast conservatively negative expecting some continued weakness but potential stabilization given protocol strength.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:33.659596+00:00",
+  "enriched": false
+}

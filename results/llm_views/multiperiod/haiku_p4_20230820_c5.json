@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (CAKE/DEX) shows severe bearish momentum with -17.19% 30-day return and -15.19% 7-day return in a bear market regime. The negative Sharpe ratio (-4.71) and high volatility (30.7% annualized) indicate poor risk-adjusted returns. Recent 14-day return of -14.52% suggests continued downside pressure. However, confidence is moderate (0.62) as single-token clusters are more volatile and unpredictable, and oversold conditions could trigger bounces. The -45% annualized forecast reflects the strong downtrend while acknowledging potential mean reversion within a 14-day window.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 (CAKE/DEX) shows severe bearish momentum with -17.19% 30-day return and -15.19% 7-day return in a bear market regime. The negative Sharpe ratio (-4.71) and high volatility (30.7% annualized) indicate poor risk-adjusted returns. Recent 14-day return of -14.52% suggests continued downside pressure. However, confidence is moderate (0.62) as single-token clusters are more volatile and unpredictable, and oversold conditions could trigger bounces. The -45% annualized forecast reflects the strong downtrend while acknowledging potential mean reversion within a 14-day window.\"\n}\n```\n\n**Key factors in this forecast:**\n\n1. **Severe Bearish Momentum**: The 7-day (-15.19%), 14-day (-14.52%), and 30-day (-17.19%) returns all show consistent downward pressure\n2. **Market Regime**: Overall DeFi TVL down -11.9% in 30 days with confirmed bear market indicates headwinds for DEX tokens\n3. **Protocol Deterioration**: CAKE's TVL declined -14.0% in 30 days, signaling reduced protocol activity\n4. **Risk Metrics**: Negative Sharpe ratio and 17.4% max drawdown reflect severe risk-return tradeoff\n5. **Limited Confidence**: Single-token cluster makes prediction less reliable, and extreme downtrends sometimes reverse sharply",
+  "date": "2023-08-21",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:01.500636+00:00"
+}

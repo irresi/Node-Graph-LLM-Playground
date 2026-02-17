@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong bull regime momentum (+10.43% in 30 days, +9.33% in 14 days) with excellent Sharpe ratio (1.75), but recent 7-day pullback (-3.42%) suggests potential consolidation. The infrastructure/L2 tokens (OP, ARB) are benefiting from ecosystem expansion, while LINK and GRT show oracle/indexing demand strength. Annualized 14-day forecast of 28% reflects bullish market regime and positive momentum, but confidence is moderate (0.62) due to: (1) -3.42% recent pullback indicating potential mean reversion, (2) high volatility (49.9%) creating forecasting uncertainty, (3) lack of TVL metrics for most tokens limiting fundamental assessment, and (4) cryptocurrency's inherent unpredictability. The 8.9% max drawdown warrants caution on overly optimistic returns.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong bull regime momentum (+10.43% in 30 days, +9.33% in 14 days) with excellent Sharpe ratio (1.75), but recent 7-day pullback (-3.42%) suggests potential consolidation. The infrastructure/L2 tokens (OP, ARB) are benefiting from ecosystem expansion, while LINK and GRT show oracle/indexing demand strength. Annualized 14-day forecast of 28% reflects bullish market regime and positive momentum, but confidence is moderate (0.62) due to: (1) -3.42% recent pullback indicating potential mean reversion, (2) high volatility (49.9%) creating forecasting uncertainty, (3) lack of TVL metrics for most tokens limiting fundamental assessment, and (4) cryptocurrency's inherent unpredictability. The 8.9% max drawdown warrants caution on overly optimistic returns.\"\n}\n```",
+  "date": "2023-07-24",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:01.690518+00:00"
+}

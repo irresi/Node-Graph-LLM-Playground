@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.35,
+  "reasoning": "SNX shows strong short-term momentum (7d: +18.29%, 14d: +11.42%) despite bearish 30d performance (-0.98%), suggesting potential mean reversion rally. However, high annualized volatility (71%) and negative Sharpe ratio (-0.12) indicate unstable returns. The derivatives category is sensitive to market regime shifts, and the current moderate bear market presents headwinds. Low confidence reflects the conflict between positive recent momentum and weak fundamental conditions, plus single-token concentration risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"SNX shows strong short-term momentum (7d: +18.29%, 14d: +11.42%) despite bearish 30d performance (-0.98%), suggesting potential mean reversion rally. However, high annualized volatility (71%) and negative Sharpe ratio (-0.12) indicate unstable returns. The derivatives category is sensitive to market regime shifts, and the current moderate bear market presents headwinds. Low confidence reflects the conflict between positive recent momentum and weak fundamental conditions, plus single-token concentration risk.\"\n}\n```",
+  "date": "2026-01-08",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:23.022590+00:00"
+}

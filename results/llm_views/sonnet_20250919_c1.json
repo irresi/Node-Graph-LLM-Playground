@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.42,
-  "confidence": 0.62,
-  "reasoning": "CAKE (PancakeSwap) shows strong near-term momentum with 7-day return of +7.14% and 14-day return of +14.92%, annualizing to ~388% and ~388% respectively, though these are unsustainable. Tempering with the more modest 30-day return of +6.51% (~84% annualized) and broader bull market context (DeFi TVL +7% month-over-month), a realistic forward annualized return of ~42% is projected. Positive TVL growth (+11.2% over 30 days, $2.38B) supports protocol health. The Sharpe ratio of 1.10 indicates reasonable risk-adjusted performance, but the -17.6% max drawdown and high annualized volatility of 49.9% introduce meaningful downside risk. Single-token cluster concentration reduces diversification, capping confidence at 0.62.",
-  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.62, \"reasoning\": \"CAKE (PancakeSwap) shows strong near-term momentum with 7-day return of +7.14% and 14-day return of +14.92%, annualizing to ~388% and ~388% respectively, though these are unsustainable. Tempering with the more modest 30-day return of +6.51% (~84% annualized) and broader bull market context (DeFi TVL +7% month-over-month), a realistic forward annualized return of ~42% is projected. Positive TVL growth (+11.2% over 30 days, $2.38B) supports protocol health. The Sharpe ratio of 1.10 indicates reasonable risk-adjusted performance, but the -17.6% max drawdown and high annualized volatility of 49.9% introduce meaningful downside risk. Single-token cluster concentration reduces diversification, capping confidence at 0.62.\"}\n```",
-  "date": "2025-09-19",
+  "expected_return": -0.42,
+  "confidence": 0.38,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) faces significant headwinds in a confirmed bear/strong-downtrend regime. The 7-day return of -6.87% signals accelerating near-term momentum to the downside, overshadowing the 14-day bounce of +4.41% which likely reflects a short-lived relief rally. The 30-day return of -3.02% with a max drawdown of -16.3% and a negative Sharpe ratio (-0.40) confirms persistent underperformance. High annualized volatility of 64% amplifies downside risk. While the overall DeFi TVL growth of +6.3% over 30 days provides a mild macro tailwind, infrastructure/L2 tokens tend to lag during bear phases as risk appetite compresses. With no meaningful TVL backing for most tokens in the cluster and no catalyst for reversal visible, annualized expected return is estimated at approximately -42% (reflecting the ~-6.87% weekly pace extrapolated and partially mean-reverted). Confidence is low (0.38) due to high volatility, mixed short vs. medium-term signals, and limited protocol-level fundamental data available.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.38, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) faces significant headwinds in a confirmed bear/strong-downtrend regime. The 7-day return of -6.87% signals accelerating near-term momentum to the downside, overshadowing the 14-day bounce of +4.41% which likely reflects a short-lived relief rally. The 30-day return of -3.02% with a max drawdown of -16.3% and a negative Sharpe ratio (-0.40) confirms persistent underperformance. High annualized volatility of 64% amplifies downside risk. While the overall DeFi TVL growth of +6.3% over 30 days provides a mild macro tailwind, infrastructure/L2 tokens tend to lag during bear phases as risk appetite compresses. With no meaningful TVL backing for most tokens in the cluster and no catalyst for reversal visible, annualized expected return is estimated at approximately -42% (reflecting the ~-6.87% weekly pace extrapolated and partially mean-reverted). Confidence is low (0.38) due to high volatility, mixed short vs. medium-term signals, and limited protocol-level fundamental data available.\"}\n```",
+  "date": "2025-09-20",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:11:08.904420+00:00",
+  "generated_at": "2026-02-17T16:01:55.236539+00:00",
   "enriched": false
 }

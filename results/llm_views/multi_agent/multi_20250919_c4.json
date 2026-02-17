@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"The Bull Researcher's intellectual honesty is the dominant signal here. Rather than manufacturing a bullish case, they corre",
+  "n_agents": 24,
+  "date": "2025-09-20 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

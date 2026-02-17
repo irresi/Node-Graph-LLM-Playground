@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows persistent negative momentum (-5.55% over 14d, -4.08% over 30d) with high volatility (36.8% annualized). Negative Sharpe ratio (-0.93) and recent TVL contraction (particularly CRV at -36.8%) suggest weakness in underlying protocols. DeFi TVL down 8.3% YoD in neutral/range-bound regime indicates headwinds. However, confidence is moderate due to: (1) potential mean reversion from oversold conditions, (2) these are core DeFi protocols with fundamental value, (3) market regime is neutral rather than strongly bearish. Forecast annualizes recent 14-day performance with slight bearish adjustment given TVL trends, but assumes some stabilization prevents further deterioration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows persistent negative momentum (-5.55% over 14d, -4.08% over 30d) with high volatility (36.8% annualized). Negative Sharpe ratio (-0.93) and recent TVL contraction (particularly CRV at -36.8%) suggest weakness in underlying protocols. DeFi TVL down 8.3% YoD in neutral/range-bound regime indicates headwinds. However, confidence is moderate due to: (1) potential mean reversion from oversold conditions, (2) these are core DeFi protocols with fundamental value, (3) market regime is neutral rather than strongly bearish. Forecast annualizes recent 14-day performance with slight bearish adjustment given TVL trends, but assumes some stabilization prevents further deterioration.\"\n}\n```",
+  "date": "2023-08-07",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:14.544215+00:00"
+}

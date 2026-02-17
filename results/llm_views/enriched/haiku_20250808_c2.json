@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.68,
+  "reasoning": "Cluster 2 shows strong fundamentals with TVL growth and bull market backdrop, but recent 7-day momentum (+13.13%) suggests potential consolidation over next 14 days. High volatility (54.6%) and max drawdown (-19.1%) create uncertainty. Moderate positive return expected with mean reversion risk balanced against protocol strength and governance activity.",
+  "raw_response": "I'll analyze Cluster 2 to provide a 14-day expected return forecast.\n\n## Analysis\n\n### Key Observations:\n\n1. **Strong Recent Momentum**\n   - 7-day return: +13.13% (very strong)\n   - 14-day return: +0.69% (shows momentum peaked recently)\n   - 30-day return: +18.47% (sustained bull trend)\n   - This suggests we may be in a consolidation phase after strong gains\n\n2. **Volatility Context**\n   - Annualized volatility: 54.6% (high)\n   - Max drawdown: -19.1% (significant risk)\n   - Sharpe ratio: 2.84 (excellent risk-adjusted returns historically)\n   - Current 7-day strength suggests momentum may continue, but mean reversion risk exists\n\n3. **TVL Trends** (30-day changes)\n   - Strong TVL growth across major protocols: AAVE +29.8%, SUSHI +43.0%, CRV +16.4%, UNI +11.2%\n   - This fundamental strength supports continued positive performance\n\n4. **Market Regime**\n   - Bull market with moderate volatility (per context)\n   - Overall DeFi TVL up 26.1% in 30 days (strong tailwind)\n   - Governance activity active across protocols (positive sign of ecosystem health)\n\n5. **Yield Metrics**\n   - Most protocols showing modest but positive APYs (0.5%-4.1%)\n   - UNI showing highest APY at 20.32% on select pools\n   - This provides some fundamental support for valuations\n\n### 14-Day Forecast Rationale:\n\nThe cluster showed explosive gains over 7 days (+13.13%) but the 14-day return is only +0.69%, indicating the strong gains were front-loaded and momentum may be moderating. However:\n- TVL growth remains robust\n- Bull market regime is intact\n- No major negative catalysts in governance\n- Historical Sharpe ratio is excellent\n\nFor a 14-day forward return (annualizing to ~26 trading days per 2 weeks), I expect:\n- Moderate positive returns continuing (likely 5-15% annualized equivalent)\n- Mean reversion risk from the strong 7-day move\n- Solid fundamental support from TVL growth\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.68, \"reasoning\": \"Cluster 2 shows strong fundamentals with TVL growth and bull market backdrop, but recent 7-day momentum (+13.13%) suggests potential consolidation over next 14 days. High volatility (54.6%) and max drawdown (-19.1%) create uncertainty. Moderate positive return expected with mean reversion risk balanced against protocol strength and governance activity.\"}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:49.913305+00:00",
+  "enriched": true
+}

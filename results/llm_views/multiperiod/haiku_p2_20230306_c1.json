@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Negative 7-14 day momentum (-7.4% to -19.67%) in moderate bear regime suggests continued weakness. High volatility (102.4%) and -24.2% max drawdown indicate potential mean reversion, but momentum remains bearish. AAVE TVL resilience (+2.0%) provides modest support. Forecast: mild decline with low confidence due to regime uncertainty and potential volatility reversals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- **Regime**: Moderate Bear market with negative trend\n- **DeFi TVL**: Slight positive movement (+0.6% 30d), but cluster underperforming\n- **Cluster Composition**: AAVE (lending) + GRT (infrastructure/indexing)\n\n**Performance Metrics:**\n- **Recent momentum is deeply negative**: -7.40% (7d), -19.67% (14d), -3.53% (30d)\n- **High volatility**: 102.4% annualized - significant price swings\n- **Poor risk-adjusted returns**: Sharpe ratio of -0.29 indicates losses exceeding volatility risk\n- **Severe drawdown**: -24.2% max drawdown shows significant recent losses\n\n**Fundamental Considerations:**\n- **AAVE**: TVL showing resilience with +2.0% (30d), suggesting some protocol strength\n- **GRT**: Infrastructure play without TVL data; dependent on ecosystem adoption\n- **Cluster underperformance**: Negative 30d return despite flat DeFi market suggests structural headwinds\n\n**Forward-Looking Factors:**\n1. **Momentum**: Strong downtrend over 7-14 days suggests continued selling pressure\n2. **Volatility regime**: High volatility typically persists in bear markets, limiting upside\n3. **Oversold potential**: 24.2% max drawdown could present mean-reversion opportunity, but in bear market this is uncertain\n4. **Macro context**: March 2023 was a recovery period after earlier crypto winter, but these tokens were still weak\n\n**Forecast Rationale:**\nGiven the strong negative momentum, bear market regime, and poor recent performance, I expect continued weakness over the next 14 days. However, extreme drawdowns sometimes reverse. The forecast reflects a slight recovery from oversold conditions but constrained by negative momentum.\n\n```json\n{\"expected_return\": -0.12, \"confidence\": 0.55, \"reasoning\": \"Negative 7-14 day momentum (-7.4% to -19.67%) in moderate bear regime suggests continued weakness. High volatility (102.4%) and -24.2% max drawdown indicate potential mean reversion, but momentum remains bearish. AAVE TVL resilience (+2.0%) provides modest support. Forecast: mild decline with low confidence due to regime uncertainty and potential volatility reversals.\"}\n```",
+  "date": "2023-03-07",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:03.793592+00:00"
+}

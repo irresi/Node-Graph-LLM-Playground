@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Strong bear market regime with negative 14-day momentum (-20.54%), declining TVL (-6.3% AAVE), and poor Sharpe ratio (-0.83) suggest continued weakness. However, infrastructure tokens (GRT) may stabilize relative to broader market. High volatility (49.3% annualized) and low confidence due to bear market unpredictability and potential mean reversion bounce. Annualized forecast reflects expected 14-day drawdown scaled to annual basis.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Strong bear market regime with negative 14-day momentum (-20.54%), declining TVL (-6.3% AAVE), and poor Sharpe ratio (-0.83) suggest continued weakness. However, infrastructure tokens (GRT) may stabilize relative to broader market. High volatility (49.3% annualized) and low confidence due to bear market unpredictability and potential mean reversion bounce. Annualized forecast reflects expected 14-day drawdown scaled to annual basis.\"\n}\n```",
+  "date": "2023-05-02",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:43.206500+00:00"
+}

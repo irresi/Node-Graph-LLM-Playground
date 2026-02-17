@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 faces significant headwinds: bear market regime with -22.9% TVL decline, cluster down -30.36% last 30 days with -22.90% over 14 days showing accelerating losses. High volatility (75.3%) and negative Sharpe (-3.39) indicate distressed conditions. Negative momentum across all major components (CRV -15.2%, AAVE -18.4%, COMP -26.1%, MKR -19.8%, GMX -29.3% TVL changes). However, confidence is moderate (0.62) due to: (1) bear markets can reverse suddenly on positive catalysts, (2) lending/yield protocols have some fundamental demand, (3) extreme drawdowns sometimes precede bounces. Forecast assumes continued weakness but recognizes mean-reversion risk in highly oversold conditions.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected return over the next 14 days.\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 faces significant headwinds: bear market regime with -22.9% TVL decline, cluster down -30.36% last 30 days with -22.90% over 14 days showing accelerating losses. High volatility (75.3%) and negative Sharpe (-3.39) indicate distressed conditions. Negative momentum across all major components (CRV -15.2%, AAVE -18.4%, COMP -26.1%, MKR -19.8%, GMX -29.3% TVL changes). However, confidence is moderate (0.62) due to: (1) bear markets can reverse suddenly on positive catalysts, (2) lending/yield protocols have some fundamental demand, (3) extreme drawdowns sometimes precede bounces. Forecast assumes continued weakness but recognizes mean-reversion risk in highly oversold conditions.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:45:56.171188+00:00",
+  "enriched": false
+}

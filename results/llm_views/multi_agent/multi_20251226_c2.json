@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Bear case is data-substantiated: -18.14% monthly return, -3.12 Sharpe ratio, -22.7% max drawdown, and synchronized TVL exodu",
+  "n_agents": 12,
+  "date": "2025-12-27 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

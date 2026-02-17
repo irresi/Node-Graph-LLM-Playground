@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.55,
+  "reasoning": "CAKE shows strong recent momentum (+41.7% over 30d, +33.2% over 7d) with improving TVL fundamentals (+20.9% 30d change). However, the forecast is tempered by: (1) elevated annualized volatility (92.7%) suggesting mean reversion risk, (2) significant recent gains likely pricing in much of the positive momentum, (3) neutral/range-bound market regime limiting upside catalysts, (4) max drawdown of -17.9% indicating heightened tail risk. The 14-day forward return is expected to moderate from recent 7-day momentum due to profit-taking and reversion toward longer-term trends. Medium confidence reflects the balance between positive TVL fundamentals and elevated valuation/volatility environment.",
+  "raw_response": "Based on the provided market data for Cluster 1 (CAKE), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE shows strong recent momentum (+41.7% over 30d, +33.2% over 7d) with improving TVL fundamentals (+20.9% 30d change). However, the forecast is tempered by: (1) elevated annualized volatility (92.7%) suggesting mean reversion risk, (2) significant recent gains likely pricing in much of the positive momentum, (3) neutral/range-bound market regime limiting upside catalysts, (4) max drawdown of -17.9% indicating heightened tail risk. The 14-day forward return is expected to moderate from recent 7-day momentum due to profit-taking and reversion toward longer-term trends. Medium confidence reflects the balance between positive TVL fundamentals and elevated valuation/volatility environment.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:33.278213+00:00",
+  "enriched": false
+}

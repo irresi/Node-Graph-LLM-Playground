@@ -1,14 +1,18 @@
 {
   "expected_return": -0.72,
   "confidence": 0.62,
-  "reasoning": "CAKE faces strong headwinds: bear market regime with DeFi TVL down 11.3% over 30 days, severe recent momentum deterioration (-13.89% over 7 days, -18.78% over 14 days), and a brutal max drawdown of -45.5%. Annualizing the 14-day return of -18.78% yields approximately -1.46 annualized, but some mean reversion is likely given the sharp short-term selloff. Partially offsetting the bearish signals is CAKE's own TVL growth of +11.8% over 30 days, suggesting protocol fundamentals remain resilient and may attract capital rotation. Extreme volatility (167.9% annualized) and a negative Sharpe (-0.22) underscore the risk. Net forecast reflects continued downward pressure tempered by fundamental support and likely short-term mean reversion, landing around -72% annualized. Confidence is moderate given the conflicting signals between price momentum and TVL fundamentals.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"CAKE faces strong headwinds: bear market regime with DeFi TVL down 11.3% over 30 days, severe recent momentum deterioration (-13.89% over 7 days, -18.78% over 14 days), and a brutal max drawdown of -45.5%. Annualizing the 14-day return of -18.78% yields approximately -1.46 annualized, but some mean reversion is likely given the sharp short-term selloff. Partially offsetting the bearish signals is CAKE's own TVL growth of +11.8% over 30 days, suggesting protocol fundamentals remain resilient and may attract capital rotation. Extreme volatility (167.9% annualized) and a negative Sharpe (-0.22) underscore the risk. Net forecast reflects continued downward pressure tempered by fundamental support and likely short-term mean reversion, landing around -72% annualized. Confidence is moderate given the conflicting signals between price momentum and TVL fundamentals.\"}\n```",
-  "date": "2025-10-31",
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) is operating under severe bearish conditions. The 30-day return of -38.13% with annualized volatility of 106.3% and a deeply negative Sharpe of -3.01 signals persistent momentum deterioration. However, the 14-day return of -1.59% and 7-day return of -6.84% suggest some deceleration in the rate of decline \u2014 the worst of the selloff may be in the near-term rearview. Broad DeFi TVL is down 12.5% over 30 days, reinforcing the bear regime backdrop. These tokens (LINK, OP, ARB, ENS, GRT) are predominantly infrastructure/L2 assets with no direct yield-generating TVL, making them more sensitive to risk sentiment than fundamentals. Annualizing the recent 14-day trend (-1.59% over ~14 days \u2248 -41.5% annualized) and discounting for mean reversion potential and momentum deceleration, an expected annualized return of approximately -72% reflects continued downside pressure but with some moderation from the peak drawdown pace. Confidence is moderate at 0.62 given high volatility and unclear macro catalyst for reversal.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) is operating under severe bearish conditions. The 30-day return of -38.13% with annualized volatility of 106.3% and a deeply negative Sharpe of -3.01 signals persistent momentum deterioration. However, the 14-day return of -1.59% and 7-day return of -6.84% suggest some deceleration in the rate of decline \u2014 the worst of the selloff may be in the near-term rearview. Broad DeFi TVL is down 12.5% over 30 days, reinforcing the bear regime backdrop. These tokens (LINK, OP, ARB, ENS, GRT) are predominantly infrastructure/L2 assets with no direct yield-generating TVL, making them more sensitive to risk sentiment than fundamentals. Annualizing the recent 14-day trend (-1.59% over ~14 days \u2248 -41.5% annualized) and discounting for mean reversion potential and momentum deceleration, an expected annualized return of approximately -72% reflects continued downside pressure but with some moderation from the peak drawdown pace. Confidence is moderate at 0.62 given high volatility and unclear macro catalyst for reversal.\"}\n```",
+  "date": "2025-11-01",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:13:51.416652+00:00",
+  "generated_at": "2026-02-17T16:03:48.726189+00:00",
   "enriched": false
 }

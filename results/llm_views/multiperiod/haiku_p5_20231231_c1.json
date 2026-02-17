@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.65,
+  "confidence": 0.62,
+  "reasoning": "Strong bull momentum (+22.78% last 30d, Sharpe 3.63) supports continued outperformance, but annualized volatility of 52.6% and recent exceptional returns suggest mean reversion risk. Bull regime supports ~3-4% 14-day return (65-110% annualized). Confidence moderate due to short timeframe uncertainty and potential momentum exhaustion despite positive fundamentals (growing TVL, diverse protocol exposure). Forecasting annualized 65% with 0.62 confidence balancing bull tailwinds against reversion signals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast. Let me break down the key factors:\n\n## Analysis\n\n**Positive Indicators:**\n- Strong recent momentum: +22.78% (30d), +21.95% (14d), +4.80% (7d) - consistent uptrend\n- Bull market regime with moderate volatility\n- Excellent Sharpe ratio of 3.63 - risk-adjusted returns are strong\n- TVL growing in bull market (+3.0% overall DeFi TVL)\n- SNX showing strong protocol growth (+6.7% TVL 30d change)\n- Cluster composition diversified across Oracle, Lending, L2, Derivatives\n\n**Risk Factors:**\n- Annualized volatility of 52.6% is substantial - creates mean reversion risk\n- Recent returns are very strong (+22.78% in 30 days) - momentum may not sustain\n- Max drawdown of -11.3% shows significant downside vulnerability\n- COMP TVL declining (-2.3%) suggests weakness in lending segment\n- Market has already priced in significant bullish sentiment\n- 14-day timeframe is relatively short for momentum continuation at this magnitude\n\n**Mean Reversion Consideration:**\n- Converting 30-day return to annualized: (1.2278)^(365/30) \u2248 1.98 or 98% annualized\n- This is clearly unsustainable; mean reversion is likely\n- However, bull market regime supports continued outperformance (vs market average)\n\n**Forecast Logic:**\nGiven the strong recent performance, bull regime, but elevated mean reversion risk, I expect more modest returns over the next 14 days. The cluster should outperform broader market but normalize from the exceptional 30-day streak. Annualizing a conservative 14-day expectation of ~3-5% gives a range of roughly 80-130% annualized, which I'll moderate based on reversion expectations.\n\n```json\n{\"expected_return\": 0.65, \"confidence\": 0.62, \"reasoning\": \"Strong bull momentum (+22.78% last 30d, Sharpe 3.63) supports continued outperformance, but annualized volatility of 52.6% and recent exceptional returns suggest mean reversion risk. Bull regime supports ~3-4% 14-day return (65-110% annualized). Confidence moderate due to short timeframe uncertainty and potential momentum exhaustion despite positive fundamentals (growing TVL, diverse protocol exposure). Forecasting annualized 65% with 0.62 confidence balancing bull tailwinds against reversion signals.\"}\n```",
+  "date": "2024-01-01",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:15.114351+00:00"
+}

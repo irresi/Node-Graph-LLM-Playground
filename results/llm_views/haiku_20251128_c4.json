@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster 4 exhibits mixed signals in a bear market regime. Negative factors: 30-day return of -29.47%, strong downtrend with TVL declining 16.5%, high volatility (81.1%), and severely negative Sharpe ratio (-3.05). Positive factors: recent 7-day recovery of +6.63% suggesting potential oversold conditions and mean reversion. However, the 14-day return of -9.42% indicates continued weakness. Given the infrastructure/L2 token category and current bear sentiment, expect continued downside pressure despite short-term bounce, though oversold conditions provide some tail-risk protection. Moderate confidence due to conflicting momentum signals and lack of protocol TVL data for most tokens limiting fundamental analysis.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 4 exhibits mixed signals in a bear market regime. Negative factors: 30-day return of -29.47%, strong downtrend with TVL declining 16.5%, high volatility (81.1%), and severely negative Sharpe ratio (-3.05). Positive factors: recent 7-day recovery of +6.63% suggesting potential oversold conditions and mean reversion. However, the 14-day return of -9.42% indicates continued weakness. Given the infrastructure/L2 token category and current bear sentiment, expect continued downside pressure despite short-term bounce, though oversold conditions provide some tail-risk protection. Moderate confidence due to conflicting momentum signals and lack of protocol TVL data for most tokens limiting fundamental analysis.\"\n}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:43:39.922891+00:00",
+  "enriched": false
+}

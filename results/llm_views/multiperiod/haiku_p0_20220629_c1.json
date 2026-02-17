@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Recent stabilization (14d: +2.84%) after severe selloff suggests potential bounce in oversold cluster, but bear market regime, declining TVL, and poor Sharpe ratio limit upside. Low confidence reflects macro uncertainty and high volatility. Expect modest recovery bounce annualized at ~18%, but significant downside risk remains.",
+  "raw_response": "Based on the market context provided, I'll analyze this DeFi cluster to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -36.5% TVL decline over 30 days, indicating significant market stress and capital outflow from DeFi.\n\n2. **Cluster Performance**: \n   - 30-day return: -39.02% (worse than market average)\n   - 7-day return: -5.06% (continued downtrend)\n   - 14-day return: +2.84% (slight recovery signal)\n   - High volatility (66.3% annualized) with severe drawdown (-36.3%)\n\n3. **Momentum Analysis**:\n   - The positive 14-day return (+2.84%) vs negative 7-day return (-5.06%) suggests recent stabilization or attempted recovery\n   - This reversal pattern in the last 7 days after the initial 7-day crash could indicate potential bottom-forming behavior\n\n4. **Risk Factors**:\n   - Extremely poor Sharpe ratio (-4.94) indicates returns are not compensating for risk\n   - TVL declines across major holdings (CAKE -27.7%, GMX -29.7%, RPL -42.3%)\n   - Infrastructure/oracle tokens (LINK, ENS, GRT) face additional pressure in bear markets\n\n5. **Recovery Potential**:\n   - The positive 14-day returns suggest some stabilization\n   - From such depressed levels, any recovery bounce could be significant\n   - However, macro conditions remain unfavorable\n\n**Forecast Logic**:\nGiven the extreme oversold conditions, recent stabilization signals, but persistent bear market regime, I expect modest recovery over the next 14 days rather than continued decline. The cluster is likely finding support, but confidence is low due to macro headwinds.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Recent stabilization (14d: +2.84%) after severe selloff suggests potential bounce in oversold cluster, but bear market regime, declining TVL, and poor Sharpe ratio limit upside. Low confidence reflects macro uncertainty and high volatility. Expect modest recovery bounce annualized at ~18%, but significant downside risk remains.\"}\n```",
+  "date": "2022-06-30",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:43.162751+00:00"
+}

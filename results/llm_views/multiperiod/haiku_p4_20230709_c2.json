@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "MKR shows strong 30-day momentum (+37.06%) and excellent Sharpe ratio (3.78), but 7-day performance (-6.87%) indicates recent pullback from highs. TVL declining (-3.6% in 30d) raises concerns about protocol growth trajectory. Bull market regime provides tailwind, but single-token cluster limits diversification. Annualized forecast of 18% reflects expected mean reversion from recent rally while acknowledging continued bull momentum. Lower confidence (0.42) reflects high volatility (82.4%), conflicting signals between medium and short-term trends, and execution risk in concentrated single-token position.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"MKR shows strong 30-day momentum (+37.06%) and excellent Sharpe ratio (3.78), but 7-day performance (-6.87%) indicates recent pullback from highs. TVL declining (-3.6% in 30d) raises concerns about protocol growth trajectory. Bull market regime provides tailwind, but single-token cluster limits diversification. Annualized forecast of 18% reflects expected mean reversion from recent rally while acknowledging continued bull momentum. Lower confidence (0.42) reflects high volatility (82.4%), conflicting signals between medium and short-term trends, and execution risk in concentrated single-token position.\"\n}\n```",
+  "date": "2023-07-10",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:16.717139+00:00"
+}

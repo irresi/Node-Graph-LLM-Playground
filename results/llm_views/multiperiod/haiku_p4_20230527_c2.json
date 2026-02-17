@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 (MKR/Lending) shows conflicting signals: recent 14-day momentum is positive (+3.49%), but fundamentals are weak with -7.49% 30-day return, -8.4% TVL decline, and negative Sharpe ratio (-1.76) in a bear market regime. The 35.8% annualized volatility and -14.8% max drawdown suggest high downside risk. While short-term bounce may continue briefly, the negative overall trend and deteriorating TVL suggest reversion to downside is more likely over 14 days. Moderate confidence due to conflicting signals and bear market headwinds.",
+  "raw_response": "Based on the provided market context and cluster data, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 2 (MKR/Lending) shows conflicting signals: recent 14-day momentum is positive (+3.49%), but fundamentals are weak with -7.49% 30-day return, -8.4% TVL decline, and negative Sharpe ratio (-1.76) in a bear market regime. The 35.8% annualized volatility and -14.8% max drawdown suggest high downside risk. While short-term bounce may continue briefly, the negative overall trend and deteriorating TVL suggest reversion to downside is more likely over 14 days. Moderate confidence due to conflicting signals and bear market headwinds.\"\n}\n```",
+  "date": "2023-05-28",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:58.204217+00:00"
+}

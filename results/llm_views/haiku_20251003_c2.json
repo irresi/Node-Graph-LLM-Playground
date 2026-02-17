@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.55,
+  "reasoning": "BAL shows mixed signals: strong 7-day momentum (+9.42%) and TVL growth (+21.3%) suggest positive near-term catalysts, but 30-day underperformance (-7.31%) and elevated volatility (38.6%) create headwinds. The recent bounce from -18.5% drawdown indicates potential mean reversion, but neutral market regime and negative Sharpe ratio (-1.59) limit upside conviction. 14-day forecast reflects cautious optimism on near-term momentum, annualized from expected ~0.5% 2-week return.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.22,\n  \"confidence\": 0.55,\n  \"reasoning\": \"BAL shows mixed signals: strong 7-day momentum (+9.42%) and TVL growth (+21.3%) suggest positive near-term catalysts, but 30-day underperformance (-7.31%) and elevated volatility (38.6%) create headwinds. The recent bounce from -18.5% drawdown indicates potential mean reversion, but neutral market regime and negative Sharpe ratio (-1.59) limit upside conviction. 14-day forecast reflects cautious optimism on near-term momentum, annualized from expected ~0.5% 2-week return.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:37.151203+00:00",
+  "enriched": false
+}

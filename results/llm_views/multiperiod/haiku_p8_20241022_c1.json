@@ -1,0 +1,31 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows mixed signals in bear market. Recent 14-day momentum (+4.34%) contrasts with 30-day decline (-4.44%) and negative Sharpe ratio (-0.84), suggesting potential mean reversion bounce. However, high volatility (44.5%), max drawdown (-17.7%), and bear regime limit confidence. UNI's strong TVL growth (+4.4%) and moderate protocol metrics provide some support, but sustainability is uncertain. Low confidence reflects conflicting technical and fundamental signals in volatile market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows mixed signals in bear market. Recent 14-day momentum (+4.34%) contrasts with 30-day decline (-4.44%) and negative Sharpe ratio (-0.84), suggesting potential mean reversion bounce. However, high volatility (44.5%), max drawdown (-17.7%), and bear regime limit confidence. UNI's strong TVL growth (+4.4%) and moderate protocol metrics provide some support, but sustainability is uncertain. Low confidence reflects conflicting technical and fundamental signals in volatile market conditions.\"\n}\n```",
+  "date": "2024-10-23",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:04.639293+00:00"
+}

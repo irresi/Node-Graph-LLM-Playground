@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.62,
+  "reasoning": "Positive DeFi market regime (+15.8% TVL) and strong cluster fundamentals (Sharpe 1.55) support upside, but recent 7-day pullback (-3.06%) after 14-day rally (+27.96%) suggests momentum deceleration and potential consolidation. Expecting modest positive returns over next 14 days with moderate confidence due to mixed recent price action.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum Mixed**\n   - 14-day return: +27.96% (strong)\n   - 7-day return: -3.06% (pullback)\n   - This suggests momentum may be cooling after recent gains\n\n2. **Market Regime Support**\n   - Overall DeFi TVL up 15.8% (30d) - positive backdrop\n   - Moderate Bull regime supports continued gains\n   - However, momentum has recently reversed\n\n3. **Cluster Fundamentals**\n   - Strong Sharpe ratio of 1.55 indicates good risk-adjusted returns\n   - Volatility at 61.4% (annualized) is significant\n   - Max drawdown of -20% shows meaningful downside risk\n   - Diverse protocol exposure: COMP (+16.6% TVL), BAL (+11.6% TVL) showing strength\n\n4. **Mean Reversion Signal**\n   - Recent 7-day pullback (-3.06%) after strong 14-day rally (+27.96%)\n   - Suggests potential consolidation or slight reversion\n   - Market regime still supportive but momentum is decelerating\n\n5. **Valuation & Protocol Health**\n   - COMP showing strongest TVL growth (+16.6%)\n   - SUSHI and CAKE showing modest growth (+0.7%, +0.4%)\n   - Mixed signals suggest selective strength rather than broad momentum\n\n**Forecast Logic:**\nGiven the positive market regime but decelerating momentum, I expect the cluster to deliver positive but modest returns over the next 14 days. The recent pullback after strong gains, combined with healthy fundamentals, suggests a consolidation phase with modest upside.\n\n```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Positive DeFi market regime (+15.8% TVL) and strong cluster fundamentals (Sharpe 1.55) support upside, but recent 7-day pullback (-3.06%) after 14-day rally (+27.96%) suggests momentum deceleration and potential consolidation. Expecting modest positive returns over next 14 days with moderate confidence due to mixed recent price action.\"\n}\n```",
+  "date": "2024-11-18",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:35.624867+00:00"
+}

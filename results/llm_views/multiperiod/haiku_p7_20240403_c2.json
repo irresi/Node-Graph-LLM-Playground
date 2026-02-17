@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "MKR has shown strong momentum (+59.2% over 30 days, +22.2% over 14 days) with exceptional Sharpe ratio of 4.84, suggesting outperformance in the bear market. However, confidence is limited due to: (1) overall DeFi TVL declining -9.6% (bearish regime), (2) MKR's TVL down -13.3% in 30 days indicating waning user activity, (3) extreme volatility (102.7% annualized) makes near-term forecasts unreliable, (4) momentum may be mean-reverting after 59% surge. The 14-day annualized projection of 18% reflects mean reversion from recent outperformance while acknowledging the strong technical setup, but the deteriorating fundamentals and bear market backdrop significantly reduce conviction.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR has shown strong momentum (+59.2% over 30 days, +22.2% over 14 days) with exceptional Sharpe ratio of 4.84, suggesting outperformance in the bear market. However, confidence is limited due to: (1) overall DeFi TVL declining -9.6% (bearish regime), (2) MKR's TVL down -13.3% in 30 days indicating waning user activity, (3) extreme volatility (102.7% annualized) makes near-term forecasts unreliable, (4) momentum may be mean-reverting after 59% surge. The 14-day annualized projection of 18% reflects mean reversion from recent outperformance while acknowledging the strong technical setup, but the deteriorating fundamentals and bear market backdrop significantly reduce conviction.\"\n}\n```",
+  "date": "2024-04-04",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:04.883722+00:00"
+}

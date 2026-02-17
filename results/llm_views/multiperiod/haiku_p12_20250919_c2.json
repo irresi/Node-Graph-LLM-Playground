@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 faces headwinds from bear market regime and negative 7-day momentum (-6.87%), offsetting positive 14-day returns (+4.41%). High volatility (64% annualized) and negative Sharpe ratio (-0.40) indicate risk-adjusted underperformance. Oracle/L2 infrastructure tokens typically exhibit momentum mean-reversion in downtrends. The recent 7-day weakness suggests continued selling pressure over next 14 days, but infrastructure tokens show some resilience in bear markets. Moderate confidence due to limited TVL data (mostly N/A) and mixed recent signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 2 faces headwinds from bear market regime and negative 7-day momentum (-6.87%), offsetting positive 14-day returns (+4.41%). High volatility (64% annualized) and negative Sharpe ratio (-0.40) indicate risk-adjusted underperformance. Oracle/L2 infrastructure tokens typically exhibit momentum mean-reversion in downtrends. The recent 7-day weakness suggests continued selling pressure over next 14 days, but infrastructure tokens show some resilience in bear markets. Moderate confidence due to limited TVL data (mostly N/A) and mixed recent signals.\"\n}\n```",
+  "date": "2025-09-20",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:08.645834+00:00"
+}

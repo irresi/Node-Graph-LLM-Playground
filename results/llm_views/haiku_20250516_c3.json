@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+29.29%) with excellent Sharpe ratio (2.82) despite high volatility (87.2%). However, recent 7-day pullback (-3.27%) suggests momentum weakening. LDO and RPL's exceptional TVL growth (+58.3%, +55.7%) indicate strong protocol fundamentals, but valuations may be stretched. Moderate bull regime supports upside, but mean reversion risk from recent gains and typical post-rally consolidation warrant measured confidence. Annualized forecast reflects 14-day outlook scaled to annual timeframe while accounting for volatility and momentum reversal probability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+29.29%) with excellent Sharpe ratio (2.82) despite high volatility (87.2%). However, recent 7-day pullback (-3.27%) suggests momentum weakening. LDO and RPL's exceptional TVL growth (+58.3%, +55.7%) indicate strong protocol fundamentals, but valuations may be stretched. Moderate bull regime supports upside, but mean reversion risk from recent gains and typical post-rally consolidation warrant measured confidence. Annualized forecast reflects 14-day outlook scaled to annual timeframe while accounting for volatility and momentum reversal probability.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:02.007669+00:00",
+  "enriched": false
+}

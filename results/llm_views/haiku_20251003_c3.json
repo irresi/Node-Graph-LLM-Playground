@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster supported by TVL growth and DeFi sector momentum, but 7-to-30d return deceleration suggests mean reversion from +9.86% 7d rally. Neutral regime, 70.5% volatility, and -19.7% recent drawdown create balanced but elevated-risk outlook. Expect modest annualized returns (18%) with moderate confidence given conflicting momentum and volatility signals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Signals:**\n- Strong 7-day momentum (+9.86%) suggesting recent bullish catalysts\n- TVL growth across most protocols (SNX +85.9%, SUSHI +8.0%, UNI +4.0%)\n- Overall DeFi TVL up 8.2% in 30 days, supporting sector tailwinds\n- LDO dominates the cluster (TVL-weighted) at $38.4B with liquid staking momentum\n\n**Risk Factors:**\n- Low Sharpe ratio (0.17) indicates returns aren't adequately compensating for risk\n- High annualized volatility (70.5%) creates significant downside potential\n- Large max drawdown (-19.7%) in recent period shows vulnerability\n- Momentum is decelerating (7-day +9.86% \u2192 14-day +4.61% \u2192 30-day +1.43%)\n- Neutral/range-bound market regime limits explosive upside\n- 14-day return (+4.61%) already pricing in some optimism\n\n**Analysis:**\nThe cluster shows positive fundamental trends (TVL growth, sector momentum) but is trading in a neutral regime with elevated volatility. The sharp deceleration from 7-day to 30-day returns suggests the recent rally (+9.86%) may be exhausting. Given:\n- Mean reversion tendency after strong runs\n- Neutral market regime limiting further upside\n- High volatility creating downside risks\n- Reasonable but not exceptional fundamentals\n\nI expect modest positive returns with meaningful risk, but below recent momentum levels.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster supported by TVL growth and DeFi sector momentum, but 7-to-30d return deceleration suggests mean reversion from +9.86% 7d rally. Neutral regime, 70.5% volatility, and -19.7% recent drawdown create balanced but elevated-risk outlook. Expect modest annualized returns (18%) with moderate confidence given conflicting momentum and volatility signals.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:44.960055+00:00",
+  "enriched": false
+}

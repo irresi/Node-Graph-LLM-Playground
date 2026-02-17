@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in strong bear regime with -18.22% 7-day return and -16.65% 14-day return. Current 58.6% annualized volatility and -2.01 Sharpe ratio indicate poor risk-adjusted returns. DeFi TVL declining (-7.6% YoY) signals overall sector weakness. Mixed fundamentals: SNX showing TVL growth (+12.7%) provides some support, but DYDX declining (-4.7%) and L2/infrastructure tokens lacking protocol metrics reduce conviction. Negative momentum persists across recent timeframes. Forecast assumes mean reversion pullback from extreme 7-day decline, but near-term headwinds likely continue. Medium confidence due to bear market regime volatility and limited visibility on L2/oracle token catalysts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear regime with -18.22% 7-day return and -16.65% 14-day return. Current 58.6% annualized volatility and -2.01 Sharpe ratio indicate poor risk-adjusted returns. DeFi TVL declining (-7.6% YoY) signals overall sector weakness. Mixed fundamentals: SNX showing TVL growth (+12.7%) provides some support, but DYDX declining (-4.7%) and L2/infrastructure tokens lacking protocol metrics reduce conviction. Negative momentum persists across recent timeframes. Forecast assumes mean reversion pullback from extreme 7-day decline, but near-term headwinds likely continue. Medium confidence due to bear market regime volatility and limited visibility on L2/oracle token catalysts.\"\n}\n```",
+  "date": "2025-09-26",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:45.667784+00:00"
+}

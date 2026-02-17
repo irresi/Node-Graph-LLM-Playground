@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 faces strong headwinds: bear market regime with -4.5% TVL decline, -15.67% 30-day return, and -29.9% max drawdown. However, recent momentum shows deceleration (-0.94% 7-day vs -15.67% 30-day), suggesting potential stabilization. High volatility (81.6%) and negative Sharpe ratio (-1.61) indicate risk outweighs returns. Key holdings (AAVE -0.7%, UNI -6.6%) show relative stability vs broader cluster decline, providing modest support. Expected 14-day return of ~-1.6% annualizes to -0.45. Moderate confidence reflects uncertainty in bear market inflection timing and DeFi liquidity conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 faces strong headwinds: bear market regime with -4.5% TVL decline, -15.67% 30-day return, and -29.9% max drawdown. However, recent momentum shows deceleration (-0.94% 7-day vs -15.67% 30-day), suggesting potential stabilization. High volatility (81.6%) and negative Sharpe ratio (-1.61) indicate risk outweighs returns. Key holdings (AAVE -0.7%, UNI -6.6%) show relative stability vs broader cluster decline, providing modest support. Expected 14-day return of ~-1.6% annualizes to -0.45. Moderate confidence reflects uncertainty in bear market inflection timing and DeFi liquidity conditions.\"\n}\n```",
+  "date": "2025-06-28",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:37.004029+00:00"
+}

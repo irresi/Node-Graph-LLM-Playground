@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.72,
-  "confidence": 0.71,
-  "reasoning": "Cluster 4 (LINK, OP, ARB, ENS, GRT) is exhibiting severe downward momentum across all measured timeframes: -37.1% (7d), -46.6% (14d), -63.2% (30d), indicating accelerating deterioration rather than stabilization. The annualized volatility of 76.1% combined with a deeply negative Sharpe ratio of -6.97 and a max drawdown of -47.6% confirm a high-conviction bear trend. The broader DeFi market is also in a strong downtrend (-30.1% TVL in 30 days), providing no macro tailwind. These are infrastructure/oracle tokens with no meaningful DeFi TVL acting as a fundamental floor. Extrapolating the 14-day return of -46.64% annualizes to approximately -99%+, but applying a mean-reversion discount and recognizing that capitulation/stabilization periods often interrupt sustained drawdowns, a forward-looking annualized return of -72% over the next 14-day window is a reasonable central estimate. Confidence is moderate (0.71) given the strong trend signal but acknowledging tail risk of a sudden relief rally in oversold conditions.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.71, \"reasoning\": \"Cluster 4 (LINK, OP, ARB, ENS, GRT) is exhibiting severe downward momentum across all measured timeframes: -37.1% (7d), -46.6% (14d), -63.2% (30d), indicating accelerating deterioration rather than stabilization. The annualized volatility of 76.1% combined with a deeply negative Sharpe ratio of -6.97 and a max drawdown of -47.6% confirm a high-conviction bear trend. The broader DeFi market is also in a strong downtrend (-30.1% TVL in 30 days), providing no macro tailwind. These are infrastructure/oracle tokens with no meaningful DeFi TVL acting as a fundamental floor. Extrapolating the 14-day return of -46.64% annualizes to approximately -99%+, but applying a mean-reversion discount and recognizing that capitulation/stabilization periods often interrupt sustained drawdowns, a forward-looking annualized return of -72% over the next 14-day window is a reasonable central estimate. Confidence is moderate (0.71) given the strong trend signal but acknowledging tail risk of a sudden relief rally in oversold conditions.\"}\n```",
-  "date": "2026-02-06",
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 4 (BAL) is exhibiting severe distress across all timeframes: -95.56% (7d), -105.58% (14d), and -115.84% (30d) returns signal an accelerating downtrend with deeply negative momentum. The annualized volatility of 157.7% and Sharpe ratio of -6.17 confirm extreme risk-adjusted underperformance. BAL's TVL has declined -24.8% over 30 days to $196M, reflecting capital flight consistent with the broader DeFi bear market (-22.9% TVL decline, -$19B). The max drawdown of -70.4% indicates structural damage rather than a temporary dip. In a strong bear regime with deteriorating fundamentals and no reversal signals, continuation of the downtrend is the base case. The 14-day forward annualized return is forecasted at -85%, reflecting some mean-reversion buffer from the already extreme realized losses (returns below -100% annualized are mathematically bounded by zero on the downside for spot assets). Confidence is moderate at 0.72 given the high volatility environment introduces tail risk in both directions, though the weight of evidence strongly favors continued decline.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.72, \"reasoning\": \"Cluster 4 (BAL) is exhibiting severe distress across all timeframes: -95.56% (7d), -105.58% (14d), and -115.84% (30d) returns signal an accelerating downtrend with deeply negative momentum. The annualized volatility of 157.7% and Sharpe ratio of -6.17 confirm extreme risk-adjusted underperformance. BAL's TVL has declined -24.8% over 30 days to $196M, reflecting capital flight consistent with the broader DeFi bear market (-22.9% TVL decline, -$19B). The max drawdown of -70.4% indicates structural damage rather than a temporary dip. In a strong bear regime with deteriorating fundamentals and no reversal signals, continuation of the downtrend is the base case. The 14-day forward annualized return is forecasted at -85%, reflecting some mean-reversion buffer from the already extreme realized losses (returns below -100% annualized are mathematically bounded by zero on the downside for spot assets). Confidence is moderate at 0.72 given the high volatility environment introduces tail risk in both directions, though the weight of evidence strongly favors continued decline.\"}\n```",
+  "date": "2026-02-07",
   "cluster_id": 4,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "balancer"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:19:51.920868+00:00",
+  "generated_at": "2026-02-17T16:08:45.423208+00:00",
   "enriched": false
 }

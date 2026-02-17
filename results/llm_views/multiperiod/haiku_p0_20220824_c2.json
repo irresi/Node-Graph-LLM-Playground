@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows negative short-term momentum (-22.75% over 14 days, -10.55% over 7 days) despite positive 30-day performance (+7.39%), suggesting recent downturn. Moderate bull regime and strong TVL growth in key protocols (AAVE +9.8%, BAL +21.7%) provide structural support, but technical weakness and high volatility (66.6% annualized) indicate continued near-term headwinds. Confidence tempered by divergence between macro TVL trends and price momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows negative short-term momentum (-22.75% over 14 days, -10.55% over 7 days) despite positive 30-day performance (+7.39%), suggesting recent downturn. Moderate bull regime and strong TVL growth in key protocols (AAVE +9.8%, BAL +21.7%) provide structural support, but technical weakness and high volatility (66.6% annualized) indicate continued near-term headwinds. Confidence tempered by divergence between macro TVL trends and price momentum.\"\n}\n```",
+  "date": "2022-08-25",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:05.808938+00:00"
+}

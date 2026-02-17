@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -15.42% 30d loss and -3.11 Sharpe ratio indicates distressed conditions. However, recent 7d bounce (+2.15%) and stabilizing TVL in major protocols (CRV +0.8%, BAL +6.9%, COMP +1.7%) suggest potential mean reversion. TVL decline (-2.0% overall) is moderate given market stress. High volatility (41.6%) and negative momentum offset by technical bounce. Over 14 days, expect continued weakness as bear regime persists, but improved from recent lows. Negative expected return reflects bear market bias, but confidence moderate due to bounce signals and protocol resilience.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -15.42% 30d loss and -3.11 Sharpe ratio indicates distressed conditions. However, recent 7d bounce (+2.15%) and stabilizing TVL in major protocols (CRV +0.8%, BAL +6.9%, COMP +1.7%) suggest potential mean reversion. TVL decline (-2.0% overall) is moderate given market stress. High volatility (41.6%) and negative momentum offset by technical bounce. Over 14 days, expect continued weakness as bear regime persists, but improved from recent lows. Negative expected return reflects bear market bias, but confidence moderate due to bounce signals and protocol resilience.\"\n}\n```",
+  "date": "2022-12-27",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:26:46.015607+00:00"
+}

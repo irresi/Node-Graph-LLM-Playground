@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with strong downtrend (-20.78% in 30d, -12.36% in 14d). DEX cluster showing sustained weakness with both CAKE and BAL experiencing significant TVL declines (-4.0% and -7.9% respectively). High volatility (56.2% annualized) and negative Sharpe ratio (-3.11) indicate risk-adjusted returns are unfavorable. Recent momentum remains negative (7-day return: -2.48%), suggesting continuation of downtrend. However, confidence is moderate due to potential for mean reversion in oversold conditions and uncertain macroeconomic catalysts. Forecast assumes further 14-day decline at reduced rate compared to 30-day drawdown, reflecting market stabilization attempts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong downtrend (-20.78% in 30d, -12.36% in 14d). DEX cluster showing sustained weakness with both CAKE and BAL experiencing significant TVL declines (-4.0% and -7.9% respectively). High volatility (56.2% annualized) and negative Sharpe ratio (-3.11) indicate risk-adjusted returns are unfavorable. Recent momentum remains negative (7-day return: -2.48%), suggesting continuation of downtrend. However, confidence is moderate due to potential for mean reversion in oversold conditions and uncertain macroeconomic catalysts. Forecast assumes further 14-day decline at reduced rate compared to 30-day drawdown, reflecting market stabilization attempts.\"\n}\n```",
+  "date": "2025-06-28",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:28.440968+00:00"
+}

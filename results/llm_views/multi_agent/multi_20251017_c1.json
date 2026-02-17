@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "I'll analyze this debate and produce a calibrated forecast based on the evidence presented.\n\n## Analysis\n\n**What Both Sides Agree On:**\n- Cluster is down -49.82% (30d), -39.34% (14d), -4.06% (7d)\n- Vo",
+  "n_agents": 6,
+  "date": "2025-10-18 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

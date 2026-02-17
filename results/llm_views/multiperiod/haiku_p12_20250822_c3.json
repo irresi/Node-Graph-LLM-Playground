@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.2,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum (+11.77% over 14d, +7.95% over 7d) in bullish market regime (+22% TVL growth). Annualized forecast of 20% reflects positive trend continuation while accounting for mean reversion and 81.4% volatility. High volatility and -19.5% max drawdown reduce confidence to 0.62. AAVE ($39.9B TVL) and UNI ($6.3B TVL) provide stability; SUSHI exceptional growth (+32.7%) offsets DYDX weakness (-1.1%). Moderate bull regime supports forecast but near-term sustainability is uncertain.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Positive Factors:**\n- Strong recent momentum: 7d (+7.95%), 14d (+11.77%), 30d (+14.08%) showing consistent uptrend\n- Bullish market regime with +22% TVL growth over 30 days\n- Healthy Sharpe ratio of 1.45 indicating good risk-adjusted returns\n- Diversified cluster across major DeFi categories (DEX, Lending, Liquid Staking, Derivatives)\n- Large TVL bases in AAVE ($39.9B) and UNI ($6.3B) provide liquidity and stability\n- SUSHI showing exceptional growth (+32.7% in 30d)\n\n**Risk Factors:**\n- High annualized volatility at 81.4% - significant price swings expected\n- Recent max drawdown of -19.5% shows downside risk\n- DYDX showing weakness (-1.1% TVL change)\n- Near-term momentum may not sustain at current rates; reversion to mean is likely\n- 14-day forecast is relatively short-term; clustering effects and market corrections possible\n\n**Methodology:**\nFor a 14-day forecast during a moderate bull market with strong recent momentum, I'll:\n1. Apply momentum decay factor: Recent 14d return of +11.77% cannot sustain linearly\n2. Annualize cautiously: +11.77% over 14 days = ~306% annualized (unrealistic to sustain)\n3. Mean reversion adjustment: Account for volatility normalization\n4. Bull market premium: +2-4% annualized above long-term trend\n5. Risk adjustment: High volatility warrants confidence reduction\n\n**Forecast Calculation:**\n- Base case: Moderate continuation with reversion \u2192 ~18-22% annualized\n- Weighted for short-term sustainability and volatility risk\n- Target: Conservative but acknowledging positive momentum\n\n```json\n{\"expected_return\": 0.20, \"confidence\": 0.62, \"reasoning\": \"Cluster shows strong momentum (+11.77% over 14d, +7.95% over 7d) in bullish market regime (+22% TVL growth). Annualized forecast of 20% reflects positive trend continuation while accounting for mean reversion and 81.4% volatility. High volatility and -19.5% max drawdown reduce confidence to 0.62. AAVE ($39.9B TVL) and UNI ($6.3B TVL) provide stability; SUSHI exceptional growth (+32.7%) offsets DYDX weakness (-1.1%). Moderate bull regime supports forecast but near-term sustainability is uncertain.\"}\n```",
+  "date": "2025-08-23",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:21.555544+00:00"
+}

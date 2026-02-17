@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.75,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Bull researcher correctly identified that bullish arguments lack credible data support\u2014no TVL stabilization, competitive dif",
+  "n_agents": 24,
+  "date": "2025-11-29 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

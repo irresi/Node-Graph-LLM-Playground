@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.48,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.48,\n  \"reasoning\": \"CVX shows genuine bullish fundamentals (TVL +41.3%, diversified yield, strong Sharpe 6.08) and is riding a broad DeFi bull re",
+  "n_agents": 18,
+  "date": "2025-07-26 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

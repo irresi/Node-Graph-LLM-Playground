@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows mixed signals in bear market regime. Recent 14-day momentum is strong (+11.31%) and 7-day return (+3.16%) suggests potential short-term reversal after 30-day decline (-6.38%). However, high volatility (51.8%), negative Sharpe ratio (-1.04), and overall bearish DeFi market (-1.7% TVL change) create significant headwinds. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL metrics, limiting fundamental analysis. The positive recent momentum annualizes to ~28% over 14 days, but low confidence (0.35) reflects the fragility of this signal in a strong downtrend and limited visibility into protocol fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows mixed signals in bear market regime. Recent 14-day momentum is strong (+11.31%) and 7-day return (+3.16%) suggests potential short-term reversal after 30-day decline (-6.38%). However, high volatility (51.8%), negative Sharpe ratio (-1.04), and overall bearish DeFi market (-1.7% TVL change) create significant headwinds. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL metrics, limiting fundamental analysis. The positive recent momentum annualizes to ~28% over 14 days, but low confidence (0.35) reflects the fragility of this signal in a strong downtrend and limited visibility into protocol fundamentals.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:59.229376+00:00",
+  "enriched": false
+}

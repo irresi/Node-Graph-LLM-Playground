@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "The cluster faces strong headwinds from a bearish DeFi market (TVL down 15% in 30 days) and negative recent momentum (7-day return of -10.39%). However, stabilization signals emerge: 30-day return (-1.91%) is less severe than 14-day (-8.35%), suggesting potential mean reversion. The cluster volatility of 56.9% annualized is high, indicating elevated downside risk. Mixed protocol fundamentals (GMX +14.5% TVL vs RPL -19.4%) suggest selective weakness rather than systemic collapse. Given the bear regime but improving trend momentum and reasonable diversification across infrastructure/DEX/Oracle categories, I forecast modest negative returns over the next 14 days, annualized to -35%. Confidence is moderate (0.62) due to high volatility and macro headwinds offsetting improved 30-day trend stability.",
+  "raw_response": "Based on the provided market context and cluster data, here is my analysis and forecast:\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"The cluster faces strong headwinds from a bearish DeFi market (TVL down 15% in 30 days) and negative recent momentum (7-day return of -10.39%). However, stabilization signals emerge: 30-day return (-1.91%) is less severe than 14-day (-8.35%), suggesting potential mean reversion. The cluster volatility of 56.9% annualized is high, indicating elevated downside risk. Mixed protocol fundamentals (GMX +14.5% TVL vs RPL -19.4%) suggest selective weakness rather than systemic collapse. Given the bear regime but improving trend momentum and reasonable diversification across infrastructure/DEX/Oracle categories, I forecast modest negative returns over the next 14 days, annualized to -35%. Confidence is moderate (0.62) due to high volatility and macro headwinds offsetting improved 30-day trend stability.\"\n}\n```\n\n**Key factors supporting this forecast:**\n1. **Macro headwind**: Strong DeFi bear market with -15% TVL decline\n2. **Momentum signal**: Recent deceleration in losses (30d worse than 14d suggests inflection)\n3. **Volatility risk**: 56.9% annualized volatility limits upside and increases tail risk\n4. **Mixed fundamentals**: GMX strength (+14.5% TVL) offset by RPL weakness (-19.4%)\n5. **Sentiment**: Negative Sharpe ratio (-0.28) indicates poor risk-adjusted returns",
+  "date": "2022-09-22",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:36.062535+00:00"
+}

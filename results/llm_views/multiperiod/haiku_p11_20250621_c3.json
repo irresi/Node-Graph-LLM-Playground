@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.65,
+  "reasoning": "Cluster 3 operates in a bear market regime with strong negative momentum (-19.86% over 30 days, -14.53% over 7 days). The cluster shows high volatility (78.3% annualized) and negative Sharpe ratio (-2.13), indicating risk-adjusted returns are poor. All underlying protocols show TVL contraction (range: -3.5% to -9.8%), signaling declining user activity and liquidity. The 14-day return of -9.01% suggests deceleration from the 7-day pace, which could indicate either stabilization or consolidation before further decline. Given the bear regime, negative momentum, and protocol fundamentals deterioration, the next 14 days are likely to see continued pressure. The annualized forecast of -45% reflects probability-weighted scenarios: moderate continued decline (most likely), potential bounce recovery (lower probability given regime), and further capitulation (moderate probability). Confidence is moderate (0.65) due to regime clarity but uncertainty around potential market reversals or catalyst events.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 3 operates in a bear market regime with strong negative momentum (-19.86% over 30 days, -14.53% over 7 days). The cluster shows high volatility (78.3% annualized) and negative Sharpe ratio (-2.13), indicating risk-adjusted returns are poor. All underlying protocols show TVL contraction (range: -3.5% to -9.8%), signaling declining user activity and liquidity. The 14-day return of -9.01% suggests deceleration from the 7-day pace, which could indicate either stabilization or consolidation before further decline. Given the bear regime, negative momentum, and protocol fundamentals deterioration, the next 14 days are likely to see continued pressure. The annualized forecast of -45% reflects probability-weighted scenarios: moderate continued decline (most likely), potential bounce recovery (lower probability given regime), and further capitulation (moderate probability). Confidence is moderate (0.65) due to regime clarity but uncertainty around potential market reversals or catalyst events.\"\n}\n```",
+  "date": "2025-06-22",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:57.802117+00:00"
+}

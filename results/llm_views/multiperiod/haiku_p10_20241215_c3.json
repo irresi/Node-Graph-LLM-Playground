@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (UNI, AAVE) shows strong momentum with +70.48% 30-day return and excellent Sharpe ratio (8.20), supported by bull market regime and TVL growth (+20-30.5%). However, high volatility (72.2%) and -11.1% max drawdown suggest mean reversion risk. The 14-day return (+41.70%) significantly outpaces 7-day (+15.78%), indicating decelerating momentum. Forecasting 45% annualized return for next 14 days assumes partial momentum continuation with moderated growth rate, reflecting both bullish fundamentals and elevated valuation risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 (UNI, AAVE) shows strong momentum with +70.48% 30-day return and excellent Sharpe ratio (8.20), supported by bull market regime and TVL growth (+20-30.5%). However, high volatility (72.2%) and -11.1% max drawdown suggest mean reversion risk. The 14-day return (+41.70%) significantly outpaces 7-day (+15.78%), indicating decelerating momentum. Forecasting 45% annualized return for next 14 days assumes partial momentum continuation with moderated growth rate, reflecting both bullish fundamentals and elevated valuation risk.\"\n}\n```",
+  "date": "2024-12-16",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:29.515733+00:00"
+}

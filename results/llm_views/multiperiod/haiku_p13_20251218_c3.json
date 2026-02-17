@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in strong bear regime with -17.32% 30-day return and negative momentum (-15.67% 14-day, -12.72% 7-day). High volatility (46.4% annualized) and poor Sharpe ratio (-3.13) indicate distressed conditions. Mixed TVL trends (AAVE +4.0% vs UNI -9.6%, CAKE -6.4%) suggest sector rotation but insufficient to reverse downtrend. Extrapolating recent deceleration of losses (-12.72% 7d vs -15.67% 14d) yields modest negative outlook. Bear market regime and weak sentiment reduce confidence, though cluster shows some stabilization signals. Annualized forecast reflects expected continued weakness over 14-day period.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear regime with -17.32% 30-day return and negative momentum (-15.67% 14-day, -12.72% 7-day). High volatility (46.4% annualized) and poor Sharpe ratio (-3.13) indicate distressed conditions. Mixed TVL trends (AAVE +4.0% vs UNI -9.6%, CAKE -6.4%) suggest sector rotation but insufficient to reverse downtrend. Extrapolating recent deceleration of losses (-12.72% 7d vs -15.67% 14d) yields modest negative outlook. Bear market regime and weak sentiment reduce confidence, though cluster shows some stabilization signals. Annualized forecast reflects expected continued weakness over 14-day period.\"\n}\n```",
+  "date": "2025-12-19",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:02.638422+00:00"
+}

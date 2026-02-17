@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster shows strong recent momentum (7-day: +23.39%, 14-day: +10.54%) with solid fundamentals (TVL growing +6.7% to +25.9% across tokens). Moderate bull market regime supports continued gains. However, high annualized volatility (62%) and -22.1% max drawdown indicate significant tail risk. 14-day annualization of recent 14-day returns (~10.54% \u00d7 26 periods) suggests ~274% annualized, but mean reversion and volatility clustering suggest moderation to ~42% annualized return. Confidence tempered by valuation uncertainty and macro sensitivity of DEX/derivatives tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster shows strong recent momentum (7-day: +23.39%, 14-day: +10.54%) with solid fundamentals (TVL growing +6.7% to +25.9% across tokens). Moderate bull market regime supports continued gains. However, high annualized volatility (62%) and -22.1% max drawdown indicate significant tail risk. 14-day annualization of recent 14-day returns (~10.54% \u00d7 26 periods) suggests ~274% annualized, but mean reversion and volatility clustering suggest moderation to ~42% annualized return. Confidence tempered by valuation uncertainty and macro sensitivity of DEX/derivatives tokens.\"\n}\n```",
+  "date": "2024-11-12",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:55.460885+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster in severe bear market downturn with -24.07% 30-day decline and negative Sharpe ratio (-3.33). Recent momentum deteriorating (7d: -10.41%, 14d: -9.44%). High volatility (60.7% annualized) and broad DeFi TVL contraction (-10.3%) create headwinds. Infrastructure/L2 tokens particularly vulnerable in risk-off environments. However, elevated volatility and oversold conditions create reversal potential, limiting confidence. Expect continued weakness with potential stabilization or modest bounce, but no catalysts for strong recovery visible near-term.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in severe bear market downturn with -24.07% 30-day decline and negative Sharpe ratio (-3.33). Recent momentum deteriorating (7d: -10.41%, 14d: -9.44%). High volatility (60.7% annualized) and broad DeFi TVL contraction (-10.3%) create headwinds. Infrastructure/L2 tokens particularly vulnerable in risk-off environments. However, elevated volatility and oversold conditions create reversal potential, limiting confidence. Expect continued weakness with potential stabilization or modest bounce, but no catalysts for strong recovery visible near-term.\"\n}\n```",
+  "date": "2022-10-12",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:57.471852+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.58,
+  "reasoning": "Bull market regime and strong TVL growth (+28% AAVE, +11% UNI) support continued gains. However, recent 7-day pullback (-8%) after 25% 14-day rally suggests consolidation/resistance. High volatility (83% annualized) limits confidence. Annualized 14-day forecast of +28% reflects positive momentum tempered by profit-taking risk and elevated drawdown potential (-17% max observed).",
+  "raw_response": "I'll analyze the provided market data for Cluster 3 (UNI, AAVE) to forecast the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum Context:**\n   - 14-day return: +25.34% (strong positive)\n   - 7-day return: -8.06% (recent pullback/consolidation)\n   - 30-day return: +11.84% (solid overall performance)\n   - The recent 7-day decline after a strong 14-day rally suggests potential consolidation or profit-taking\n\n2. **Market Fundamentals:**\n   - Overall DeFi TVL growing strongly (+15.8% in 30 days)\n   - AAVE showing exceptional momentum (+28.1% TVL growth in 30d)\n   - UNI more modest but positive TVL growth (+10.9%)\n   - Moderate Bull market regime supports continued positive bias\n\n3. **Risk Metrics:**\n   - High annualized volatility (83.1%) indicates substantial price swings\n   - Sharpe ratio of 1.20 is reasonable but not exceptional\n   - Max drawdown of -17.2% shows significant downside risk within the period\n   - This volatility constrains confidence in any specific forecast\n\n4. **Mean Reversion Considerations:**\n   - The cluster returned +25.34% over 14 days, then declined -8.06% in the most recent 7 days\n   - This suggests potential mean reversion or resistance at higher levels\n   - However, underlying TVL growth remains positive across both protocols\n\n5. **Forecast Rationale:**\n   - The strong 30-day TVL growth and bull market regime support continued positive returns\n   - The recent 7-day pullback and high volatility suggest caution\n   - Annualizing a forward 14-day forecast: moderate positive returns expected but with elevated uncertainty\n\n**Forecast:** Given the bull market regime, positive TVL growth, recent consolidation pattern, and high volatility, I expect modest positive returns with moderate confidence.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.58, \"reasoning\": \"Bull market regime and strong TVL growth (+28% AAVE, +11% UNI) support continued gains. However, recent 7-day pullback (-8%) after 25% 14-day rally suggests consolidation/resistance. High volatility (83% annualized) limits confidence. Annualized 14-day forecast of +28% reflects positive momentum tempered by profit-taking risk and elevated drawdown potential (-17% max observed).\"}\n```",
+  "date": "2024-11-18",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:43.596551+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "RPL shows negative 14-day momentum (-16.59%) with accelerating 7-day decline (-13.66%), but strong TVL growth (+14.7%) suggests potential mean reversion. High volatility (66.5%) and weak Sharpe ratio (-0.42) indicate substantial downside risk. Forecast modest recovery over next 14 days as oversold conditions may stabilize, but low confidence due to conflicting technical and fundamental signals and recent accelerating losses.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n**Analysis of Cluster 4 (RPL - Liquid Staking):**\n\n**Key Observations:**\n\n1. **Negative Momentum**: The cluster shows concerning short-term performance:\n   - 7-day return: -13.66%\n   - 14-day return: -16.59%\n   - 30-day return: -3.32%\n   - This indicates accelerating downward momentum in recent days\n\n2. **High Volatility**: Annualized volatility of 66.5% suggests significant price swings and risk\n\n3. **Weak Risk-Adjusted Returns**: Sharpe ratio of -0.42 indicates negative excess returns relative to volatility\n\n4. **Positive TVL Fundamentals**: RPL's TVL increased 14.7% over 30 days, suggesting underlying protocol strength despite price weakness\n\n5. **Market Regime Context**: While the broader DeFi market is in a moderate bull regime (+9.1% TVL growth), RPL is underperforming this trend significantly\n\n6. **Technical Setup**: The sharp 14-day decline (-16.59%) suggests potential oversold conditions, but the 7-day acceleration (-13.66%) indicates continued selling pressure\n\n**Forecast Rationale:**\n\nThe divergence between strong TVL growth and weak price performance could indicate mean reversion potential over the next 14 days. However, the accelerating downward momentum and high volatility present significant downside risk. The cluster may see a consolidation or modest recovery as it stabilizes after recent declines, but conviction is limited given the conflicting signals.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"RPL shows negative 14-day momentum (-16.59%) with accelerating 7-day decline (-13.66%), but strong TVL growth (+14.7%) suggests potential mean reversion. High volatility (66.5%) and weak Sharpe ratio (-0.42) indicate substantial downside risk. Forecast modest recovery over next 14 days as oversold conditions may stabilize, but low confidence due to conflicting technical and fundamental signals and recent accelerating losses.\"}\n```",
+  "date": "2023-12-18",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:44:06.340966+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong near-term momentum (+7.97% 7d, +9.23% 14d) despite bear market regime and negative 30d return (-4.18%). Recent recovery suggests oversold conditions and potential mean reversion. However, mixed protocol fundamentals (MKR TVL -18.5%, AAVE +7.4%), elevated volatility (64.4%), and bear market backdrop create headwinds. 14-day annualized forecast of 28% reflects recent bounce momentum but tempered by macro uncertainty and lack of fundamental improvement across the cluster. Moderate confidence due to regime conflict between short-term recovery and long-term downtrend.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong near-term momentum (+7.97% 7d, +9.23% 14d) despite bear market regime and negative 30d return (-4.18%). Recent recovery suggests oversold conditions and potential mean reversion. However, mixed protocol fundamentals (MKR TVL -18.5%, AAVE +7.4%), elevated volatility (64.4%), and bear market backdrop create headwinds. 14-day annualized forecast of 28% reflects recent bounce momentum but tempered by macro uncertainty and lack of fundamental improvement across the cluster. Moderate confidence due to regime conflict between short-term recovery and long-term downtrend.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:38:06.262385+00:00",
+  "enriched": false
+}

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (CRV/CVX) faces significant headwinds in current bear market regime with -19.27% 30-day decline and -6.43% 14-day decline. However, recent 7-day micro-recovery (+0.11%) suggests potential consolidation. TVL metrics show slight stabilization (CRV -0.9%, CVX -0.5% 30d), indicating base-case holding. High volatility (75.2% annualized) and negative Sharpe ratio (-2.15) warrant caution. Near-term 14-day forecast assumes partial recovery from oversold conditions but continued weak macro sentiment, suggesting modest negative returns annualized to -85%, with moderate confidence due to extreme volatility and bear regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) faces significant headwinds in current bear market regime with -19.27% 30-day decline and -6.43% 14-day decline. However, recent 7-day micro-recovery (+0.11%) suggests potential consolidation. TVL metrics show slight stabilization (CRV -0.9%, CVX -0.5% 30d), indicating base-case holding. High volatility (75.2% annualized) and negative Sharpe ratio (-2.15) warrant caution. Near-term 14-day forecast assumes partial recovery from oversold conditions but continued weak macro sentiment, suggesting modest negative returns annualized to -85%, with moderate confidence due to extreme volatility and bear regime uncertainty.\"\n}\n```",
+  "date": "2025-06-14",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:19.882317+00:00"
+}

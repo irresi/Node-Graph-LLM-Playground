@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.024,
+  "confidence": 0.45,
+  "reasoning": "I'll analyze the available evidence from both researchers and produce a calibrated forecast.\n\n## Analysis\n\n**Available Evidence:**\n1. **Sentiment Analysis**: Clear data (-0.55 bearish score, 73.7% vol",
+  "n_agents": 12,
+  "date": "2025-11-29 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

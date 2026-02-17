@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.58,
+  "reasoning": "Bear market regime with -11.2% TVL decline and cluster down -26% in 30 days. However, recent 7-day rebound of +8.59% suggests potential mean reversion. SNX's +86% TVL growth is positive signal. High volatility (137.5%) and negative Sharpe ratio (-1.60) indicate elevated risk. LDO's large TVL weight (-17.4% 30d change) and general protocol weakness temper optimism. Forecasting modest negative annualized return (-42%) over 14 days, reflecting bear pressure offset partially by short-term momentum. Confidence limited by regime uncertainty and macro headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Bear market regime with -11.2% TVL decline and cluster down -26% in 30 days. However, recent 7-day rebound of +8.59% suggests potential mean reversion. SNX's +86% TVL growth is positive signal. High volatility (137.5%) and negative Sharpe ratio (-1.60) indicate elevated risk. LDO's large TVL weight (-17.4% 30d change) and general protocol weakness temper optimism. Forecasting modest negative annualized return (-42%) over 14 days, reflecting bear pressure offset partially by short-term momentum. Confidence limited by regime uncertainty and macro headwinds.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:42:15.974721+00:00",
+  "enriched": false
+}

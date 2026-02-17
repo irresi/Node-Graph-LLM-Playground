@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "7-day momentum (+7%) suggests recovery from oversold conditions, but high volatility (51.6% annualized) and negative recent 30-day performance (-4.52%) create uncertainty. Neutral market regime provides limited directional bias. Modest positive return reflects technical bounce with low-to-moderate confidence given the cluster's risk profile and volatility.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast.\n\n## Analysis of Cluster 4 (LINK, OP, ARB, ENS, GRT)\n\n**Key Observations:**\n\n1. **Recent Momentum Signal**: Strong positive 7-day return (+7.00%) vs. negative 14-day return (-6.52%) suggests recent recovery momentum after a drawdown period.\n\n2. **Volatility & Risk Profile**: \n   - Annualized volatility of 51.6% is very high, typical for infrastructure/L2 tokens\n   - Max drawdown of -21.7% indicates significant downside risk\n   - Negative Sharpe ratio (-0.74) reflects risk-adjusted underperformance\n\n3. **Market Regime**: Neutral/range-bound environment with positive 8.2% DeFi TVL growth provides modest tailwind\n\n4. **Token Composition**: \n   - Mix of L2 (OP, ARB), oracle (LINK), and infrastructure (ENS, GRT) tokens\n   - These tokens benefit from ecosystem activity but lack direct TVL metrics\n   - L2 tokens particularly sensitive to scaling adoption narratives\n\n5. **Momentum Reversal Pattern**: The sharp improvement from 14d (-6.52%) to 7d (+7.00%) suggests oversold conditions may have reversed, but sustainability is uncertain given high volatility.\n\n**Forward-Looking Factors:**\n- Recent recovery suggests mean reversion from oversold levels\n- High volatility creates both upside and downside risk\n- Neutral market regime doesn't provide strong directional bias\n- L2 and infrastructure tokens can be volatile on narrative shifts\n\n**Forecast Rationale**: Given the recent recovery momentum offset by high volatility and a neutral regime, I expect modest positive returns with moderate-to-low conviction due to the cluster's inherent risk profile and tendency toward mean reversion.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"7-day momentum (+7%) suggests recovery from oversold conditions, but high volatility (51.6% annualized) and negative recent 30-day performance (-4.52%) create uncertainty. Neutral market regime provides limited directional bias. Modest positive return reflects technical bounce with low-to-moderate confidence given the cluster's risk profile and volatility.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:52.189854+00:00",
+  "enriched": false
+}

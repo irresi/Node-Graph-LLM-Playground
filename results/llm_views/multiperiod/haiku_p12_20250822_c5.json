@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows stalling momentum (14d: -0.05%) despite 30d rally. High volatility (72.9%) and poor Sharpe (0.21) suggest risk-reward unfavorable. Positive TVL fundamentals (GMX +32%, YFI +88.8%) provide modest support, but technical weakness and mean reversion pressure suggest muted returns. Moderate bull regime slightly bullish. Confidence limited by high uncertainty and conflicting signals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context:**\n- Overall DeFi market is in a moderate bull regime with strong TVL growth (+22.0% in 30 days)\n- This is a positive macro backdrop\n\n**Cluster 5 Analysis (COMP, MKR, GMX, YFI):**\n\n1. **Recent Performance Signals:**\n   - 30-day return: +1.82% (modest)\n   - 7-day return: +1.95% (slightly positive momentum)\n   - 14-day return: -0.05% (essentially flat, showing weakness)\n   - This suggests recent momentum has stalled despite positive 7-day performance\n\n2. **Volatility & Risk Metrics:**\n   - Annualized volatility: 72.9% (very high - typical for DeFi)\n   - Max drawdown: -19.9% (significant downside risk recently)\n   - Sharpe ratio: 0.21 (poor risk-adjusted returns)\n\n3. **Protocol Fundamentals (TVL-weighted):**\n   - Mixed growth signals: GMX (+32.0%), YFI (+88.8%) showing strong TVL growth\n   - MKR (+10.2%), COMP (+4.5%) showing moderate growth\n   - Strong protocol fundamentals suggest underlying demand\n\n4. **Forward-Looking Assessment:**\n   - The flat 14-day return suggests momentum exhaustion after the 30-day rally\n   - High volatility (72.9%) means high uncertainty\n   - TVL growth is positive but may already be priced in\n   - The poor Sharpe ratio indicates risk-reward is unfavorable\n\n**Forecast Rationale:**\n- Given the stalling momentum (14-day: -0.05%), high volatility, and poor risk-adjusted returns, I expect mean reversion over the next 14 days\n- The positive TVL growth provides some support, but not enough to overcome technical weakness\n- Moderate bull regime provides modest tailwind, but cluster-specific weakness dominates\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.55, \"reasoning\": \"Cluster shows stalling momentum (14d: -0.05%) despite 30d rally. High volatility (72.9%) and poor Sharpe (0.21) suggest risk-reward unfavorable. Positive TVL fundamentals (GMX +32%, YFI +88.8%) provide modest support, but technical weakness and mean reversion pressure suggest muted returns. Moderate bull regime slightly bullish. Confidence limited by high uncertainty and conflicting signals.\"}\n```",
+  "date": "2025-08-23",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:33.247009+00:00"
+}

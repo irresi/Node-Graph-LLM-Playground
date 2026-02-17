@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.05,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with recent momentum reversal (-5.86% 7d after +10.83% 14d). SNX TVL growth (+76%) provides upside potential, but DYDX decline (-16.1%) and negative Sharpe (-0.27) suggest caution. Expect modest recovery from recent weakness but limited upside in current market conditions. Confidence moderate due to high volatility (63.2%) and regime uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bear market regime with strong downtrend\n- DeFi TVL slightly positive (+4.2% 30d), but market sentiment is bearish\n- Cluster has underperformed slightly (-2.03% 30d)\n\n**Cluster Composition Analysis:**\n- Diversified mix: Oracles (SNX, LINK), Layer 2s (OP, ARB), Derivatives (DYDX), Infrastructure (ENS, GRT)\n- Mix of established protocols (LINK, OP, ARB) and more volatile tokens (SNX, DYDX)\n\n**Key Metrics:**\n- **30-day return: -2.03%** (slight underperformance)\n- **7-day return: -5.86%** (recent weakness)\n- **14-day return: +10.83%** (positive momentum 14-30 days ago)\n- **Volatility: 63.2% annualized** (very high, typical for DeFi)\n- **Sharpe ratio: -0.27** (negative risk-adjusted returns)\n- **Max drawdown: -17.2%** (significant volatility)\n\n**Protocol Fundamentals:**\n- SNX showing strong TVL growth (+76% 30d) - positive signal\n- DYDX declining TVL (-16.1% 30d) - concern for derivatives category\n- L2 tokens (OP, ARB) lack direct TVL but benefit from ecosystem growth\n- LINK maintaining stable TVL at $0M (likely reporting issue or minimal DeFi TVL)\n\n**Technical Signals:**\n- The +10.83% return 14-30 days ago suggests momentum was present earlier\n- Recent 7-day decline (-5.86%) indicates momentum has reversed\n- In a bear market with declining momentum, mean reversion suggests caution\n\n**Forecast Rationale:**\nGiven the bear market regime, recent weakness, negative Sharpe ratio, and reversal of momentum, I expect subdued returns over the next 14 days. The cluster may stabilize or see modest recovery, but headwinds remain. Annualizing a modest 14-day return accounts for the high volatility environment.\n\n```json\n{\"expected_return\": 0.05, \"confidence\": 0.55, \"reasoning\": \"Bear market regime with recent momentum reversal (-5.86% 7d after +10.83% 14d). SNX TVL growth (+76%) provides upside potential, but DYDX decline (-16.1%) and negative Sharpe (-0.27) suggest caution. Expect modest recovery from recent weakness but limited upside in current market conditions. Confidence moderate due to high volatility (63.2%) and regime uncertainty.\"}\n```",
+  "date": "2025-10-10",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:06.111338+00:00"
+}

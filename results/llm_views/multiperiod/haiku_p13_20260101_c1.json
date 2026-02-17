@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Recent 14-day momentum (+9.50%) suggests potential short-term recovery continuation, but bear market regime and negative Sharpe ratio indicate headwinds. High volatility (55.1%) and max drawdown (-25.8%) create uncertainty. Modest positive return expected with low confidence due to conflicting signals: near-term momentum vs. structural bear market weakness. Annualized from 14-day outlook.",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze the key factors to forecast the 14-day expected annualized return for Cluster 1.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum vs. Longer-term Trend:**\n   - 7-day return: +7.35%\n   - 14-day return: +9.50%\n   - 30-day return: -15.86%\n   - This shows strong recent recovery after a significant drawdown, suggesting potential mean reversion\n\n2. **Market Regime:**\n   - Bear market with -3.0% TVL decline over 30 days\n   - However, the recent 14-day positive return (+9.50%) indicates a potential temporary recovery or capitulation bounce\n\n3. **Volatility & Risk:**\n   - Annualized volatility: 55.1% (very high)\n   - Sharpe ratio: -2.42 (negative, indicating poor risk-adjusted returns)\n   - Max drawdown: -25.8% (significant)\n\n4. **Protocol Fundamentals:**\n   - Mixed TVL trends: SNX down -20.6%, DYDX relatively stable at -2.6%\n   - Most tokens are infrastructure/L2 (OP, ARB, ENS, GRT) with no direct TVL dependency\n   - Cluster contains oracle (LINK), derivatives (SNX, DYDX), and infrastructure tokens\n\n5. **14-Day Forecast Considerations:**\n   - Recent 14-day return of +9.50% may represent a short-term bounce that could reverse\n   - Bear market regime suggests caution despite recent gains\n   - High volatility creates both upside and downside risks\n\n**Forecast Logic:**\nThe cluster shows recent positive momentum after a severe drawdown, but remains in a bear market. The positive 7-day and 14-day returns suggest either capitulation buying or early recovery, but the longer-term -15.86% decline and negative Sharpe ratio indicate structural weakness. A mean reversion correction is plausible, but near-term momentum could persist briefly.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Recent 14-day momentum (+9.50%) suggests potential short-term recovery continuation, but bear market regime and negative Sharpe ratio indicate headwinds. High volatility (55.1%) and max drawdown (-25.8%) create uncertainty. Modest positive return expected with low confidence due to conflicting signals: near-term momentum vs. structural bear market weakness. Annualized from 14-day outlook.\"\n}\n```",
+  "date": "2026-01-02",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:14.373759+00:00"
+}

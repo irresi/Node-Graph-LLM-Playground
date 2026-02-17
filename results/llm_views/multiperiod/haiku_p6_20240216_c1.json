@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.68,
+  "reasoning": "Bull market regime with +12.1% TVL growth and strong recent momentum (+13.41% 14-day return) supports positive outlook. However, potential momentum normalization and mixing signals (MKR weakness) warrant conservative positioning. Strong Sharpe ratio (3.13) provides confidence in risk-adjusted returns. Forecast reflects continued bullish conditions tempered by reversion risk.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bull market regime with strong uptrend and moderate volatility\n- DeFi TVL up 12.1% in 30 days, indicating healthy market conditions\n- Strong recent momentum: 14-day return of +13.41%, 7-day return of +8.02%\n\n**Cluster Fundamentals:**\n- Diversified exposure across DEX (UNI, CRV, BAL), lending (MKR), and derivatives (SNX, YFI, CVX)\n- Mixed TVL dynamics: CRV strong (+27.2%), UNI stable (+9.5%), MKR slightly negative (-2.9%)\n- Strong historical Sharpe ratio (3.13) suggests quality risk-adjusted returns\n\n**Momentum Analysis:**\n- Recent acceleration visible: 14-day return (13.41%) > 30-day return (9.55%)\n- 7-day return (8.02%) continues positive momentum but at lower pace\n- Volatility at 25.6% (annualized) is moderate for DeFi, manageable risk level\n- Max drawdown of -6.9% suggests reasonably controlled downside\n\n**Key Considerations:**\n1. **Positive factors:** Bull regime, TVL growth, strong recent momentum, diversified token composition, quality Sharpe ratio\n2. **Risk factors:** Recent momentum may be normalizing (7-day slower than 14-day), MKR showing weakness, high volatility inherent to DeFi\n3. **Mean reversion risk:** +13.41% 14-day return may be partially priced in; expect some normalization\n\n**Forecast Rationale:**\nGiven the bull market regime and positive TVL growth, but accounting for potential momentum normalization and the high recent gains, I expect continued positive returns at a measured pace over the next 14 days. The strong Sharpe ratio provides confidence in the quality of these returns.\n\nAnnualizing the forecast: A 14-day forecast of approximately +2.8% to 3.2% annualizes to roughly 42-48% annually, adjusted for the current market conditions and momentum reversion concerns.\n\n```json\n{\"expected_return\": 0.45, \"confidence\": 0.68, \"reasoning\": \"Bull market regime with +12.1% TVL growth and strong recent momentum (+13.41% 14-day return) supports positive outlook. However, potential momentum normalization and mixing signals (MKR weakness) warrant conservative positioning. Strong Sharpe ratio (3.13) provides confidence in risk-adjusted returns. Forecast reflects continued bullish conditions tempered by reversion risk.\"}\n```",
+  "date": "2024-02-17",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:51.858863+00:00"
+}

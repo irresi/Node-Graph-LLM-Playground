@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.52,
-  "reasoning": "CAKE (PancakeSwap) is showing persistent negative momentum across all timeframes (7d: -10.85%, 14d: -11.14%, 30d: -8.94%), with accelerating short-term losses suggesting continued selling pressure. The negative Sharpe ratio (-1.36) and significant max drawdown (-19.7%) indicate poor risk-adjusted performance. However, TVL remains substantial at $2.17B with a healthy +7.0% 30d growth, and the broader DeFi market is in a moderate bull regime (+9.9% TVL growth), providing some fundamental support. The divergence between TVL growth and price action suggests potential mean reversion, but near-term momentum remains negative. Annualizing the ~14-day trend implies deep losses, but some recovery is expected given TVL support, resulting in a moderately negative forecast. Confidence is moderate due to conflicting signals between price momentum and protocol fundamentals.",
-  "raw_response": "```json\n{\"expected_return\": -0.18, \"confidence\": 0.52, \"reasoning\": \"CAKE (PancakeSwap) is showing persistent negative momentum across all timeframes (7d: -10.85%, 14d: -11.14%, 30d: -8.94%), with accelerating short-term losses suggesting continued selling pressure. The negative Sharpe ratio (-1.36) and significant max drawdown (-19.7%) indicate poor risk-adjusted performance. However, TVL remains substantial at $2.17B with a healthy +7.0% 30d growth, and the broader DeFi market is in a moderate bull regime (+9.9% TVL growth), providing some fundamental support. The divergence between TVL growth and price action suggests potential mean reversion, but near-term momentum remains negative. Annualizing the ~14-day trend implies deep losses, but some recovery is expected given TVL support, resulting in a moderately negative forecast. Confidence is moderate due to conflicting signals between price momentum and protocol fundamentals.\"}\n```",
-  "date": "2025-09-05",
+  "expected_return": -0.12,
+  "confidence": 0.35,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) shows conflicting signals: strong 30-day return (+8.27%, Sharpe 0.82) but sharp near-term reversal with 14-day return of -14.68% and weakening 7-day momentum (-0.68%). The neutral/range-bound market regime limits upside catalysts. Infrastructure tokens (LINK, OP, ARB, ENS, GRT) lack direct TVL-driven yield support, making them more sensitive to broader sentiment. The severe 14-day drawdown (-14.68%) and max drawdown of -17.7% suggest persistent selling pressure in the short window most relevant to our 14-day forecast horizon. Annualizing the recent 14-day trend (~-14.68% over 14 days \u2192 ~-382% annualized) is too extreme to be sustainable, so we moderate significantly toward mean-reversion expectations, but still lean negative given momentum. Low confidence reflects high annualized volatility (85.1%) and contradictory short vs. medium-term signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.35, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) shows conflicting signals: strong 30-day return (+8.27%, Sharpe 0.82) but sharp near-term reversal with 14-day return of -14.68% and weakening 7-day momentum (-0.68%). The neutral/range-bound market regime limits upside catalysts. Infrastructure tokens (LINK, OP, ARB, ENS, GRT) lack direct TVL-driven yield support, making them more sensitive to broader sentiment. The severe 14-day drawdown (-14.68%) and max drawdown of -17.7% suggest persistent selling pressure in the short window most relevant to our 14-day forecast horizon. Annualizing the recent 14-day trend (~-14.68% over 14 days \u2192 ~-382% annualized) is too extreme to be sustainable, so we moderate significantly toward mean-reversion expectations, but still lean negative given momentum. Low confidence reflects high annualized volatility (85.1%) and contradictory short vs. medium-term signals.\"}\n```",
+  "date": "2025-09-06",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:10:19.773644+00:00",
+  "generated_at": "2026-02-17T16:01:18.156181+00:00",
   "enriched": false
 }

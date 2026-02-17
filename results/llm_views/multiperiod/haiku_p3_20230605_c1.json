@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with strong downtrend (-14.8% 30d return, -5.69% 7d return). Cluster showing consistent negative momentum across multiple timeframes. High volatility (49.6% annualized) and negative Sharpe ratio (-2.51) indicate risk-reward misalignment. However, some stabilization signals in recent data (7d return of -5.69% less severe than 30d). Near-term 14-day annualized forecast of -42% reflects continued bearish pressure but assumes partial recovery from the steepest declines. Confidence tempered by market regime uncertainty and infrastructure token sensitivity to broader crypto sentiment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bear market regime with strong downtrend (-14.8% 30d return, -5.69% 7d return). Cluster showing consistent negative momentum across multiple timeframes. High volatility (49.6% annualized) and negative Sharpe ratio (-2.51) indicate risk-reward misalignment. However, some stabilization signals in recent data (7d return of -5.69% less severe than 30d). Near-term 14-day annualized forecast of -42% reflects continued bearish pressure but assumes partial recovery from the steepest declines. Confidence tempered by market regime uncertainty and infrastructure token sensitivity to broader crypto sentiment.\"\n}\n```\n\n**Key Analysis:**\n\n1. **Trend Deterioration**: The 30-day return of -14.80% represents significant losses with elevated volatility (49.6% annualized)\n\n2. **Momentum Signals**: Recent 7-day returns (-5.69%) show continued pressure, though less severe than the full month, suggesting possible momentum exhaustion\n\n3. **Downside Risk**: Max drawdown of -17.8% and negative Sharpe ratio (-2.51) indicate the risk-adjusted returns are poor\n\n4. **14-Day Extrapolation**: Annualizing the recent weekly trend suggests continued downside, yielding approximately -42% annualized return for the next 14 days\n\n5. **Confidence Limitations**: Moderate confidence (0.65) reflects bear market uncertainty\u2014while the trend is clear, macro catalysts or sentiment shifts could alter trajectory",
+  "date": "2023-06-06",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:05.234815+00:00"
+}

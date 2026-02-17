@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "Cluster in severe bear regime with -33.89% 30-day loss and extreme volatility (107.2% annualized). However, recent 7-day bounce (+6.26%) suggests potential short-term recovery despite negative 14-day trend (-3.41%). CVX and RPL both experiencing significant TVL outflows (-18.5% and -8.0% respectively), indicating structural weakness. DeFi market down -4.9% overall. Forecasting continued weakness given bear market conditions and protocol fundamentals, but with elevated uncertainty due to recent volatility swings. Low confidence reflects high model uncertainty in extreme volatility regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in severe bear regime with -33.89% 30-day loss and extreme volatility (107.2% annualized). However, recent 7-day bounce (+6.26%) suggests potential short-term recovery despite negative 14-day trend (-3.41%). CVX and RPL both experiencing significant TVL outflows (-18.5% and -8.0% respectively), indicating structural weakness. DeFi market down -4.9% overall. Forecasting continued weakness given bear market conditions and protocol fundamentals, but with elevated uncertainty due to recent volatility swings. Low confidence reflects high model uncertainty in extreme volatility regime.\"\n}\n```",
+  "date": "2025-01-07",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:25.507051+00:00"
+}

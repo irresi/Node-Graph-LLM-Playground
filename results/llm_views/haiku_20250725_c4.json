@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong 30-day performance (+33.45%) and positive 14-day momentum (+14.16%) in a bull market regime. However, recent 7-day return (-0.09%) suggests potential consolidation or profit-taking. The infrastructure/L2 category benefits from bull sentiment, but the high realized volatility (62.7%) and limited protocol fundamentals (mostly non-TVL tokens) introduce uncertainty. Moderating expectations from the exceptional 30-day return while maintaining above-zero bias due to sustained market uptrend and recent 14-day strength. Confidence tempered by lack of TVL metrics and potential mean reversion risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong 30-day performance (+33.45%) and positive 14-day momentum (+14.16%) in a bull market regime. However, recent 7-day return (-0.09%) suggests potential consolidation or profit-taking. The infrastructure/L2 category benefits from bull sentiment, but the high realized volatility (62.7%) and limited protocol fundamentals (mostly non-TVL tokens) introduce uncertainty. Moderating expectations from the exceptional 30-day return while maintaining above-zero bias due to sustained market uptrend and recent 14-day strength. Confidence tempered by lack of TVL metrics and potential mean reversion risk.\"\n}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:39:21.690192+00:00",
+  "enriched": false
+}

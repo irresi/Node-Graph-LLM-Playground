@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.45,
+  "reasoning": "CVX shows strong recent momentum (+32.83% in 7 days, +25.69% in 14 days) despite bear market regime, but this represents potential mean reversion risk. High volatility (84.4% annualized) and max drawdown (-18.4%) indicate elevated downside risk. TVL decline (-3.4% in 30d) is concerning for protocol fundamentals. Active governance suggests healthy participation but insufficient to offset macro headwinds. Annualized return forecast reflects mean-reverting momentum expectations with low confidence due to regime conflict and technical vulnerability after sharp rally.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"CVX shows strong recent momentum (+32.83% in 7 days, +25.69% in 14 days) despite bear market regime, but this represents potential mean reversion risk. High volatility (84.4% annualized) and max drawdown (-18.4%) indicate elevated downside risk. TVL decline (-3.4% in 30d) is concerning for protocol fundamentals. Active governance suggests healthy participation but insufficient to offset macro headwinds. Annualized return forecast reflects mean-reverting momentum expectations with low confidence due to regime conflict and technical vulnerability after sharp rally.\"\n}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:11.166926+00:00",
+  "enriched": true
+}

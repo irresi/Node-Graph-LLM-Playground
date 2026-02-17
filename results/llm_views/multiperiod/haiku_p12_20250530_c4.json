@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 (CRV/CVX) shows mixed signals: recent severe downside (-17.28% in 7d) suggests capitulation and potential reversal opportunity, supported by underlying protocol strength (TVL growing +12.7% for CRV, +10.2% for CVX). However, negative Sharpe ratio (-0.67), high volatility (76.5%), and recent underperformance despite bull market regime (+19.6% DeFi TVL growth) indicate structural challenges in yield/DEX segment. Moderate confidence reflects the mean-reversion potential offset by weak technical momentum and regime disconnect. Forecast assumes partial recovery over 14 days as oversold conditions normalize.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows mixed signals: recent severe downside (-17.28% in 7d) suggests capitulation and potential reversal opportunity, supported by underlying protocol strength (TVL growing +12.7% for CRV, +10.2% for CVX). However, negative Sharpe ratio (-0.67), high volatility (76.5%), and recent underperformance despite bull market regime (+19.6% DeFi TVL growth) indicate structural challenges in yield/DEX segment. Moderate confidence reflects the mean-reversion potential offset by weak technical momentum and regime disconnect. Forecast assumes partial recovery over 14 days as oversold conditions normalize.\"\n}\n```",
+  "date": "2025-05-31",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:52.167646+00:00"
+}

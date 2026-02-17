@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "I need to carefully weigh the arguments and data presented. Let me analyze this systematically.\n\n## Analysis\n\n**What the Data Actually Shows:**\n\n1. **On-Chain Metrics (Objective):**\n   - 30-day return",
+  "n_agents": 6,
+  "date": "2025-10-04 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

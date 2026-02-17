@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"CVX presents a genuine clash between momentum (genuine +32.83% 7d outperformance in bear market) and fundamentals (TVL declin",
+  "n_agents": 18,
+  "date": "2025-07-12 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

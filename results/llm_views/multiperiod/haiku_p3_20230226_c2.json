@@ -1,0 +1,28 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 14-day momentum (+10.90%) with excellent risk metrics (Sharpe 1.51), but recent 7-day pullback (-3.90%) suggests consolidation. Moderate bull regime and mixed protocol fundamentals (BAL/SUSHI strong, CAKE weak) support moderate continued gains over next 14 days. Annualized 28% return reflects slowing from recent rally pace. Confidence moderate due to short-term timing difficulty and mixed protocol signals.",
+  "raw_response": "I'll analyze the provided market context and cluster data to forecast the expected annualized return for Cluster 2 over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum Mixed**: The 14-day return (+10.90%) is stronger than the 7-day return (-3.90%), suggesting recent pullback after gains. This indicates potential consolidation.\n\n2. **Market Regime**: Moderate Bull with +5.4% TVL growth in DeFi overall is positive, but not strongly bullish.\n\n3. **Cluster Quality Metrics**:\n   - Sharpe ratio of 1.51 is excellent (risk-adjusted returns)\n   - 45.3% annualized volatility is moderate-to-high for this asset class\n   - Max drawdown of -10.1% shows manageable downside risk\n\n4. **Protocol Fundamentals**:\n   - Mixed TVL momentum: BAL (+17.1%) and SUSHI (+10.0%) show strength\n   - CAKE concerning (-5.5%), UNI and CRV moderate (+7.9%, +3.7%)\n   - Diversified across DEX, lending, derivatives, staking (good exposure)\n\n5. **Mean Reversion Signal**: After a +10.90% run in 14 days followed by -3.90% in last 7 days, the cluster appears to be consolidating after a rally.\n\n**Forecast Rationale:**\n\nGiven the recent strong 14-day performance (+10.90%) but recent 7-day pullback (-3.90%), I expect:\n- Modest positive returns continuing but at a slower pace than the recent rally\n- The Moderate Bull regime supports continued gains but not explosive moves\n- High Sharpe ratio suggests quality risk-adjusted opportunities\n- Annualized return projection: ~25-30% (converting 14-day forward performance to annualized terms with moderated expectations)\n- Confidence tempered by: mixed protocol signals, recent pullback, and the challenging task of timing short-term DeFi moves\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.62, \"reasoning\": \"Cluster shows strong 14-day momentum (+10.90%) with excellent risk metrics (Sharpe 1.51), but recent 7-day pullback (-3.90%) suggests consolidation. Moderate bull regime and mixed protocol fundamentals (BAL/SUSHI strong, CAKE weak) support moderate continued gains over next 14 days. Annualized 28% return reflects slowing from recent rally pace. Confidence moderate due to short-term timing difficulty and mixed protocol signals.\"}\n```",
+  "date": "2023-02-27",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:32.588625+00:00"
+}

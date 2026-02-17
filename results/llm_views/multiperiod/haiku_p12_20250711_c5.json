@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Cluster 5 shows mixed signals: bear market regime and -14.60% 30-day return suggest headwinds, but positive 7-day (+4.35%) and 14-day (+1.82%) momentum indicate potential short-term recovery. TVL metrics are divergent\u2014COMP, MKR, and YFI show strong inflows (9.8%-49.0%), while GMX declining (-11.2%) signals sector weakness. High volatility (56.3% annualized) and negative Sharpe ratio (-2.18) create uncertainty. The 14-day forecast assumes mean reversion from recent bear conditions but remains cautious given overall market headwinds. Low-to-moderate confidence reflects the conflicting fundamental and technical signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 5 shows mixed signals: bear market regime and -14.60% 30-day return suggest headwinds, but positive 7-day (+4.35%) and 14-day (+1.82%) momentum indicate potential short-term recovery. TVL metrics are divergent\u2014COMP, MKR, and YFI show strong inflows (9.8%-49.0%), while GMX declining (-11.2%) signals sector weakness. High volatility (56.3% annualized) and negative Sharpe ratio (-2.18) create uncertainty. The 14-day forecast assumes mean reversion from recent bear conditions but remains cautious given overall market headwinds. Low-to-moderate confidence reflects the conflicting fundamental and technical signals.\"\n}\n```",
+  "date": "2025-07-12",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:12.395746+00:00"
+}

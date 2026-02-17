@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.35,
+  "reasoning": "CVX shows recent momentum (+17.82% 7d) but negative 14d returns (-4.14%) suggesting mean reversion risk. High volatility (79.6%), declining TVL (-2.0%), and range-bound market regime point to headwinds. Modest yield offset by capital risk. Low confidence due to high volatility and mixed technical signals.",
+  "raw_response": "Looking at Cluster 3 (CVX) with the provided market data, I'll analyze the key factors:\n\n**Key Observations:**\n\n1. **Recent Momentum**: Strong 7-day return (+17.82%) but negative 14-day return (-4.14%), indicating recent volatility and potential mean reversion risk\n\n2. **Volatility Profile**: High annualized volatility at 79.6% with significant max drawdown (-26.3%), suggesting substantial downside risk in the near term\n\n3. **Fundamentals**: \n   - TVL declining (-2.0% over 30 days)\n   - Reasonable yield metrics (5.14% TVL-weighted APY)\n   - Active governance (3 active proposals)\n\n4. **Market Context**: Neutral/range-bound regime with overall DeFi TVL growth (+8.2%), but CVX underperforming\n\n5. **Technical Setup**: The strong 7-day bounce after 14-day decline suggests mean reversion could continue, but high volatility makes near-term prediction challenging\n\n**Analysis:**\n- The recent +17.82% 7-day performance is notable but against a negative 14-day backdrop\n- In a range-bound market with declining TVL, mean reversion toward negative territory is likely\n- Yield of 5.14% annualizes to ~4% over 14 days, but capital appreciation faces headwinds\n- High volatility and declining fundamentals argue for modest negative returns with low confidence\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.35, \"reasoning\": \"CVX shows recent momentum (+17.82% 7d) but negative 14d returns (-4.14%) suggesting mean reversion risk. High volatility (79.6%), declining TVL (-2.0%), and range-bound market regime point to headwinds. Modest yield offset by capital risk. Low confidence due to high volatility and mixed technical signals.\"}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:25.369821+00:00",
+  "enriched": true
+}

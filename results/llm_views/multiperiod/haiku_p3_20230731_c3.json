@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.45,
+  "reasoning": "ARB (Arbitrum L2 token) shows mixed signals: recent 14-day decline of -6.67% suggests negative momentum, but 30-day return of +0.87% indicates consolidation. High volatility (45.8% annualized) and low Sharpe ratio (0.16) reflect an immature market with poor risk-adjusted returns. Neutral DeFi regime with -12.8% TVL decline creates headwinds. Near-term forecast: slight negative bias (-12% annualized) given recent downtrend momentum, but low confidence (0.45) due to infrastructure tokens' dependence on adoption catalysts and broader market sentiment shifts rather than fundamental metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.45,\n  \"reasoning\": \"ARB (Arbitrum L2 token) shows mixed signals: recent 14-day decline of -6.67% suggests negative momentum, but 30-day return of +0.87% indicates consolidation. High volatility (45.8% annualized) and low Sharpe ratio (0.16) reflect an immature market with poor risk-adjusted returns. Neutral DeFi regime with -12.8% TVL decline creates headwinds. Near-term forecast: slight negative bias (-12% annualized) given recent downtrend momentum, but low confidence (0.45) due to infrastructure tokens' dependence on adoption catalysts and broader market sentiment shifts rather than fundamental metrics.\"\n}\n```",
+  "date": "2023-08-01",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:25.530294+00:00"
+}

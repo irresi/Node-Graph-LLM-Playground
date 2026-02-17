@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster faces significant headwinds: bear market regime with -12.1% TVL decline, -21.74% 30-day cluster loss, and very high volatility (67.3%). However, recent 14-day rebound of +4.25% suggests potential mean reversion or temporary stabilization. The cluster contains quality protocols (COMP, CAKE with substantial TVL), but SNX's severe -36.4% drawdown indicates protocol-specific risks. Over next 14 days, expect continued weakness as bear regime persists, but at moderating pace. Annualized extrapolation of near-term momentum adjusted for macro headwinds yields negative return with moderate confidence due to high uncertainty in bear market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster faces significant headwinds: bear market regime with -12.1% TVL decline, -21.74% 30-day cluster loss, and very high volatility (67.3%). However, recent 14-day rebound of +4.25% suggests potential mean reversion or temporary stabilization. The cluster contains quality protocols (COMP, CAKE with substantial TVL), but SNX's severe -36.4% drawdown indicates protocol-specific risks. Over next 14 days, expect continued weakness as bear regime persists, but at moderating pace. Annualized extrapolation of near-term momentum adjusted for macro headwinds yields negative return with moderate confidence due to high uncertainty in bear market conditions.\"\n}\n```",
+  "date": "2025-02-24",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:36.290174+00:00"
+}

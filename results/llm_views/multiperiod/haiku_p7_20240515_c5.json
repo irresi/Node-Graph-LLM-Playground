@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows positive 14-day momentum (+2.73%) with stabilizing market fundamentals (AAVE growth, stable TVL). However, elevated volatility (53.3%), negative Sharpe ratio, and neutral market regime limit upside. Forecasting modest annualized return of 18% reflects recovery potential offset by mean reversion risks. Confidence is moderate due to choppy recent performance and high volatility.",
+  "raw_response": "Based on the market context and cluster data provided, I'll analyze the key factors to forecast the expected 14-day annualized return for Cluster 5.\n\n## Analysis:\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows positive momentum with +2.73% 14-day return, despite -3.81% 30-day return and -1.84% 7-day return. This suggests potential recovery momentum.\n\n2. **Market Regime**: Neutral/range-bound market with -1.1% DeFi TVL change indicates stabilization after recent weakness.\n\n3. **Protocol Fundamentals**: Mixed signals:\n   - AAVE showing strength (+5.5% TVL growth)\n   - UNI stable (+0.1% TVL change)\n   - CRV weakness (-4.0% TVL change)\n   - Overall TVL relatively stable\n\n4. **Risk Metrics**: \n   - High volatility (53.3% annualized)\n   - Negative Sharpe ratio (-0.60)\n   - Significant max drawdown (-18.2%)\n   - These suggest elevated risk but potential for recovery\n\n5. **Positioning**: The +2.73% 14-day return indicates the cluster may be recovering from oversold conditions. The neutral market regime and stabilizing TVL suggest we're not in a downtrend.\n\n**Forecast Rationale:**\n- The 14-day positive momentum (+2.73%) combined with stabilizing market conditions suggests modest near-term gains\n- However, elevated volatility and recent drawdowns warrant caution\n- Extrapolating the 14-day return to annualized levels (~70% annualized) would be excessive given the volatile and choppy nature\n- A more conservative estimate accounting for mean reversion and the range-bound market regime is appropriate\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.55, \"reasoning\": \"Cluster shows positive 14-day momentum (+2.73%) with stabilizing market fundamentals (AAVE growth, stable TVL). However, elevated volatility (53.3%), negative Sharpe ratio, and neutral market regime limit upside. Forecasting modest annualized return of 18% reflects recovery potential offset by mean reversion risks. Confidence is moderate due to choppy recent performance and high volatility.\"}\n```",
+  "date": "2024-05-16",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:32.982064+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.65,
+  "reasoning": "Positive fundamentals (TVL growth, SNX momentum) support modest gains, but decelerating 14-day trend and neutral market regime suggest below-recent-average returns. High volatility (84.8% annualized) and -14.6% max drawdown create uncertainty. Estimating ~12% annualized return (modest 14-day gain of ~1.3%) with moderate confidence.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong 30-day cluster return of +8.25% shows positive momentum\n- DeFi market TVL growing +13.3% over 30 days indicates expanding liquidity\n- SNX showing exceptional growth (+20.9% TVL change), suggesting strong protocol health\n- Recent 7-day return (+4.03%) shows sustained momentum\n- Sharpe ratio of 0.82 indicates reasonable risk-adjusted returns\n\n**Neutral/Concerning Indicators:**\n- Market regime is neutral/range-bound (not strong bullish)\n- High annualized volatility at 84.8% suggests significant price swings\n- Max drawdown of -14.6% indicates recent corrections\n- 14-day return (+1.55%) is decelerating compared to 7-day (+4.03%), suggesting momentum may be fading\n- DYDX showing minimal 30-day growth (+1.0%)\n- LINK and infrastructure tokens (OP, ARB, ENS) have no direct TVL or show limited growth catalysts\n\n**Analysis:**\nThe cluster shows solid recent performance with a 30-day return of +8.25%, but momentum is decelerating (7-day: 4.03% \u2192 14-day: 1.55% annualized pace suggests slowing). The neutral market regime and high volatility present headwinds for the next 14 days. The strong TVL growth in SNX is encouraging, but this may already be priced in given recent returns.\n\nGiven the decelerating momentum, neutral market conditions, and the high volatility environment, I expect modest positive returns over the next 14 days, but below the recent 30-day average.\n\n```json\n{\"expected_return\": 0.12, \"confidence\": 0.65, \"reasoning\": \"Positive fundamentals (TVL growth, SNX momentum) support modest gains, but decelerating 14-day trend and neutral market regime suggest below-recent-average returns. High volatility (84.8% annualized) and -14.6% max drawdown create uncertainty. Estimating ~12% annualized return (modest 14-day gain of ~1.3%) with moderate confidence.\"}\n```",
+  "date": "2025-08-29",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:02.715570+00:00"
+}

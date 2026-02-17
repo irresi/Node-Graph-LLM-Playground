@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 (OP, ARB, ENS) shows conflicting signals: negative 30-day momentum (-9.01%) and high volatility (54.5%) suggest caution, but the bull market regime and DeFi TVL growth (+30.3%) provide tailwinds for L2/infrastructure tokens. The severe 7-day decline (-18%) may represent oversold conditions with potential mean-reversion bounce, but negative Sharpe ratio (-1.39) indicates risk-adjusted returns are poor. Modest positive forecast reflects potential reversal from oversold levels tempered by weak recent performance and high uncertainty in infrastructure token valuations without TVL metrics. Low confidence reflects limited predictability of L2 tokens and conflicting technical/macro signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 (OP, ARB, ENS) shows conflicting signals: negative 30-day momentum (-9.01%) and high volatility (54.5%) suggest caution, but the bull market regime and DeFi TVL growth (+30.3%) provide tailwinds for L2/infrastructure tokens. The severe 7-day decline (-18%) may represent oversold conditions with potential mean-reversion bounce, but negative Sharpe ratio (-1.39) indicates risk-adjusted returns are poor. Modest positive forecast reflects potential reversal from oversold levels tempered by weak recent performance and high uncertainty in infrastructure token valuations without TVL metrics. Low confidence reflects limited predictability of L2 tokens and conflicting technical/macro signals.\"\n}\n```",
+  "date": "2024-03-16",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:13.335954+00:00"
+}

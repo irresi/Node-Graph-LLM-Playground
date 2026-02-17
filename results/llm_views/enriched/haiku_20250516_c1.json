@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster momentum cooling after 31% 30-day rally (7-day return -1.13%), but supported by bull market regime and strong fundamentals. High volatility (80.4%) and recent consolidation suggest 14-day gains likely modest. Low confidence due to short forecast horizon and unpredictable L2/infrastructure token price dynamics.",
+  "raw_response": "Looking at the data provided for Cluster 1 (LINK, OP, ARB, ENS, GRT), I'll analyze the key factors:\n\n**Key Observations:**\n\n1. **Recent Momentum**: The cluster shows mixed signals:\n   - 30-day return: +31.36% (strong)\n   - 14-day return: +10.49% (moderate)\n   - 7-day return: -1.13% (weakening)\n   - This suggests momentum is cooling after a strong run\n\n2. **Volatility & Risk**: \n   - Annualized volatility: 80.4% (very high)\n   - Sharpe ratio: 3.28 (excellent risk-adjusted returns, but in a bull phase)\n   - Max drawdown: -14.1% (recent correction risk evident)\n\n3. **Market Context**:\n   - Overall DeFi TVL +34.9% (30-day) indicates a strong bull regime\n   - Moderate Bull market regime supports continued upside\n   - However, the recent 7-day negative return suggests the cluster may be consolidating\n\n4. **Governance Activity**: Active governance suggests engaged communities, but no extraordinary catalyst events\n\n5. **Forecast Challenges**:\n   - No yield data makes duration analysis difficult\n   - TVL mostly unavailable for L2/infrastructure tokens\n   - 14-day horizon is very short for reliable technical analysis\n\n**Analysis**: The cluster has strong fundamentals (bull market, high Sharpe ratio) but shows signs of near-term pullback after a 31% run. The next 14 days likely involve consolidation or modest gains, with elevated volatility. Given the weakening 7-day momentum but supportive market regime, I estimate modest positive returns with moderate-to-low confidence due to the short timeframe and high volatility.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.52, \"reasoning\": \"Cluster momentum cooling after 31% 30-day rally (7-day return -1.13%), but supported by bull market regime and strong fundamentals. High volatility (80.4%) and recent consolidation suggest 14-day gains likely modest. Low confidence due to short forecast horizon and unpredictable L2/infrastructure token price dynamics.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:05:17.189437+00:00",
+  "enriched": true
+}

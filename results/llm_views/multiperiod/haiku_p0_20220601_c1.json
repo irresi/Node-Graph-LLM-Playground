@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Bear market regime with -40.8% TVL decline and -59.15% 30-day cluster return. Strong downtrend evidenced by -4.70 Sharpe ratio and -49.6% max drawdown. However, 7-day (-2.51%) and 14-day (-0.18%) returns show deceleration of selling pressure, suggesting potential stabilization or capitulation bottom. CAKE TVL decline (-19.5%) is moderate relative to cluster average, but RPL (-27.4%) remains weak. Given extreme negative momentum, deteriorating TVL fundamentals across major components (CAKE, RPL), and persistent bear market conditions, expect continued downside but at reduced velocity. 14-day annualized extrapolation from -0.18% = approximately -4.7%, adjusted downward to -85% annualized due to tail risk in volatile, structurally-challenged DeFi environment. Low confidence reflects regime uncertainty and potential for capitulation reversal or continued decline.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bear market regime with -40.8% TVL decline and -59.15% 30-day cluster return. Strong downtrend evidenced by -4.70 Sharpe ratio and -49.6% max drawdown. However, 7-day (-2.51%) and 14-day (-0.18%) returns show deceleration of selling pressure, suggesting potential stabilization or capitulation bottom. CAKE TVL decline (-19.5%) is moderate relative to cluster average, but RPL (-27.4%) remains weak. Given extreme negative momentum, deteriorating TVL fundamentals across major components (CAKE, RPL), and persistent bear market conditions, expect continued downside but at reduced velocity. 14-day annualized extrapolation from -0.18% = approximately -4.7%, adjusted downward to -85% annualized due to tail risk in volatile, structurally-challenged DeFi environment. Low confidence reflects regime uncertainty and potential for capitulation reversal or continued decline.\"\n}\n```",
+  "date": "2022-06-02",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:05.162611+00:00"
+}

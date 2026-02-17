@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.95,
+  "confidence": 0.35,
+  "reasoning": "DYDX in bear market regime with severe downtrend: 7d return -19.07%, 14d return -40.55%, 30d volatility 77% annualized. Negative momentum and weak Sharpe ratio (-3.66) suggest continued weakness. However, TVL +1.5% (30d) shows some protocol stability. Low confidence due to extreme volatility in derivatives sector and potential for sharp reversals. Forecast assumes continued but moderating downside pressure over next 14 days, with annualized return reflecting high volatility environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX in bear market regime with severe downtrend: 7d return -19.07%, 14d return -40.55%, 30d volatility 77% annualized. Negative momentum and weak Sharpe ratio (-3.66) suggest continued weakness. However, TVL +1.5% (30d) shows some protocol stability. Low confidence due to extreme volatility in derivatives sector and potential for sharp reversals. Forecast assumes continued but moderating downside pressure over next 14 days, with annualized return reflecting high volatility environment.\"\n}\n```",
+  "date": "2024-06-19",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:40.464404+00:00"
+}

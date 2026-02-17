@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"BAL presents a clear bearish setup supported by quantifiable deterioration: 66.8% TVL collapse in 30 days (4x market decline",
+  "n_agents": 24,
+  "date": "2025-11-29 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

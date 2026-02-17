@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.58,
-  "confidence": 0.62,
-  "reasoning": "CAKE/PancakeSwap cluster shows strong momentum with +25.61% over 30 days and an exceptional Sharpe ratio of 2.98, indicating risk-adjusted returns well above average. The 7-day (+4.44%) and 14-day (+13.88%) trend shows consistent upward acceleration. TVL of $1.81B with +7.6% 30d growth confirms solid protocol fundamentals. The broader DeFi market is in a Moderate Bull regime with +25.5% TVL growth providing a favorable macro tailwind. However, annualized volatility of 72.2% and a max drawdown of -12.3% signal elevated risk. Forecasting ~58% annualized return (implying ~2.2% over 14 days) reflects continued but moderating momentum \u2014 mean reversion risk after a strong run tempers the near-term outlook. Single-token cluster reduces diversification, capping confidence at 0.62.",
-  "raw_response": "```json\n{\"expected_return\": 0.58, \"confidence\": 0.62, \"reasoning\": \"CAKE/PancakeSwap cluster shows strong momentum with +25.61% over 30 days and an exceptional Sharpe ratio of 2.98, indicating risk-adjusted returns well above average. The 7-day (+4.44%) and 14-day (+13.88%) trend shows consistent upward acceleration. TVL of $1.81B with +7.6% 30d growth confirms solid protocol fundamentals. The broader DeFi market is in a Moderate Bull regime with +25.5% TVL growth providing a favorable macro tailwind. However, annualized volatility of 72.2% and a max drawdown of -12.3% signal elevated risk. Forecasting ~58% annualized return (implying ~2.2% over 14 days) reflects continued but moderating momentum \u2014 mean reversion risk after a strong run tempers the near-term outlook. Single-token cluster reduces diversification, capping confidence at 0.62.\"}\n```",
-  "date": "2025-05-30",
+  "expected_return": -0.42,
+  "confidence": 0.38,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) shows strong near-term bearish momentum with -13.46% over 7 days and -13.32% over 14 days, despite a broader DeFi bull market (+19.6% TVL growth). This divergence suggests sector-specific headwinds \u2014 likely rotation out of L2/infrastructure tokens (ARB, OP) and oracle/indexing plays (LINK, GRT, ENS) into yield-bearing DeFi protocols capturing the TVL surge. The negative Sharpe (-0.14) and severe max drawdown (-24.8%) over 30 days reinforce a weak risk-adjusted profile. Annualizing the recent 14-day return of ~-13.3% yields approximately -0.35 to -0.45 on an annualized basis. Some mean-reversion potential exists given oversold conditions and positive macro DeFi backdrop, but momentum is firmly negative. Low confidence reflects high annualized volatility (91.3%) and the tension between macro tailwinds and cluster-specific underperformance.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.38,\n  \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) shows strong near-term bearish momentum with -13.46% over 7 days and -13.32% over 14 days, despite a broader DeFi bull market (+19.6% TVL growth). This divergence suggests sector-specific headwinds \u2014 likely rotation out of L2/infrastructure tokens (ARB, OP) and oracle/indexing plays (LINK, GRT, ENS) into yield-bearing DeFi protocols capturing the TVL surge. The negative Sharpe (-0.14) and severe max drawdown (-24.8%) over 30 days reinforce a weak risk-adjusted profile. Annualizing the recent 14-day return of ~-13.3% yields approximately -0.35 to -0.45 on an annualized basis. Some mean-reversion potential exists given oversold conditions and positive macro DeFi backdrop, but momentum is firmly negative. Low confidence reflects high annualized volatility (91.3%) and the tension between macro tailwinds and cluster-specific underperformance.\"\n}\n```",
+  "date": "2025-05-31",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:04:19.846231+00:00",
+  "generated_at": "2026-02-17T15:56:53.957946+00:00",
   "enriched": false
 }

@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 (UNI, AAVE) shows severe downtrend with -24.27% 30-day return and negative Sharpe ratio (-3.12) in bear market regime. However, 14-day return of -4.58% suggests deceleration from 7-day momentum (-13.78%), indicating potential stabilization. Both protocols maintain substantial TVL ($5.9B UNI, $20.7B AAVE) providing fundamental support. Annualized forecast of -85% reflects high volatility (65.3%) and oversold conditions, but confidence moderate (0.62) due to unpredictable bear market dynamics and potential capitulation-driven reversal. Momentum indicators suggest near-term bounce possible, but macro headwinds persist.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 (UNI, AAVE) shows severe downtrend with -24.27% 30-day return and negative Sharpe ratio (-3.12) in bear market regime. However, 14-day return of -4.58% suggests deceleration from 7-day momentum (-13.78%), indicating potential stabilization. Both protocols maintain substantial TVL ($5.9B UNI, $20.7B AAVE) providing fundamental support. Annualized forecast of -85% reflects high volatility (65.3%) and oversold conditions, but confidence moderate (0.62) due to unpredictable bear market dynamics and potential capitulation-driven reversal. Momentum indicators suggest near-term bounce possible, but macro headwinds persist.\"\n}\n```",
+  "date": "2025-01-13",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:24.934499+00:00"
+}

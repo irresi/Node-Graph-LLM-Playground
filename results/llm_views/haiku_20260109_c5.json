@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows recent 14-day bounce (+3.63%) but faces headwinds from bear market (-1.7% DeFi TVL), weak protocol fundamentals (MKR -10.6%, COMP -7.3%), and high volatility (42.8%). While 7-day momentum (+0.80%) is positive, recovery likely exhausting. Expecting modest annualized return (~8%) assuming partial continuation of recent momentum with mean reversion. Low confidence (0.42) reflects conflicting signals between near-term bounce and structural bear regime.",
+  "raw_response": "I'll analyze this DeFi cluster to forecast the expected 14-day annualized return.\n\n**Key Analysis Points:**\n\n1. **Market Regime & Momentum Divergence**\n   - Overall DeFi in bear regime (-1.7% TVL 30d change)\n   - However, cluster shows strong recent positive momentum: +0.80% (7d) and +3.63% (14d)\n   - This contrasts sharply with -5.88% 30-day performance, suggesting recovery/bounce\n\n2. **Volatility & Risk Metrics**\n   - High annualized volatility (42.8%) typical for yield/derivatives tokens\n   - Negative Sharpe ratio (-1.16) and -12.8% max drawdown indicate elevated risk\n   - Recovery momentum may be exhausting after strong 14-day run\n\n3. **Protocol Fundamentals**\n   - Mixed TVL trends: AAVE strong (+2.6%), but MKR struggling (-10.6%), COMP weak (-7.3%)\n   - TVL-weighted average shows stress, though some protocols (AAVE, CRV, GMX) holding\n   - Lending and DEX segments under pressure in bear market\n\n4. **Forward-Looking Assessment**\n   - 14-day positive momentum (+3.63%) is against the broader bear regime\n   - Risk of mean reversion given: negative 30-day performance, bear market conditions\n   - However, momentum can persist short-term; recent +0.80% weekly trend is constructive\n   - Cluster composition (yield/derivatives) historically underperforms in downturns\n\n5. **14-Day Forecast Considerations**\n   - The +3.63% recent 14-day performance may be partially exhausted\n   - Annualizing recent returns would be unsustainable\n   - Bear market conditions suggest caution, but near-term momentum provides support\n   - Expected moderation from recent pace, with modest positive to flat returns likely\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.42, \"reasoning\": \"Cluster shows recent 14-day bounce (+3.63%) but faces headwinds from bear market (-1.7% DeFi TVL), weak protocol fundamentals (MKR -10.6%, COMP -7.3%), and high volatility (42.8%). While 7-day momentum (+0.80%) is positive, recovery likely exhausting. Expecting modest annualized return (~8%) assuming partial continuation of recent momentum with mean reversion. Low confidence (0.42) reflects conflicting signals between near-term bounce and structural bear regime.\"}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:45:07.389008+00:00",
+  "enriched": false
+}

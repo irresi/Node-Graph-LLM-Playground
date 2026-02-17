@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.35,
-  "reasoning": "CAKE (PancakeSwap) shows a conflicted signal: strong short-term momentum (+7.29% over 7d, +15.22% over 14d) contrasts sharply with the negative 30-day return (-5.60%) and a bear market regime. The recent bounce may reflect a short-term relief rally rather than a trend reversal. TVL of $1.85B with modest +2.9% 30d growth indicates stable but not accelerating fundamentals. Annualized return of ~18% reflects the positive 14-day momentum extrapolated forward, but confidence is low (0.35) due to: (1) overarching bear market regime, (2) high annualized volatility (49%) making near-term direction uncertain, (3) negative Sharpe (-0.96) and deep max drawdown (-21.5%) suggesting structural selling pressure that could resume. The upside from momentum is real but fragile.",
-  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) shows a conflicted signal: strong short-term momentum (+7.29% over 7d, +15.22% over 14d) contrasts sharply with the negative 30-day return (-5.60%) and a bear market regime. The recent bounce may reflect a short-term relief rally rather than a trend reversal. TVL of $1.85B with modest +2.9% 30d growth indicates stable but not accelerating fundamentals. Annualized return of ~18% reflects the positive 14-day momentum extrapolated forward, but confidence is low (0.35) due to: (1) overarching bear market regime, (2) high annualized volatility (49%) making near-term direction uncertain, (3) negative Sharpe (-0.96) and deep max drawdown (-21.5%) suggesting structural selling pressure that could resume. The upside from momentum is real but fragile.\"}\n```",
-  "date": "2025-07-11",
+  "expected_return": 0.42,
+  "confidence": 0.31,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) presents a highly conflicted signal environment. Strong short-term momentum (+18.23% 7-day, +19.73% 14-day) suggests a sharp relief rally, likely driven by broader crypto sentiment or L2 narrative rotation. However, the overarching bear regime (strong downtrend), poor 30-day return (-1.09%), deep max drawdown (-21.2%), and negative Sharpe (-0.13) all argue against sustained continuation. The TVL data is sparse for this cluster (infrastructure/governance tokens have limited protocol revenue capture), weakening fundamental support. The positive 14-day momentum is annualized to ~514%, which is clearly unsustainable \u2014 mean reversion risk is high. Discounting heavily for bear regime persistence and momentum decay, a modest positive annualized return of ~42% is projected for the next 14-day window, reflecting a tapering but not fully reversed momentum impulse. Confidence is low (0.31) given the severe tension between short-term momentum and medium-term bear trend, high volatility (72.7% annualized), and absence of fundamental TVL anchors for most tokens in the cluster.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.31, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) presents a highly conflicted signal environment. Strong short-term momentum (+18.23% 7-day, +19.73% 14-day) suggests a sharp relief rally, likely driven by broader crypto sentiment or L2 narrative rotation. However, the overarching bear regime (strong downtrend), poor 30-day return (-1.09%), deep max drawdown (-21.2%), and negative Sharpe (-0.13) all argue against sustained continuation. The TVL data is sparse for this cluster (infrastructure/governance tokens have limited protocol revenue capture), weakening fundamental support. The positive 14-day momentum is annualized to ~514%, which is clearly unsustainable \u2014 mean reversion risk is high. Discounting heavily for bear regime persistence and momentum decay, a modest positive annualized return of ~42% is projected for the next 14-day window, reflecting a tapering but not fully reversed momentum impulse. Confidence is low (0.31) given the severe tension between short-term momentum and medium-term bear trend, high volatility (72.7% annualized), and absence of fundamental TVL anchors for most tokens in the cluster.\"}\n```",
+  "date": "2025-07-12",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:06:49.059623+00:00",
+  "generated_at": "2026-02-17T15:58:44.725561+00:00",
   "enriched": false
 }

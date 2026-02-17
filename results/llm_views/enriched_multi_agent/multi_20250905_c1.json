@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.04,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.04,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bull argues mean reversion setup from -14.68% 14-day drawdown with governance strength; Bear counters with momentum collapse,",
+  "n_agents": 6,
+  "date": "2025-09-06 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

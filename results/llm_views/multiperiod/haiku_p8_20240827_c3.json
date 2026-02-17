@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "MKR in bear market with -29.23% 30-day loss and -36.4% max drawdown. However, recent 7-day bounce (+1.47%) and 14-day improvement (-4.50% vs -29.23% monthly) suggest stabilization. TVL decline (-19.4%) indicates protocol stress. High volatility (81.3%) and negative Sharpe (-3.02) reflect risk. Forecasting modest negative return annualizing recent 14-day trend (-4.50%), but low confidence due to extreme volatility and bear regime making momentum unreliable. Recovery potential exists given oversold conditions, but downside risks from continued DeFi TVL contraction (-22% monthly).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR in bear market with -29.23% 30-day loss and -36.4% max drawdown. However, recent 7-day bounce (+1.47%) and 14-day improvement (-4.50% vs -29.23% monthly) suggest stabilization. TVL decline (-19.4%) indicates protocol stress. High volatility (81.3%) and negative Sharpe (-3.02) reflect risk. Forecasting modest negative return annualizing recent 14-day trend (-4.50%), but low confidence due to extreme volatility and bear regime making momentum unreliable. Recovery potential exists given oversold conditions, but downside risks from continued DeFi TVL contraction (-22% monthly).\"\n}\n```",
+  "date": "2024-08-28",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:08.723065+00:00"
+}

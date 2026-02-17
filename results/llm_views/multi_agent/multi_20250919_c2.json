@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.65,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bear Researcher's fundamental-to-price disconnect thesis is the most data-supported argument. TVL growth (+6.3% cluster, +13",
+  "n_agents": 12,
+  "date": "2025-09-20 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

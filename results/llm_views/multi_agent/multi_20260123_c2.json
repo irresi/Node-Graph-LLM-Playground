@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.45,
+  "reasoning": "I'll synthesize the analyst reports and researcher arguments to produce a calibrated forecast.\n\n**Analysis:**\n\nBoth researchers honestly acknowledged that the data presents a **coherent bearish case**",
+  "n_agents": 12,
+  "date": "2026-01-24 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

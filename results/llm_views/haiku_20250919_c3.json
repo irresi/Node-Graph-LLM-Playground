@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.32,
+  "confidence": 0.58,
+  "reasoning": "Cluster in bear market regime with -7.55% 30-day return and -8.08% 7-day return, indicating strong downward momentum despite +0.29% 14-day recovery. TVL fundamentals stable (+1.0% to +3.9% across protocols), but high volatility (73.6% annualized) and negative Sharpe ratio (-0.86) suggest technical weakness dominates fundamentals. Recent 14-day bounce may face resistance; bear trend likely to continue. Moderate confidence due to volatile market regime and potential mean-reversion counterplay against negative momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster in bear market regime with -7.55% 30-day return and -8.08% 7-day return, indicating strong downward momentum despite +0.29% 14-day recovery. TVL fundamentals stable (+1.0% to +3.9% across protocols), but high volatility (73.6% annualized) and negative Sharpe ratio (-0.86) suggest technical weakness dominates fundamentals. Recent 14-day bounce may face resistance; bear trend likely to continue. Moderate confidence due to volatile market regime and potential mean-reversion counterplay against negative momentum.\"\n}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:14.996235+00:00",
+  "enriched": false
+}

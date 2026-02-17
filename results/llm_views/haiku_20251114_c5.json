@@ -1,0 +1,21 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with accelerating downward momentum (7d worse than 14d). AAVE dominance provides some support but COMP/GMX weakness and high volatility (65.8%) suggest continued decline. Expected ~-4% to -6% over 14 days (-140% to -180% annualized). Confidence moderate due to volatility and potential mean-reversion after steep drawdown.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a return forecast for the next 14 days.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market regime with -17% TVL decline over 30 days\n- Cluster showing accelerating downward momentum: -19.84% (30d) \u2192 -10.99% (14d) \u2192 -11.87% (7d)\n- Negative Sharpe ratio (-2.53) indicates risk-adjusted returns are poor\n\n**Cluster Composition Analysis:**\nThis is a blue-chip DeFi cluster (CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) with mixed fundamentals:\n- **Strengths**: AAVE dominates by TVL ($32.8B), relatively stable; MKR showing resilience (+0.9% TVL change)\n- **Weaknesses**: COMP declining sharply (-22.2% TVL); GMX weak (-14.4% TVL); cluster volatility very high (65.8%)\n\n**Momentum Signals:**\n- 7-day return (-11.87%) worse than 14-day return (-10.99%), suggesting *re-acceleration* of downward pressure\n- Max drawdown of -19.2% indicates volatility and capitulation risk\n- Negative momentum within a bear regime typically continues\n\n**Key Considerations:**\n1. Bear market regimes tend to persist short-term (2-4 weeks typical)\n2. DeFi tokens highly correlated; cluster downsides usually follow through\n3. 14-day horizon is short; trend reversal unlikely without external catalyst\n4. High volatility (65.8%) means large moves are possible but directionally likely downward given momentum\n5. No positive catalysts visible in the data; regulatory/macro headwinds typically continue\n\n**Forecast Rationale:**\nGiven the bear regime, negative momentum acceleration, and lack of stabilizing signals, I expect continued weakness over the next 14 days. However, some mean-reversion is possible after steep declines. The forecast reflects:\n- Expected continued downside but at a decelerating rate\n- Risk of additional capitulation (confidence is modest due to high volatility)\n- Annualized return calculation: ~-5% to -8% over 14 days = roughly -130% to -210% annualized\n\n```json\n{\"expected_return\": -1.45, \"confidence\": 0.62, \"reasoning\": \"Bear market regime with accelerating downward momentum (7d worse than 14d). AAVE dominance provides some support but COMP/GMX weakness and high volatility (65.8%) suggest continued decline. Expected ~-4% to -6% over 14 days (-140% to -180% annualized). Confidence moderate due to volatility and potential mean-reversion after steep drawdown.\"}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:43:20.558755+00:00",
+  "enriched": false
+}

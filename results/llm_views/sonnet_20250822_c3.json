@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.32,
-  "confidence": 0.62,
-  "reasoning": "Cluster 3 faces significant headwinds in a confirmed bear/strong-downtrend regime. The 30-day return of -8.77% and deeply negative Sharpe ratio (-0.94) reflect persistent selling pressure, compounded by a severe max drawdown of -20.1%. However, the 14-day return of +0.12% hints at near-term stabilization, and protocol fundamentals show selective strength: SUSHI TVL surged +29.1%, LDO +13.4%, and RPL +14.6%, suggesting underlying demand for liquid staking and select DEX venues despite macro headwinds. UNI's modest +3.3% TVL growth and SNX's slight decline (-1.0%) weigh on the composite. Annualizing the recent 7-day momentum (-6.84% over 7d \u2248 -260% annualized) would be extreme; the forecast is tempered by the stabilizing 14-day signal and improving TVL fundamentals. The bear regime and high volatility (78.4% annualized) dominate, with only partial offset from protocol-level strength. Confidence is moderate given conflicting short-term signals and regime uncertainty.",
-  "raw_response": "```json\n{\"expected_return\": -0.32, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 faces significant headwinds in a confirmed bear/strong-downtrend regime. The 30-day return of -8.77% and deeply negative Sharpe ratio (-0.94) reflect persistent selling pressure, compounded by a severe max drawdown of -20.1%. However, the 14-day return of +0.12% hints at near-term stabilization, and protocol fundamentals show selective strength: SUSHI TVL surged +29.1%, LDO +13.4%, and RPL +14.6%, suggesting underlying demand for liquid staking and select DEX venues despite macro headwinds. UNI's modest +3.3% TVL growth and SNX's slight decline (-1.0%) weigh on the composite. Annualizing the recent 7-day momentum (-6.84% over 7d \u2248 -260% annualized) would be extreme; the forecast is tempered by the stabilizing 14-day signal and improving TVL fundamentals. The bear regime and high volatility (78.4% annualized) dominate, with only partial offset from protocol-level strength. Confidence is moderate given conflicting short-term signals and regime uncertainty.\"}\n```",
-  "date": "2025-08-22",
+  "expected_return": -0.12,
+  "confidence": 0.35,
+  "reasoning": "CVX (Convex Finance) shows a mixed signal environment. While the broader DeFi market is in a moderate bull regime with TVL up +22% over 30 days and CVX's own TVL growing +8.7%, the token's recent price performance is deeply negative: -11.08% over 30 days with a Sharpe of -0.83 and a severe max drawdown of -36.5%. The 7-day return of +3.63% offers a faint near-term recovery signal, but the 14-day return of -4.55% suggests the bounce is fragile and may not be sustained. Annualized volatility of 111.7% makes directional conviction difficult. The disconnect between growing TVL fundamentals and poor price performance could indicate persistent sell pressure or token-specific headwinds (e.g., CRV ecosystem stress, reduced incentive demand). On balance, the negative medium-term momentum dominates, leading to a modestly negative annualized return forecast with low confidence given the high volatility and mixed signals.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.35, \"reasoning\": \"CVX (Convex Finance) shows a mixed signal environment. While the broader DeFi market is in a moderate bull regime with TVL up +22% over 30 days and CVX's own TVL growing +8.7%, the token's recent price performance is deeply negative: -11.08% over 30 days with a Sharpe of -0.83 and a severe max drawdown of -36.5%. The 7-day return of +3.63% offers a faint near-term recovery signal, but the 14-day return of -4.55% suggests the bounce is fragile and may not be sustained. Annualized volatility of 111.7% makes directional conviction difficult. The disconnect between growing TVL fundamentals and poor price performance could indicate persistent sell pressure or token-specific headwinds (e.g., CRV ecosystem stress, reduced incentive demand). On balance, the negative medium-term momentum dominates, leading to a modestly negative annualized return forecast with low confidence given the high volatility and mixed signals.\"}\n```",
+  "date": "2025-08-23",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:09:51.784478+00:00",
+  "generated_at": "2026-02-17T16:00:59.877921+00:00",
   "enriched": false
 }

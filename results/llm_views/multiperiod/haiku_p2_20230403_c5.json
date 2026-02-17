@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "Short-term momentum shows 7-day rebound (+3.97%) suggesting mean reversion, supported by DeFi TVL growth and MKR fundamentals. However, bear market regime, negative Sharpe ratio (-2.08), and high volatility (45.6%) limit conviction. Modest positive bias with low-to-moderate confidence reflects oversold technical conditions balanced against structural headwinds.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 5 (UNI, SUSHI, CAKE, MKR)\n\n**Key Observations:**\n\n1. **Market Regime**: Moderate Bear market with negative overall trend, but DeFi TVL showed +6.2% growth (positive signal)\n\n2. **Recent Momentum**: \n   - 7-day return: +3.97% (positive reversal)\n   - 14-day return: -2.95% (still negative)\n   - 30-day return: -11.29% (significant decline)\n   - Pattern suggests recovery phase initiating\n\n3. **Protocol Fundamentals**:\n   - UNI: Stable TVL (+0.3%), largest position\n   - SUSHI: Declining TVL (-5.5%), weakest performer\n   - CAKE: Moderate decline (-2.0%)\n   - MKR: Strong growth (+8.9%), best fundamental support\n   - Mixed signals but MKR strength provides some support\n\n4. **Risk Metrics**:\n   - High annualized volatility (45.6%) indicates elevated risk\n   - Negative Sharpe ratio (-2.08) shows poor risk-adjusted returns\n   - Max drawdown of -14.6% already experienced\n   - Oversold conditions may support bounce\n\n5. **14-Day Outlook**:\n   - Recent 7-day rebound (+3.97%) suggests potential continuation\n   - TVL growth in DeFi ecosystem provides tailwind\n   - MKR's strong fundamentals could lead the cluster\n   - However, bear market regime and negative Sharpe suggest limited upside\n   - High volatility creates significant uncertainty\n\n**Forecast Rationale**: Given the technical recovery (7-day +3.97%) combined with slight TVL growth, I expect modest positive returns over 14 days. However, the bear market regime, negative momentum on longer timeframes, and weak Sharpe ratio limit confidence. The 14-day window may capture continued mean reversion before potential further weakness.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"Short-term momentum shows 7-day rebound (+3.97%) suggesting mean reversion, supported by DeFi TVL growth and MKR fundamentals. However, bear market regime, negative Sharpe ratio (-2.08), and high volatility (45.6%) limit conviction. Modest positive bias with low-to-moderate confidence reflects oversold technical conditions balanced against structural headwinds.\"}\n```",
+  "date": "2023-04-04",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:12.023671+00:00"
+}

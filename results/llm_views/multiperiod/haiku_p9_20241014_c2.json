@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.68,
+  "reasoning": "Bull market regime and strong TVL fundamentals (3/4 tokens showing growth) support positive bias. However, recent 14-day weakness (-1.06%) suggests consolidation. Expecting moderate upside from solid 30-day trend and protocol growth, but with caution given recent pullback. Annualized return of 28% reflects ~2% expected 14-day gain scaled to annual basis.",
+  "raw_response": "I'll analyze this DeFi cluster (SUSHI, CAKE, BAL, SNX) to forecast its 14-day expected return.\n\n## Analysis\n\n**Current Market Conditions:**\n- Bull market regime with strong TVL growth (+11.3% DeFi-wide)\n- Cluster showed impressive 30-day performance (+12.23%) with solid Sharpe ratio (2.02)\n- Moderate volatility (51% annualized) suggests healthy risk-adjusted returns\n\n**Cluster-Specific Fundamentals:**\n- **SUSHI**: Strong momentum (+21.5% TVL growth), leading the cluster\n- **CAKE**: Largest position ($1774M TVL) with stable +6.4% growth\n- **BAL**: Solid +11.8% TVL growth, well-positioned\n- **SNX**: Weak signal (-2.4% TVL decline), slight headwind\n\n**Momentum Analysis:**\n- 7-day return (+4.10%) shows recent positive momentum\n- 14-day return (-1.06%) indicates recent pullback/consolidation\n- 30-day return (+12.23%) shows strong underlying trend\n\n**Key Considerations:**\n1. The +11.3% DeFi TVL growth and bull regime support continued upside\n2. Recent 14-day weakness (-1.06%) suggests some consolidation or profit-taking\n3. Three of four tokens show strong TVL growth (SUSHI, CAKE, BAL)\n4. The cluster's 51% volatility and 2.02 Sharpe ratio indicate quality risk-adjusted performance\n5. 14-day forecast is shorter timeframe than the 30-day strength shown\n\n**Forecast Rationale:**\n- Expect partial reversion toward the 30-day trend given bull market conditions\n- Consolidation phase may limit gains over 14-day period\n- Strong fundamental growth in 3/4 tokens supports moderate positive bias\n- Some caution due to recent weakness and SNX drag\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.68, \"reasoning\": \"Bull market regime and strong TVL fundamentals (3/4 tokens showing growth) support positive bias. However, recent 14-day weakness (-1.06%) suggests consolidation. Expecting moderate upside from solid 30-day trend and protocol growth, but with caution given recent pullback. Annualized return of 28% reflects ~2% expected 14-day gain scaled to annual basis.\"}\n```",
+  "date": "2024-10-15",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:13.263330+00:00"
+}

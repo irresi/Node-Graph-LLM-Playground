@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster showing strong positive momentum with 13.66% 30-day return and 10.70% 14-day return in moderate bull regime. TVL growth across all tokens (particularly LDO +29.3%, SUSHI +32.7%, RPL +28.1%) indicates healthy protocol adoption. High annualized volatility (84.1%) and recent max drawdown (-20.1%) suggest significant near-term risk. Extrapolating recent 14-day momentum (+10.70% \u2248 278% annualized) appears overly optimistic; moderating to 42% annualized accounts for mean reversion while maintaining bullish conviction. Strong Sharpe ratio (1.36) supports positive risk-adjusted returns. Confidence moderate due to: (1) high volatility creating execution risk, (2) momentum-driven returns may not sustain, (3) macro/regulatory unknowns over 14-day window.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster showing strong positive momentum with 13.66% 30-day return and 10.70% 14-day return in moderate bull regime. TVL growth across all tokens (particularly LDO +29.3%, SUSHI +32.7%, RPL +28.1%) indicates healthy protocol adoption. High annualized volatility (84.1%) and recent max drawdown (-20.1%) suggest significant near-term risk. Extrapolating recent 14-day momentum (+10.70% \u2248 278% annualized) appears overly optimistic; moderating to 42% annualized accounts for mean reversion while maintaining bullish conviction. Strong Sharpe ratio (1.36) supports positive risk-adjusted returns. Confidence moderate due to: (1) high volatility creating execution risk, (2) momentum-driven returns may not sustain, (3) macro/regulatory unknowns over 14-day window.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:16.990268+00:00",
+  "enriched": false
+}

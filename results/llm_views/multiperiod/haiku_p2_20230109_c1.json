@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.55,
+  "reasoning": "Recent 13-14% two-week rally suggests +22% annualized, but bear regime and mean reversion risk limit sustainability. AAVE TVL growth (+6.4%) provides fundamental support. High volatility (46.8%) and negative Sharpe indicate elevated risk. Moderate confidence reflects pullback risk in declining market against recent momentum.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Moderate bear market with overall DeFi TVL showing minimal growth (+0.7% 30d), suggesting headwinds\n\n2. **Recent Momentum vs. Longer-term Performance**:\n   - 7-day return: +15.96% (strong positive)\n   - 14-day return: +13.04% (strong positive)\n   - 30-day return: -1.03% (slight negative)\n   - This shows recent recovery but a weak overall month\n\n3. **Cluster Composition Analysis**:\n   - **AAVE**: Major lending protocol with solid TVL growth (+6.4% 30d), $4021M TVL - shows protocol strength\n   - **GRT**: Infrastructure/L2 token without TVL metric - typically more volatile, sentiment-driven\n\n4. **Risk Metrics**:\n   - High annualized volatility (46.8%) - significant swings expected\n   - Negative Sharpe ratio (-0.18) - poor risk-adjusted returns\n   - Large max drawdown (-16.7%) - susceptible to sharp corrections\n\n5. **Forward-Looking Factors**:\n   - Cluster is near a recovery peak after strong 2-week rally\n   - Mean reversion risk is moderate-to-high given the momentum surge\n   - Bear market regime suggests sustainability of rallies is limited\n   - AAVE fundamentals improving (TVL growth) provides some support\n\n**Forecast Rationale:**\nThe recent +13-15% rally is likely subject to some consolidation or pullback given the bear market environment. However, AAVE's solid fundamentals provide a floor. For the next 14 days, I expect moderate positive returns but with pullback risk limiting upside. Annualizing modest 14-day gains with high volatility and bear regime backdrop.\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.55, \"reasoning\": \"Recent 13-14% two-week rally suggests +22% annualized, but bear regime and mean reversion risk limit sustainability. AAVE TVL growth (+6.4%) provides fundamental support. High volatility (46.8%) and negative Sharpe indicate elevated risk. Moderate confidence reflects pullback risk in declining market against recent momentum.\"}\n```",
+  "date": "2023-01-10",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:03.442899+00:00"
+}

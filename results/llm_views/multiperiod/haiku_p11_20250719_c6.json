@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "YFI shows strong bullish momentum with 19.21% 30-day return and exceptional TVL growth (+79.4%), indicating robust protocol fundamentals. The 3.26 Sharpe ratio and bull market regime support continued outperformance. However, annualizing 14-day forward returns from a single-token cluster carries concentration risk. The recent 8.30% 7-day return suggests momentum may be moderating, and the 49.5% volatility implies potential for mean reversion. Forecasting 42% annualized return (approximately 1.1% over 14 days) reflects positive momentum while accounting for volatility headwinds and concentration risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"YFI shows strong bullish momentum with 19.21% 30-day return and exceptional TVL growth (+79.4%), indicating robust protocol fundamentals. The 3.26 Sharpe ratio and bull market regime support continued outperformance. However, annualizing 14-day forward returns from a single-token cluster carries concentration risk. The recent 8.30% 7-day return suggests momentum may be moderating, and the 49.5% volatility implies potential for mean reversion. Forecasting 42% annualized return (approximately 1.1% over 14 days) reflects positive momentum while accounting for volatility headwinds and concentration risk.\"\n}\n```",
+  "date": "2025-07-20",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:26.723959+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.082,
+  "confidence": 0.52,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.082,\n  \"confidence\": 0.52,\n  \"reasoning\": \"CVX shows legitimate bullish fundamentals (TVL +31.2%, Sharpe 3.37, organic gauge-voting demand) but faces near-term headwin",
+  "n_agents": 18,
+  "date": "2025-05-17 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

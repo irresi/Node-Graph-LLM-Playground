@@ -1,0 +1,30 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -27.75% 30-day loss and -31.7% max drawdown. However, recent 7-day rebound (+3.43%) suggests potential mean reversion bounce in next 14 days. High volatility (107.3% annualized) and negative Sharpe ratio (-2.17) indicate elevated risk. Mixed protocol fundamentals: AAVE dominance (39% TVL) faces -10.9% headwind, but CRV shows strength (+12.2%). Forecastdownside bias but moderate confidence given conflicting signals\u2014assuming partial recovery from oversold conditions tempered by persistent bear regime. Annualized -45% reflects expected continued decline with some stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -27.75% 30-day loss and -31.7% max drawdown. However, recent 7-day rebound (+3.43%) suggests potential mean reversion bounce in next 14 days. High volatility (107.3% annualized) and negative Sharpe ratio (-2.17) indicate elevated risk. Mixed protocol fundamentals: AAVE dominance (39% TVL) faces -10.9% headwind, but CRV shows strength (+12.2%). Forecastdownside bias but moderate confidence given conflicting signals\u2014assuming partial recovery from oversold conditions tempered by persistent bear regime. Annualized -45% reflects expected continued decline with some stabilization.\"\n}\n```",
+  "date": "2025-10-30",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:51.756038+00:00"
+}

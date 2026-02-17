@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "CVX shows recent positive momentum (+11.60% over 14d) but faces structural headwinds: -10.6% TVL decline, negative Sharpe ratio (-0.60), and bear market regime. High volatility (81.6%) and modest yields (5.14%) limit conviction. Modest positive return expected from short-term momentum, but low confidence due to conflicting signals and macro headwinds.",
+  "raw_response": "Based on the market data provided for CVX (Cluster 3), here is my analysis:\n\n**Key Observations:**\n1. **Recent Momentum**: Strong positive 14-day return (+11.60%) and 7-day return (+1.75%) despite negative 30-day performance (-5.81%)\n2. **Market Regime**: Bear market environment with overall DeFi TVL growth of only +6.3%\n3. **Token-Specific Headwinds**: CVX TVL declined -10.6% in 30 days, indicating reduced confidence in the Convex protocol\n4. **Volatility**: Extremely high annualized volatility at 81.6%, reflecting yield/governance token risk\n5. **Yield Fundamentals**: Modest 5.14% weighted average APY with concentrated TVL in top 2 pools\n6. **Governance Activity**: Active DAO participation (3 active proposals) but relatively stable governance ecosystem\n7. **Sharpe Ratio**: Negative -0.60 indicates poor risk-adjusted returns\n\n**Forward-Looking Assessment:**\n- The recent 14-day bounce (+11.60%) appears to be a counter-trend recovery within a bear market\n- Declining TVL suggests structural challenges for the Convext ecosystem\n- High volatility means mean reversion is likely, but direction is uncertain\n- Over just 14 days, momentum may persist, but the negative Sharpe ratio and TVL decline suggest limited upside\n- Conservative positioning warranted given bear regime and token fundamentals\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"CVX shows recent positive momentum (+11.60% over 14d) but faces structural headwinds: -10.6% TVL decline, negative Sharpe ratio (-0.60), and bear market regime. High volatility (81.6%) and modest yields (5.14%) limit conviction. Modest positive return expected from short-term momentum, but low confidence due to conflicting signals and macro headwinds.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:03.877321+00:00",
+  "enriched": true
+}

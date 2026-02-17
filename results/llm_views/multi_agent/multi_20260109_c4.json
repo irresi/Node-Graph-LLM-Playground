@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.75,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.75,\n  \"reasoning\": \"BAL faces a confluence of bearish signals: (1) Protocol-specific deterioration\u201424.43% monthly underperformance vs. 1.7% sect",
+  "n_agents": 24,
+  "date": "2026-01-10 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

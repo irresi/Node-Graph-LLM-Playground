@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Strong bull market regime with positive TVL momentum (LDO +19.7%, RPL +28.0%) and excellent recent performance (7-day return +16.07%, Sharpe ratio 1.83). However, elevated volatility (59.8% annualized) and recent max drawdown of -10.6% create mean reversion risk. Annualized forecast of 42% represents moderation from 7-day pace (+16.07% annualized to 14-day) accounting for potential consolidation, while maintaining bullish bias. Medium confidence reflects strong fundamentals offset by cyclical nature of DeFi risk assets and likelihood of volatility expansion at these valuations.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Strong bull market regime with positive TVL momentum (LDO +19.7%, RPL +28.0%) and excellent recent performance (7-day return +16.07%, Sharpe ratio 1.83). However, elevated volatility (59.8% annualized) and recent max drawdown of -10.6% create mean reversion risk. Annualized forecast of 42% represents moderation from 7-day pace (+16.07% annualized to 14-day) accounting for potential consolidation, while maintaining bullish bias. Medium confidence reflects strong fundamentals offset by cyclical nature of DeFi risk assets and likelihood of volatility expansion at these valuations.\"\n}\n```",
+  "date": "2023-04-18",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:20.267243+00:00"
+}

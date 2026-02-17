@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 faces headwinds from bear market regime (DeFi TVL down 20.2%) and negative 14-day momentum (-11.79%), though 7-day recovery (+0.52%) suggests stabilization. CAKE's modest TVL decline (-3.9%) vs MKR's steeper contraction (-12.3%) indicates divergent protocol health. High volatility (66.8% annualized) and negative Sharpe ratio (-2.19) suggest elevated risk. Near-term recovery potential exists given oversold conditions, but bear sentiment likely persists. Forecast reflects cautious outlook with moderate confidence given conflicting signals between 7-day bounce and persistent downtrend.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 faces headwinds from bear market regime (DeFi TVL down 20.2%) and negative 14-day momentum (-11.79%), though 7-day recovery (+0.52%) suggests stabilization. CAKE's modest TVL decline (-3.9%) vs MKR's steeper contraction (-12.3%) indicates divergent protocol health. High volatility (66.8% annualized) and negative Sharpe ratio (-2.19) suggest elevated risk. Near-term recovery potential exists given oversold conditions, but bear sentiment likely persists. Forecast reflects cautious outlook with moderate confidence given conflicting signals between 7-day bounce and persistent downtrend.\"\n}\n```",
+  "date": "2025-11-27",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:21.398137+00:00"
+}

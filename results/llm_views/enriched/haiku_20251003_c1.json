@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows mixed signals: positive 7-day momentum (+7.0%) suggests near-term recovery potential, but weak 14-day (-6.52%) and 30-day (-4.52%) returns indicate underlying weakness. High volatility (51.6%) and negative Sharpe ratio (-0.74) reflect risk/reward imbalance. Neutral market regime and active governance (OP, ARB, ENS, GRT all have recent proposals) provide some support, but lack of TVL data for most tokens and absence of yield metrics limit conviction. The 14-day forecast annualizes recent 7-day strength, but low confidence reflects macro headwinds and cluster underperformance relative to broader DeFi recovery (+8.2% TVL growth).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows mixed signals: positive 7-day momentum (+7.0%) suggests near-term recovery potential, but weak 14-day (-6.52%) and 30-day (-4.52%) returns indicate underlying weakness. High volatility (51.6%) and negative Sharpe ratio (-0.74) reflect risk/reward imbalance. Neutral market regime and active governance (OP, ARB, ENS, GRT all have recent proposals) provide some support, but lack of TVL data for most tokens and absence of yield metrics limit conviction. The 14-day forecast annualizes recent 7-day strength, but low confidence reflects macro headwinds and cluster underperformance relative to broader DeFi recovery (+8.2% TVL growth).\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:12.882586+00:00",
+  "enriched": true
+}

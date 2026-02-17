@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.55,
+  "reasoning": "Strong 14d momentum (+12.08%) contrasts with deteriorating TVL (-13.2%) and negative 30d return (-6.28%). Forecast reflects tactical bounce potential but elevated mean-reversion risk. High volatility (63.2%) and neutral market regime reduce confidence. Momentum may persist short-term but fundamentals suggest caution.",
+  "raw_response": "Looking at the provided data for Cluster 2 (DYDX), let me analyze the key factors:\n\n**Analysis:**\n\n1. **Recent Momentum**: The cluster shows strong positive momentum with +13.96% return over 7 days and +12.08% over 14 days, suggesting recent bullish sentiment.\n\n2. **Fundamental Concerns**: DYDX TVL has declined significantly (-13.2% in 30 days), indicating weakening protocol fundamentals and user engagement, which contradicts the positive price momentum.\n\n3. **Volatility**: Annualized volatility of 63.2% reflects high risk and uncertainty, with a max drawdown of -14.2% showing substantial downside exposure.\n\n4. **Market Regime**: Neutral/range-bound DeFi market with modest TVL growth (+2.5%) suggests a cautious overall environment.\n\n5. **Momentum vs Fundamentals**: The recent price strength (+13.96% in 7d) appears to be a tactical bounce rather than fundamentally driven, given the deteriorating TVL.\n\n**Forecast Rationale**: \nThe recent 14-day momentum of +12.08% annualizes to approximately 185%, but this is likely mean-reverting given weakening fundamentals and the negative 30-day return. I'm adjusting downward to reflect the TVL decline and the neutral market regime, while acknowledging the possibility of near-term continued momentum before reversal.\n\n```json\n{\"expected_return\": 0.35, \"confidence\": 0.55, \"reasoning\": \"Strong 14d momentum (+12.08%) contrasts with deteriorating TVL (-13.2%) and negative 30d return (-6.28%). Forecast reflects tactical bounce potential but elevated mean-reversion risk. High volatility (63.2%) and neutral market regime reduce confidence. Momentum may persist short-term but fundamentals suggest caution.\"}\n```",
+  "date": "2024-09-25",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:39.380233+00:00"
+}

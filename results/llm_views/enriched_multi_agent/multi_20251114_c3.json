@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.082,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.082,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Both Bull and Bear researchers converge on bearish fundamentals with no genuine bullish case presented. The protocol shows ",
+  "n_agents": 18,
+  "date": "2025-11-15 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

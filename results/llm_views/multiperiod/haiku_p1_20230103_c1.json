@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows mixed signals in bear market: Recent 7-day momentum (+4.72%) and 14-day recovery (+1.95%) suggest potential bounce, but 30-day decline (-10%) and negative Sharpe ratio (-2.14) indicate underlying weakness. TVL erosion across holdings (especially SNX -18%, LDO -2.8%) concerns fundamentals. High volatility (39.2%) and max drawdown (-18.2%) suggest continued risk. Forecasting modest positive return from recent momentum reversal, but low confidence due to bear regime and deteriorating protocol metrics. Risk of mean reversion downward remains elevated.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows mixed signals in bear market: Recent 7-day momentum (+4.72%) and 14-day recovery (+1.95%) suggest potential bounce, but 30-day decline (-10%) and negative Sharpe ratio (-2.14) indicate underlying weakness. TVL erosion across holdings (especially SNX -18%, LDO -2.8%) concerns fundamentals. High volatility (39.2%) and max drawdown (-18.2%) suggest continued risk. Forecasting modest positive return from recent momentum reversal, but low confidence due to bear regime and deteriorating protocol metrics. Risk of mean reversion downward remains elevated.\"\n}\n```",
+  "date": "2023-01-04",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:27.822386+00:00"
+}

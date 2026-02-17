@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.68,
+  "confidence": 0.72,
+  "reasoning": "Strong bull regime and quality DEX protocols (CAKE +40.6% TVL growth) support continued outperformance. However, recent 14-day return of +25.30% is unlikely to sustain. Expected ~11% 14-day return driven by momentum moderation and mean reversion, annualizing to ~68%. Moderate confidence reflects elevated valuation risk after strong rally and DEX sector cyclicality.",
+  "raw_response": "I'll analyze this DeFi cluster (SUSHI and CAKE) to forecast the expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Strong Momentum**: The cluster has delivered exceptional returns recently:\n   - 7-day: +7.07%\n   - 14-day: +25.30%\n   - 30-day: +43.64%\n\n2. **Bullish Market Regime**: Overall DeFi TVL is up +30.3% in 30 days, indicating strong sector tailwinds.\n\n3. **Quality Metrics**:\n   - Sharpe ratio of 5.51 is excellent (far above 1.0 threshold for good risk-adjusted returns)\n   - Moderate max drawdown of -6.4% shows reasonable downside control\n   - Volatility at 66.5% is elevated but manageable for DEX tokens\n\n4. **Protocol Fundamentals**:\n   - CAKE shows stronger growth (+40.6% TVL change) vs SUSHI (+12.2%)\n   - CAKE dominates the cluster weighting ($2.4B vs $496M TVL)\n   - Both are established DEX protocols with significant liquidity\n\n5. **Mean Reversion Considerations**:\n   - Recent returns are exceptionally strong, suggesting some reversion is likely\n   - The 14-day return of +25.30% annualizes to approximately +92% annually if maintained\n   - This is unsustainable, so forward returns should be tempered\n\n6. **14-day Forecast Logic**:\n   - Bullish regime supports continued outperformance\n   - However, recent momentum is likely to moderate\n   - Conservative approach: expect returns ~40-50% of recent 14-day pace\n   - This accounts for mean reversion while respecting the strong trend\n\n**Forecast Calculation:**\n- Recent 14-day return: +25.30% (annualizes to ~92%)\n- Expected 14-day return: ~10-12% (accounting for momentum decay)\n- Annualized equivalent: ~65-75%\n- Confidence: Moderate-to-high (strong fundamentals but elevated valuations)\n\n```json\n{\"expected_return\": 0.68, \"confidence\": 0.72, \"reasoning\": \"Strong bull regime and quality DEX protocols (CAKE +40.6% TVL growth) support continued outperformance. However, recent 14-day return of +25.30% is unlikely to sustain. Expected ~11% 14-day return driven by momentum moderation and mean reversion, annualizing to ~68%. Moderate confidence reflects elevated valuation risk after strong rally and DEX sector cyclicality.\"}\n```",
+  "date": "2024-03-16",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:25.275405+00:00"
+}

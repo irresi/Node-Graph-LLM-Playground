@@ -1,14 +1,26 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.35,
-  "reasoning": "BAL (Balancer) presents a mixed signal environment. The 7-day (+10.15%) and 14-day (+12.71%) returns suggest a short-term momentum reversal after a rough 30-day period (-5.76%), which is mildly encouraging. However, the broader market regime is a confirmed bear/strong downtrend, which significantly caps upside potential and reliability of any bounce. TVL at $840M with near-flat 30-day change (-0.1%) indicates stable but stagnant protocol fundamentals \u2014 no catalytic growth. The annualized volatility of 45.4% with a deeply negative Sharpe (-1.07) underscores poor risk-adjusted returns historically. The recent 2-week momentum (+12.71%) is the primary positive driver, suggesting possible mean-reversion continuation, but given bear regime headwinds, DEX sector pressure, and single-token cluster concentration risk (no diversification), the forecast is a modest positive annualized return of ~8%. Confidence is low (0.35) due to regime conflict with short-term momentum and high volatility uncertainty.",
-  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"BAL (Balancer) presents a mixed signal environment. The 7-day (+10.15%) and 14-day (+12.71%) returns suggest a short-term momentum reversal after a rough 30-day period (-5.76%), which is mildly encouraging. However, the broader market regime is a confirmed bear/strong downtrend, which significantly caps upside potential and reliability of any bounce. TVL at $840M with near-flat 30-day change (-0.1%) indicates stable but stagnant protocol fundamentals \u2014 no catalytic growth. The annualized volatility of 45.4% with a deeply negative Sharpe (-1.07) underscores poor risk-adjusted returns historically. The recent 2-week momentum (+12.71%) is the primary positive driver, suggesting possible mean-reversion continuation, but given bear regime headwinds, DEX sector pressure, and single-token cluster concentration risk (no diversification), the forecast is a modest positive annualized return of ~8%. Confidence is low (0.35) due to regime conflict with short-term momentum and high volatility uncertainty.\"}\n```",
-  "date": "2025-07-11",
+  "expected_return": 0.087,
+  "confidence": 0.31,
+  "reasoning": "Cluster 2 presents a deeply conflicted signal set. The 14-day and 7-day momentum is strongly positive (+13.35% and +13.16% respectively), suggesting a sharp near-term relief rally across governance, lending, and DEX tokens. However, the broader market regime is classified as Bear (strong downtrend), the 30-day return is -7.54% with a max drawdown of -18.6%, and the Sharpe ratio sits at -0.99 \u2014 all indicative of structural weakness. Protocol fundamentals are mixed: AAVE dominates TVL at $28.75B with solid +13.9% 30d TVL growth, while SUSHI shows speculative momentum (+28.2% TVL) from a low base. CRV and CAKE show modest TVL growth. The overall DeFi TVL growth of +13.7% is constructive. Balancing the strong short-term momentum (which may partially carry into the 14-day window) against the bear regime, high annualized volatility (63.9%), and elevated drawdown risk, a modestly positive annualized return forecast of ~8.7% is warranted, but conviction is low given the regime/momentum divergence. Confidence is set at 0.31 reflecting high uncertainty from conflicting signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.087, \"confidence\": 0.31, \"reasoning\": \"Cluster 2 presents a deeply conflicted signal set. The 14-day and 7-day momentum is strongly positive (+13.35% and +13.16% respectively), suggesting a sharp near-term relief rally across governance, lending, and DEX tokens. However, the broader market regime is classified as Bear (strong downtrend), the 30-day return is -7.54% with a max drawdown of -18.6%, and the Sharpe ratio sits at -0.99 \u2014 all indicative of structural weakness. Protocol fundamentals are mixed: AAVE dominates TVL at $28.75B with solid +13.9% 30d TVL growth, while SUSHI shows speculative momentum (+28.2% TVL) from a low base. CRV and CAKE show modest TVL growth. The overall DeFi TVL growth of +13.7% is constructive. Balancing the strong short-term momentum (which may partially carry into the 14-day window) against the bear regime, high annualized volatility (63.9%), and elevated drawdown risk, a modestly positive annualized return forecast of ~8.7% is warranted, but conviction is low given the regime/momentum divergence. Confidence is set at 0.31 reflecting high uncertainty from conflicting signals.\"}\n```",
+  "date": "2025-07-12",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:06:58.187752+00:00",
+  "generated_at": "2026-02-17T15:58:55.531231+00:00",
   "enriched": false
 }

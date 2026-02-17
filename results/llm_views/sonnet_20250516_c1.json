@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.72,
-  "confidence": 0.62,
-  "reasoning": "CAKE/DEX cluster shows strong 30-day momentum (+22.45%) with an impressive Sharpe ratio of 3.46, indicating risk-adjusted returns well above average. The 14-day return of +9.08% annualizes to roughly 236%, but mean reversion from such elevated short-term gains warrants significant haircut. TVL growth of +14.3% to $1.795B signals solid fundamental support, and the broader DeFi market bull regime (+34.5% TVL 30d) provides a favorable macro tailwind. However, single-token cluster concentration increases idiosyncratic risk, annualized volatility of 54.5% is elevated, and the recent 7-day momentum (+1.90%) suggests deceleration from earlier highs. Balancing strong fundamentals and bullish regime against momentum fade, concentration risk, and mean reversion pressures, a forward annualized return of ~72% over the next 14 days appears reasonable. Confidence is moderate (0.62) due to single-asset concentration and high volatility regime.",
-  "raw_response": "```json\n{\"expected_return\": 0.72, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster shows strong 30-day momentum (+22.45%) with an impressive Sharpe ratio of 3.46, indicating risk-adjusted returns well above average. The 14-day return of +9.08% annualizes to roughly 236%, but mean reversion from such elevated short-term gains warrants significant haircut. TVL growth of +14.3% to $1.795B signals solid fundamental support, and the broader DeFi market bull regime (+34.5% TVL 30d) provides a favorable macro tailwind. However, single-token cluster concentration increases idiosyncratic risk, annualized volatility of 54.5% is elevated, and the recent 7-day momentum (+1.90%) suggests deceleration from earlier highs. Balancing strong fundamentals and bullish regime against momentum fade, concentration risk, and mean reversion pressures, a forward annualized return of ~72% over the next 14 days appears reasonable. Confidence is moderate (0.62) due to single-asset concentration and high volatility regime.\"}\n```",
-  "date": "2025-05-16",
+  "expected_return": 0.42,
+  "confidence": 0.52,
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) shows strong 30-day momentum (+31.36%) in a Moderate Bull regime with DeFi TVL up +34.9%, supporting a constructive outlook. The exceptional Sharpe ratio (3.28) suggests risk-adjusted performance has been strong. However, the recent 7-day return of -1.13% signals short-term momentum fading and potential mean reversion after an extended rally. Annualizing the 14-day return of +10.49% yields ~272% \u2014 clearly unsustainable. Applying significant mean-reversion discounting from the 30-day trend, adjusted for the negative 7-day signal and elevated annualized volatility (80.4%), a forward 14-day annualized expected return of ~42% is reasonable. Confidence is moderate (0.52) given: (1) no TVL fundamentals available for 4/5 tokens limiting fundamental anchoring, (2) high volatility regime increases forecast uncertainty, and (3) conflicting short-term vs. medium-term momentum signals.",
+  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.52, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2: LINK, OP, ARB, ENS, GRT) shows strong 30-day momentum (+31.36%) in a Moderate Bull regime with DeFi TVL up +34.9%, supporting a constructive outlook. The exceptional Sharpe ratio (3.28) suggests risk-adjusted performance has been strong. However, the recent 7-day return of -1.13% signals short-term momentum fading and potential mean reversion after an extended rally. Annualizing the 14-day return of +10.49% yields ~272% \u2014 clearly unsustainable. Applying significant mean-reversion discounting from the 30-day trend, adjusted for the negative 7-day signal and elevated annualized volatility (80.4%), a forward 14-day annualized expected return of ~42% is reasonable. Confidence is moderate (0.52) given: (1) no TVL fundamentals available for 4/5 tokens limiting fundamental anchoring, (2) high volatility regime increases forecast uncertainty, and (3) conflicting short-term vs. medium-term momentum signals.\"}\n```",
+  "date": "2025-05-17",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:03:29.183271+00:00",
+  "generated_at": "2026-02-17T15:56:16.638065+00:00",
   "enriched": false
 }

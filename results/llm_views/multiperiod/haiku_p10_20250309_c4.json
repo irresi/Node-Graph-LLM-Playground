@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 exhibits severe bearish momentum with -35.13% 14-day return and -30% 7-day return in a bear market regime. The -2.65 Sharpe ratio and -31.6% max drawdown indicate extreme volatility and downside risk. However, at this level of negative performance, mean reversion becomes a consideration. The cluster comprises fundamental infrastructure tokens (LINK oracle, OP/ARB L2s, ENS naming, GRT indexing) with long-term utility. Over the next 14 days, expect continued weakness given the bear regime and momentum, but potentially with some recovery bounce as oversold conditions emerge. The -85% annualized return reflects pessimism while acknowledging both technical support and fundamental value. Low confidence (0.35) due to high volatility, limited TVL data for most tokens, and unpredictable bear market dynamics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 exhibits severe bearish momentum with -35.13% 14-day return and -30% 7-day return in a bear market regime. The -2.65 Sharpe ratio and -31.6% max drawdown indicate extreme volatility and downside risk. However, at this level of negative performance, mean reversion becomes a consideration. The cluster comprises fundamental infrastructure tokens (LINK oracle, OP/ARB L2s, ENS naming, GRT indexing) with long-term utility. Over the next 14 days, expect continued weakness given the bear regime and momentum, but potentially with some recovery bounce as oversold conditions emerge. The -85% annualized return reflects pessimism while acknowledging both technical support and fundamental value. Low confidence (0.35) due to high volatility, limited TVL data for most tokens, and unpredictable bear market dynamics.\"\n}\n```",
+  "date": "2025-03-10",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:12.763646+00:00"
+}

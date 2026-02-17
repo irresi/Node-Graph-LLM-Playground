@@ -1,0 +1,31 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows mixed signals: positive 7-day momentum (+2.16%) and recent stabilization, but negative 14-day trend (-1.44%) and declining TVL across major protocols. Low 30-day Sharpe ratio (0.18) and significant max drawdown (-21.5%) indicate elevated risk. Neutral market regime and TVL contraction suggest cautious near-term outlook. Modest positive annualized return reflects moderate recovery potential from recent weakness, balanced against deteriorating fundamentals and market headwinds.",
+  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.62, \"reasoning\": \"Cluster shows mixed signals: positive 7-day momentum (+2.16%) and recent stabilization, but negative 14-day trend (-1.44%) and declining TVL across major protocols. Low 30-day Sharpe ratio (0.18) and significant max drawdown (-21.5%) indicate elevated risk. Neutral market regime and TVL contraction suggest cautious near-term outlook. Modest positive annualized return reflects moderate recovery potential from recent weakness, balanced against deteriorating fundamentals and market headwinds.\"}\n```",
+  "date": "2024-09-11",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:12.698506+00:00"
+}

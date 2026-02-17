@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "SNX in bear market with -40% 30-day loss and -24% 7-day decline. High volatility (77.7% annualized) and negative Sharpe (-4.33) indicate distressed conditions. Derivatives sector vulnerable during downturns. TVL decline (-32.1%) signals reduced protocol activity. While oversold conditions may offer bounce potential, the strong downtrend momentum and bear regime suggest continued weakness. Forecasting -1.85 annualized return (\u2248-0.7% over 14 days) reflects elevated tail risk but potential mean reversion. Low confidence due to high volatility and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"SNX in bear market with -40% 30-day loss and -24% 7-day decline. High volatility (77.7% annualized) and negative Sharpe (-4.33) indicate distressed conditions. Derivatives sector vulnerable during downturns. TVL decline (-32.1%) signals reduced protocol activity. While oversold conditions may offer bounce potential, the strong downtrend momentum and bear regime suggest continued weakness. Forecasting -1.85 annualized return (\u2248-0.7% over 14 days) reflects elevated tail risk but potential mean reversion. Low confidence due to high volatility and regime uncertainty.\"\n}\n```",
+  "date": "2026-02-05",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:55.614821+00:00"
+}

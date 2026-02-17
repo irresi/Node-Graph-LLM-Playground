@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.52,
+  "reasoning": "Cluster 4 shows mixed signals: positive 30-day momentum (+8.27%) and reasonable Sharpe ratio (0.82) are offset by recent weakness (7d: -0.68%, 14d: -14.68%), suggesting potential mean reversion. High volatility (85.1%) and significant recent drawdown (-17.7%) create elevated uncertainty. The neutral market regime and infrastructure-heavy composition (L2/Oracle tokens) lack strong catalysts in near-term. Moderate positive return reflects recovery potential from 14-day dip, but high volatility and weak recent momentum constrain confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster 4 shows mixed signals: positive 30-day momentum (+8.27%) and reasonable Sharpe ratio (0.82) are offset by recent weakness (7d: -0.68%, 14d: -14.68%), suggesting potential mean reversion. High volatility (85.1%) and significant recent drawdown (-17.7%) create elevated uncertainty. The neutral market regime and infrastructure-heavy composition (L2/Oracle tokens) lack strong catalysts in near-term. Moderate positive return reflects recovery potential from 14-day dip, but high volatility and weak recent momentum constrain confidence.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:52.798203+00:00",
+  "enriched": false
+}

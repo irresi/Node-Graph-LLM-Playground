@@ -1,0 +1,31 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.58,
+  "reasoning": "Cluster showing strong recent momentum (14d: +11.26%, 7d: +11.00%) with neutral market regime. However, sustained growth faces headwinds from mixed protocol fundamentals (SUSHI -3.0%, CRV -3.7% TVL changes offset by CAKE +7.2%), elevated 40.9% annualized volatility, and recent -11.4% max drawdown indicating potential reversal risk. 14-day forward annualization of recent 11.26% pace yields ~120% annualized, but mean reversion and moderate Sharpe ratio (0.63) warrant significant discount. Expected return reflects modest positive bias from momentum with substantial uncertainty due to volatility and mixed underlying metrics.",
+  "raw_response": "```json\n{\"expected_return\": 0.45, \"confidence\": 0.58, \"reasoning\": \"Cluster showing strong recent momentum (14d: +11.26%, 7d: +11.00%) with neutral market regime. However, sustained growth faces headwinds from mixed protocol fundamentals (SUSHI -3.0%, CRV -3.7% TVL changes offset by CAKE +7.2%), elevated 40.9% annualized volatility, and recent -11.4% max drawdown indicating potential reversal risk. 14-day forward annualization of recent 11.26% pace yields ~120% annualized, but mean reversion and moderate Sharpe ratio (0.63) warrant significant discount. Expected return reflects modest positive bias from momentum with substantial uncertainty due to volatility and mixed underlying metrics.\"}\n```",
+  "date": "2024-09-25",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:32.756854+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.72,
+  "reasoning": "Cluster in severe bear market downturn with -47.22% 30-day loss and -22.93% 7-day loss. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) showing weak fundamentals with minimal TVL and declining DeFi market (-22.9% TVL change). High volatility (85.1% annualized) and negative Sharpe ratio (-4.66) indicate risk-off sentiment. Recent governance activity shows ongoing DAO participation but insufficient to offset bearish momentum. 14-day forward projection: continued liquidation pressure and capital outflow from infrastructure sector expected to drive -40% to -50% annualized equivalent loss over next 14 days. Moderate confidence due to unpredictable macro crypto conditions and potential capitulation bounce, but downtrend indicators dominate.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster in severe bear market downturn with -47.22% 30-day loss and -22.93% 7-day loss. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) showing weak fundamentals with minimal TVL and declining DeFi market (-22.9% TVL change). High volatility (85.1% annualized) and negative Sharpe ratio (-4.66) indicate risk-off sentiment. Recent governance activity shows ongoing DAO participation but insufficient to offset bearish momentum. 14-day forward projection: continued liquidation pressure and capital outflow from infrastructure sector expected to drive -40% to -50% annualized equivalent loss over next 14 days. Moderate confidence due to unpredictable macro crypto conditions and potential capitulation bounce, but downtrend indicators dominate.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:51.268292+00:00",
+  "enriched": true
+}

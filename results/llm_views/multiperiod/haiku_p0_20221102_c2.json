@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Moderate bull regime supports positive returns, but recent 7-day decline (-3.11%) vs 14-day gain (+1.84%) indicates momentum loss and consolidation. Strong Sharpe ratio (1.73) and SUSHI/BAL strength offset TVL declines in major protocols (UNI, CRV, AAVE). Expect modest recovery in next 14 days with elevated uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n1. **Market Regime**: Moderate bull market with +2.3% TVL growth\n2. **30-day Performance**: +5.28% cluster return with strong Sharpe ratio of 1.73\n3. **Mixed TVL Trends**: While some protocols show declines (UNI -7.1%, CRV -3.9%, AAVE -4.5%), SUSHI shows exceptional growth (+54.1%) and BAL +16.9%, suggesting selective strength\n4. **Risk-Adjusted Returns**: 25.6% annualized volatility with 1.73 Sharpe ratio indicates good risk-adjusted performance\n\n**Negative Indicators:**\n1. **Recent Momentum Deceleration**: 7-day return (-3.11%) is negative while 30-day is positive (+5.28%), suggesting momentum loss\n2. **Max Drawdown**: -6.1% shows recent volatility and downside pressure\n3. **Mixed Protocol Health**: Several major protocols (UNI, CRV, AAVE) showing TVL declines despite overall market growth\n\n**Analysis for Next 14 Days:**\n\nThe 14-day return of +1.84% (between the negative 7-day and positive 30-day) suggests a consolidation phase. The cluster appears to be transitioning from a strong uptrend with recent pullback. Given:\n- The bull market backdrop remains supportive\n- But recent momentum is clearly negative\n- And TVL concentration in declining protocols is concerning\n- The cluster faces headwinds despite positive regime\n\nFor a 14-day forward forecast, the cluster should show modest positive returns given the bull regime, but tempered by the recent momentum loss. Annualizing a modest 14-day return would translate to moderate annual returns.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Moderate bull regime supports positive returns, but recent 7-day decline (-3.11%) vs 14-day gain (+1.84%) indicates momentum loss and consolidation. Strong Sharpe ratio (1.73) and SUSHI/BAL strength offset TVL declines in major protocols (UNI, CRV, AAVE). Expect modest recovery in next 14 days with elevated uncertainty.\"}\n```",
+  "date": "2022-11-03",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:40.642566+00:00"
+}

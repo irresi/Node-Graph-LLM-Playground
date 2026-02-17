@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime and strong TVL fundamentals (AAVE +37.3%, LDO +34.2%) support recovery. However, recent 7-day decline of -11% indicates profit-taking. Expected modest 14-day recovery toward positive territory, but near-term weakness limits confidence. Annualized return of 8% assumes partial mean reversion and stabilization rather than strong continuation. Confidence moderated by recent momentum reversal.",
+  "raw_response": "I'll analyze this DeFi cluster to provide an expected return forecast for the next 14 days.\n\n**Analysis:**\n\n**Positive Factors:**\n1. **Bull Market Regime**: Strong uptrend with moderate volatility creates favorable conditions\n2. **Strong TVL Growth**: Exceptional 30-day TVL increases:\n   - LDO: +34.2% (largest position at $37.2B)\n   - AAVE: +37.3% (second largest at $11.4B)\n   - RPL: +33.4%\n3. **Cluster Momentum**: 30-day return of +11.35% with strong Sharpe ratio of 2.27 indicates quality returns\n4. **DeFi Tailwind**: Overall TVL +30.3% shows strong inflow into the sector\n\n**Negative Factors:**\n1. **Recent Momentum Reversal**: The cluster has declined significantly:\n   - 7-day return: -11.01%\n   - 14-day return: -6.62%\n   - This suggests profit-taking or market cooling after the strong 30-day run\n2. **High Drawdown Risk**: Max drawdown of -14.2% indicates volatility and downside exposure\n3. **Short-term Weakness**: Negative recent returns despite bullish longer-term metrics suggest near-term consolidation\n\n**14-Day Forecast Reasoning:**\n- The recent 7-day decline of -11% represents a significant pullback after the 30-day +11.35% gain\n- Historical patterns suggest clusters in bull markets often consolidate after strong runs\n- With a 42.1% annualized volatility, mean reversion toward positive territory is likely over 14 days\n- However, the immediate momentum is negative, limiting upside in the very near term\n- Moderate recovery is more likely than a strong continuation\n\n**Forecast:**\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.62, \"reasoning\": \"Bull market regime and strong TVL fundamentals (AAVE +37.3%, LDO +34.2%) support recovery. However, recent 7-day decline of -11% indicates profit-taking. Expected modest 14-day recovery toward positive territory, but near-term weakness limits confidence. Annualized return of 8% assumes partial mean reversion and stabilization rather than strong continuation. Confidence moderated by recent momentum reversal.\"}\n```",
+  "date": "2024-03-16",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:50:33.237260+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows mixed signals: strong 30-day performance (+8.71%) and positive Sharpe ratio (1.18) suggest resilience, but the 14-day negative return (-3.47%) and high volatility (61.7%) indicate recent momentum loss. The 7-day bounce (+6.96%) suggests potential recovery. With moderate bull market regime and infrastructure/oracle tokens historically volatile, forecasting 14-day annualized return of ~28% (roughly +0.67% daily) reflects cautious optimism tempered by recent drawdown (-20.6% max) and data limitations (no TVL for 3 of 4 tokens). Confidence moderate at 0.62 due to lack of fundamental metrics and high volatility making predictions uncertain.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows mixed signals: strong 30-day performance (+8.71%) and positive Sharpe ratio (1.18) suggest resilience, but the 14-day negative return (-3.47%) and high volatility (61.7%) indicate recent momentum loss. The 7-day bounce (+6.96%) suggests potential recovery. With moderate bull market regime and infrastructure/oracle tokens historically volatile, forecasting 14-day annualized return of ~28% (roughly +0.67% daily) reflects cautious optimism tempered by recent drawdown (-20.6% max) and data limitations (no TVL for 3 of 4 tokens). Confidence moderate at 0.62 due to lack of fundamental metrics and high volatility making predictions uncertain.\"\n}\n```",
+  "date": "2022-09-28",
+  "period_idx": 1,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:22:44.955307+00:00"
+}

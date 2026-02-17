@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows mixed signals: negative short-term momentum (-17.43% over 14d, -3.11% over 7d) suggests oversold conditions with potential mean reversion, but 30d positive return (+4.01%) and neutral market regime provide headwind. AAVE's dominant TVL weight (+6.7% 30d change) offers support, while UNI's decline (-6.4%) is concerning. High volatility (83.5%) and modest Sharpe ratio (0.40) indicate elevated risk. Forecast assumes partial recovery from recent drawdown (-19.8% max DD) over next 14 days, but uncertain given macro neutrality. Moderate confidence reflects conflicting signals and low visibility into catalyst strength.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows mixed signals: negative short-term momentum (-17.43% over 14d, -3.11% over 7d) suggests oversold conditions with potential mean reversion, but 30d positive return (+4.01%) and neutral market regime provide headwind. AAVE's dominant TVL weight (+6.7% 30d change) offers support, while UNI's decline (-6.4%) is concerning. High volatility (83.5%) and modest Sharpe ratio (0.40) indicate elevated risk. Forecast assumes partial recovery from recent drawdown (-19.8% max DD) over next 14 days, but uncertain given macro neutrality. Moderate confidence reflects conflicting signals and low visibility into catalyst strength.\"\n}\n```",
+  "date": "2025-09-06",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:46.032653+00:00"
+}

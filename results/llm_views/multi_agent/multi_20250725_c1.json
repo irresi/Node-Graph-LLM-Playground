@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Both sides expose a critical vulnerability: strong price momentum (+33.45% 30d, 4.48 Sharpe) masking poor fundamental visibi",
+  "n_agents": 6,
+  "date": "2025-07-26 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

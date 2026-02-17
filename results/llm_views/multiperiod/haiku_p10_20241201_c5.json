@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.55,
+  "reasoning": "DYDX showing strong momentum with 57.56% 30-day return and 13.84% 7-day return in moderate bull market. However, high volatility (112.7% annualized) and recent max drawdown of -14.4% suggest elevated risk. Annualized 14-day return of 29.90% translates to ~0.42 annualized, but sustainability is uncertain given derivatives sector volatility and potential mean reversion after strong recent gains. Moderate confidence reflects positive fundamentals (TVL +51.7%) offset by technical exhaustion signals and concentration risk (single token cluster).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"DYDX showing strong momentum with 57.56% 30-day return and 13.84% 7-day return in moderate bull market. However, high volatility (112.7% annualized) and recent max drawdown of -14.4% suggest elevated risk. Annualized 14-day return of 29.90% translates to ~0.42 annualized, but sustainability is uncertain given derivatives sector volatility and potential mean reversion after strong recent gains. Moderate confidence reflects positive fundamentals (TVL +51.7%) offset by technical exhaustion signals and concentration risk (single token cluster).\"\n}\n```",
+  "date": "2024-12-02",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:07:17.768085+00:00"
+}

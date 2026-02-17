@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows mixed signals: positive 7-day momentum (+2.34%) and strong TVL growth (avg +11.54% across protocols, esp. GMX +16%, RPL +15%) in bullish market regime suggest upside. However, negative 14-day (-3.94%) and 30-day (-1.19%) returns, high volatility (39.8%), weak Sharpe ratio (-0.25), and recent max drawdown (-11.2%) indicate caution. LDO dominance (42% TVL-weight) provides stability but limits upside. Bull regime supports recovery, but technical weakness warrants moderate confidence. Forecast assumes mean reversion from recent underperformance with 14-day annualization.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows mixed signals: positive 7-day momentum (+2.34%) and strong TVL growth (avg +11.54% across protocols, esp. GMX +16%, RPL +15%) in bullish market regime suggest upside. However, negative 14-day (-3.94%) and 30-day (-1.19%) returns, high volatility (39.8%), weak Sharpe ratio (-0.25), and recent max drawdown (-11.2%) indicate caution. LDO dominance (42% TVL-weight) provides stability but limits upside. Bull regime supports recovery, but technical weakness warrants moderate confidence. Forecast assumes mean reversion from recent underperformance with 14-day annualization.\"\n}\n```",
+  "date": "2023-12-23",
+  "period_idx": 6,
+  "cluster_id": 6,
+  "members": [
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:08.626251+00:00"
+}

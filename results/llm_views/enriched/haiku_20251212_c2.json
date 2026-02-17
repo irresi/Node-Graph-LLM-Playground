@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.65,
+  "reasoning": "Bear market regime with -25.12% 30-day decline and -10.64% 14-day decline. TVL erosion in major protocols (UNI, SUSHI, AAVE) and poor risk metrics (Sharpe -4.09) suggest continued weakness. Expect further 8% annualized decline over 14 days, though momentum may stabilize from oversold levels. Moderate confidence due to potential for technical bounce in bear market and positive TVL growth in CRV. Yield generation provides minimal offset (~0.05-0.54% over period).",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis of Cluster 2\n\n**Negative Signals:**\n- **Severe bear market regime**: Strong downtrend with -25.12% return over 30 days\n- **Recent momentum is deteriorating**: 7-day return of -2.22% and 14-day return of -10.64% show continued weakness\n- **Extremely poor risk-adjusted returns**: Sharpe ratio of -4.09 indicates returns are negative relative to volatility\n- **High volatility**: 51.6% annualized volatility with -20.7% max drawdown\n- **TVL erosion**: Most major protocols showing TVL declines (UNI -9.6%, SUSHI -8.7%, AAVE -2.1%)\n- **Market-wide TVL decline**: Overall DeFi TVL down 1.3% in 30 days, indicating reduced ecosystem activity\n\n**Mitigating Factors:**\n- **Positive TVL movement in some protocols**: CRV showing +8.2% TVL growth is encouraging\n- **Sustained yield generation**: Multiple protocols still offering meaningful APYs (UNI 20.32%, YFI 4.10%, LDO 2.39%, RPL 2.07%)\n- **Active governance**: Governance participation suggests community engagement and ongoing development\n- **Diversified cluster**: Mix of DEX, lending, liquid staking, and derivatives reduces idiosyncratic risk\n\n**14-Day Forecast Considerations:**\n- The cluster has already declined 10.64% over the last 14 days, suggesting momentum may be exhausted\n- In bear markets, oversold conditions can lead to technical bounces, but the underlying trend remains bearish\n- Yield generation (2-20% annualized APYs) would offset roughly 0.05-0.54% of returns over 14 days, minimal impact on forecast\n- No positive catalysts visible in the data; governance is routine maintenance\n\n**Forecast:**\nGiven the strong bear regime, recent negative momentum, and TVL erosion across most protocols, I expect further downside in the next 14 days. However, the severity of the decline may moderate slightly from the recent 10.64% 14-day loss.\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Bear market regime with -25.12% 30-day decline and -10.64% 14-day decline. TVL erosion in major protocols (UNI, SUSHI, AAVE) and poor risk metrics (Sharpe -4.09) suggest continued weakness. Expect further 8% annualized decline over 14 days, though momentum may stabilize from oversold levels. Moderate confidence due to potential for technical bounce in bear market and positive TVL growth in CRV. Yield generation provides minimal offset (~0.05-0.54% over period).\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:11:12.070809+00:00",
+  "enriched": true
+}

@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.22,
+  "confidence": 0.58,
+  "reasoning": "Bear market regime with -36% 30-day decline suggests continued weakness over 14 days. AAVE's -15.9% TVL change and cluster's -32.3% drawdown indicate structural stress. Slight momentum improvement (-6.53% 7d vs -1.84% 14d) provides modest stabilization, but not enough to reverse trend. High volatility (99.7%) and negative Sharpe ratio (-3.06) create significant downside risk. Moderate confidence due to extreme volatility and potential for sharp reversals in bear markets.",
+  "raw_response": "Looking at this DeFi cluster analysis, I need to assess the expected annualized return for the next 14 days given the current market conditions and cluster characteristics.\n\n## Key Analysis Points:\n\n**Market Regime & Momentum:**\n- Strong bear market with DeFi TVL down 12.5% in 30 days\n- Cluster already declined 36.27% over 30 days, showing severe weakness\n- Recent momentum is slightly positive (7-day: -6.53% vs 14-day: -1.84%), suggesting potential stabilization\n- However, the cluster is deep in drawdown (-32.3% max)\n\n**Protocol Fundamentals:**\n- Mixed TVL signals: CRV and MKR showing resilience (+3.4%, +3.5%), but AAVE heavily impacted (-15.9%)\n- AAVE's large weight ($37.8B TVL) is a drag on cluster performance\n- Governance tokens (COMP, MKR, CRV) and yield/derivative protocols showing stress\n\n**Risk Factors:**\n- Extremely high annualized volatility (99.7%) means large swings are possible\n- Negative Sharpe ratio (-3.06) indicates poor risk-adjusted returns\n- Bear market momentum typically continues before reversal\n- 14-day period is short; major catalysts unlikely in this timeframe\n\n**Positive Signals:**\n- Slight deceleration in losses (7d vs 14d vs 30d pattern)\n- Some protocols maintaining TVL despite downturn\n- Bear markets can bounce, but typically require external catalyst\n\n**Forecast Rationale:**\nIn a bear market with this cluster's characteristics, continued weakness is more probable than recovery over just 14 days. While momentum has slowed, the structural weakness in lending/yield protocols and overall DeFi contraction suggests further downside is more likely than upside. The high volatility means returns could vary significantly, but the expected value is negative.\n\n```json\n{\n  \"expected_return\": -0.22,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Bear market regime with -36% 30-day decline suggests continued weakness over 14 days. AAVE's -15.9% TVL change and cluster's -32.3% drawdown indicate structural stress. Slight momentum improvement (-6.53% 7d vs -1.84% 14d) provides modest stabilization, but not enough to reverse trend. High volatility (99.7%) and negative Sharpe ratio (-3.06) create significant downside risk. Moderate confidence due to extreme volatility and potential for sharp reversals in bear markets.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:42:50.346817+00:00",
+  "enriched": false
+}

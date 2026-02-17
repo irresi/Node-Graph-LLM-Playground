@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in pronounced downtrend (-19.82% over 30d, -14.73% over 14d) within bear market regime. High volatility (43.7% annualized) and negative Sharpe (-3.81) indicate deteriorating fundamentals. All three protocols (CRV, MKR, CVX) show negative TVL trends (-8% to -13.1%), suggesting reduced user activity and protocol health. 7-day momentum remains negative (-3.03%), indicating downtrend persistence. However, confidence is moderate due to potential for mean reversion in oversold conditions and risk of forced liquidations creating volatility. Forecast assumes continued weakness but with some stabilization as prices approach support levels.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in pronounced downtrend (-19.82% over 30d, -14.73% over 14d) within bear market regime. High volatility (43.7% annualized) and negative Sharpe (-3.81) indicate deteriorating fundamentals. All three protocols (CRV, MKR, CVX) show negative TVL trends (-8% to -13.1%), suggesting reduced user activity and protocol health. 7-day momentum remains negative (-3.03%), indicating downtrend persistence. However, confidence is moderate due to potential for mean reversion in oversold conditions and risk of forced liquidations creating volatility. Forecast assumes continued weakness but with some stabilization as prices approach support levels.\"\n}\n```",
+  "date": "2024-11-04",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:01.424073+00:00"
+}

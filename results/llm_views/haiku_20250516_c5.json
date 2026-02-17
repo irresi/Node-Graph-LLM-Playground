@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.65,
+  "reasoning": "Cluster 5 shows strong 30-day momentum (+22.29%) with excellent risk-adjusted returns (Sharpe 3.05) in a moderate bull market with rising DeFi TVL (+34.9%). However, recent 7-day weakness (-1.97%) and mean reversion patterns suggest caution. The 14-day forward projection benefits from positive protocol fundamentals (AAVE +31.8%, CRV +25.2% TVL growth) but faces headwinds from elevated volatility (61.3% annualized) and -10.3% max drawdown. The forecast reflects partial continuation of recent momentum tempered by normalizing returns after strong month.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 5 shows strong 30-day momentum (+22.29%) with excellent risk-adjusted returns (Sharpe 3.05) in a moderate bull market with rising DeFi TVL (+34.9%). However, recent 7-day weakness (-1.97%) and mean reversion patterns suggest caution. The 14-day forward projection benefits from positive protocol fundamentals (AAVE +31.8%, CRV +25.2% TVL growth) but faces headwinds from elevated volatility (61.3% annualized) and -10.3% max drawdown. The forecast reflects partial continuation of recent momentum tempered by normalizing returns after strong month.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:11.881502+00:00",
+  "enriched": false
+}

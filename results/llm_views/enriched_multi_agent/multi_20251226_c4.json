@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.068,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.068,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL faces uniformly negative fundamentals: accelerating 30-day momentum (-11.56%), TVL erosion (-4.3%), severe concentratio",
+  "n_agents": 24,
+  "date": "2025-12-27 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

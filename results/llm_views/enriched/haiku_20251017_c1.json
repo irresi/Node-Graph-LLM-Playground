@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 1 faces severe headwinds: strong bear market regime (-11.2% DeFi TVL), extreme recent underperformance (-49.82% in 30d, -39.34% in 14d), and very high volatility (107.1% annualized). The 7-day return of -4.06% suggests continued downward momentum. However, governance activity across all tokens indicates active protocol development and stakeholder engagement, which provides some stabilization potential. The infrastructure/L2 category may benefit from eventual market recovery. Given the weak positioning, I forecast a negative return (-85% annualized equivalent over 14 days) with moderate-low confidence due to the unpredictability of bear market bounces and the possibility of stabilization from governance initiatives.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 1 faces severe headwinds: strong bear market regime (-11.2% DeFi TVL), extreme recent underperformance (-49.82% in 30d, -39.34% in 14d), and very high volatility (107.1% annualized). The 7-day return of -4.06% suggests continued downward momentum. However, governance activity across all tokens indicates active protocol development and stakeholder engagement, which provides some stabilization potential. The infrastructure/L2 category may benefit from eventual market recovery. Given the weak positioning, I forecast a negative return (-85% annualized equivalent over 14 days) with moderate-low confidence due to the unpredictability of bear market bounces and the possibility of stabilization from governance initiatives.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:34.487051+00:00",
+  "enriched": true
+}

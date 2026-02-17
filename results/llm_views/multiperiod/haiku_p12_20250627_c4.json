@@ -1,0 +1,15 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (CRV/CVX) is in a severe bear regime with -36.85% 30-day return and continued deterioration (7d: -8.09%, 14d: -15.51%). High volatility (74% annualized) and negative Sharpe (-4.18) indicate momentum is strongly downward. Both protocols show TVL contraction (CRV -6.7%, CVX -14.4%), signaling reduced user confidence. The -29.1% max drawdown suggests capitulation selling is ongoing. Over the next 14 days, we expect continued weakness given: (1) bear market regime across DeFi, (2) accelerating TVL outflows in CVX, (3) no positive catalysts visible. Annualized return of -1.85 reflects expectation of further 2-3% decline over 14 days. Confidence is moderate (0.62) due to high volatility and potential for mean reversion bounces, but bearish bias dominates near-term outlook.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) is in a severe bear regime with -36.85% 30-day return and continued deterioration (7d: -8.09%, 14d: -15.51%). High volatility (74% annualized) and negative Sharpe (-4.18) indicate momentum is strongly downward. Both protocols show TVL contraction (CRV -6.7%, CVX -14.4%), signaling reduced user confidence. The -29.1% max drawdown suggests capitulation selling is ongoing. Over the next 14 days, we expect continued weakness given: (1) bear market regime across DeFi, (2) accelerating TVL outflows in CVX, (3) no positive catalysts visible. Annualized return of -1.85 reflects expectation of further 2-3% decline over 14 days. Confidence is moderate (0.62) due to high volatility and potential for mean reversion bounces, but bearish bias dominates near-term outlook.\"\n}\n```",
+  "date": "2025-06-28",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:20:41.864646+00:00"
+}

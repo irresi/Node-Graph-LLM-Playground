@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "Cluster in strong bear market with -15.4% (30d) and -14.7% (7d) returns. High volatility (58.9% annualized) and negative Sharpe (-2.20) suggest continued downside risk. However, 14d return (-11.65%) shows slight deceleration of losses, indicating possible stabilization. Tokens (LINK, OP, ARB, GRT) are infrastructure/oracle plays with limited TVL data, making fundamentals assessment difficult. Expect near-term continuation of weakness but at moderating pace. Confidence tempered by lack of protocol TVL clarity and unpredictable bear market reversals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in strong bear market with -15.4% (30d) and -14.7% (7d) returns. High volatility (58.9% annualized) and negative Sharpe (-2.20) suggest continued downside risk. However, 14d return (-11.65%) shows slight deceleration of losses, indicating possible stabilization. Tokens (LINK, OP, ARB, GRT) are infrastructure/oracle plays with limited TVL data, making fundamentals assessment difficult. Expect near-term continuation of weakness but at moderating pace. Confidence tempered by lack of protocol TVL clarity and unpredictable bear market reversals.\"\n}\n```",
+  "date": "2024-04-04",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:00.296876+00:00"
+}

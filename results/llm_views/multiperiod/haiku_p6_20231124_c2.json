@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.15,
+  "confidence": 0.35,
+  "reasoning": "DYDX derivatives token shows zero momentum across all time horizons (7d, 14d, 30d returns all 0%), with stagnant volatility and neutral Sharpe ratio. However, the broader DeFi market is in a moderate bull regime (+15.1% TVL growth over 30d), suggesting potential for mean reversion and bullish sentiment spillover. DYDX's -1.0% TVL decline is concerning but modest. The 15% annualized forecast reflects moderate upside potential from market tailwinds, but low confidence (0.35) reflects the token's complete lack of recent momentum and uncertainty around whether macro DeFi gains will extend to this specific derivatives protocol.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.15,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX derivatives token shows zero momentum across all time horizons (7d, 14d, 30d returns all 0%), with stagnant volatility and neutral Sharpe ratio. However, the broader DeFi market is in a moderate bull regime (+15.1% TVL growth over 30d), suggesting potential for mean reversion and bullish sentiment spillover. DYDX's -1.0% TVL decline is concerning but modest. The 15% annualized forecast reflects moderate upside potential from market tailwinds, but low confidence (0.35) reflects the token's complete lack of recent momentum and uncertainty around whether macro DeFi gains will extend to this specific derivatives protocol.\"\n}\n```",
+  "date": "2023-11-25",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:53.312583+00:00"
+}

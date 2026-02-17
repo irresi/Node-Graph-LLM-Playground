@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "SNX facing severe headwinds: -108% 30-day return, -62.3% TVL decline, extreme volatility (117.6%), and bear market regime. Negative 7-day (-9.62%) and 14-day (-35.63%) momentum suggest continued pressure. However, extreme drawdown (-61.7%) may indicate oversold conditions with potential mean reversion. Low confidence due to high volatility and potential capitulation bounce, but bearish fundamentals and momentum dominate short-term outlook. Forecasting -1.85x annualized return (~-36% over 14 days) reflecting continued weakness with slight hedge for oversold recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"SNX facing severe headwinds: -108% 30-day return, -62.3% TVL decline, extreme volatility (117.6%), and bear market regime. Negative 7-day (-9.62%) and 14-day (-35.63%) momentum suggest continued pressure. However, extreme drawdown (-61.7%) may indicate oversold conditions with potential mean reversion. Low confidence due to high volatility and potential capitulation bounce, but bearish fundamentals and momentum dominate short-term outlook. Forecasting -1.85x annualized return (~-36% over 14 days) reflecting continued weakness with slight hedge for oversold recovery.\"\n}\n```",
+  "date": "2025-11-13",
+  "period_idx": 14,
+  "cluster_id": 3,
+  "members": [
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:12.751018+00:00"
+}

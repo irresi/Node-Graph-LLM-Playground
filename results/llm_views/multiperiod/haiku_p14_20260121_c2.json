@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 shows modest positive momentum with 14-day return of +1.57% vs 30-day +0.26%, suggesting recent acceleration. CAKE's DEX and MKR's lending protocol both exhibit solid TVL growth (1.7% and 3.2% respectively). However, the neutral market regime, low Sharpe ratio (0.04), and elevated volatility (49.3% annualized) limit conviction. The 14-day annualized return of ~40% is likely unsustainable, so I estimate a more conservative 12% annualized return reflecting mean reversion toward the 30-day trend while acknowledging positive momentum and modest TVL expansion. Moderate confidence due to range-bound market conditions and limited visibility into protocol-specific catalysts.",
+  "raw_response": "Based on the market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 2 shows modest positive momentum with 14-day return of +1.57% vs 30-day +0.26%, suggesting recent acceleration. CAKE's DEX and MKR's lending protocol both exhibit solid TVL growth (1.7% and 3.2% respectively). However, the neutral market regime, low Sharpe ratio (0.04), and elevated volatility (49.3% annualized) limit conviction. The 14-day annualized return of ~40% is likely unsustainable, so I estimate a more conservative 12% annualized return reflecting mean reversion toward the 30-day trend while acknowledging positive momentum and modest TVL expansion. Moderate confidence due to range-bound market conditions and limited visibility into protocol-specific catalysts.\"\n}\n```\n\n**Key reasoning:**\n1. **Positive momentum**: 14-day return (+1.57%) > 30-day return (+0.26%) suggests recent acceleration\n2. **TVL fundamentals**: Both tokens showing healthy TVL growth (CAKE +1.7%, MKR +3.2%) within expanding DeFi market (+2.1%)\n3. **Risk factors**: Low Sharpe ratio (0.04), high volatility (49.3%), and max drawdown (-10.2%) indicate price instability\n4. **Market regime**: Neutral/range-bound conditions constrain upside potential\n5. **Conservative adjustment**: Annualizing 14-day +1.57% return (~40% APR) would be excessive; I've normalized to 12% reflecting mean reversion while capturing positive momentum",
+  "date": "2026-01-22",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:37.414000+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.35,
+  "reasoning": "DYDX shows mixed signals: positive 7-day (+1.44%) and 14-day (+8.18%) momentum contrasts with negative 30-day (-2.82%) returns and declining TVL (-10.3%). High volatility (83% annualized) and negative Sharpe ratio (-0.29) indicate risk-adjusted returns are poor. The moderate bull market regime provides some support, but the derivatives sector concentration and recent TVL decline suggest caution. The 14-day momentum is encouraging but may be mean-reverting given broader weakness. Low confidence reflects conflicting signals and high execution risk in derivatives protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX shows mixed signals: positive 7-day (+1.44%) and 14-day (+8.18%) momentum contrasts with negative 30-day (-2.82%) returns and declining TVL (-10.3%). High volatility (83% annualized) and negative Sharpe ratio (-0.29) indicate risk-adjusted returns are poor. The moderate bull market regime provides some support, but the derivatives sector concentration and recent TVL decline suggest caution. The 14-day momentum is encouraging but may be mean-reverting given broader weakness. Low confidence reflects conflicting signals and high execution risk in derivatives protocols.\"\n}\n```",
+  "date": "2024-01-20",
+  "period_idx": 6,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:53.121967+00:00"
+}

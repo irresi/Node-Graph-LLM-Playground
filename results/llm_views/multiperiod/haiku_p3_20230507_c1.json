@@ -1,0 +1,16 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.42,
+  "reasoning": "Cluster in bear regime with -19.93% 30-day loss and negative momentum (-13.10% in last 7 days). COMP shows modest -5.8% TVL decline, but infrastructure tokens (OP, GRT) lack TVL data, limiting fundamental analysis. High annualized volatility (57.6%) and extreme negative Sharpe ratio (-2.91) suggest downside risk. Extrapolating recent 14-day momentum (-16.28%) implies -3.1% expected return over next 14 days, annualizing to -81.6%. However, bear markets often overshoots followed by mean reversion; applying risk-adjusted dampening suggests more modest continued decline of ~-1.85% annualized. Low confidence reflects market regime uncertainty, missing protocol metrics for 2/3 of tokens, and high volatility making precise forecasting difficult.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in bear regime with -19.93% 30-day loss and negative momentum (-13.10% in last 7 days). COMP shows modest -5.8% TVL decline, but infrastructure tokens (OP, GRT) lack TVL data, limiting fundamental analysis. High annualized volatility (57.6%) and extreme negative Sharpe ratio (-2.91) suggest downside risk. Extrapolating recent 14-day momentum (-16.28%) implies -3.1% expected return over next 14 days, annualizing to -81.6%. However, bear markets often overshoots followed by mean reversion; applying risk-adjusted dampening suggests more modest continued decline of ~-1.85% annualized. Low confidence reflects market regime uncertainty, missing protocol metrics for 2/3 of tokens, and high volatility making precise forecasting difficult.\"\n}\n```",
+  "date": "2023-05-08",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:37.911523+00:00"
+}

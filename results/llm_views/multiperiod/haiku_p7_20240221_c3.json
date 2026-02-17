@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "ENS shows strong recent momentum (+25.44% over 30 days, +4.43% over 14 days) with excellent Sharpe ratio (2.73) in bull market conditions. However, the short-term trend has reversed (-4.41% over 7 days), suggesting consolidation. Infrastructure token volatility (78.3% annualized) is substantial, and lack of TVL data limits fundamental analysis. Forecasting 18% annualized return (modest continuation from recent gains) with low-to-moderate confidence due to the recent pullback and high volatility making short-term predictions uncertain.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"ENS shows strong recent momentum (+25.44% over 30 days, +4.43% over 14 days) with excellent Sharpe ratio (2.73) in bull market conditions. However, the short-term trend has reversed (-4.41% over 7 days), suggesting consolidation. Infrastructure token volatility (78.3% annualized) is substantial, and lack of TVL data limits fundamental analysis. Forecasting 18% annualized return (modest continuation from recent gains) with low-to-moderate confidence due to the recent pullback and high volatility making short-term predictions uncertain.\"\n}\n```",
+  "date": "2024-02-22",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:44.970491+00:00"
+}

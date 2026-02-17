@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "7-day recovery momentum (+2.74%) and MKR/YFI TVL growth suggest near-term bounce, but offset by 14-day weakness, COMP deterioration, and neutral market regime. High volatility (71.1%) and negative Sharpe ratio (-0.34) create estimation uncertainty. Modest positive expected return reflects range-bound dynamics with low conviction.",
+  "raw_response": "I'll analyze Cluster 5 (COMP, MKR, GMX, YFI) to provide a 14-day forward return forecast.\n\n## Analysis\n\n**Recent Momentum & Trend Analysis:**\n- 7-day return: +2.74% (positive momentum)\n- 14-day return: -8.23% (recent weakness)\n- 30-day return: -2.84% (slight downtrend)\n- The 7-day bounce suggests some recovery, but the cluster remains in a drawdown phase\n\n**Protocol Fundamentals:**\n- **COMP**: -8.2% TVL decline (concerning, losing capital)\n- **MKR**: +4.8% TVL growth (stable, positive trend)\n- **GMX**: -0.9% TVL change (stable)\n- **YFI**: +7.8% TVL growth (strongest protocol momentum)\n- TVL-weighted average trend is mixed but slightly positive from MKR and YFI strength\n\n**Market Structure & Volatility:**\n- High annualized volatility: 71.1% (significant price swings)\n- Sharpe ratio of -0.34 (negative risk-adjusted returns)\n- Max drawdown of -23% (high tail risk)\n- Market regime: Neutral/range-bound (limited directional conviction)\n- Overall DeFi TVL +4.9% (30-day growth provides some tailwind)\n\n**Forward-Looking Assessment:**\nThe cluster shows conflicting signals:\n- **Positive**: 7-day recovery (+2.74%), MKR/YFI TVL growth, broad DeFi TVL expansion\n- **Negative**: 14-day weakness, COMP deterioration, negative Sharpe ratio, neutral market regime, high volatility\n\nGiven:\n1. The 7-day bounce may represent mean reversion in a range-bound market\n2. The neutral market regime suggests limited upside potential\n3. High volatility creates significant estimation uncertainty\n4. Mixed fundamentals (COMP weakness offset by MKR/YFI strength)\n\nFor a 14-day forward period in this environment, I estimate modest positive returns with low confidence.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.45, \"reasoning\": \"7-day recovery momentum (+2.74%) and MKR/YFI TVL growth suggest near-term bounce, but offset by 14-day weakness, COMP deterioration, and neutral market regime. High volatility (71.1%) and negative Sharpe ratio (-0.34) create estimation uncertainty. Modest positive expected return reflects range-bound dynamics with low conviction.\"}\n```",
+  "date": "2025-09-06",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:57.749937+00:00"
+}

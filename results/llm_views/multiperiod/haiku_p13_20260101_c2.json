@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.35,
+  "reasoning": "Recent 14-day momentum (+12.37%) suggests continued bounce in bear market, but declining pace expected. Annualized return of 22% assumes ~2% absolute return over 14 days. Low confidence due to negative Sharpe ratio, persistent TVL declines, and contradictory signals between recent momentum and macro bear regime. High volatility (59.3%) creates substantial mean-reversion risk.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 2 to forecast its expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Bear market with strong downtrend (-3.0% TVL change, -8.22% 30-day return)\n2. **Recent Momentum Reversal**: Despite bear regime, the cluster shows strong recent gains (+4.70% in 7 days, +12.37% in 14 days), suggesting a potential counter-trend bounce\n3. **Volatility**: 59.3% annualized volatility indicates high risk/high reward environment\n4. **Negative Sharpe Ratio**: -1.17 suggests poor risk-adjusted returns historically\n5. **Protocol Health**: Mixed signals - LDO maintains massive TVL ($26.5B), but most protocols showing negative 30-day TVL changes (SUSHI -17.7%, RPL -8.6%)\n6. **Max Drawdown**: -23.6% shows significant downside risk in recent period\n\n**Forecast Rationale:**\n\nThe cluster exhibits a classic mean-reversion pattern in a bear market. The 14-day return of +12.37% contrasts sharply with the negative 30-day trend, suggesting either a temporary bounce or early reversal signal. However, several headwinds limit upside:\n- Overall DeFi TVL decline indicates sector-wide weakness\n- The Sharpe ratio remains deeply negative\n- TVL metrics don't show fundamental improvement yet\n\nFor the next 14 days, I expect modest continued strength from the bounce, but at a decelerating pace given the bear regime and lack of fundamental catalysts.\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.35, \"reasoning\": \"Recent 14-day momentum (+12.37%) suggests continued bounce in bear market, but declining pace expected. Annualized return of 22% assumes ~2% absolute return over 14 days. Low confidence due to negative Sharpe ratio, persistent TVL declines, and contradictory signals between recent momentum and macro bear regime. High volatility (59.3%) creates substantial mean-reversion risk.\"}\n```",
+  "date": "2026-01-02",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:21.269437+00:00"
+}

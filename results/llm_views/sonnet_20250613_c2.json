@@ -1,14 +1,26 @@
 {
-  "expected_return": -0.42,
-  "confidence": 0.52,
-  "reasoning": "BAL faces a challenging setup: the broader DeFi market is in a confirmed bear regime with TVL down 1% over 30 days, and the cluster itself has lost 11.82% over 30 days with a deeply negative Sharpe of -1.36 and a 20.5% max drawdown \u2014 all bearish signals. However, the 7-day return of +7.30% suggests nascent short-term momentum recovery, partially offsetting the longer-term downtrend. BAL's protocol TVL of $810M with a +4.9% 30-day increase is a mild fundamental positive, indicating some capital inflow at the protocol level despite price weakness. Balancing the strong bearish trend against the short-term bounce and improving TVL, I expect continued net negative returns over the 14-day horizon, though less severe than the 30-day pace implies. Annualizing a projected ~-1.6% 14-day loss yields roughly -42% annualized. Confidence is moderate given the conflicting signals between short-term momentum and medium-term trend, and the high annualized volatility of 72.9% which widens the return distribution considerably.",
-  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.52, \"reasoning\": \"BAL faces a challenging setup: the broader DeFi market is in a confirmed bear regime with TVL down 1% over 30 days, and the cluster itself has lost 11.82% over 30 days with a deeply negative Sharpe of -1.36 and a 20.5% max drawdown \u2014 all bearish signals. However, the 7-day return of +7.30% suggests nascent short-term momentum recovery, partially offsetting the longer-term downtrend. BAL's protocol TVL of $810M with a +4.9% 30-day increase is a mild fundamental positive, indicating some capital inflow at the protocol level despite price weakness. Balancing the strong bearish trend against the short-term bounce and improving TVL, I expect continued net negative returns over the 14-day horizon, though less severe than the 30-day pace implies. Annualizing a projected ~-1.6% 14-day loss yields roughly -42% annualized. Confidence is moderate given the conflicting signals between short-term momentum and medium-term trend, and the high annualized volatility of 72.9% which widens the return distribution considerably.\"}\n```",
-  "date": "2025-06-13",
+  "expected_return": 0.187,
+  "confidence": 0.38,
+  "reasoning": "Cluster 2 presents a highly mixed signal environment. Near-term momentum is strongly positive (+8.86% over 7d, +10.29% over 14d), suggesting a relief rally underway across DeFi blue-chips (UNI, AAVE, MKR, GMX, LDO). AAVE's TVL growth of +7.4% is a notable fundamental positive, and UNI's +1.3% TVL growth provides modest support. However, the dominant macro regime is Bear (strong downtrend), the 30-day return is -5.06% with a max drawdown of -13.9%, and a Sharpe of -0.60 \u2014 indicating the recent bounce is likely a counter-trend rally rather than a sustained reversal. SUSHI (-3.5% TVL) and CAKE (-2.2% TVL) show continued fundamental deterioration. Annualizing the 14-day momentum (+10.29% over ~14d \u2248 ~268% annualized) would be misleading; we apply a heavy mean-reversion discount given the bear regime, high volatility (70.8% annualized), and likelihood of momentum exhaustion. Expected return is modestly positive reflecting residual near-term carry from the relief rally, but confidence is low given regime conflict, high vol, and poor risk-adjusted history.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.187,\n  \"confidence\": 0.38,\n  \"reasoning\": \"Cluster 2 presents a highly mixed signal environment. Near-term momentum is strongly positive (+8.86% over 7d, +10.29% over 14d), suggesting a relief rally underway across DeFi blue-chips (UNI, AAVE, MKR, GMX, LDO). AAVE's TVL growth of +7.4% is a notable fundamental positive, and UNI's +1.3% TVL growth provides modest support. However, the dominant macro regime is Bear (strong downtrend), the 30-day return is -5.06% with a max drawdown of -13.9%, and a Sharpe of -0.60 \u2014 indicating the recent bounce is likely a counter-trend rally rather than a sustained reversal. SUSHI (-3.5% TVL) and CAKE (-2.2% TVL) show continued fundamental deterioration. Annualizing the 14-day momentum (+10.29% over ~14d \u2248 ~268% annualized) would be misleading; we apply a heavy mean-reversion discount given the bear regime, high volatility (70.8% annualized), and likelihood of momentum exhaustion. Expected return is modestly positive reflecting residual near-term carry from the relief rally, but confidence is low given regime conflict, high vol, and poor risk-adjusted history.\"\n}\n```",
+  "date": "2025-06-14",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:05:14.989138+00:00",
+  "generated_at": "2026-02-17T15:57:40.350685+00:00",
   "enriched": false
 }

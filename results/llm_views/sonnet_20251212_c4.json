@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.52,
-  "confidence": 0.62,
-  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is exhibiting strong negative momentum across all timeframes: -3.58% (7d), -5.32% (14d), -23.73% (30d), with a deeply negative Sharpe ratio of -3.27 and a max drawdown of -24.4%. The broader DeFi market is in a confirmed bear regime with TVL declining. Annualizing the recent 14-day return of -5.32% yields approximately -52% annualized, which aligns with the cluster's volatility profile of 61%. While mean-reversion could provide a partial bounce\u2014particularly for fundamentally sound assets like LINK and GRT\u2014the persistent downtrend and lack of catalysts (no TVL growth signals) make a continued drawdown the base case. Confidence is moderate at 0.62 given the high volatility makes short-term directional calls uncertain, and infrastructure/L2 tokens can experience sharp sentiment-driven reversals.",
-  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is exhibiting strong negative momentum across all timeframes: -3.58% (7d), -5.32% (14d), -23.73% (30d), with a deeply negative Sharpe ratio of -3.27 and a max drawdown of -24.4%. The broader DeFi market is in a confirmed bear regime with TVL declining. Annualizing the recent 14-day return of -5.32% yields approximately -52% annualized, which aligns with the cluster's volatility profile of 61%. While mean-reversion could provide a partial bounce\u2014particularly for fundamentally sound assets like LINK and GRT\u2014the persistent downtrend and lack of catalysts (no TVL growth signals) make a continued drawdown the base case. Confidence is moderate at 0.62 given the high volatility makes short-term directional calls uncertain, and infrastructure/L2 tokens can experience sharp sentiment-driven reversals.\"}\n```",
-  "date": "2025-12-12",
+  "expected_return": -0.42,
+  "confidence": 0.72,
+  "reasoning": "BAL faces significant headwinds: strong bear market regime, deeply negative 30-day return of -18.7%, poor Sharpe of -3.25, and TVL declining -12.5% over 30 days indicating capital flight from the protocol. While the 7-day return of -0.09% suggests some near-term stabilization/exhaustion of selling pressure, the structural downtrend remains intact. Annualizing the 14-day trend (-2.79%) yields approximately -72%, but momentum appears to be decelerating. Balancer DEX faces continued competitive pressure in a risk-off environment. Forecast of -42% annualized reflects sustained bearish momentum tempered by potential mean-reversion from oversold conditions. Moderate confidence given mixed short-term signals against a clear longer-term downtrend.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.72, \"reasoning\": \"BAL faces significant headwinds: strong bear market regime, deeply negative 30-day return of -18.7%, poor Sharpe of -3.25, and TVL declining -12.5% over 30 days indicating capital flight from the protocol. While the 7-day return of -0.09% suggests some near-term stabilization/exhaustion of selling pressure, the structural downtrend remains intact. Annualizing the 14-day trend (-2.79%) yields approximately -72%, but momentum appears to be decelerating. Balancer DEX faces continued competitive pressure in a risk-off environment. Forecast of -42% annualized reflects sustained bearish momentum tempered by potential mean-reversion from oversold conditions. Moderate confidence given mixed short-term signals against a clear longer-term downtrend.\"}\n```",
+  "date": "2025-12-13",
   "cluster_id": 4,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "balancer"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:16:41.944820+00:00",
+  "generated_at": "2026-02-17T16:06:06.737051+00:00",
   "enriched": false
 }

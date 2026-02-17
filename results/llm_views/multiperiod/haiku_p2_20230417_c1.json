@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Bull market regime with strong recent momentum (14-day: +11.92%, 7-day: +8.67%) supports continued upside. AAVE fundamentals stable with +5.0% TVL growth. However, high volatility (34.5% annualized) and -9.4% max drawdown suggest mean-reversion risk. Annualized return of 0.42 reflects 14-day extrapolation (~2.8% expected over 14 days) adjusted down 25% for momentum normalization and volatility-driven pullback potential. Moderate confidence due to near-term pullback risks despite bullish regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Bull market regime with strong recent momentum (14-day: +11.92%, 7-day: +8.67%) supports continued upside. AAVE fundamentals stable with +5.0% TVL growth. However, high volatility (34.5% annualized) and -9.4% max drawdown suggest mean-reversion risk. Annualized return of 0.42 reflects 14-day extrapolation (~2.8% expected over 14 days) adjusted down 25% for momentum normalization and volatility-driven pullback potential. Moderate confidence due to near-term pullback risks despite bullish regime.\"\n}\n```",
+  "date": "2023-04-18",
+  "period_idx": 2,
+  "cluster_id": 1,
+  "members": [
+    "aave",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:16.173473+00:00"
+}

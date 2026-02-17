@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bull argues TVL persistence despite price weakness signals institutional conviction and consolidation within a bull cycle; Be",
+  "n_agents": 18,
+  "date": "2025-05-17 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

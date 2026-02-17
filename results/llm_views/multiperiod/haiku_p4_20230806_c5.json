@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "CAKE shows mixed signals: modest 30-day gains (+0.68%) but negative recent momentum (-4.62% over 7 days, -1.34% over 14 days) suggest short-term headwinds. High annualized volatility (30.1%) and low Sharpe ratio (0.19) indicate risk-adjusted returns are weak. The broader DeFi market is declining (-8.3% TVL 30d change) in a neutral regime, while CAKE's TVL is also contracting (-4.0%). Modest positive bias is based on potential mean reversion from oversold conditions, but low confidence due to weak fundamentals and negative momentum. Limited upside catalysts apparent in neutral market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE shows mixed signals: modest 30-day gains (+0.68%) but negative recent momentum (-4.62% over 7 days, -1.34% over 14 days) suggest short-term headwinds. High annualized volatility (30.1%) and low Sharpe ratio (0.19) indicate risk-adjusted returns are weak. The broader DeFi market is declining (-8.3% TVL 30d change) in a neutral regime, while CAKE's TVL is also contracting (-4.0%). Modest positive bias is based on potential mean reversion from oversold conditions, but low confidence due to weak fundamentals and negative momentum. Limited upside catalysts apparent in neutral market conditions.\"\n}\n```",
+  "date": "2023-08-07",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:33.850331+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "ENS is facing significant headwinds: (1) Bear market regime with -11.1% TVL decline and strong downtrend, (2) Severe recent underperformance (-35.98% in 30 days, -44.2% max drawdown), (3) High volatility (131.5% annualized) suggests continued price instability, (4) Negative Sharpe ratio (-2.30) indicates risk-adjusted returns are poor, (5) Recent momentum is mixed (14-day +8.82% vs 7-day -1.64%), suggesting potential reversal. As an infrastructure token without TVL metrics, ENS lacks fundamental support from DeFi growth. In bear markets, infrastructure tokens typically underperform. The sharp 30-day decline likely reflects broader market capitulation. Near-term outlook is cautious; forecasting modest continued decline over 14 days with low confidence given high volatility and uncertain macro conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ENS is facing significant headwinds: (1) Bear market regime with -11.1% TVL decline and strong downtrend, (2) Severe recent underperformance (-35.98% in 30 days, -44.2% max drawdown), (3) High volatility (131.5% annualized) suggests continued price instability, (4) Negative Sharpe ratio (-2.30) indicates risk-adjusted returns are poor, (5) Recent momentum is mixed (14-day +8.82% vs 7-day -1.64%), suggesting potential reversal. As an infrastructure token without TVL metrics, ENS lacks fundamental support from DeFi growth. In bear markets, infrastructure tokens typically underperform. The sharp 30-day decline likely reflects broader market capitulation. Near-term outlook is cautious; forecasting modest continued decline over 14 days with low confidence given high volatility and uncertain macro conditions.\"\n}\n```",
+  "date": "2024-05-02",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:55.039616+00:00"
+}

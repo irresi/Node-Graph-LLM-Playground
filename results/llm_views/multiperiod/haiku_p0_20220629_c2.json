@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows short-term recovery momentum (+10.75% last 14 days) from capitulation lows, suggesting potential mean reversion bounce. However, severe bear market regime with -52% monthly loss, declining TVL, and weak macro backdrop limit upside. High volatility (84.8%) adds uncertainty. Modest positive return expected from technical bounce, but high risk of further downside if sentiment deteriorates.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Regime & Context (June 2022):**\n- Strong bear market with -36.5% TVL decline over 30 days\n- This reflects the broader crypto market downturn (post-Luna collapse, rising rates environment)\n- Cluster already down -52.28% in last 30 days, indicating severe stress\n\n**Recent Momentum Signals:**\n- 7-day return: -7.77% (continuing downtrend)\n- 14-day return: +10.75% (recent bounce/stabilization)\n- This divergence suggests a potential short-term recovery after capitulation\n\n**Cluster Characteristics:**\n- High volatility (84.8% annualized) with extreme negative Sharpe ratio (-5.18)\n- Diverse exposure: DEX liquidity, lending protocols, yield farming, liquid staking\n- TVL losses across all major protocols (-25% to -48% range)\n- Max drawdown of -46.1% indicates potential stabilization near support levels\n\n**Key Considerations:**\n1. **Mean reversion potential**: After -52% 30-day loss, the 14-day +10.75% suggests selling pressure may be easing\n2. **Macro headwinds**: However, June 2022 remains in peak bear market (Fed rate hikes, risk-off sentiment)\n3. **Protocol fundamentals**: TVL stabilization is positive, but no catalyst for near-term upside\n4. **Volatility regime**: 84.8% annualized volatility on a bouncing market could produce positive returns\n\n**14-Day Forecast Reasoning:**\n- The positive 14-day momentum (+10.75%) combined with extreme volatility creates potential for continued near-term recovery\n- However, macro conditions remain severely negative with limited upside catalysts\n- Expected annualized return: **+0.18** (roughly +0.7% over 14 days, annualized)\n- Confidence is low (0.35) due to extreme market uncertainty and regime transition risk\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Cluster shows short-term recovery momentum (+10.75% last 14 days) from capitulation lows, suggesting potential mean reversion bounce. However, severe bear market regime with -52% monthly loss, declining TVL, and weak macro backdrop limit upside. High volatility (84.8%) adds uncertainty. Modest positive return expected from technical bounce, but high risk of further downside if sentiment deteriorates.\"}\n```",
+  "date": "2022-06-30",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:18:51.734983+00:00"
+}

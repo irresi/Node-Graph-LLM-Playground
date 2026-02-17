@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "BAL faces severe headwinds: bear market regime, -66.8% TVL collapse over 30 days, -37.8% cluster return, and deeply negative Sharpe ratio (-5.48). While 7-day momentum shows +1.4% recovery, this appears to be a weak bounce in a sustained downtrend. TVL flight indicates fundamental weakness in the DEX protocol. Annualized forecast of -85% reflects the severe bear conditions and negative momentum, though confidence is low (0.35) due to potential volatility in depressed bear markets and recovery risk from oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: bear market regime, -66.8% TVL collapse over 30 days, -37.8% cluster return, and deeply negative Sharpe ratio (-5.48). While 7-day momentum shows +1.4% recovery, this appears to be a weak bounce in a sustained downtrend. TVL flight indicates fundamental weakness in the DEX protocol. Annualized forecast of -85% reflects the severe bear conditions and negative momentum, though confidence is low (0.35) due to potential volatility in depressed bear markets and recovery risk from oversold conditions.\"\n}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:43:28.628303+00:00",
+  "enriched": false
+}

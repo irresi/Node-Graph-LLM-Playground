@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.387,
-  "confidence": 0.42,
-  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) shows mixed signals. Bullish factors: strong 30-day TVL growth across constituents (LDO +41%, RPL +44.6%, UNI +26.1%), positive broader DeFi market regime (+25.5% TVL), and a solid 30-day cluster return of +11.93% with Sharpe of 1.11. Bearish/cautionary factors: sharp short-term mean reversion with -8.04% over 7 days and -5.53% over 14 days suggests near-term momentum is negative and the cluster may be consolidating after recent gains. High annualized volatility of 90.3% and a max drawdown of -19.5% signal meaningful downside risk. For the next 14-day window, the negative recent momentum partially offsets the strong fundamental backdrop. Annualizing a modest expected 14-day gain of ~1.5% (reflecting a recovery from oversold short-term conditions anchored by strong TVL fundamentals) yields ~0.387 annualized. Confidence is low-to-moderate (0.42) given the conflicting momentum signals, high volatility regime, and the inherent difficulty of 14-day DeFi forecasting.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.387,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) shows mixed signals. Bullish factors: strong 30-day TVL growth across constituents (LDO +41%, RPL +44.6%, UNI +26.1%), positive broader DeFi market regime (+25.5% TVL), and a solid 30-day cluster return of +11.93% with Sharpe of 1.11. Bearish/cautionary factors: sharp short-term mean reversion with -8.04% over 7 days and -5.53% over 14 days suggests near-term momentum is negative and the cluster may be consolidating after recent gains. High annualized volatility of 90.3% and a max drawdown of -19.5% signal meaningful downside risk. For the next 14-day window, the negative recent momentum partially offsets the strong fundamental backdrop. Annualizing a modest expected 14-day gain of ~1.5% (reflecting a recovery from oversold short-term conditions anchored by strong TVL fundamentals) yields ~0.387 annualized. Confidence is low-to-moderate (0.42) given the conflicting momentum signals, high volatility regime, and the inherent difficulty of 14-day DeFi forecasting.\"\n}\n```",
-  "date": "2025-05-30",
+  "expected_return": -0.42,
+  "confidence": 0.35,
+  "reasoning": "CVX (Convex Finance) is showing strong negative momentum with an alarming -18.15% 7-day return accelerating beyond the -9.30% 14-day and -5.05% 30-day losses, suggesting deteriorating conditions. Despite a moderately bullish overall DeFi market (+19.6% TVL growth) and decent CVX TVL growth (+10.2% to $1.14B), the token is severely underperforming \u2014 a divergence that signals token-specific selling pressure rather than macro headwinds. The Sharpe ratio of -0.52 and max drawdown of -23.5% over 30 days confirm poor risk-adjusted performance. Annualizing the recent 7-day momentum (~-18% * 52 weeks) implies severe downside, though mean reversion from oversold levels could partially offset this. Anchoring around -42% annualized reflects persistent bearish momentum with some discount for potential stabilization. Low confidence (0.35) reflects high volatility (81.8% annualized), single-token cluster concentration risk, and the inherent uncertainty of momentum reversal timing.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.35, \"reasoning\": \"CVX (Convex Finance) is showing strong negative momentum with an alarming -18.15% 7-day return accelerating beyond the -9.30% 14-day and -5.05% 30-day losses, suggesting deteriorating conditions. Despite a moderately bullish overall DeFi market (+19.6% TVL growth) and decent CVX TVL growth (+10.2% to $1.14B), the token is severely underperforming \u2014 a divergence that signals token-specific selling pressure rather than macro headwinds. The Sharpe ratio of -0.52 and max drawdown of -23.5% over 30 days confirm poor risk-adjusted performance. Annualizing the recent 7-day momentum (~-18% * 52 weeks) implies severe downside, though mean reversion from oversold levels could partially offset this. Anchoring around -42% annualized reflects persistent bearish momentum with some discount for potential stabilization. Low confidence (0.35) reflects high volatility (81.8% annualized), single-token cluster concentration risk, and the inherent uncertainty of momentum reversal timing.\"}\n```",
+  "date": "2025-05-31",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:04:37.726062+00:00",
+  "generated_at": "2026-02-17T15:57:12.927263+00:00",
   "enriched": false
 }

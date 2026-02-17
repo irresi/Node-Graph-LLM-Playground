@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (CRV/CVX) shows strong 30-day performance (+53.06%) in a bull market with solid TVL growth (CRV +16.4%, CVX +29.7%). However, recent 14-day weakness (-12.08%) suggests potential pullback after momentum exhaustion. The 7-day bounce (+9.10%) indicates recovery potential, but high volatility (103.2% annualized) and -28.9% max drawdown present downside risks. For the next 14 days, I expect partial mean reversion with modest positive drift given the constructive market regime and protocol fundamentals, but with moderate confidence due to the conflicting short-term signals and high volatility profile.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows strong 30-day performance (+53.06%) in a bull market with solid TVL growth (CRV +16.4%, CVX +29.7%). However, recent 14-day weakness (-12.08%) suggests potential pullback after momentum exhaustion. The 7-day bounce (+9.10%) indicates recovery potential, but high volatility (103.2% annualized) and -28.9% max drawdown present downside risks. For the next 14 days, I expect partial mean reversion with modest positive drift given the constructive market regime and protocol fundamentals, but with moderate confidence due to the conflicting short-term signals and high volatility profile.\"\n}\n```",
+  "date": "2025-08-09",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:57.609717+00:00"
+}

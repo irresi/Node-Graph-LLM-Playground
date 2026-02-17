@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.65,
+  "reasoning": "I need to carefully analyze the arguments presented by both researchers against the actual data signals.\n\n**Key Observations:**\n\n1. **The Bull Researcher's Honesty**: Rather than construct a forced bu",
+  "n_agents": 6,
+  "date": "2025-09-20 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

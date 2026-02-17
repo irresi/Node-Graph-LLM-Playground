@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market regime with -20.1% TVL decline and strong negative momentum (-13.53% in last 7 days). However, recent 14-day return of -4.99% suggests deceleration of downtrend. Major protocols (AAVE, UNI, COMP) showing -15.7% to -27% TVL declines indicate potential stabilization, though BAL's -65.9% TVL drop presents tail risk. Annualized estimate of -45% reflects continued near-term weakness over 14 days in bear regime, with moderate confidence due to potential for rapid sentiment shifts in volatile crypto markets and some signs of momentum loss.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with -20.1% TVL decline and strong negative momentum (-13.53% in last 7 days). However, recent 14-day return of -4.99% suggests deceleration of downtrend. Major protocols (AAVE, UNI, COMP) showing -15.7% to -27% TVL declines indicate potential stabilization, though BAL's -65.9% TVL drop presents tail risk. Annualized estimate of -45% reflects continued near-term weakness over 14 days in bear regime, with moderate confidence due to potential for rapid sentiment shifts in volatile crypto markets and some signs of momentum loss.\"\n}\n```",
+  "date": "2025-11-21",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:23.898448+00:00"
+}

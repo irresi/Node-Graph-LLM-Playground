@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bull researcher declined to construct a bullish case without concrete catalysts, citing data integrity concerns\u2014this itself i",
+  "n_agents": 6,
+  "date": "2026-01-24 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.03,
+  "confidence": 0.45,
+  "reasoning": "Let me synthesize the debate directly:\n\n## Analysis Framework\n\n**Key Data Points to Weigh:**\n1. **On-Chain**: TVL +19.6% (30d) but 7d returns -6.96%, 14d returns -8.66%\n2. **Sentiment**: +0.32 (cautio",
+  "n_agents": 12,
+  "date": "2025-05-31 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

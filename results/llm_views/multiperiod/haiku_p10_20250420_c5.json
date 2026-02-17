@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "DYDX shows strong short-term momentum (+8.32% 7-day, +9.68% 14-day) despite bearish 30-day trend (-10.92%), suggesting potential mean reversion rally. However, confidence is low due to: (1) overall bear market regime with -9.3% TVL decline, (2) high annualized volatility (74.5%) and severe max drawdown (-30.5%), (3) single-token cluster lacks diversification, (4) derivatives sector vulnerability in downturns. The positive 14-day momentum could extend 1-2 more weeks before reverting, but elevated risk warrants cautious position sizing.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX shows strong short-term momentum (+8.32% 7-day, +9.68% 14-day) despite bearish 30-day trend (-10.92%), suggesting potential mean reversion rally. However, confidence is low due to: (1) overall bear market regime with -9.3% TVL decline, (2) high annualized volatility (74.5%) and severe max drawdown (-30.5%), (3) single-token cluster lacks diversification, (4) derivatives sector vulnerability in downturns. The positive 14-day momentum could extend 1-2 more weeks before reverting, but elevated risk warrants cautious position sizing.\"\n}\n```",
+  "date": "2025-04-21",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:25.968407+00:00"
+}

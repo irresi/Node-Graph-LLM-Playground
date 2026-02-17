@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in moderate bear regime with -13.36% 30-day return and high volatility (74.9%). Recent 14-day return of -5.74% suggests momentum deceleration. CVX and RPL both showing TVL declines (-8.2% and -10.9%). Negative Sharpe ratio (-1.50) and -28.6% max drawdown indicate unfavorable risk-adjusted returns. However, 7-day return (-12.58%) to 14-day return (-5.74%) improvement suggests potential stabilization. Forecast annualized return of -45% reflects continued weakness but with moderate confidence due to volatility and potential mean reversion over 14-day window in a persistent bear market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in moderate bear regime with -13.36% 30-day return and high volatility (74.9%). Recent 14-day return of -5.74% suggests momentum deceleration. CVX and RPL both showing TVL declines (-8.2% and -10.9%). Negative Sharpe ratio (-1.50) and -28.6% max drawdown indicate unfavorable risk-adjusted returns. However, 7-day return (-12.58%) to 14-day return (-5.74%) improvement suggests potential stabilization. Forecast annualized return of -45% reflects continued weakness but with moderate confidence due to volatility and potential mean reversion over 14-day window in a persistent bear market.\"\n}\n```",
+  "date": "2024-09-17",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:21.658150+00:00"
+}

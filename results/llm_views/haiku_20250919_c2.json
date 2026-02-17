@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "BAL in bear market regime with -11% TVL decline over 30d. Recent 14-day trend (-2.6%) shows stabilization vs. 30-day decline (-14.3%), suggesting modest mean reversion potential. However, negative 7-day momentum (-8.77%), high volatility (56.5%), and weak DEX fundamentals limit confidence. Forecast modest positive return over 14 days due to potential bounce from oversold conditions, but low confidence given bearish macro backdrop and deteriorating protocol metrics.",
+  "raw_response": "I'll analyze the provided market data for Cluster 2 (BAL token) to forecast its expected 14-day annualized return.\n\n**Analysis:**\n\n1. **Market Regime**: The DeFi market is in a strong bear trend with overall TVL up only 6.3% over 30 days, indicating weak fundamentals despite positive TVL growth.\n\n2. **Cluster Performance**:\n   - 30-day return: -14.30% (significant underperformance)\n   - 7-day return: -8.77% (accelerating downward momentum)\n   - 14-day return: -2.60% (some stabilization but still negative)\n   - High volatility (56.5% annualized) with severe drawdown (-15.4%)\n   - Sharpe ratio of -2.13 indicates poor risk-adjusted returns\n\n3. **Protocol Fundamentals**:\n   - BAL TVL declining significantly (-11.0% in 30 days)\n   - Single-token cluster increases concentration risk\n   - DEX category facing competitive pressures in bear market\n\n4. **Momentum Analysis**:\n   - The 14-day return (-2.60%) is substantially better than 30-day (-14.30%), suggesting the sharp decline may be bottoming\n   - 7-day return (-8.77%) shows renewed weakness, tempering any recovery optimism\n   - Pattern suggests volatile consolidation rather than clear directional trend\n\n5. **Forward-Looking Assessment**:\n   - In bear markets with deteriorating TVL and negative momentum, mean reversion is uncertain\n   - High volatility (56.5%) provides both upside and downside risk\n   - The improving 14-day trend relative to 30-day suggests moderate upside potential, but fundamentals remain weak\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"BAL in bear market regime with -11% TVL decline over 30d. Recent 14-day trend (-2.6%) shows stabilization vs. 30-day decline (-14.3%), suggesting modest mean reversion potential. However, negative 7-day momentum (-8.77%), high volatility (56.5%), and weak DEX fundamentals limit confidence. Forecast modest positive return over 14 days due to potential bounce from oversold conditions, but low confidence given bearish macro backdrop and deteriorating protocol metrics.\"}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:11.308069+00:00",
+  "enriched": false
+}

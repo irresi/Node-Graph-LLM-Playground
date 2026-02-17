@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.42,
+  "reasoning": "Cluster in bear market with -14.33% 30-day decline and -10.10% 14-day decline. High volatility (80.6% annualized) and negative Sharpe ratio (-1.49) indicate poor risk-adjusted returns. Recent 7-day stabilization (+0.11%) suggests potential mean reversion, but macro bear regime persists. LDO's strong TVL growth (+4.4%) provides modest fundamental support offsetting SUSHI weakness (-2.3%). Forward forecast suggests continued downside with elevated uncertainty due to market volatility and regime persistence.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in bear market with -14.33% 30-day decline and -10.10% 14-day decline. High volatility (80.6% annualized) and negative Sharpe ratio (-1.49) indicate poor risk-adjusted returns. Recent 7-day stabilization (+0.11%) suggests potential mean reversion, but macro bear regime persists. LDO's strong TVL growth (+4.4%) provides modest fundamental support offsetting SUSHI weakness (-2.3%). Forward forecast suggests continued downside with elevated uncertainty due to market volatility and regime persistence.\"\n}\n```",
+  "date": "2025-06-08",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:33.172969+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.55,
+  "reasoning": "ENS shows strong momentum (+29.91% in 30 days) with an excellent Sharpe ratio of 1.84, supporting continued near-term outperformance. However, bear market regime (-9.6% DeFi TVL decline), extreme volatility (136.4% annualized), and max drawdown of -29% create significant downside risks. Decelerating weekly returns suggest momentum may be waning. Confidence is moderate due to conflicting signals and macro headwinds.",
+  "raw_response": "I'll analyze this DeFi cluster (ENS token) to provide a 14-day expected return forecast.\n\nLet me consider the key factors:\n\n**Positive Indicators:**\n- Strong recent momentum: +29.91% over 30 days, +11.65% over 14 days, +7.16% over 7 days\n- Excellent Sharpe ratio of 1.84 (risk-adjusted returns are strong)\n- Consistent uptrend across multiple timeframes suggests sustained buying pressure\n\n**Negative Indicators:**\n- Overall DeFi market in bear regime with -9.6% TVL decline over 30 days\n- Very high annualized volatility at 136.4% indicates significant price swings\n- Max drawdown of -29% shows substantial downside risk\n- Broader market headwinds may limit continued outperformance\n\n**Analysis:**\nENS is an infrastructure token that has significantly outperformed the declining DeFi market. The 7-to-14-to-30 day progression shows sustained momentum, which is typically a positive signal for near-term performance. However, the extreme volatility and max drawdown suggest this token is prone to sharp reversals.\n\nGiven:\n- Strong momentum but decelerating (7-day is slower than 14-day growth rate)\n- Bear market environment creating headwinds\n- High volatility increasing reversal risk\n- Infrastructure tokens can be more resilient than yield/liquidity tokens\n\nFor a 14-day annualized forecast, I'm estimating moderate continued upside tempered by market risk. The momentum suggests positive returns are likely, but the bear regime and high volatility warrant cautious positioning.\n\n```json\n{\"expected_return\": 0.45, \"confidence\": 0.55, \"reasoning\": \"ENS shows strong momentum (+29.91% in 30 days) with an excellent Sharpe ratio of 1.84, supporting continued near-term outperformance. However, bear market regime (-9.6% DeFi TVL decline), extreme volatility (136.4% annualized), and max drawdown of -29% create significant downside risks. Decelerating weekly returns suggest momentum may be waning. Confidence is moderate due to conflicting signals and macro headwinds.\"}\n```",
+  "date": "2024-07-11",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:06.503161+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "BAL shows positive momentum with 14-day return of +6.01% in a moderate bull market, supported by TVL growth (+17% in 30d) and healthy protocol yields (11.95% avg APY). However, high volatility (78.2% annualized), modest Sharpe ratio (0.62), and significant max drawdown (-17.6%) create uncertainty. Active governance proposals suggest protocol development but limited catalyst clarity for next 14 days. Extrapolating recent 14-day performance (6.01% = ~157% annualized) appears optimistic; conservative annualization yields ~28% estimate, constrained by elevated risk profile and single-token cluster concentration.",
+  "raw_response": "Based on the provided market context and cluster data for BAL (Balancer), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows positive momentum with 14-day return of +6.01% in a moderate bull market, supported by TVL growth (+17% in 30d) and healthy protocol yields (11.95% avg APY). However, high volatility (78.2% annualized), modest Sharpe ratio (0.62), and significant max drawdown (-17.6%) create uncertainty. Active governance proposals suggest protocol development but limited catalyst clarity for next 14 days. Extrapolating recent 14-day performance (6.01% = ~157% annualized) appears optimistic; conservative annualization yields ~28% estimate, constrained by elevated risk profile and single-token cluster concentration.\"\n}\n```\n\n**Key considerations:**\n- **Positive factors**: Strong TVL growth (+17%), positive market regime, consistent positive returns over 7/14/30 day periods\n- **Risk factors**: Very high volatility (78.2%), elevated drawdown risk, concentration in single token, modest Sharpe ratio indicates below-market risk-adjusted returns\n- **Confidence note**: The 0.62 confidence reflects the high volatility and uncertainty inherent in this cluster; results are sensitive to short-term market movements",
+  "date": "2025-08-23",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:25.219743+00:00",
+  "enriched": true
+}

@@ -1,0 +1,28 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day momentum (+12.77%) with healthy Sharpe ratio (2.34) in moderate bull regime. However, recent 7-14 day pullback (-4.53% / -2.68%) suggests potential consolidation or profit-taking. TVL growth across major protocols (CRV +13.8%, BAL +12.3%, SUSHI +9.2%) indicates underlying strength. With annualized volatility of 45.9%, we forecast 14-day return of ~0.49% (0.18/52 weeks * 2 weeks), which annualizes to 0.18. Confidence moderate (0.62) due to near-term negative momentum offsetting positive fundamentals and macro regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+12.77%) with healthy Sharpe ratio (2.34) in moderate bull regime. However, recent 7-14 day pullback (-4.53% / -2.68%) suggests potential consolidation or profit-taking. TVL growth across major protocols (CRV +13.8%, BAL +12.3%, SUSHI +9.2%) indicates underlying strength. With annualized volatility of 45.9%, we forecast 14-day return of ~0.49% (0.18/52 weeks * 2 weeks), which annualizes to 0.18. Confidence moderate (0.62) due to near-term negative momentum offsetting positive fundamentals and macro regime.\"\n}\n```",
+  "date": "2023-02-13",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:13.360767+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 1 exhibits classic oversold characteristics (76.6% volatility, -29.8% max drawdown, -0.62 sentiment) with the 7-day +",
+  "n_agents": 6,
+  "date": "2025-06-28 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

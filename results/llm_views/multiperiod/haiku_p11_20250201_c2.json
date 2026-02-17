@@ -1,0 +1,16 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.62,
+  "reasoning": "Strong bearish regime with 42.47% 30-day loss and -14.95% recent 7-day decline. Lending/derivatives cluster exposed to liquidation cascades and reduced leverage demand during downturns. TVL contraction (-10.8% MKR, -33.1% SNX) signals protocol stress. Negative Sharpe ratio (-5.76) and 62% annualized volatility indicate high downside risk. Expecting continued weakness over 14 days, but potential for stabilization as market reaches support levels. Annualized return of -1.85 (roughly -0.7% for 14 days) accounts for likely oversold conditions providing modest bounce, though bearish bias dominates. Moderate confidence due to high volatility and potential mean reversion, but weighted toward further losses given macro DeFi headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bearish regime with 42.47% 30-day loss and -14.95% recent 7-day decline. Lending/derivatives cluster exposed to liquidation cascades and reduced leverage demand during downturns. TVL contraction (-10.8% MKR, -33.1% SNX) signals protocol stress. Negative Sharpe ratio (-5.76) and 62% annualized volatility indicate high downside risk. Expecting continued weakness over 14 days, but potential for stabilization as market reaches support levels. Annualized return of -1.85 (roughly -0.7% for 14 days) accounts for likely oversold conditions providing modest bounce, though bearish bias dominates. Moderate confidence due to high volatility and potential mean reversion, but weighted toward further losses given macro DeFi headwinds.\"\n}\n```",
+  "date": "2025-02-02",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:34.687665+00:00"
+}

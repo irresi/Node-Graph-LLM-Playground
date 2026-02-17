@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.025,
+  "confidence": 0.35,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.025,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX shows tactical mean reversion (+14.79% 7d) from oversold conditions, but Bull Researcher's ethical refusal to construct ",
+  "n_agents": 18,
+  "date": "2026-01-10 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

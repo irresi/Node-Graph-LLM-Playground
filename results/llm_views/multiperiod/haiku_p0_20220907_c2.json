@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is in a strong bear market (TVL down 7.2%, cluster down 21.75% last 30d) with elevated volatility (58.6%). However, recent 7-day momentum is positive (+3.13%), suggesting potential stabilization after severe drawdown (-29.7%). Major protocols (AAVE, UNI, CRV) show TVL stabilization or recovery (BAL +3.8%). Given the bear regime, high volatility, and negative 14-day return (-2.77%), I forecast negative annualized returns over 14 days, but with moderate confidence due to competing signals from recent momentum and protocol stabilization. Medium confidence reflects the conflicting technical signals and regime uncertainty typical of transitional market periods.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is in a strong bear market (TVL down 7.2%, cluster down 21.75% last 30d) with elevated volatility (58.6%). However, recent 7-day momentum is positive (+3.13%), suggesting potential stabilization after severe drawdown (-29.7%). Major protocols (AAVE, UNI, CRV) show TVL stabilization or recovery (BAL +3.8%). Given the bear regime, high volatility, and negative 14-day return (-2.77%), I forecast negative annualized returns over 14 days, but with moderate confidence due to competing signals from recent momentum and protocol stabilization. Medium confidence reflects the conflicting technical signals and regime uncertainty typical of transitional market periods.\"\n}\n```",
+  "date": "2022-09-08",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:20:26.620606+00:00"
+}

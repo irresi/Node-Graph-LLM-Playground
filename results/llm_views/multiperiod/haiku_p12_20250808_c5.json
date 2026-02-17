@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Bull market regime with strong 30-day TVL growth (+26.1%) and solid cluster performance (+7.53%). Recent 7-day momentum is very strong (+11.10%), though 14-day return is modest (+0.54%), suggesting potential volatility. GMX shows exceptional TVL growth (+37.4%) indicating sector strength. However, elevated volatility (44.2% annualized) and recent max drawdown (-15.3%) warrant caution. Sharpe ratio of 1.43 is healthy. Forecasting annualized 28% return (14-day equivalent ~0.75%) balances bullish technicals against reversion risk from strong recent run-up. Confidence tempered by high volatility and mean reversion tendency after exceptional weekly gains.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull market regime with strong 30-day TVL growth (+26.1%) and solid cluster performance (+7.53%). Recent 7-day momentum is very strong (+11.10%), though 14-day return is modest (+0.54%), suggesting potential volatility. GMX shows exceptional TVL growth (+37.4%) indicating sector strength. However, elevated volatility (44.2% annualized) and recent max drawdown (-15.3%) warrant caution. Sharpe ratio of 1.43 is healthy. Forecasting annualized 28% return (14-day equivalent ~0.75%) balances bullish technicals against reversion risk from strong recent run-up. Confidence tempered by high volatility and mean reversion tendency after exceptional weekly gains.\"\n}\n```",
+  "date": "2025-08-09",
+  "period_idx": 12,
+  "cluster_id": 5,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:01.895942+00:00"
+}

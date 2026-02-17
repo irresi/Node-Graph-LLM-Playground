@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong short-term momentum (+9% over 7 and 14 days) despite bear market regime and negative 30-day returns. However, high volatility (85.2%), negative Sharpe ratio (-1.17), and significant recent drawdown (-15.5%) suggest mean reversion risk. TVL metrics mixed: LDO and UNI stable/positive, but SNX showing concerning -15.9% 30d TVL decline. Low confidence reflects high uncertainty between momentum continuation and bear market reassertion; momentum window may be closing in broader downtrend. 18% annualized reflects modest upside case contingent on sustained recovery.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+9% over 7 and 14 days) despite bear market regime and negative 30-day returns. However, high volatility (85.2%), negative Sharpe ratio (-1.17), and significant recent drawdown (-15.5%) suggest mean reversion risk. TVL metrics mixed: LDO and UNI stable/positive, but SNX showing concerning -15.9% 30d TVL decline. Low confidence reflects high uncertainty between momentum continuation and bear market reassertion; momentum window may be closing in broader downtrend. 18% annualized reflects modest upside case contingent on sustained recovery.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:57.887607+00:00",
+  "enriched": false
+}

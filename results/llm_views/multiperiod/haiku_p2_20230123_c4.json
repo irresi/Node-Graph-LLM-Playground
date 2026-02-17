@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (LINK/OP/ENS) shows strong bullish momentum with +44.16% 30-day return and exceptional 8.20 Sharpe ratio in a bull market regime. However, forecasting the next 14 days requires caution: (1) Recent momentum may be overextended given -6% max drawdown and 45.3% annualized volatility, suggesting mean reversion risk; (2) Infrastructure tokens (OP, ENS) lack TVL metrics for fundamental analysis; (3) The 14-day return of +28.89% already priced in significant gains, making continued outperformance less likely. Annualizing a conservative 1-2% 14-day return estimate yields ~26-52% annualized, but market maturation suggests moderation to 0.85x forward return given the 45.3% volatility baseline and bull market tailwinds. Confidence is moderate due to lack of fundamental TVL data and mean reversion risk in a strong rally.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (LINK/OP/ENS) shows strong bullish momentum with +44.16% 30-day return and exceptional 8.20 Sharpe ratio in a bull market regime. However, forecasting the next 14 days requires caution: (1) Recent momentum may be overextended given -6% max drawdown and 45.3% annualized volatility, suggesting mean reversion risk; (2) Infrastructure tokens (OP, ENS) lack TVL metrics for fundamental analysis; (3) The 14-day return of +28.89% already priced in significant gains, making continued outperformance less likely. Annualizing a conservative 1-2% 14-day return estimate yields ~26-52% annualized, but market maturation suggests moderation to 0.85x forward return given the 45.3% volatility baseline and bull market tailwinds. Confidence is moderate due to lack of fundamental TVL data and mean reversion risk in a strong rally.\"\n}\n```",
+  "date": "2023-01-24",
+  "period_idx": 2,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:47.588358+00:00"
+}

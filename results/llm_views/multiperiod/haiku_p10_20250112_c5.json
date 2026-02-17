@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "DYDX in bear market regime with -50.77% 30-day loss and -20.14% 7-day decline. High volatility (104.5% annualized) and negative Sharpe ratio (-4.08) indicate distressed conditions. TVL stable (-4.7%) suggests protocol fundamentals holding, but momentum strongly negative. Low confidence due to extreme volatility and potential for further drawdown in bear market, though oversold conditions could trigger mean reversion bounce. 14-day annualized forecast of -85% reflects continued negative momentum with reduced conviction.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX in bear market regime with -50.77% 30-day loss and -20.14% 7-day decline. High volatility (104.5% annualized) and negative Sharpe ratio (-4.08) indicate distressed conditions. TVL stable (-4.7%) suggests protocol fundamentals holding, but momentum strongly negative. Low confidence due to extreme volatility and potential for further drawdown in bear market, though oversold conditions could trigger mean reversion bounce. 14-day annualized forecast of -85% reflects continued negative momentum with reduced conviction.\"\n}\n```",
+  "date": "2025-01-13",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:33.046474+00:00"
+}

@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.42,
-  "confidence": 0.62,
-  "reasoning": "CAKE/DEX cluster faces strong headwinds: bear market regime, deeply negative 30-day return (-20%), severe Sharpe ratio (-3.32), and significant TVL erosion (-9.6% over 30 days). However, the 14-day return shows a modest +7.72% recovery bounce, suggesting some short-term mean reversion potential. The 7-day trend (-2.07%) indicates the bounce may be fading. Annualizing the dominant 30-day trend (~-20% monthly \u2248 -240% annualized) and discounting for partial mean reversion and the recent 14-day uptick, a forward-looking annualized return of approximately -42% is estimated for the next 14-day window. Confidence is moderate (0.62) given the conflicting short-term signals against a clearly bearish macro backdrop and deteriorating fundamentals.",
-  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"CAKE/DEX cluster faces strong headwinds: bear market regime, deeply negative 30-day return (-20%), severe Sharpe ratio (-3.32), and significant TVL erosion (-9.6% over 30 days). However, the 14-day return shows a modest +7.72% recovery bounce, suggesting some short-term mean reversion potential. The 7-day trend (-2.07%) indicates the bounce may be fading. Annualizing the dominant 30-day trend (~-20% monthly \u2248 -240% annualized) and discounting for partial mean reversion and the recent 14-day uptick, a forward-looking annualized return of approximately -42% is estimated for the next 14-day window. Confidence is moderate (0.62) given the conflicting short-term signals against a clearly bearish macro backdrop and deteriorating fundamentals.\"}\n```",
-  "date": "2026-01-09",
+  "expected_return": 0.18,
+  "confidence": 0.38,
+  "reasoning": "Mixed signals make this a difficult call. The 14-day momentum is strongly positive (+11.31%) and the 7-day return (+3.16%) confirms a near-term recovery trend \u2014 these are the most relevant signals for a 14-day forecast horizon. However, the broader 30-day return (-6.38%) and the bear market regime with declining DeFi TVL (-1.7%) act as structural headwinds. The cluster consists of infrastructure/oracle/L2 tokens (LINK, OP, ARB, ENS, GRT) which tend to be high-beta to market sentiment with no direct yield/TVL cushion. Annualizing the recent 14-day momentum (~11.31% * 26 \u2248 294%) would be overly optimistic and unsustainable; mean reversion and bear regime drag suggest the forward 14 days will underperform recent momentum materially. A modest positive annualized return (~18%) reflects a partial continuation of near-term recovery, heavily discounted by bear regime risk, high volatility (51.8% annualized), and poor Sharpe (-1.04). Confidence is low given the conflicting short-vs-long-term signals and lack of TVL fundamentals for most tokens in the cluster.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.38, \"reasoning\": \"Mixed signals make this a difficult call. The 14-day momentum is strongly positive (+11.31%) and the 7-day return (+3.16%) confirms a near-term recovery trend \u2014 these are the most relevant signals for a 14-day forecast horizon. However, the broader 30-day return (-6.38%) and the bear market regime with declining DeFi TVL (-1.7%) act as structural headwinds. The cluster consists of infrastructure/oracle/L2 tokens (LINK, OP, ARB, ENS, GRT) which tend to be high-beta to market sentiment with no direct yield/TVL cushion. Annualizing the recent 14-day momentum (~11.31% * 26 \u2248 294%) would be overly optimistic and unsustainable; mean reversion and bear regime drag suggest the forward 14 days will underperform recent momentum materially. A modest positive annualized return (~18%) reflects a partial continuation of near-term recovery, heavily discounted by bear regime risk, high volatility (51.8% annualized), and poor Sharpe (-1.04). Confidence is low given the conflicting short-vs-long-term signals and lack of TVL fundamentals for most tokens in the cluster.\"}\n```",
+  "date": "2026-01-10",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:17:51.318837+00:00",
+  "generated_at": "2026-02-17T16:06:53.979866+00:00",
   "enriched": false
 }

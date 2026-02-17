@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.72,
+  "reasoning": "Cluster shows strong bull momentum (+59% in 30d, +18% in 14d) with excellent risk metrics and broad TVL growth across all protocols. However, 14-day forward forecasts face mean reversion risk after extended rallies. Bull market regime and increasing TVL (especially LDO +35.7%, CVX +32.6%) support continued gains, but at a moderated pace. Confidence reflects high-quality momentum tempered by typical post-rally consolidation patterns and annualization volatility.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Strong Recent Momentum**: The cluster has delivered +59.47% over 30 days, +17.97% over 14 days, and +8.78% over 7 days, showing sustained bullish momentum.\n\n2. **Market Regime**: Bull market with strong uptrend and moderate volatility (50.6% annualized) - favorable for continued gains.\n\n3. **TVL Growth**: All protocols showing positive TVL momentum:\n   - LDO: $8.1B TVL (+35.7% 30d) - dominant position\n   - CVX: $4.0B TVL (+32.6% 30d)\n   - RPL: $733M TVL (+43.5% 30d)\n   - GMX: $515M TVL (+10.8% 30d)\n   - SNX: $390M TVL (+51.3% 30d)\n\n4. **Risk Metrics**: Excellent risk-adjusted returns (Sharpe ratio of 9.88) with manageable drawdown (-4.7%), suggesting quality momentum.\n\n5. **Mean Reversion Consideration**: The cluster's exceptional 30-day returns (+59.47%) and 7-day returns (+8.78%) suggest some potential for mean reversion, though the strong TVL growth and bull market regime provide support.\n\n**Forecast Rationale:**\n\nGiven the momentum is already substantial and we're forecasting only 14 days forward (vs. 30 days of recent performance), I expect continued but more moderate gains. The strong bull regime and TVL growth support positive returns, but extended moves typically face headwinds. Annualizing a 14-day forecast assumes consistent performance over a year, which is conservative given the strong TVL fundamentals.\n\n```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster shows strong bull momentum (+59% in 30d, +18% in 14d) with excellent risk metrics and broad TVL growth across all protocols. However, 14-day forward forecasts face mean reversion risk after extended rallies. Bull market regime and increasing TVL (especially LDO +35.7%, CVX +32.6%) support continued gains, but at a moderated pace. Confidence reflects high-quality momentum tempered by typical post-rally consolidation patterns and annualization volatility.\"\n}\n```",
+  "date": "2023-02-01",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:24:59.243974+00:00"
+}

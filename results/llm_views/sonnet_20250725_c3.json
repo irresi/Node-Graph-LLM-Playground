@@ -1,18 +1,14 @@
 {
   "expected_return": 0.87,
-  "confidence": 0.62,
-  "reasoning": "Cluster 3 (DEX/Liquid Staking/Derivatives) is exhibiting strong momentum across multiple timeframes: +3.11% (7d), +15.03% (14d), and +29.15% (30d), consistent with the broader bull market regime (+33.6% DeFi TVL). Annualizing the recent 14-day return yields ~391%, but this is not sustainable; mean reversion and momentum decay are expected. LDO dominates TVL ($32.9B, +48.4%) and anchors the cluster with liquid staking tailwinds. RPL (+53.4% TVL) and SUSHI (+82.3% TVL) show strong protocol-level growth. SNX lags (+3.9% TVL, $82M), introducing drag. The Sharpe ratio of 3.62 signals exceptional risk-adjusted performance but also overextension risk. The -12.1% max drawdown indicates manageable but real downside. Projecting forward 14 days, momentum is likely to continue but at a reduced pace given potential profit-taking and mean reversion. An annualized return of ~87% reflects continued but decelerating outperformance. Confidence is moderate (0.62) due to high cluster volatility (67.7% annualized) and the elevated risk of short-term pullbacks in an overextended bull run.",
-  "raw_response": "```json\n{\"expected_return\": 0.87, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (DEX/Liquid Staking/Derivatives) is exhibiting strong momentum across multiple timeframes: +3.11% (7d), +15.03% (14d), and +29.15% (30d), consistent with the broader bull market regime (+33.6% DeFi TVL). Annualizing the recent 14-day return yields ~391%, but this is not sustainable; mean reversion and momentum decay are expected. LDO dominates TVL ($32.9B, +48.4%) and anchors the cluster with liquid staking tailwinds. RPL (+53.4% TVL) and SUSHI (+82.3% TVL) show strong protocol-level growth. SNX lags (+3.9% TVL, $82M), introducing drag. The Sharpe ratio of 3.62 signals exceptional risk-adjusted performance but also overextension risk. The -12.1% max drawdown indicates manageable but real downside. Projecting forward 14 days, momentum is likely to continue but at a reduced pace given potential profit-taking and mean reversion. An annualized return of ~87% reflects continued but decelerating outperformance. Confidence is moderate (0.62) due to high cluster volatility (67.7% annualized) and the elevated risk of short-term pullbacks in an overextended bull run.\"}\n```",
-  "date": "2025-07-25",
+  "confidence": 0.52,
+  "reasoning": "CVX (Convex Finance) is exhibiting exceptional momentum with a 75.70% 30-day return and a remarkably high Sharpe ratio of 6.08, suggesting risk-adjusted returns well above noise. The 7-day (+23%) and 14-day (+54.4%) cadence indicates accelerating momentum rather than deceleration, supported by a 41.3% TVL surge to $1.44B \u2014 a strong fundamental anchor. The broader DeFi bull regime with +37.7% TVL growth provides a favorable macro tailwind. However, at 104.6% annualized volatility and after such a steep run-up, mean-reversion risk is elevated; the -14.2% max drawdown hints at sharp intra-trend corrections. Forecasting a forward annualized return of ~87% reflects continued momentum with a partial haircut for likely consolidation or pullback over the 14-day window. Confidence is moderate (0.52) given the extreme recent appreciation makes extrapolation unreliable \u2014 parabolic moves in single-token yield clusters frequently revert sharply once momentum exhausts.",
+  "raw_response": "```json\n{\"expected_return\": 0.87, \"confidence\": 0.52, \"reasoning\": \"CVX (Convex Finance) is exhibiting exceptional momentum with a 75.70% 30-day return and a remarkably high Sharpe ratio of 6.08, suggesting risk-adjusted returns well above noise. The 7-day (+23%) and 14-day (+54.4%) cadence indicates accelerating momentum rather than deceleration, supported by a 41.3% TVL surge to $1.44B \u2014 a strong fundamental anchor. The broader DeFi bull regime with +37.7% TVL growth provides a favorable macro tailwind. However, at 104.6% annualized volatility and after such a steep run-up, mean-reversion risk is elevated; the -14.2% max drawdown hints at sharp intra-trend corrections. Forecasting a forward annualized return of ~87% reflects continued momentum with a partial haircut for likely consolidation or pullback over the 14-day window. Confidence is moderate (0.52) given the extreme recent appreciation makes extrapolation unreliable \u2014 parabolic moves in single-token yield clusters frequently revert sharply once momentum exhausts.\"}\n```",
+  "date": "2025-07-26",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:08:07.896987+00:00",
+  "generated_at": "2026-02-17T15:59:43.535143+00:00",
   "enriched": false
 }

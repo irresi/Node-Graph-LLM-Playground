@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.55,
+  "reasoning": "Cluster in bear market with -1.92% 7-day return and high volatility (99.5% annualized). However, underlying protocols (CAKE, MKR) show strong TVL growth (+13.8%, +12.9% 30d), suggesting fundamental strength despite price weakness. Negative momentum and poor Sharpe ratio (-0.50) indicate near-term headwinds, but TVL resilience provides some downside support. Forecasting continued weakness over 14 days but with mitigating protocol fundamentals. Moderate confidence due to conflicting signals between price action and on-chain metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in bear market with -1.92% 7-day return and high volatility (99.5% annualized). However, underlying protocols (CAKE, MKR) show strong TVL growth (+13.8%, +12.9% 30d), suggesting fundamental strength despite price weakness. Negative momentum and poor Sharpe ratio (-0.50) indicate near-term headwinds, but TVL resilience provides some downside support. Forecasting continued weakness over 14 days but with mitigating protocol fundamentals. Moderate confidence due to conflicting signals between price action and on-chain metrics.\"\n}\n```",
+  "date": "2025-10-30",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:28:55.610733+00:00"
+}

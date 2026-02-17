@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "MKR shows strong 14-day momentum (+9.24%) and positive 30-day returns (+9.72%) with good Sharpe ratio (1.80), but faces headwinds from bear market regime, negative 7-day trend (-2.47%), and declining TVL (-7.0% in 30 days). Recent reversal suggests momentum may be weakening. Annualized forecast balances positive recent performance against deteriorating fundamentals and macro bearishness. Moderate confidence due to conflicting signals and bear market environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"MKR shows strong 14-day momentum (+9.24%) and positive 30-day returns (+9.72%) with good Sharpe ratio (1.80), but faces headwinds from bear market regime, negative 7-day trend (-2.47%), and declining TVL (-7.0% in 30 days). Recent reversal suggests momentum may be weakening. Annualized forecast balances positive recent performance against deteriorating fundamentals and macro bearishness. Moderate confidence due to conflicting signals and bear market environment.\"\n}\n```",
+  "date": "2023-06-26",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:54.414900+00:00"
+}

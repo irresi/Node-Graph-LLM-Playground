@@ -1,0 +1,23 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Bull regime supports upside, but fading 7-day momentum (-8.09%) after strong 30-day run (+14.54%) suggests consolidation/profit-taking. Mixed protocol fundamentals (AAVE +6% vs CRV -16.8%) create uncertainty. Expecting modest recovery with 18% annualized return over 14 days, but confidence limited due to momentum reversal and elevated volatility (54.2% annualized).",
+  "raw_response": "Based on the provided market context and cluster data, I'll analyze the DeFi token cluster (Cluster 1) to forecast the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum (Mixed Signals)**\n   - 30-day return: +14.54% (strong)\n   - 14-day return: +1.11% (weakening)\n   - 7-day return: -8.09% (negative momentum)\n   - This suggests recent momentum is fading/reversing\n\n2. **Market Regime & Volatility**\n   - Bull market regime with strong uptrend\n   - High annualized volatility: 54.2%\n   - Strong Sharpe ratio: 2.25 (risk-adjusted returns are good)\n   - Max drawdown: -8.1% (significant downside risk)\n\n3. **Protocol Fundamentals (Mixed)**\n   - AAVE showing strength (+6.0% TVL growth)\n   - CRV concerning (-16.8% TVL decline)\n   - Most protocols relatively flat or declining (-3.6% for UNI, SUSHI)\n   - Overall TVL market change: -0.1% (stagnant)\n\n4. **Technical/Sentiment Signals**\n   - Recent 7-day decline of -8.09% after 30-day gain suggests profit-taking\n   - 14-day return near flat (+1.11%) indicates consolidation\n   - High volatility suggests potential for sharp moves either direction\n\n**Forecast Rationale:**\n\nGiven the weakening short-term momentum despite a bull regime, mixed protocol fundamentals, and technical consolidation after a strong 30-day run, I expect modest returns with some upside bias from the bull market regime but tempered by fading momentum.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Bull regime supports upside, but fading 7-day momentum (-8.09%) after strong 30-day run (+14.54%) suggests consolidation/profit-taking. Mixed protocol fundamentals (AAVE +6% vs CRV -16.8%) create uncertainty. Expecting modest recovery with 18% annualized return over 14 days, but confidence limited due to momentum reversal and elevated volatility (54.2% annualized).\"\n}\n```",
+  "date": "2023-07-24",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:44.181611+00:00"
+}

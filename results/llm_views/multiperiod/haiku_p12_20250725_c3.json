@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.72,
+  "reasoning": "Cluster 3 shows strong fundamentals with 30-day TVL growth of +37.7% across DeFi and individual protocols like AAVE (+36.5%) and SUSHI (+90.2%). The bull market regime and excellent Sharpe ratio (4.20) support continued outperformance. However, recent 7-day weakness (-2.93%) suggests potential consolidation after a strong month. The 14-day return (+11.91%) indicates mid-term momentum is positive but moderating. Forecasting 42% annualized return (approximately +1.6% over 14 days) reflects: (1) continued but slower momentum relative to the exceptional 30-day run, (2) elevated but normalizing volatility (61.4% annualized), and (3) solid protocol fundamentals supporting the bull thesis. Confidence is moderately high but tempered by mean-reversion risk and the recent pullback, which could extend if the broader market consolidates.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 3 shows strong fundamentals with 30-day TVL growth of +37.7% across DeFi and individual protocols like AAVE (+36.5%) and SUSHI (+90.2%). The bull market regime and excellent Sharpe ratio (4.20) support continued outperformance. However, recent 7-day weakness (-2.93%) suggests potential consolidation after a strong month. The 14-day return (+11.91%) indicates mid-term momentum is positive but moderating. Forecasting 42% annualized return (approximately +1.6% over 14 days) reflects: (1) continued but slower momentum relative to the exceptional 30-day run, (2) elevated but normalizing volatility (61.4% annualized), and (3) solid protocol fundamentals supporting the bull thesis. Confidence is moderately high but tempered by mean-reversion risk and the recent pullback, which could extend if the broader market consolidates.\"\n}\n```",
+  "date": "2025-07-26",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:27.804150+00:00"
+}

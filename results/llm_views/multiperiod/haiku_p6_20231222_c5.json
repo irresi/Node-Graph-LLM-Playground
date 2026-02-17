@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 5 (SUSHI/CAKE) shows strong momentum with 13.61% 30-day return and 15.08% 7-day return in a bull market regime. However, 14-day returns (+4.71%) indicate recent deceleration, suggesting momentum may be waning. CAKE's positive TVL growth (+7.7%) provides fundamental support, while SUSHI's slight TVL decline (-0.3%) is concerning. High volatility (54% annualized) and recent max drawdown (-16.9%) create elevated uncertainty. Moderate confidence reflects bullish near-term outlook tempered by deceleration signals and volatility risks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 5 (SUSHI/CAKE) shows strong momentum with 13.61% 30-day return and 15.08% 7-day return in a bull market regime. However, 14-day returns (+4.71%) indicate recent deceleration, suggesting momentum may be waning. CAKE's positive TVL growth (+7.7%) provides fundamental support, while SUSHI's slight TVL decline (-0.3%) is concerning. High volatility (54% annualized) and recent max drawdown (-16.9%) create elevated uncertainty. Moderate confidence reflects bullish near-term outlook tempered by deceleration signals and volatility risks.\"\n}\n```",
+  "date": "2023-12-23",
+  "period_idx": 6,
+  "cluster_id": 5,
+  "members": [
+    "sushi",
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:04.237729+00:00"
+}

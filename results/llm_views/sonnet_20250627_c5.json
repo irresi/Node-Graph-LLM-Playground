@@ -1,8 +1,8 @@
 {
-  "expected_return": -0.62,
-  "confidence": 0.72,
-  "reasoning": "Strong bearish momentum with accelerating losses: 7-day return of -7.29% and 14-day return of -13.34% signal persistent selling pressure. Annualizing the 14-day trend (~-13.34% over 14 days) yields approximately -62% annualized. The bear market regime with -7.1% total DeFi TVL contraction, deeply negative Sharpe ratio (-1.93), and broad TVL declines across all major protocols (MKR -10.4%, CRV -6.7%, COMP -5.4%) confirm structural weakness. AAVE's relative resilience (-3.6% TVL) and its dominant TVL of $24.4B provide marginal support, slightly moderating the downside. No reversal catalysts are evident in the near-term data. Confidence at 0.72 reflects high directional certainty (bearish) but uncertainty around the magnitude and whether a short-term technical bounce could temporarily interrupt the trend.",
-  "raw_response": "```json\n{\"expected_return\": -0.62, \"confidence\": 0.72, \"reasoning\": \"Strong bearish momentum with accelerating losses: 7-day return of -7.29% and 14-day return of -13.34% signal persistent selling pressure. Annualizing the 14-day trend (~-13.34% over 14 days) yields approximately -62% annualized. The bear market regime with -7.1% total DeFi TVL contraction, deeply negative Sharpe ratio (-1.93), and broad TVL declines across all major protocols (MKR -10.4%, CRV -6.7%, COMP -5.4%) confirm structural weakness. AAVE's relative resilience (-3.6% TVL) and its dominant TVL of $24.4B provide marginal support, slightly moderating the downside. No reversal catalysts are evident in the near-term data. Confidence at 0.72 reflects high directional certainty (bearish) but uncertainty around the magnitude and whether a short-term technical bounce could temporarily interrupt the trend.\"}\n```",
+  "expected_return": -0.58,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) faces strong headwinds. The bear market regime with -7.1% total DeFi TVL contraction, a deeply negative Sharpe ratio of -1.93, and accelerating negative momentum (-7.29% over 7d, -13.34% over 14d) all point to continued downside. TVL is declining across all major protocols, with MKR showing the sharpest outflow (-10.4%). Annualizing the recent 14-day return of -13.34% yields approximately -0.87 on an annualized basis; however, mean-reversion tendencies at oversold levels, the relative fundamental strength of AAVE (largest TVL, moderate -3.6% decline), and the short 14-day forward window justify a modest upward adjustment from pure momentum extrapolation. Expected annualized return estimated at -0.58 (~-2.2% over the 14-day window). Confidence is moderate at 0.62 given high annualized volatility (68.5%) and macro uncertainty dampening precision.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.58,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 (blue-chip DeFi: CRV, AAVE, COMP, MKR, GMX, DYDX, YFI, CVX) faces strong headwinds. The bear market regime with -7.1% total DeFi TVL contraction, a deeply negative Sharpe ratio of -1.93, and accelerating negative momentum (-7.29% over 7d, -13.34% over 14d) all point to continued downside. TVL is declining across all major protocols, with MKR showing the sharpest outflow (-10.4%). Annualizing the recent 14-day return of -13.34% yields approximately -0.87 on an annualized basis; however, mean-reversion tendencies at oversold levels, the relative fundamental strength of AAVE (largest TVL, moderate -3.6% decline), and the short 14-day forward window justify a modest upward adjustment from pure momentum extrapolation. Expected annualized return estimated at -0.58 (~-2.2% over the 14-day window). Confidence is moderate at 0.62 given high annualized volatility (68.5%) and macro uncertainty dampening precision.\"\n}\n```",
   "date": "2025-06-27",
   "cluster_id": 5,
   "members": [
@@ -16,6 +16,6 @@
     "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:06:38.740524+00:00",
+  "generated_at": "2026-02-17T21:02:10.213941+00:00",
   "enriched": false
 }

@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.72,
+  "reasoning": "Cluster 2 shows strong fundamental momentum with +25.59% 30-day return and excellent risk-adjusted metrics (Sharpe 4.15). However, recent 7-day return of -1.36% suggests consolidation after strong rally. Bull market regime and +37.7% DeFi TVL growth are supportive. Key protocols (AAVE +36.5%, SUSHI +90.2% TVL growth) show robust underlying demand. 14-day forward annualized projection based on 12.66% 14-day return trajectory, tempered by -9.4% max drawdown and potential profit-taking after strong run. Moderate confidence reflects execution risk on governance proposals (GMX staker incentives active) and sector-specific volatility (51.8% annualized).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 2 shows strong fundamental momentum with +25.59% 30-day return and excellent risk-adjusted metrics (Sharpe 4.15). However, recent 7-day return of -1.36% suggests consolidation after strong rally. Bull market regime and +37.7% DeFi TVL growth are supportive. Key protocols (AAVE +36.5%, SUSHI +90.2% TVL growth) show robust underlying demand. 14-day forward annualized projection based on 12.66% 14-day return trajectory, tempered by -9.4% max drawdown and potential profit-taking after strong run. Moderate confidence reflects execution risk on governance proposals (GMX staker incentives active) and sector-specific volatility (51.8% annualized).\"\n}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:07:26.659155+00:00",
+  "enriched": true
+}

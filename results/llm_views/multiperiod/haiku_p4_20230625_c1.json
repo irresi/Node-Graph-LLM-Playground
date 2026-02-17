@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows short-term momentum (+14% in 14d) but remains in bear market regime (-8.5% in 30d). Mixed protocol fundamentals (AAVE +5.7%, CRV -10.5%) and 63.5% volatility suggest mean reversion likely over next 14 days as downtrend reasserts. Modest negative annualized return expected with moderate confidence due to high uncertainty in volatile, regime-constrained market.",
+  "raw_response": "Based on the market context and cluster data provided, I'll analyze the key factors to forecast the expected return for Cluster 1 over the next 14 days.\n\n## Analysis:\n\n**Key Observations:**\n\n1. **Momentum Reversal Signal**: The cluster shows strong recent momentum (+14.01% over 14 days, +12.48% over 7 days) despite being in a bear market regime and showing -8.50% over 30 days. This suggests a potential bounce or short-term reversal.\n\n2. **Mixed Fundamentals**: \n   - AAVE showing strength (+5.7% TVL growth)\n   - CRV weak (-10.5% TVL decline)\n   - BAL positive (+1.7% TVL growth)\n   - Overall TVL growth near flat (+0.1%)\n\n3. **High Volatility Context**: 63.5% annualized volatility indicates significant price swings possible in either direction over 14 days.\n\n4. **Bear Market Regime**: The overall market is in a strong downtrend, which typically constrains upside potential despite short-term bounces.\n\n5. **Technical Setup**: The recent 14-day bounce (+14.01%) from a depressed 30-day position (-8.50%) suggests possible consolidation or further pullback is likely as the bear market reasserts itself.\n\n**14-Day Forecast Rationale:**\n\nGiven that we're looking at the next 14 days (which partially overlaps with the recent strong performance period), I expect mean reversion given:\n- Bear market regime dominance\n- High volatility creating whipsaw risk\n- Mixed protocol fundamentals not supporting sustained rally\n- Negative 30-day trend likely to reassert\n\nHowever, momentum could carry for a few more days before reversing.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.55, \"reasoning\": \"Cluster shows short-term momentum (+14% in 14d) but remains in bear market regime (-8.5% in 30d). Mixed protocol fundamentals (AAVE +5.7%, CRV -10.5%) and 63.5% volatility suggest mean reversion likely over next 14 days as downtrend reasserts. Modest negative annualized return expected with moderate confidence due to high uncertainty in volatile, regime-constrained market.\"}\n```",
+  "date": "2023-06-26",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:35:50.369837+00:00"
+}

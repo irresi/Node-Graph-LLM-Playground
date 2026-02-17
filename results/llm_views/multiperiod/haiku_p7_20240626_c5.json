@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 is in a strong bear regime with -23.54% 30-day returns and -6.57% 14-day returns, indicating sustained downward momentum. High volatility (52.6% annualized) and negative Sharpe ratio (-3.76) suggest poor risk-adjusted returns. The -10.2% DeFi TVL contraction indicates broader market stress. However, the deceleration from -23.54% (30d) to -6.57% (14d) to -3.94% (7d) suggests potential stabilization. Forecast annualizes the recent 14-day trend (-6.57%) to 1-year equivalent. Confidence is moderate due to: (1) clear bear trend and momentum, but (2) potential stabilization signals and uncertainty around protocol-specific catalysts. High volatility limits predictability.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 is in a strong bear regime with -23.54% 30-day returns and -6.57% 14-day returns, indicating sustained downward momentum. High volatility (52.6% annualized) and negative Sharpe ratio (-3.76) suggest poor risk-adjusted returns. The -10.2% DeFi TVL contraction indicates broader market stress. However, the deceleration from -23.54% (30d) to -6.57% (14d) to -3.94% (7d) suggests potential stabilization. Forecast annualizes the recent 14-day trend (-6.57%) to 1-year equivalent. Confidence is moderate due to: (1) clear bear trend and momentum, but (2) potential stabilization signals and uncertainty around protocol-specific catalysts. High volatility limits predictability.\"\n}\n```",
+  "date": "2024-06-27",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:51.297361+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "DYDX is in a bear market with -38.62% monthly decline and elevated volatility (133.7%). However, recent 7-day momentum is positive (+4.38%), suggesting potential mean reversion from oversold conditions. The -12.52% 14-day return indicates ongoing weakness. With high volatility and bearish regime, expect continued downside pressure but with elevated uncertainty. TVL stabilization (-8.8% vs -16.7% market decline) suggests relative strength in fundamentals. Confidence is moderate due to volatile conditions and conflicting signals between momentum and regime.",
+  "raw_response": "Based on the market context and cluster analysis, here's my forecast for Cluster 2 (DYDX) over the next 14 days:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"DYDX is in a bear market with -38.62% monthly decline and elevated volatility (133.7%). However, recent 7-day momentum is positive (+4.38%), suggesting potential mean reversion from oversold conditions. The -12.52% 14-day return indicates ongoing weakness. With high volatility and bearish regime, expect continued downside pressure but with elevated uncertainty. TVL stabilization (-8.8% vs -16.7% market decline) suggests relative strength in fundamentals. Confidence is moderate due to volatile conditions and conflicting signals between momentum and regime.\"\n}\n```\n\n**Key Considerations:**\n- **Bearish Regime**: Overall DeFi TVL down 16.7% in 30 days signals systemic weakness\n- **Extreme Volatility**: 133.7% annualized volatility makes predictions highly uncertain\n- **Recent Bounce**: +4.38% 7-day return could indicate a technical bounce, but insufficient to offset downtrend\n- **Relative Stability**: DYDX TVL decline (-8.8%) outperforming market decline suggests some protocol resilience\n- **Negative Sharpe Ratio**: -2.43 indicates poor risk-adjusted returns in the current period",
+  "date": "2024-05-08",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:53.116428+00:00"
+}

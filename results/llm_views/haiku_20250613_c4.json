@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 faces strong headwinds: bear market regime, -24.53% 30-day return, elevated volatility (74.9%), and negative Sharpe ratio (-2.75). Recent 7-day rebound (+0.42%) suggests potential stabilization, but 14-day return (-2.51%) indicates continued weakness. Infrastructure/L2 tokens are cyclical and sentiment-driven. With limited fundamental support (mostly TVL-less tokens) and technical damage, expect negative near-term returns, though 7-day stabilization limits downside. Low confidence reflects high volatility and regime uncertainty in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 faces strong headwinds: bear market regime, -24.53% 30-day return, elevated volatility (74.9%), and negative Sharpe ratio (-2.75). Recent 7-day rebound (+0.42%) suggests potential stabilization, but 14-day return (-2.51%) indicates continued weakness. Infrastructure/L2 tokens are cyclical and sentiment-driven. With limited fundamental support (mostly TVL-less tokens) and technical damage, expect negative near-term returns, though 7-day stabilization limits downside. Low confidence reflects high volatility and regime uncertainty in bear markets.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:38:01.999136+00:00",
+  "enriched": false
+}

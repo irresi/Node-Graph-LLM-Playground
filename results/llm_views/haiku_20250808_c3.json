@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong bull momentum with +26.54% 30-day return and exceptional Sharpe ratio (3.18), suggesting sustainable alpha generation. However, recent deceleration is concerning: 14-day return (+3.03%) is significantly lower than 7-day (+16.32%), indicating momentum fade. TVL metrics are mixed - LDO and RPL show strong growth (+33.1%, +36.5%), while SNX declining (-1.8%) and UNI moderating (+11.2%) suggests divergent fundamentals. High annualized volatility (70%) and -23.9% max drawdown present downside risk. Bull market regime supports upside, but mean reversion after strong run and decelerating momentum warrant moderate confidence. Forecast annualized at 42% reflects recovery potential with elevated risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong bull momentum with +26.54% 30-day return and exceptional Sharpe ratio (3.18), suggesting sustainable alpha generation. However, recent deceleration is concerning: 14-day return (+3.03%) is significantly lower than 7-day (+16.32%), indicating momentum fade. TVL metrics are mixed - LDO and RPL show strong growth (+33.1%, +36.5%), while SNX declining (-1.8%) and UNI moderating (+11.2%) suggests divergent fundamentals. High annualized volatility (70%) and -23.9% max drawdown present downside risk. Bull market regime supports upside, but mean reversion after strong run and decelerating momentum warrant moderate confidence. Forecast annualized at 42% reflects recovery potential with elevated risk.\"\n}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:39:49.285474+00:00",
+  "enriched": false
+}

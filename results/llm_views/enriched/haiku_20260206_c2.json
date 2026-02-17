@@ -1,0 +1,26 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.72,
+  "reasoning": "Cluster 2 is in a severe bear regime with -37.55% 30-day return and -22.9% DeFi TVL decline. Recent 14-day return of -27.51% indicates sustained downward momentum. High volatility (76.8% annualized) and deeply negative Sharpe ratio (-4.11) suggest risk-off sentiment. However, governance activity remains active across protocols, and yield opportunities (UNI 20.32%, YFI 4.10%, LDO 2.39%) provide some fundamental support. TVL erosion across major protocols (AAVE -18.4%, UNI -27.2%) signals continued outflows. Forecast annualizes recent momentum with modest mean reversion discount, expecting further decline but at slower pace than recent weeks as selling pressure potentially exhausts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 2 is in a severe bear regime with -37.55% 30-day return and -22.9% DeFi TVL decline. Recent 14-day return of -27.51% indicates sustained downward momentum. High volatility (76.8% annualized) and deeply negative Sharpe ratio (-4.11) suggest risk-off sentiment. However, governance activity remains active across protocols, and yield opportunities (UNI 20.32%, YFI 4.10%, LDO 2.39%) provide some fundamental support. TVL erosion across major protocols (AAVE -18.4%, UNI -27.2%) signals continued outflows. Forecast annualizes recent momentum with modest mean reversion discount, expecting further decline but at slower pace than recent weeks as selling pressure potentially exhausts.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:57.136208+00:00",
+  "enriched": true
+}

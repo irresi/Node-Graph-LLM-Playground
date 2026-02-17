@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster in strong bear regime with -12.23% 14-day return and high volatility (83.6% annualized). Recent momentum is negative (-1.28% 7-day), but extreme drawdowns (-28.7%) suggest potential mean reversion. Infrastructure/L2 tokens (OP, ARB, ENS) lack direct TVL metrics, increasing forecast uncertainty. Annualized return extrapolates 14-day momentum while accounting for volatile regime mean reversion. Moderate confidence due to sparse protocol data and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in strong bear regime with -12.23% 14-day return and high volatility (83.6% annualized). Recent momentum is negative (-1.28% 7-day), but extreme drawdowns (-28.7%) suggest potential mean reversion. Infrastructure/L2 tokens (OP, ARB, ENS) lack direct TVL metrics, increasing forecast uncertainty. Annualized return extrapolates 14-day momentum while accounting for volatile regime mean reversion. Moderate confidence due to sparse protocol data and regime uncertainty.\"\n}\n```",
+  "date": "2025-06-08",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:13.626843+00:00"
+}

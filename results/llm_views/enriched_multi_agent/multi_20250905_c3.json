@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.75,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.75,\n  \"reasoning\": \"CVX presents a rare consensus bearish case across all three analyst domains with strong data backing. The -14.6% TVL decline",
+  "n_agents": 18,
+  "date": "2025-09-06 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

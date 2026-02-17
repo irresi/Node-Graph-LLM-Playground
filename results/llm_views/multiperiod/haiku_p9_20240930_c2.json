@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.65,
+  "reasoning": "Cluster 2 (DEX/Derivatives) shows strong fundamentals with +20.34% 30-day return and positive TVL trends across all protocols (CAKE +10.2%, BAL +10.6%). Bull market regime supports continued momentum. However, recent 7-day pullback (-1.43%) and high volatility (54.5% annualized) introduce caution. 14-day forward return estimated at ~3.9% absolute, annualized to 28% for 14-day forecast period. Moderate confidence due to momentum deceleration and mean-reversion risk in high-volatility assets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 (DEX/Derivatives) shows strong fundamentals with +20.34% 30-day return and positive TVL trends across all protocols (CAKE +10.2%, BAL +10.6%). Bull market regime supports continued momentum. However, recent 7-day pullback (-1.43%) and high volatility (54.5% annualized) introduce caution. 14-day forward return estimated at ~3.9% absolute, annualized to 28% for 14-day forecast period. Moderate confidence due to momentum deceleration and mean-reversion risk in high-volatility assets.\"\n}\n```",
+  "date": "2024-10-01",
+  "period_idx": 9,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "havven"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:46.190664+00:00"
+}

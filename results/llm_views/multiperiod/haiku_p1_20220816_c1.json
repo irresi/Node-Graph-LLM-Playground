@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "The cluster shows strong 30-day fundamentals (+25.79% return, +14.4% TVL growth, 2.87 Sharpe ratio) with healthy protocol metrics. However, recent momentum is negative (7-day: -5.06%, 14-day: -1.09%), suggesting potential mean reversion or consolidation phase. The moderate bull regime supports recovery, but the recent weakness indicates caution. Expected return annualizes the recent 14-day trend (-1.09%) with a modest recovery assumption, balancing the strong TVL growth and volatility (75.5%) characteristic of derivative/yield tokens. Confidence is moderate due to the divergence between 30-day strength and recent weakness, typical of volatile DeFi tokens experiencing correction within an uptrend.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"The cluster shows strong 30-day fundamentals (+25.79% return, +14.4% TVL growth, 2.87 Sharpe ratio) with healthy protocol metrics. However, recent momentum is negative (7-day: -5.06%, 14-day: -1.09%), suggesting potential mean reversion or consolidation phase. The moderate bull regime supports recovery, but the recent weakness indicates caution. Expected return annualizes the recent 14-day trend (-1.09%) with a modest recovery assumption, balancing the strong TVL growth and volatility (75.5%) characteristic of derivative/yield tokens. Confidence is moderate due to the divergence between 30-day strength and recent weakness, typical of volatile DeFi tokens experiencing correction within an uptrend.\"\n}\n```",
+  "date": "2022-08-17",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:50.028081+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 faces sustained downward pressure from bear market regime, declining TVL (-8.5%), and negative momentum. While volatility creates uncertainty, the 14-day outlook remains cautious with modest recovery possible but net negative expected returns likely. Confidence is moderate due to high volatility and potential for tactical bounces.",
+  "raw_response": "Based on the provided market context for Cluster 4 (YFI), here is my analysis:\n\n**Key Observations:**\n1. **Market Regime**: Strong bear market with DeFi TVL declining -3.1% over 30 days\n2. **Cluster Momentum**: Negative across all timeframes (-8.83% 7d, -9.93% 14d, -14.16% 30d)\n3. **Volatility**: Extremely high at 61.8% annualized, indicating significant risk\n4. **Protocol Health**: YFI TVL decline of -8.5% suggests reduced protocol utilization\n5. **Risk Metrics**: Sharpe ratio of -1.92 indicates poor risk-adjusted returns; max drawdown of -27.9% shows severe downside exposure\n\n**Forecast Rationale:**\n- The persistent negative momentum across multiple timeframes, combined with deteriorating TVL metrics, suggests continued weakness\n- High volatility creates uncertainty, but the trend is clearly bearish\n- The bear market regime typically extends 2-4 weeks, so the next 14 days likely remain challenging\n- However, YFI's negative momentum appears to be stabilizing (7d to 14d to 30d shows slowing deterioration)\n- A modest recovery bounce is possible, but the overall trajectory remains downward\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 faces sustained downward pressure from bear market regime, declining TVL (-8.5%), and negative momentum. While volatility creates uncertainty, the 14-day outlook remains cautious with modest recovery possible but net negative expected returns likely. Confidence is moderate due to high volatility and potential for tactical bounces.\"}\n```",
+  "date": "2025-12-05",
+  "period_idx": 13,
+  "cluster_id": 4,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:48.610091+00:00"
+}

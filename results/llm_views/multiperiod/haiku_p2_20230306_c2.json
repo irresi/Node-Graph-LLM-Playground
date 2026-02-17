@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster faces headwinds from moderate bear market regime and sharp recent downturns (-14.09% over 7 days, -13.38% over 14 days) despite positive 30-day returns. Mixed fundamentals: LDO and GMX show strong TVL growth (+8.0%, +16.2%), but RPL declining (-1.3%). High volatility (75.8% annualized) and negative momentum suggest continued pressure over next 14 days. Modest confidence due to potential mean reversion given 30-day +5.71% performance, but bear market headwinds and recent selloff momentum dominate near-term outlook.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster faces headwinds from moderate bear market regime and sharp recent downturns (-14.09% over 7 days, -13.38% over 14 days) despite positive 30-day returns. Mixed fundamentals: LDO and GMX show strong TVL growth (+8.0%, +16.2%), but RPL declining (-1.3%). High volatility (75.8% annualized) and negative momentum suggest continued pressure over next 14 days. Modest confidence due to potential mean reversion given 30-day +5.71% performance, but bear market headwinds and recent selloff momentum dominate near-term outlook.\"\n}\n```",
+  "date": "2023-03-07",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:29:07.616841+00:00"
+}

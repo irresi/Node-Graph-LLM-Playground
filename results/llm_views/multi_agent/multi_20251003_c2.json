@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.018,
+  "confidence": 0.52,
+  "reasoning": "I'll analyze both the Bull and Bear arguments against the analyst reports to produce a calibrated forecast for Cluster 2 over the 14-day horizon.\n\n## Analysis Summary\n\n**What I'm observing:**\n\n1. **Bu",
+  "n_agents": 12,
+  "date": "2025-10-04 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

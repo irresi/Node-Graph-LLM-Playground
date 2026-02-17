@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bearish regime with -22.72% monthly decline and negative 14-day momentum (-17.56%). Cluster shows elevated volatility (34.4% annualized) and poor Sharpe ratio (-5.55). However, some stabilization signals: 7-day return (-3.36%) is less severe than 14-day (-17.56%), suggesting potential deceleration of losses. Infrastructure/DEX tokens may find support as core DeFi primitives despite TVL contraction. Moderate confidence due to volatile market conditions and potential capitulation bottom, but downside bias remains given persistent bearish regime and continued TVL outflows across major protocols (AAVE -22.5%, BAL -33.9%).",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.72, \"reasoning\": \"Strong bearish regime with -22.72% monthly decline and negative 14-day momentum (-17.56%). Cluster shows elevated volatility (34.4% annualized) and poor Sharpe ratio (-5.55). However, some stabilization signals: 7-day return (-3.36%) is less severe than 14-day (-17.56%), suggesting potential deceleration of losses. Infrastructure/DEX tokens may find support as core DeFi primitives despite TVL contraction. Moderate confidence due to volatile market conditions and potential capitulation bottom, but downside bias remains given persistent bearish regime and continued TVL outflows across major protocols (AAVE -22.5%, BAL -33.9%).\"}\n```",
+  "date": "2023-08-27",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:42.935234+00:00"
+}

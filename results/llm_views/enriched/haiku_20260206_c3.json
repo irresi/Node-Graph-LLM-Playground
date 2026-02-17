@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "CVX faces significant headwinds: DeFi TVL down 22.9% (bear market regime), CVX TVL declined 27% over 30 days, negative 14-day momentum (-15.61%), and extreme volatility (98.7% annualized). The token shows consistent downtrend across all timeframes (7d: -13.45%, 14d: -15.61%, 30d: -15.47%). While governance activity remains stable (3 active proposals) and base yield (5.14% weighted APY) provides some support, the technical deterioration and macro bear conditions suggest continued weakness over the next 14 days. Annualized return estimate extrapolates recent 14-day performance. Confidence is moderate due to high volatility and potential for sharp reversals in DeFi markets, though directional bias remains bearish.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CVX faces significant headwinds: DeFi TVL down 22.9% (bear market regime), CVX TVL declined 27% over 30 days, negative 14-day momentum (-15.61%), and extreme volatility (98.7% annualized). The token shows consistent downtrend across all timeframes (7d: -13.45%, 14d: -15.61%, 30d: -15.47%). While governance activity remains stable (3 active proposals) and base yield (5.14% weighted APY) provides some support, the technical deterioration and macro bear conditions suggest continued weakness over the next 14 days. Annualized return estimate extrapolates recent 14-day performance. Confidence is moderate due to high volatility and potential for sharp reversals in DeFi markets, though directional bias remains bearish.\"\n}\n```",
+  "date": "2026-02-07",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:13:02.412315+00:00",
+  "enriched": true
+}

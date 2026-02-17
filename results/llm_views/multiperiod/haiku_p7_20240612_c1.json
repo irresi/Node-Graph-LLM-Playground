@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows severe short-term bearish momentum (-13.96% 7d, -15.17% 14d) despite positive DeFi TVL growth (+19.6%), suggesting these infrastructure tokens are underperforming the broader market. High volatility (62.6% annualized) and negative Sharpe ratio (-0.15) indicate risk-adjusted returns are poor. Mean reversion potential exists given the -22.4% max drawdown, but sustained underperformance relative to DeFi growth suggests fundamental headwinds in Oracle/L2 sentiment. Moderate confidence due to infrastructure tokens' sensitivity to adoption cycles and upcoming network developments that could rapidly shift sentiment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster shows severe short-term bearish momentum (-13.96% 7d, -15.17% 14d) despite positive DeFi TVL growth (+19.6%), suggesting these infrastructure tokens are underperforming the broader market. High volatility (62.6% annualized) and negative Sharpe ratio (-0.15) indicate risk-adjusted returns are poor. Mean reversion potential exists given the -22.4% max drawdown, but sustained underperformance relative to DeFi growth suggests fundamental headwinds in Oracle/L2 sentiment. Moderate confidence due to infrastructure tokens' sensitivity to adoption cycles and upcoming network developments that could rapidly shift sentiment.\"\n}\n```",
+  "date": "2024-06-13",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:03.906246+00:00"
+}

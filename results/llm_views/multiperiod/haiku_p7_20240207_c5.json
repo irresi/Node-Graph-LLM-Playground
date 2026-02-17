@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong recent momentum (+3.19% in 7 days, +2.77% in 14 days) contrasting with negative 30-day performance (-9.99%), suggesting potential reversal. Neutral market regime with modest DeFi TVL growth (+1.4%) provides stable backdrop. TVL growth is mixed but generally positive (CRV +16%, AAVE +2.7%, UNI +1.9%), indicating fundamental health. However, elevated volatility (41.3% annualized) and negative Sharpe ratio (-2.03) create uncertainty. Confidence moderate due to: (1) mean-reversion signals from recent positive momentum, (2) liquidity protocol strength (UNI, AAVE, CRV combined represent ~72% of cluster TVL), but (3) offset by persistent negative price momentum on longer timeframes and high volatility risk. 14-day annualized return estimate based on recent 7-day +3.19% trajectory with slight acceleration from technical oversold conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong recent momentum (+3.19% in 7 days, +2.77% in 14 days) contrasting with negative 30-day performance (-9.99%), suggesting potential reversal. Neutral market regime with modest DeFi TVL growth (+1.4%) provides stable backdrop. TVL growth is mixed but generally positive (CRV +16%, AAVE +2.7%, UNI +1.9%), indicating fundamental health. However, elevated volatility (41.3% annualized) and negative Sharpe ratio (-2.03) create uncertainty. Confidence moderate due to: (1) mean-reversion signals from recent positive momentum, (2) liquidity protocol strength (UNI, AAVE, CRV combined represent ~72% of cluster TVL), but (3) offset by persistent negative price momentum on longer timeframes and high volatility risk. 14-day annualized return estimate based on recent 7-day +3.19% trajectory with slight acceleration from technical oversold conditions.\"\n}\n```",
+  "date": "2024-02-08",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:32.626566+00:00"
+}

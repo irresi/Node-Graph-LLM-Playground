@@ -1,0 +1,30 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -18.67% 30-day decline and negative Sharpe ratio (-3.07). However, recent 7-day momentum of +1.59% suggests potential stabilization. AAVE's +5.9% TVL growth and CRV's +8.8% indicate selective strength in lending/curve protocols. High volatility (51.1% annualized) and -14.86% 14-day return create headwinds. Forecasting continued weakness but at slower pace due to positive recent weekly trend and some fundamental improvements in large holdings. Moderate confidence reflects uncertain macro regime and conflicting signals between recent momentum and structural bearishness.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -18.67% 30-day decline and negative Sharpe ratio (-3.07). However, recent 7-day momentum of +1.59% suggests potential stabilization. AAVE's +5.9% TVL growth and CRV's +8.8% indicate selective strength in lending/curve protocols. High volatility (51.1% annualized) and -14.86% 14-day return create headwinds. Forecasting continued weakness but at slower pace due to positive recent weekly trend and some fundamental improvements in large holdings. Moderate confidence reflects uncertain macro regime and conflicting signals between recent momentum and structural bearishness.\"\n}\n```",
+  "date": "2025-12-25",
+  "period_idx": 14,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:29:42.179005+00:00"
+}

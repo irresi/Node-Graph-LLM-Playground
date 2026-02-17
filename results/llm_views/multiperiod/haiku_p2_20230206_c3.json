@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 demonstrates strong recent momentum (+47.21% over 30 days, +8.15% over 7 days) with excellent risk-adjusted returns (Sharpe ratio 8.47). The bull market regime and TVL growth across protocols (particularly SNX +59.4%) support continued outperformance. However, the forecast is tempered by: (1) decelerating returns trend (30d: +47.21% \u2192 14d: +5.75% \u2192 7d: +8.15% shows inconsistency), (2) extended gains suggesting mean reversion risk, (3) high volatility (46.8% annualized) creating estimation uncertainty, and (4) valuation concerns after significant appreciation. The 28% annualized return reflects expected consolidation from current momentum levels while maintaining the bull regime tailwind. Confidence is moderate (0.62) due to market volatility and potential mean reversion after extended gains.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 demonstrates strong recent momentum (+47.21% over 30 days, +8.15% over 7 days) with excellent risk-adjusted returns (Sharpe ratio 8.47). The bull market regime and TVL growth across protocols (particularly SNX +59.4%) support continued outperformance. However, the forecast is tempered by: (1) decelerating returns trend (30d: +47.21% \u2192 14d: +5.75% \u2192 7d: +8.15% shows inconsistency), (2) extended gains suggesting mean reversion risk, (3) high volatility (46.8% annualized) creating estimation uncertainty, and (4) valuation concerns after significant appreciation. The 28% annualized return reflects expected consolidation from current momentum levels while maintaining the bull regime tailwind. Confidence is moderate (0.62) due to market volatility and potential mean reversion after extended gains.\"\n}\n```",
+  "date": "2023-02-07",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:13.241662+00:00"
+}

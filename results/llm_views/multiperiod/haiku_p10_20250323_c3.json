@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -27.06% 30-day loss but showing recovery momentum (+9.73% 7-day, +3.89% 14-day). DeFi TVL down 16.7% signals continued sector headwinds. UNI's larger TVL decline (-17.3% vs AAVE -6.7%) suggests selective de-risking. Recent bounce indicates potential mean reversion in near term, but sustained bear regime and high volatility (97.4% annualized) limit upside. Confidence tempered by macro uncertainty and negative trend reversal not yet confirmed.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -27.06% 30-day loss but showing recovery momentum (+9.73% 7-day, +3.89% 14-day). DeFi TVL down 16.7% signals continued sector headwinds. UNI's larger TVL decline (-17.3% vs AAVE -6.7%) suggests selective de-risking. Recent bounce indicates potential mean reversion in near term, but sustained bear regime and high volatility (97.4% annualized) limit upside. Confidence tempered by macro uncertainty and negative trend reversal not yet confirmed.\"\n}\n```",
+  "date": "2025-03-24",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:29.767400+00:00"
+}

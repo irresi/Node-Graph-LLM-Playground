@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.082,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.082,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull Researcher correctly identifies selective strength (AAVE $34.5B TVL, +2.6%; CRV +0.7%) and valid technical bounce (+5.",
+  "n_agents": 12,
+  "date": "2026-01-10 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

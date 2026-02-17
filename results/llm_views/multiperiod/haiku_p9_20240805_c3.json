@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 is in severe distress amid a bear market. The 14-day return of -43.24% and 7-day return of -38.76% indicate strong downward momentum with extreme volatility (73.3% annualized). The negative Sharpe ratio (-3.93) and -38.8% max drawdown reflect risk-adjusted losses. However, infrastructure/L2 tokens (OP, ARB, ENS, GRT) may find support after such steep declines, while LINK shows stabilization with flat TVL. The forecast assumes continued weakness but potential volatility mean-reversion. Low confidence due to: (1) unpredictable bear market dynamics, (2) limited protocol TVL data for most tokens, (3) high volatility making 14-day forecasts unreliable, (4) macro crypto uncertainty. Recovery is possible if risk sentiment improves, but downside remains elevated given negative momentum.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 is in severe distress amid a bear market. The 14-day return of -43.24% and 7-day return of -38.76% indicate strong downward momentum with extreme volatility (73.3% annualized). The negative Sharpe ratio (-3.93) and -38.8% max drawdown reflect risk-adjusted losses. However, infrastructure/L2 tokens (OP, ARB, ENS, GRT) may find support after such steep declines, while LINK shows stabilization with flat TVL. The forecast assumes continued weakness but potential volatility mean-reversion. Low confidence due to: (1) unpredictable bear market dynamics, (2) limited protocol TVL data for most tokens, (3) high volatility making 14-day forecasts unreliable, (4) macro crypto uncertainty. Recovery is possible if risk sentiment improves, but downside remains elevated given negative momentum.\"\n}\n```",
+  "date": "2024-08-06",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:30.351253+00:00"
+}

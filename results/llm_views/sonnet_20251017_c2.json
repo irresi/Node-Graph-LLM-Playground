@@ -1,14 +1,26 @@
 {
-  "expected_return": -0.52,
-  "confidence": 0.72,
-  "reasoning": "BAL is in a severe bear trend with accelerating losses: -13.79% over 7 days, -17.32% over 14 days, and -21.32% over 30 days, indicating momentum is worsening rather than stabilizing. The Sharpe ratio of -2.68 confirms deeply negative risk-adjusted performance. While TVL at $837M provides some fundamental floor and the 30-day TVL decline of -3.2% is less severe than price action (suggesting some protocol resilience), the broader DeFi market is also contracting (-8.8% TVL, bear regime). Annualizing the recent 14-day return trajectory (~-17.32% per 14 days \u00d7 26 periods \u2248 -1.30+ annualized) would be extreme; however, mean reversion and support levels temper the projection. A moderate -52% annualized return reflects the strong bearish momentum with some discount for potential short-term stabilization. Confidence is moderate at 0.72 given the clear directional signal but uncertainty around the magnitude of continued selling pressure.",
-  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.72, \"reasoning\": \"BAL is in a severe bear trend with accelerating losses: -13.79% over 7 days, -17.32% over 14 days, and -21.32% over 30 days, indicating momentum is worsening rather than stabilizing. The Sharpe ratio of -2.68 confirms deeply negative risk-adjusted performance. While TVL at $837M provides some fundamental floor and the 30-day TVL decline of -3.2% is less severe than price action (suggesting some protocol resilience), the broader DeFi market is also contracting (-8.8% TVL, bear regime). Annualizing the recent 14-day return trajectory (~-17.32% per 14 days \u00d7 26 periods \u2248 -1.30+ annualized) would be extreme; however, mean reversion and support levels temper the projection. A moderate -52% annualized return reflects the strong bearish momentum with some discount for potential short-term stabilization. Confidence is moderate at 0.72 given the clear directional signal but uncertainty around the magnitude of continued selling pressure.\"}\n```",
-  "date": "2025-10-17",
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 is a diversified DeFi blue-chip basket (DEX, Lending, Derivatives, Liquid Staking) facing severe headwinds: confirmed bear regime, -30.52% 30-day return, -2.25 Sharpe, and a -30% max drawdown signal sustained selling pressure. Overall DeFi TVL is down -11.2% over 30 days, and major constituents AAVE (-9.1% TVL), UNI (-6.7%), and SUSHI (-7.7%) show continued capital outflows \u2014 structurally bearish for governance/fee-accrual tokens. The sole bright spots are CRV (+11.7% TVL) and CAKE (+11.8% TVL), suggesting selective rotation but insufficient to offset broad weakness. The recent 7-day bounce (+3.00%) likely represents a bear-market relief rally rather than a trend reversal given the deeply negative 14-day (-30.89%) context. Annualizing a conservative forward-looking 14-day return of approximately -1.6% (discounting some mean-reversion from the bounce but respecting the dominant downtrend) yields roughly -0.42 annualized. Confidence is moderate at 0.62 \u2014 high volatility (113.9% annualized) and the mixed TVL signals (some protocols stabilizing) introduce meaningful uncertainty around the central estimate.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is a diversified DeFi blue-chip basket (DEX, Lending, Derivatives, Liquid Staking) facing severe headwinds: confirmed bear regime, -30.52% 30-day return, -2.25 Sharpe, and a -30% max drawdown signal sustained selling pressure. Overall DeFi TVL is down -11.2% over 30 days, and major constituents AAVE (-9.1% TVL), UNI (-6.7%), and SUSHI (-7.7%) show continued capital outflows \u2014 structurally bearish for governance/fee-accrual tokens. The sole bright spots are CRV (+11.7% TVL) and CAKE (+11.8% TVL), suggesting selective rotation but insufficient to offset broad weakness. The recent 7-day bounce (+3.00%) likely represents a bear-market relief rally rather than a trend reversal given the deeply negative 14-day (-30.89%) context. Annualizing a conservative forward-looking 14-day return of approximately -1.6% (discounting some mean-reversion from the bounce but respecting the dominant downtrend) yields roughly -0.42 annualized. Confidence is moderate at 0.62 \u2014 high volatility (113.9% annualized) and the mixed TVL signals (some protocols stabilizing) introduce meaningful uncertainty around the central estimate.\"\n}\n```",
+  "date": "2025-10-18",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:13:12.820121+00:00",
+  "generated_at": "2026-02-17T16:03:20.182695+00:00",
   "enriched": false
 }

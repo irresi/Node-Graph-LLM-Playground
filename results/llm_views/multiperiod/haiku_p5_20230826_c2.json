@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.95,
+  "confidence": 0.35,
+  "reasoning": "Cluster 2 (CRV/CVX) faces severe headwinds: bear market regime with -38.78% 30-day decline, negative momentum (-6.91% 7-day, -17.53% 14-day), high volatility (58.2% annualized), and deteriorating TVL (-28-30% across protocols). The -5.60 Sharpe ratio indicates risk-adjusted returns are deeply negative. While oversold conditions and potential mean reversion could provide some support, the structural bear market and protocol outflows suggest continued weakness. Low confidence reflects high uncertainty in directional forecasts during extreme volatility and potential for either sharp reversals or further deterioration.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 2 (CRV/CVX) faces severe headwinds: bear market regime with -38.78% 30-day decline, negative momentum (-6.91% 7-day, -17.53% 14-day), high volatility (58.2% annualized), and deteriorating TVL (-28-30% across protocols). The -5.60 Sharpe ratio indicates risk-adjusted returns are deeply negative. While oversold conditions and potential mean reversion could provide some support, the structural bear market and protocol outflows suggest continued weakness. Low confidence reflects high uncertainty in directional forecasts during extreme volatility and potential for either sharp reversals or further deterioration.\"\n}\n```",
+  "date": "2023-08-27",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:38.373354+00:00"
+}

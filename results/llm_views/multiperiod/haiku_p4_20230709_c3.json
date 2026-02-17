@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Liquid staking cluster (LDO, RPL) shows negative recent momentum (-10.64% 7-day, -6.73% 30-day) despite strong TVL growth (+13.2% LDO, +12.5% RPL) and bull market regime. High volatility (45.6%) and negative Sharpe ratio (-1.24) indicate risk-reward imbalance. However, fundamental TVL growth and overall DeFi bullish sentiment (+6.6% TVL) suggest potential mean reversion bounce over 14 days. Forecast assumes modest recovery from oversold conditions, but low confidence due to disconnect between fundamentals and recent price weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Liquid staking cluster (LDO, RPL) shows negative recent momentum (-10.64% 7-day, -6.73% 30-day) despite strong TVL growth (+13.2% LDO, +12.5% RPL) and bull market regime. High volatility (45.6%) and negative Sharpe ratio (-1.24) indicate risk-reward imbalance. However, fundamental TVL growth and overall DeFi bullish sentiment (+6.6% TVL) suggest potential mean reversion bounce over 14 days. Forecast assumes modest recovery from oversold conditions, but low confidence due to disconnect between fundamentals and recent price weakness.\"\n}\n```",
+  "date": "2023-07-10",
+  "period_idx": 4,
+  "cluster_id": 3,
+  "members": [
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:20.417888+00:00"
+}

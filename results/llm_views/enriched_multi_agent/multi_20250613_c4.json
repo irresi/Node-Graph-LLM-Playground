@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.52,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Both researchers acknowledge BAL faces headwinds: -10.18% 30d decline, -1.18 Sharpe ratio, and artificially-supported yields",
+  "n_agents": 24,
+  "date": "2025-06-14 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Cluster 1 is in a severe bear regime with -39.17% 30-day return and -40.3% max drawdown. The -30.97% 14-day return suggests continued downward momentum. With 83.6% annualized volatility and -3.94 Sharpe ratio, the risk-adjusted outlook is highly negative. Broad DeFi TVL down 8.1% indicates systemic weakness. However, infrastructure tokens (OP, ARB) and oracles (LINK, GRT) have fundamental utility that may provide some support. Annualized -85% reflects continuation of recent 14-day momentum (-30.97% \u00d7 12/4 \u2248 -92.9%), with modest mean-reversion discount due to protocol value floors. Confidence is moderate due to tail-risk environment and potential market snapback, but near-term technicals remain bearish.",
+  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 1 is in a severe bear regime with -39.17% 30-day return and -40.3% max drawdown. The -30.97% 14-day return suggests continued downward momentum. With 83.6% annualized volatility and -3.94 Sharpe ratio, the risk-adjusted outlook is highly negative. Broad DeFi TVL down 8.1% indicates systemic weakness. However, infrastructure tokens (OP, ARB) and oracles (LINK, GRT) have fundamental utility that may provide some support. Annualized -85% reflects continuation of recent 14-day momentum (-30.97% \u00d7 12/4 \u2248 -92.9%), with modest mean-reversion discount due to protocol value floors. Confidence is moderate due to tail-risk environment and potential market snapback, but near-term technicals remain bearish.\"\n}\n```",
+  "date": "2024-04-18",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:22.729676+00:00"
+}

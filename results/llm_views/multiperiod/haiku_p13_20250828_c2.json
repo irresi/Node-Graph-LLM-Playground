@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows negative momentum (-9.46% over 14d, -1.79% over 7d) despite strong TVL growth in LDO (+15.6%) and RPL (+14.2%), indicating potential valuation compression in liquid staking/yield tokens. High volatility (91.1% annualized) and negative Sharpe ratio (-0.56) suggest risk-reward is unfavorable. Mixed signals: TVL growth is positive but price action remains weak, typical of range-bound markets where protocols underperform fundamentals short-term. Moderate confidence due to regime uncertainty and recent underperformance creating potential for mean reversion, but near-term headwinds persist.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows negative momentum (-9.46% over 14d, -1.79% over 7d) despite strong TVL growth in LDO (+15.6%) and RPL (+14.2%), indicating potential valuation compression in liquid staking/yield tokens. High volatility (91.1% annualized) and negative Sharpe ratio (-0.56) suggest risk-reward is unfavorable. Mixed signals: TVL growth is positive but price action remains weak, typical of range-bound markets where protocols underperform fundamentals short-term. Moderate confidence due to regime uncertainty and recent underperformance creating potential for mean reversion, but near-term headwinds persist.\"\n}\n```",
+  "date": "2025-08-29",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:06.918406+00:00"
+}

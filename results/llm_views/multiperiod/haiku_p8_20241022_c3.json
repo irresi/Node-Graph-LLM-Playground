@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "MKR in bear market with severe downtrend (-34.24% 30d, -15.22% 14d). High volatility (52.9% annualized) and negative Sharpe ratio (-5.44) indicate challenging conditions. However, extreme drawdowns may present mean reversion opportunity. TVL decline of -6.0% suggests protocol stress. Conservative negative forecast reflects ongoing bearish momentum, but confidence tempered by potential stabilization or recovery scenarios in volatile market.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.65, \"reasoning\": \"MKR in bear market with severe downtrend (-34.24% 30d, -15.22% 14d). High volatility (52.9% annualized) and negative Sharpe ratio (-5.44) indicate challenging conditions. However, extreme drawdowns may present mean reversion opportunity. TVL decline of -6.0% suggests protocol stress. Conservative negative forecast reflects ongoing bearish momentum, but confidence tempered by potential stabilization or recovery scenarios in volatile market.\"}\n```",
+  "date": "2024-10-23",
+  "period_idx": 8,
+  "cluster_id": 3,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:17.137132+00:00"
+}

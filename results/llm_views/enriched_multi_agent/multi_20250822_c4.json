@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Bull case rests on TVL momentum (+17%) and governance activity, but On-Chain analyst explicitly flags yield inflation (headli",
+  "n_agents": 24,
+  "date": "2025-08-23 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

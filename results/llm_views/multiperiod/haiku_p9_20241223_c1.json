@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing recent momentum loss (-17% in 7 days) after strong 30-day rally, suggesting consolidation phase. High volatility (143%) and -42.5% max drawdown indicate mean reversion pressure. While moderate bull regime and staking fundamentals provide some support, near-term headwinds from profit-taking likely outweigh upside. Forecast: -8% annualized return (approx -0.3% for 14 days). Moderate confidence due to high volatility and potential for rapid reversals in leveraged yield products.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Current Market Setup:**\n- The cluster has strong 30-day returns (+25.55%) but shows recent weakness (7-day: -17.08%, 14-day: -13.49%)\n- High volatility (143.2% annualized) with significant drawdown (-42.5%) suggests mean reversion risk\n- Positive Sharpe ratio (1.50) indicates risk-adjusted performance is reasonable\n\n**Cluster Composition:**\n- **CVX (Convex Finance)**: Strong 30-day performance (+18.8% TVL growth), liquid staking/yield focus\n- **RPL (Rocket Pool)**: Modest growth (+1.1% TVL change), liquid staking protocol\n- Both tokens benefit from staking yield infrastructure, but RPL shows slower momentum\n\n**Key Observations:**\n1. **Momentum Reversal**: The recent 14-day decline (-13.49%) follows the 30-day rally, suggesting profit-taking and consolidation\n2. **Market Regime**: Moderate bull market is supportive but not strongly bullish\n3. **Volatility Risk**: 143.2% annualized volatility with -42.5% max drawdown indicates high downside risk in near term\n4. **TVL Fundamentals**: CVX showing strong TVL growth while RPL is stagnant - diverging momentum within the cluster\n\n**14-Day Forecast Rationale:**\n- Recent negative momentum (-17.08% over 7 days) suggests continued consolidation/pullback\n- High volatility creates mean reversion pressure after 30-day rally\n- Staking yields provide some floor support but are already priced in\n- Moderate bull regime could stabilize prices but insufficient for positive returns near-term\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.62, \"reasoning\": \"Cluster showing recent momentum loss (-17% in 7 days) after strong 30-day rally, suggesting consolidation phase. High volatility (143%) and -42.5% max drawdown indicate mean reversion pressure. While moderate bull regime and staking fundamentals provide some support, near-term headwinds from profit-taking likely outweigh upside. Forecast: -8% annualized return (approx -0.3% for 14 days). Moderate confidence due to high volatility and potential for rapid reversals in leveraged yield products.\"}\n```",
+  "date": "2024-12-24",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:01.569997+00:00"
+}

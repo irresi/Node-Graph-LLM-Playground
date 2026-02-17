@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.082,
+  "confidence": 0.62,
+  "reasoning": "I need to analyze this debate carefully. Let me examine the key points:\n\n**Data Points:**\n- On-chain: TVL +10.3% (protocol health positive), but price -21.63% 30d, -9.43% 7d\n- Sentiment: -0.45 (modera",
+  "n_agents": 24,
+  "date": "2026-01-24 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

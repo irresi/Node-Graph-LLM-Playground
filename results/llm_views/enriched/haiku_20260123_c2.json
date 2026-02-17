@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Cluster in short-term downtrend (-9.85% 7-day) with negative Sharpe ratio and high volatility (46.8%). Expect modest mean reversion over 14 days as oversold conditions partially stabilize, but limited upside from neutral market regime and weak fundamentals. Low confidence due to negative momentum and lack of positive catalysts.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum (Negative)**\n   - 7-day return: -9.85%\n   - 14-day return: -7.62%\n   - 30-day return: -1.68%\n   - Clear downward trend with acceleration in recent week\n\n2. **Volatility & Risk Metrics**\n   - Annualized volatility: 46.8% (high)\n   - Sharpe ratio: -0.30 (negative risk-adjusted returns)\n   - Max drawdown: -14.7% (significant recent decline)\n   - Cluster is in drawdown territory\n\n3. **Market Regime**\n   - Neutral/range-bound overall DeFi market\n   - TVL growth modest (+3.0% 30-day)\n   - No clear bullish catalyst\n\n4. **Protocol Fundamentals**\n   - TVL relatively stable across major protocols\n   - Yield metrics compressed (0.49% - 20.32% APY, mostly low)\n   - Governance activity normal, no major positive catalysts\n   - AAVE dominates cluster (TVL-weighted), showing +0.9% TVL growth\n\n5. **Mean Reversion Consideration**\n   - Strong recent decline (-9.85% in 7 days) may create some mean reversion\n   - However, negative Sharpe ratio suggests structural weakness\n   - Market regime doesn't support strong bounce-back\n\n**14-Day Forecast Logic:**\n- The 7-day decline is steep, suggesting potential for modest stabilization/reversion\n- However, the negative trend and lack of bullish catalysts limit upside\n- Range-bound market regime suggests mean reversion is partial, not full\n- Expecting modest positive return as cluster stabilizes from oversold levels, but with low confidence given negative momentum\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Cluster in short-term downtrend (-9.85% 7-day) with negative Sharpe ratio and high volatility (46.8%). Expect modest mean reversion over 14 days as oversold conditions partially stabilize, but limited upside from neutral market regime and weak fundamentals. Low confidence due to negative momentum and lack of positive catalysts.\"}\n```",
+  "date": "2026-01-24",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:34.146578+00:00",
+  "enriched": true
+}

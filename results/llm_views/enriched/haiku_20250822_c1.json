@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 14-day momentum (+12.43%) in a moderate bull market with expanding DeFi TVL (+22%). However, annualizing the 14-day return would suggest ~1.35 annualized, which is excessive given the 81.5% volatility and -18.7% max drawdown. Applied 0.33x factor to moderate for mean reversion and volatility decay, resulting in 45% annualized. Governance activity is active but routine. Confidence limited by lack of TVL data for 4/5 tokens and upcoming events that could shift sentiment.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+12.43%) in a moderate bull market with expanding DeFi TVL (+22%). However, annualizing the 14-day return would suggest ~1.35 annualized, which is excessive given the 81.5% volatility and -18.7% max drawdown. Applied 0.33x factor to moderate for mean reversion and volatility decay, resulting in 45% annualized. Governance activity is active but routine. Confidence limited by lack of TVL data for 4/5 tokens and upcoming events that could shift sentiment.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:08.999312+00:00",
+  "enriched": true
+}

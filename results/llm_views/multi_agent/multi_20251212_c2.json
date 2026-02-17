@@ -1,0 +1,24 @@
+{
+  "expected_return": -0.03,
+  "confidence": 0.45,
+  "reasoning": "I need to carefully weigh both arguments and the underlying analyst reports to produce a calibrated forecast.\n\n## Analysis\n\n**Key observations:**\n\n1. **Data Consensus**: All three analyst reports pres",
+  "n_agents": 12,
+  "date": "2025-12-13 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

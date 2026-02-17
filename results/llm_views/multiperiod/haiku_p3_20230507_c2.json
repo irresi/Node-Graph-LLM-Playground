@@ -1,0 +1,28 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Strong downtrend in bear market regime with negative 14-day momentum (-11.21%). Cluster volatility is elevated (49.2% annualized), and multiple protocols show declining TVL. However, some stabilization signals: UNI showing positive 30d change (+2.8%), and extreme negative Sharpe ratio (-3.21) suggests potential oversold conditions. Forecasting continued weakness but at a moderated pace given the recent severity of drawdowns. Confidence tempered by bear market regime and deteriorating protocol metrics, but mitigated by potential mean reversion from oversold levels.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong downtrend in bear market regime with negative 14-day momentum (-11.21%). Cluster volatility is elevated (49.2% annualized), and multiple protocols show declining TVL. However, some stabilization signals: UNI showing positive 30d change (+2.8%), and extreme negative Sharpe ratio (-3.21) suggests potential oversold conditions. Forecasting continued weakness but at a moderated pace given the recent severity of drawdowns. Confidence tempered by bear market regime and deteriorating protocol metrics, but mitigated by potential mean reversion from oversold levels.\"\n}\n```",
+  "date": "2023-05-08",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:41.821316+00:00"
+}

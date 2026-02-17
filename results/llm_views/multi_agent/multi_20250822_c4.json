@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL presents a classic risk/reward imbalance in a favorable but fragile bull regime. Bullish signals (positive momentum, TVL ",
+  "n_agents": 24,
+  "date": "2025-08-23 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

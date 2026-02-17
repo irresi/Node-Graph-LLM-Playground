@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Strong recent momentum (+24.91% over 14d) and supportive bull market regime support continued gains, but deceleration in 7d returns (+10.17%) and recent volatility suggest lower forward returns. Annualized return of 45% reflects expected continued outperformance but with elevated mean reversion risk. Moderate confidence due to data gaps (LINK TVL missing) and inherent unpredictability of short-term crypto movements.",
+  "raw_response": "Based on the provided market context and cluster data, let me analyze this forecast:\n\n**Key Analysis Points:**\n\n1. **Momentum Indicators**: The cluster shows strong recent performance:\n   - 7-day return: +10.17%\n   - 14-day return: +24.91%\n   - 30-day return: +58.81%\n   - This suggests positive momentum, though the 7-day return is notably lower than the 14-30 day returns, indicating some deceleration\n\n2. **Market Regime**: \"Moderate Bull\" with positive DeFi TVL trend (+38.5% over 30 days) provides supportive conditions\n\n3. **Volatility & Risk-Adjusted Returns**: \n   - Annualized volatility of 57.1% is high\n   - Sharpe ratio of 8.65 indicates excellent risk-adjusted returns recently\n   - Max drawdown of -7.0% shows relatively contained downside recently\n\n4. **Fundamental Considerations**:\n   - Mixed TVL trends across protocols (CAKE +22.8%, GMX +43.4%, RPL +82.0%)\n   - Some data gaps (LINK TVL unavailable, ENS no TVL data)\n   - Diverse token categories reduce single-protocol risk\n\n5. **Mean Reversion Consideration**: After a +58.81% 30-day run, some pullback is likely. The cluster may face headwinds from profit-taking\n\n6. **Forecast Period**: 14-day horizon is relatively short; momentum can persist but the sharp deceleration from 14d (+24.91%) to 7d (+10.17%) is concerning\n\n**Forecast Rationale**: Given the strong but decelerating momentum, supportive market regime, but also the risk of mean reversion after a substantial 30-day rally, I expect continued positive returns but at a moderated pace.\n\n```json\n{\"expected_return\": 0.45, \"confidence\": 0.62, \"reasoning\": \"Strong recent momentum (+24.91% over 14d) and supportive bull market regime support continued gains, but deceleration in 7d returns (+10.17%) and recent volatility suggest lower forward returns. Annualized return of 45% reflects expected continued outperformance but with elevated mean reversion risk. Moderate confidence due to data gaps (LINK TVL missing) and inherent unpredictability of short-term crypto movements.\"}\n```",
+  "date": "2022-08-11",
+  "period_idx": 0,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "gmx",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:19:41.925661+00:00"
+}

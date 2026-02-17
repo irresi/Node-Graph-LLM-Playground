@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.25,
+  "confidence": 0.45,
+  "reasoning": "MKR faces headwinds from bear market regime (-10.2% DeFi TVL decline, -12% cluster 30d return) and high volatility (61.2% annualized). However, recent 14-day momentum is positive (+6.1%), suggesting potential mean reversion or stabilization. MKR's lending protocol fundamentals remain intact with $5.9B TVL. The forecast reflects bearish macro conditions tempered by recent bounce, with low confidence due to high volatility and regime uncertainty. Annualized from expected 14-day decline of ~-0.5% to -1%.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.45,\n  \"reasoning\": \"MKR faces headwinds from bear market regime (-10.2% DeFi TVL decline, -12% cluster 30d return) and high volatility (61.2% annualized). However, recent 14-day momentum is positive (+6.1%), suggesting potential mean reversion or stabilization. MKR's lending protocol fundamentals remain intact with $5.9B TVL. The forecast reflects bearish macro conditions tempered by recent bounce, with low confidence due to high volatility and regime uncertainty. Annualized from expected 14-day decline of ~-0.5% to -1%.\"\n}\n```",
+  "date": "2024-06-27",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:37.797365+00:00"
+}

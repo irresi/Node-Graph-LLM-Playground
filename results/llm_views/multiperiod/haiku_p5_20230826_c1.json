@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.42,
+  "reasoning": "Bear market regime with -24.36% 30-day return, but recent 7-day slowdown (-3.11%) suggests momentum stabilizing. Forecasting -8% annualized return (modest continued decline) reflecting ongoing headwinds but decelerating losses. Low confidence (0.42) due to high volatility (36.8%), unclear catalyst direction, and extreme market conditions. Negative Sharpe ratio indicates risk-reward misalignment.",
+  "raw_response": "Based on the market context provided, I'll analyze this DeFi cluster and provide a 14-day return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -13.7% TVL decline over 30 days\n2. **Cluster Momentum**: Severely negative with -24.36% return in last 30 days, -17.08% in last 14 days\n3. **Volatility**: High annualized volatility (36.8%) with extreme negative Sharpe ratio (-5.56)\n4. **Recent Acceleration**: 7-day return of -3.11% suggests momentum is stabilizing (smaller losses than 14-day period)\n5. **Protocol Health**: Mixed TVL trends - MKR relatively stable (-2.6%), but COMP (-16.9%) and SNX (-24.6%) declining significantly\n\n**Forecast Rationale:**\n\nThe cluster is in a severe downtrend within a bear market. However, several factors suggest potential stabilization:\n- The deceleration in losses (7-day vs 14-day vs 30-day returns) indicates the selling pressure may be moderating\n- The cluster's high volatility creates potential for mean reversion\n- TVL declines appear to be slowing in aggregate\n- Within a bear market, stabilization or moderate recovery is possible over a 14-day horizon\n\nGiven the bear regime and negative momentum, I'm forecasting continued modest losses. The 7-day deceleration pattern and extreme negative valuations suggest limited downside, but insufficient catalysts for a strong recovery within 14 days.\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Bear market regime with -24.36% 30-day return, but recent 7-day slowdown (-3.11%) suggests momentum stabilizing. Forecasting -8% annualized return (modest continued decline) reflecting ongoing headwinds but decelerating losses. Low confidence (0.42) due to high volatility (36.8%), unclear catalyst direction, and extreme market conditions. Negative Sharpe ratio indicates risk-reward misalignment.\"\n}\n```",
+  "date": "2023-08-27",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:34.386732+00:00"
+}

@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.35,
-  "reasoning": "CAKE (PancakeSwap) shows mixed signals: a strong 7-day momentum of +11.44% is encouraging, but the 14-day return of -2.89% and a bear market regime with overall DeFi TVL declining -1.0% weigh negatively. TVL of $1.75B with a -2.0% 30-day change signals modest capital outflows. The annualized volatility of 81.4% and max drawdown of -18.4% indicate high risk. The recent short-term rally may partially persist, but bear regime conditions and TVL erosion cap upside. Annualized return estimate of ~8% reflects a slight positive carry from momentum fading into headwinds, with low confidence given high volatility and contradictory trend signals across timeframes.",
-  "raw_response": "```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"CAKE (PancakeSwap) shows mixed signals: a strong 7-day momentum of +11.44% is encouraging, but the 14-day return of -2.89% and a bear market regime with overall DeFi TVL declining -1.0% weigh negatively. TVL of $1.75B with a -2.0% 30-day change signals modest capital outflows. The annualized volatility of 81.4% and max drawdown of -18.4% indicate high risk. The recent short-term rally may partially persist, but bear regime conditions and TVL erosion cap upside. Annualized return estimate of ~8% reflects a slight positive carry from momentum fading into headwinds, with low confidence given high volatility and contradictory trend signals across timeframes.\"}\n```",
-  "date": "2025-06-13",
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster 1 (LINK, OP, ARB, ENS, GRT) is deep in a bear regime with a brutal -24.53% 30-day return, Sharpe of -2.75, and max drawdown near -23.9%, signaling sustained selling pressure. However, the 7-day return of +0.42% hints at a very nascent stabilization, while the 14-day return of -2.51% suggests the worst of the acute sell-off may be decelerating. Infrastructure/L2/Oracle tokens tend to be high-beta to broader crypto sentiment with limited near-term catalysts. Annualizing the 14-day trend (-2.51% over ~14 days \u2248 -65% annualized) and blending with a modest mean-reversion discount given the slight 7-day uptick, the forward 14-day expected annualized return is estimated at approximately -42%. Confidence is moderate (0.62) given the mixed short-term signals against a dominant bearish macro regime and the absence of TVL-based fundamental anchors for most tokens in this cluster.",
+  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"Cluster 1 (LINK, OP, ARB, ENS, GRT) is deep in a bear regime with a brutal -24.53% 30-day return, Sharpe of -2.75, and max drawdown near -23.9%, signaling sustained selling pressure. However, the 7-day return of +0.42% hints at a very nascent stabilization, while the 14-day return of -2.51% suggests the worst of the acute sell-off may be decelerating. Infrastructure/L2/Oracle tokens tend to be high-beta to broader crypto sentiment with limited near-term catalysts. Annualizing the 14-day trend (-2.51% over ~14 days \u2248 -65% annualized) and blending with a modest mean-reversion discount given the slight 7-day uptick, the forward 14-day expected annualized return is estimated at approximately -42%. Confidence is moderate (0.62) given the mixed short-term signals against a dominant bearish macro regime and the absence of TVL-based fundamental anchors for most tokens in this cluster.\"}\n```",
+  "date": "2025-06-14",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:05:03.422115+00:00",
+  "generated_at": "2026-02-17T15:57:30.296829+00:00",
   "enriched": false
 }

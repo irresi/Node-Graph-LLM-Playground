@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.28,
+  "confidence": 0.55,
+  "reasoning": "Cluster is in bear market regime with negative 30-day returns (-10.76%) and high volatility (68.3%). However, recent 14-day momentum shows +8.56% recovery, suggesting potential bounce. Mixed TVL signals: CRV (+11.1%), SUSHI (+5.6%) gaining, but CVX (-4.9%), LDO (-1.1%), RPL (-1.2%) declining. Negative Sharpe ratio (-1.32) and large max drawdown (-24.4%) indicate elevated risk. Near-term technical support from recent bounce, but downtrend bias persists. Forecast assumes partial mean reversion weakness given bear regime dominance. Low-to-moderate confidence due to conflicting signals and high market volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster is in bear market regime with negative 30-day returns (-10.76%) and high volatility (68.3%). However, recent 14-day momentum shows +8.56% recovery, suggesting potential bounce. Mixed TVL signals: CRV (+11.1%), SUSHI (+5.6%) gaining, but CVX (-4.9%), LDO (-1.1%), RPL (-1.2%) declining. Negative Sharpe ratio (-1.32) and large max drawdown (-24.4%) indicate elevated risk. Near-term technical support from recent bounce, but downtrend bias persists. Forecast assumes partial mean reversion weakness given bear regime dominance. Low-to-moderate confidence due to conflicting signals and high market volatility.\"\n}\n```",
+  "date": "2025-10-10",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:26:10.560365+00:00"
+}

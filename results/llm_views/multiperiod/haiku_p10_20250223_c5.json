@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "DYDX faces significant headwinds: bear market regime with -12.1% TVL decline, -38.47% 30-day loss, and extreme volatility (83.2% annualized). However, recent 14-day momentum (+4.81%) and 7-day rebound (+0.72%) suggest potential mean reversion bounce. TVL decline of -22.2% indicates user exodus. Over 14 days, expect continued downside pressure from macro bear conditions and protocol outflows, with some relief from oversold conditions. Low confidence due to high volatility, single-token cluster concentration risk, and unpredictable derivative market dynamics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX faces significant headwinds: bear market regime with -12.1% TVL decline, -38.47% 30-day loss, and extreme volatility (83.2% annualized). However, recent 14-day momentum (+4.81%) and 7-day rebound (+0.72%) suggest potential mean reversion bounce. TVL decline of -22.2% indicates user exodus. Over 14 days, expect continued downside pressure from macro bear conditions and protocol outflows, with some relief from oversold conditions. Low confidence due to high volatility, single-token cluster concentration risk, and unpredictable derivative market dynamics.\"\n}\n```",
+  "date": "2025-02-24",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:49.941991+00:00"
+}

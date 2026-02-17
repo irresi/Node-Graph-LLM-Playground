@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "I'll synthesize both arguments and the analyst reports to produce a calibrated forecast.\n\n**Analysis:**\n\n**Data-Backed Observations:**\n1. **Sharpe ratio 0.37** \u2014 This is objective and damning. Returns",
+  "n_agents": 18,
+  "date": "2026-01-10 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

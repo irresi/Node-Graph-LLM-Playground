@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 (LINK, GRT) shows mixed signals: positive 30-day return (+2.63%) and moderate bull market regime support upside, but recent 7/14-day returns are negative (-1.36%/-1.37%), suggesting short-term momentum headwinds. High volatility (68.8%) and weak Sharpe ratio (0.32) indicate elevated risk. Oracle/infrastructure tokens benefit from DeFi TVL growth (+6.8%), but limited TVL data and recent drawdown (-17.6%) warrant cautious positioning. Forecast reflects modest recovery potential offset by significant uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 (LINK, GRT) shows mixed signals: positive 30-day return (+2.63%) and moderate bull market regime support upside, but recent 7/14-day returns are negative (-1.36%/-1.37%), suggesting short-term momentum headwinds. High volatility (68.8%) and weak Sharpe ratio (0.32) indicate elevated risk. Oracle/infrastructure tokens benefit from DeFi TVL growth (+6.8%), but limited TVL data and recent drawdown (-17.6%) warrant cautious positioning. Forecast reflects modest recovery potential offset by significant uncertainty.\"\n}\n```",
+  "date": "2024-01-20",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:48:01.691239+00:00"
+}

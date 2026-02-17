@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster shows strong 14-day momentum (+9.74%) in moderate bull regime with excellent Sharpe ratio (2.01), but faces headwinds: high annualized volatility (80.3%) limits upside, max drawdown (-22.4%) suggests correction risk, and exceptional recent TVL growth (especially LDO +31.1%, RPL +36.2%) may indicate unsustainable inflows. Annualizing 14-day return (~52% annualized) is tempered by mean reversion expectations and volatility compression. Confidence moderate due to inherent DeFi regime uncertainty and stretched valuations in liquid staking protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+9.74%) in moderate bull regime with excellent Sharpe ratio (2.01), but faces headwinds: high annualized volatility (80.3%) limits upside, max drawdown (-22.4%) suggests correction risk, and exceptional recent TVL growth (especially LDO +31.1%, RPL +36.2%) may indicate unsustainable inflows. Annualizing 14-day return (~52% annualized) is tempered by mean reversion expectations and volatility compression. Confidence moderate due to inherent DeFi regime uncertainty and stretched valuations in liquid staking protocols.\"\n}\n```",
+  "date": "2025-08-15",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:42.303659+00:00"
+}

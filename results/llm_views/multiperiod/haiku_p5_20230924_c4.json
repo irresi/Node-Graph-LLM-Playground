@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "RPL/Liquid Staking cluster faces headwinds: bear market regime, negative 30-day momentum (-10%), high volatility (41.7% annualized), and weak Sharpe ratio (-2.01). However, the 14-day return (-7.42%) shows deceleration vs 30-day (-10%), suggesting potential stabilization. Liquid staking fundamentals remain intact despite TVL decline. Forecast reflects continued weakness over 14 days but with lower confidence due to potential reversal signals and the volatile nature of small single-token clusters. Annualized rate assumes current 14-day trend persists across a 52-week period.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"RPL/Liquid Staking cluster faces headwinds: bear market regime, negative 30-day momentum (-10%), high volatility (41.7% annualized), and weak Sharpe ratio (-2.01). However, the 14-day return (-7.42%) shows deceleration vs 30-day (-10%), suggesting potential stabilization. Liquid staking fundamentals remain intact despite TVL decline. Forecast reflects continued weakness over 14 days but with lower confidence due to potential reversal signals and the volatile nature of small single-token clusters. Annualized rate assumes current 14-day trend persists across a 52-week period.\"\n}\n```",
+  "date": "2023-09-25",
+  "period_idx": 5,
+  "cluster_id": 4,
+  "members": [
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:41:29.944471+00:00"
+}

@@ -1,14 +1,26 @@
 {
-  "expected_return": 0.42,
+  "expected_return": 0.387,
   "confidence": 0.62,
-  "reasoning": "BAL (Balancer) is showing strong momentum with a 14-day return of +19.28% and a 30-day return of +29.09%, supported by TVL growth of +19.4% to $888M. The broader DeFi market is in a confirmed bull regime with TVL up +33.6% over 30 days. The exceptional Sharpe ratio of 4.39 suggests risk-adjusted performance has been unusually strong, though mean reversion is a risk at these elevated levels. Annualized forward return is estimated at ~42%, reflecting continued but moderating momentum from the recent 14-day pace (~502% annualized), discounted heavily for likely deceleration, high single-token concentration risk, and elevated annualized volatility of 55.7%. The -10.2% max drawdown shows resilience but also flags tail risk. Confidence is moderate at 0.62 due to single-token cluster exposure and the risk of momentum exhaustion after a sharp run-up.",
-  "raw_response": "```json\n{\"expected_return\": 0.42, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) is showing strong momentum with a 14-day return of +19.28% and a 30-day return of +29.09%, supported by TVL growth of +19.4% to $888M. The broader DeFi market is in a confirmed bull regime with TVL up +33.6% over 30 days. The exceptional Sharpe ratio of 4.39 suggests risk-adjusted performance has been unusually strong, though mean reversion is a risk at these elevated levels. Annualized forward return is estimated at ~42%, reflecting continued but moderating momentum from the recent 14-day pace (~502% annualized), discounted heavily for likely deceleration, high single-token concentration risk, and elevated annualized volatility of 55.7%. The -10.2% max drawdown shows resilience but also flags tail risk. Confidence is moderate at 0.62 due to single-token cluster exposure and the risk of momentum exhaustion after a sharp run-up.\"}\n```",
-  "date": "2025-07-25",
+  "reasoning": "Cluster 2 is a diversified DeFi blue-chip basket (DEX, Lending, Yield, Derivatives, Liquid Staking) operating in a confirmed bull regime with strong macro tailwinds \u2014 total DeFi TVL up +37.7% in 30 days. The 30-day cluster return of +25.59% annualizes to ~307%, but momentum is decelerating: the 7-day return is -1.36%, suggesting short-term consolidation after a strong run. The 14-day return of +12.66% (~329% annualized) provides a more relevant near-term anchor. Key positives: AAVE dominates TVL at $33.4B (+36.5% 30d), providing fundamental support; SUSHI showing explosive +90.2% TVL growth signals capital rotation into DEX liquidity. The elevated Sharpe ratio of 4.15 reflects favorable risk-adjusted conditions, though the -9.4% max drawdown and 51.8% annualized volatility signal meaningful tail risk. For the next 14-day window, I apply a mean-reversion discount to the recent surge (7-day pullback) while maintaining a bullish structural bias, arriving at ~38.7% annualized expected return. Confidence is moderate at 0.62 \u2014 bull regime supports the upside case, but short-term momentum fatigue and macro DeFi sensitivity introduce meaningful uncertainty.",
+  "raw_response": "```json\n{\"expected_return\": 0.387, \"confidence\": 0.62, \"reasoning\": \"Cluster 2 is a diversified DeFi blue-chip basket (DEX, Lending, Yield, Derivatives, Liquid Staking) operating in a confirmed bull regime with strong macro tailwinds \u2014 total DeFi TVL up +37.7% in 30 days. The 30-day cluster return of +25.59% annualizes to ~307%, but momentum is decelerating: the 7-day return is -1.36%, suggesting short-term consolidation after a strong run. The 14-day return of +12.66% (~329% annualized) provides a more relevant near-term anchor. Key positives: AAVE dominates TVL at $33.4B (+36.5% 30d), providing fundamental support; SUSHI showing explosive +90.2% TVL growth signals capital rotation into DEX liquidity. The elevated Sharpe ratio of 4.15 reflects favorable risk-adjusted conditions, though the -9.4% max drawdown and 51.8% annualized volatility signal meaningful tail risk. For the next 14-day window, I apply a mean-reversion discount to the recent surge (7-day pullback) while maintaining a bullish structural bias, arriving at ~38.7% annualized expected return. Confidence is moderate at 0.62 \u2014 bull regime supports the upside case, but short-term momentum fatigue and macro DeFi sensitivity introduce meaningful uncertainty.\"}\n```",
+  "date": "2025-07-26",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:07:54.987222+00:00",
+  "generated_at": "2026-02-17T15:59:33.104438+00:00",
   "enriched": false
 }

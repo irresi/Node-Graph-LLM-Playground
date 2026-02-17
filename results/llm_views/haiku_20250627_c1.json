@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "CAKE faces significant headwinds: bear market regime with -4.5% DeFi TVL decline, cluster down -22.93% in 30 days with -2.90 Sharpe ratio, and high volatility (66.4% annualized). Recent 7-day momentum of -0.85% suggests deceleration from the steeper 14-day (-14.61%) decline, indicating potential stabilization but insufficient for positive returns. TVL decline (-4%) reflects reduced user activity. Low confidence (0.35) due to extreme volatility, bear regime unpredictability, and single-token cluster concentration. Forecast annualizes recent 7-day trajectory as most reliable near-term signal in unstable conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE faces significant headwinds: bear market regime with -4.5% DeFi TVL decline, cluster down -22.93% in 30 days with -2.90 Sharpe ratio, and high volatility (66.4% annualized). Recent 7-day momentum of -0.85% suggests deceleration from the steeper 14-day (-14.61%) decline, indicating potential stabilization but insufficient for positive returns. TVL decline (-4%) reflects reduced user activity. Low confidence (0.35) due to extreme volatility, bear regime unpredictability, and single-token cluster concentration. Forecast annualizes recent 7-day trajectory as most reliable near-term signal in unstable conditions.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:38:11.057717+00:00",
+  "enriched": false
+}

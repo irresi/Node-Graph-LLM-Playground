@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "ARB is in a bear market regime with severe downtrend (-26.3% over 30 days, -5.17% over 7 days). Despite a brief 14-day uptick (+3.24%), the recent 7-day reversion and high volatility (68.2% annualized) suggest continued weakness. L2 tokens are sentiment-sensitive and DeFi TVL declining (-2.3%) creates headwinds. Low confidence due to macro uncertainty and potential for volatility swings in this regime.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ARB is in a bear market regime with severe downtrend (-26.3% over 30 days, -5.17% over 7 days). Despite a brief 14-day uptick (+3.24%), the recent 7-day reversion and high volatility (68.2% annualized) suggest continued weakness. L2 tokens are sentiment-sensitive and DeFi TVL declining (-2.3%) creates headwinds. Low confidence due to macro uncertainty and potential for volatility swings in this regime.\"\n}\n```",
+  "date": "2023-05-22",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:32:58.890331+00:00"
+}

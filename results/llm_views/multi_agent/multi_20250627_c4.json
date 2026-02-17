@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.78,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.78,\n  \"reasoning\": \"Bull Researcher correctly refused to manufacture bullish signals that don't exist in the data, strengthening the synthesis b",
+  "n_agents": 24,
+  "date": "2025-06-28 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

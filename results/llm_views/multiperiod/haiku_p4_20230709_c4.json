@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.75,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime supports positive returns, but recent 7-day pullback (-8.13%) after strong 30-day rally (+13.25%) suggests consolidation phase. Expect 2-3% 14-day return (annualizing to ~75% APR) from recovery and continued upside, with 65% confidence given elevated volatility and momentum exhaustion signals in oracle/L2 infrastructure tokens.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Overall DeFi TVL showing positive momentum (+6.6% 30-day change)\n- Bull market regime with moderate volatility\n- Strong risk-adjusted returns (Sharpe ratio of 2.25)\n\n**Cluster 4 Performance Dynamics:**\n- 30-day return: +13.25% (strong)\n- 14-day return: +1.05% (moderate)\n- 7-day return: -8.13% (recent pullback)\n- Volatility: 49.4% annualized (elevated)\n- Max drawdown: -8.9% (manageable given bull regime)\n\n**Key Observations:**\n\n1. **Momentum Analysis:** The cluster shows signs of momentum exhaustion after the strong 30-day rally. The recent 7-day pullback (-8.13%) suggests profit-taking after the initial bull run.\n\n2. **Cluster Composition:** Oracle (LINK), L2s (OP, ARB), and infrastructure (ENS, GRT) tokens tend to move with broader market sentiment and DeFi adoption cycles. These are quality projects with strong fundamentals.\n\n3. **Bull Regime Context:** The market regime is bullish, which favors continued positive returns, but the cluster has already captured significant gains (+13.25% in 30 days).\n\n4. **Mean Reversion vs. Momentum:** The 7-day weakness against the longer-term strength suggests potential consolidation or mean reversion over the next 14 days.\n\n**Forecast Rationale:**\n- Expect moderate positive returns as the bull regime supports continued appreciation\n- Recent pullback reduces downside risk but also suggests the cluster may consolidate\n- 14-day timeframe: expect partial recovery from recent weakness plus modest new gains\n- Annualized conversion: 14-day expected return of ~2-4% annualizes to approximately 52-104%\n- Confidence moderately high given bull regime and quality tokens, but tempered by recent momentum exhaustion\n\n```json\n{\"expected_return\": 0.75, \"confidence\": 0.65, \"reasoning\": \"Bull market regime supports positive returns, but recent 7-day pullback (-8.13%) after strong 30-day rally (+13.25%) suggests consolidation phase. Expect 2-3% 14-day return (annualizing to ~75% APR) from recovery and continued upside, with 65% confidence given elevated volatility and momentum exhaustion signals in oracle/L2 infrastructure tokens.\"}\n```",
+  "date": "2023-07-10",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:36:29.462828+00:00"
+}

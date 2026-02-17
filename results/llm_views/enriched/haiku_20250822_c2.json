@@ -1,0 +1,26 @@
+{
+  "expected_return": 0.32,
+  "confidence": 0.68,
+  "reasoning": "Cluster 2 shows positive momentum with 8.45% 30-day return and strong TVL growth (AAVE +21.8%, SUSHI +32.7%, UNI +13.0%) in a moderate bull regime. The 14-day return of 6.35% suggests sustained uptrend. However, high volatility (74% annualized) and -17.6% max drawdown indicate risk. Yield metrics are mixed (UNI 20.32% APY strong, but AAVE/COMP <1% APY weak). Governance activity shows healthy participation but no major catalysts. 14-day annualized projection of ~32% reflects recent momentum continuation with caution given volatility and lack of significant positive catalysts. Confidence tempered by macro uncertainty and cluster-wide exposure to DeFi market cycles.",
+  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster 2 shows positive momentum with 8.45% 30-day return and strong TVL growth (AAVE +21.8%, SUSHI +32.7%, UNI +13.0%) in a moderate bull regime. The 14-day return of 6.35% suggests sustained uptrend. However, high volatility (74% annualized) and -17.6% max drawdown indicate risk. Yield metrics are mixed (UNI 20.32% APY strong, but AAVE/COMP <1% APY weak). Governance activity shows healthy participation but no major catalysts. 14-day annualized projection of ~32% reflects recent momentum continuation with caution given volatility and lack of significant positive catalysts. Confidence tempered by macro uncertainty and cluster-wide exposure to DeFi market cycles.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:08:15.111960+00:00",
+  "enriched": true
+}

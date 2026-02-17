@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "BAL shows strong bull market momentum with +25.86% 30-day returns and exceptional Sharpe ratio (3.54), indicating efficient risk-adjusted returns. The 7-day return of +9.17% suggests continued uptrend, though the 14-day return of only +0.24% suggests recent consolidation/pullback. With DeFi TVL at multi-year highs (+26.1% 30d) and BAL TVL growing (+8.8%), fundamentals support continued gains. However, annualizing a potential 14-day return requires extrapolation: a conservative 2-3% expected 14-day return annualizes to ~52-78% annually, adjusted upward to 85% given the exceptional Sharpe ratio and bull regime, but confidence is moderate (62%) due to: (1) recent momentum deceleration (0.24% vs 25.86%), (2) single-token cluster concentration risk, and (3) high volatility (61.3%) making prediction difficult.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows strong bull market momentum with +25.86% 30-day returns and exceptional Sharpe ratio (3.54), indicating efficient risk-adjusted returns. The 7-day return of +9.17% suggests continued uptrend, though the 14-day return of only +0.24% suggests recent consolidation/pullback. With DeFi TVL at multi-year highs (+26.1% 30d) and BAL TVL growing (+8.8%), fundamentals support continued gains. However, annualizing a potential 14-day return requires extrapolation: a conservative 2-3% expected 14-day return annualizes to ~52-78% annually, adjusted upward to 85% given the exceptional Sharpe ratio and bull regime, but confidence is moderate (62%) due to: (1) recent momentum deceleration (0.24% vs 25.86%), (2) single-token cluster concentration risk, and (3) high volatility (61.3%) making prediction difficult.\"\n}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:39:43.576807+00:00",
+  "enriched": false
+}

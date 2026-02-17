@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "BAL shows strong TVL fundamentals (+34.4% 30d) in a bull regime, but recent 14-day weakness (-5.07%) suggests near-term consolidation. High volatility (105.3%) creates forecast uncertainty. Expecting modest recovery from oversold conditions over next 14 days, annualized at ~18%, but with moderate confidence given momentum reversal and extreme price swings.",
+  "raw_response": "I'll analyze the provided market context for Cluster 2 (BAL token) to forecast the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum Reversal**: While the cluster showed strong 30-day returns (+17.85%), the last 14 days have been negative (-5.07%), suggesting recent momentum has turned bearish despite the longer-term uptrend.\n\n2. **Volatility Profile**: The annualized volatility of 105.3% is quite high, indicating significant price swings. The Sharpe ratio of 1.42 is respectable but needs to be contextualized against the extreme volatility.\n\n3. **TVL Fundamentals**: BAL's TVL is substantial at $781M with a strong 30-day growth of +34.4%, indicating healthy protocol adoption and liquidity expansion.\n\n4. **Market Regime**: The overall DeFi market is in a moderate bull regime with TVL up 34.9% over 30 days, providing tailwinds for DEX tokens.\n\n5. **Short-term Weakness**: The 7-day and 14-day returns (-4.38% and -5.07%) suggest recent profit-taking or market consolidation after the strong rally.\n\n**Forecast Rationale:**\n\nGiven the negative recent momentum (14-day -5.07%) but positive underlying fundamentals and macro TVL trends, I expect a modest recovery over the next 14 days. The cluster is likely oversold after recent gains, and the strong TVL growth supports a rebound. However, the extreme volatility and recent weakness suggest caution.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.58, \"reasoning\": \"BAL shows strong TVL fundamentals (+34.4% 30d) in a bull regime, but recent 14-day weakness (-5.07%) suggests near-term consolidation. High volatility (105.3%) creates forecast uncertainty. Expecting modest recovery from oversold conditions over next 14 days, annualized at ~18%, but with moderate confidence given momentum reversal and extreme price swings.\"}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 2,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:36:57.891690+00:00",
+  "enriched": false
+}

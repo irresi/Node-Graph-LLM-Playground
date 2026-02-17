@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows mixed signals: strong bear market regime (-11.2% TVL decline) with extremely high volatility (130.8% annualized) and negative Sharpe ratio (-2.21) suggest continued downside risk. However, recent 7-day recovery (+4.12%) indicates potential bounce from oversold conditions after severe 30-day drawdown (-34.48%). AAVE's dominant weighting (40%+ of TVL) with -9.1% TVL erosion is concerning, though SNX's anomalous +86% TVL growth suggests relative strength in some segments. Moderate confidence reflects conflicting signals: technical oversold conditions vs. fundamental bear market deterioration. Next 14 days likely to see continued volatility with slight negative bias given macro DeFi headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows mixed signals: strong bear market regime (-11.2% TVL decline) with extremely high volatility (130.8% annualized) and negative Sharpe ratio (-2.21) suggest continued downside risk. However, recent 7-day recovery (+4.12%) indicates potential bounce from oversold conditions after severe 30-day drawdown (-34.48%). AAVE's dominant weighting (40%+ of TVL) with -9.1% TVL erosion is concerning, though SNX's anomalous +86% TVL growth suggests relative strength in some segments. Moderate confidence reflects conflicting signals: technical oversold conditions vs. fundamental bear market deterioration. Next 14 days likely to see continued volatility with slight negative bias given macro DeFi headwinds.\"\n}\n```",
+  "date": "2025-10-18",
+  "period_idx": 12,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "aave",
+    "havven",
+    "dydx-chain",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:00.619517+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong recent momentum (+31.39% over 14 days, +17.70% over 7 days) with solid Sharpe ratio (1.30), but elevated volatility (92.8% annualized) and recent max drawdown (-22.7%) suggest mean reversion risk. Neutral market regime limits sustained upside. Annualized projection based on 14-day performance trajectory, with confidence tempered by volatility and drawdown history. Infrastructure tokens (OP, GRT) lack TVL fundamentals, adding forecast uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong recent momentum (+31.39% over 14 days, +17.70% over 7 days) with solid Sharpe ratio (1.30), but elevated volatility (92.8% annualized) and recent max drawdown (-22.7%) suggest mean reversion risk. Neutral market regime limits sustained upside. Annualized projection based on 14-day performance trajectory, with confidence tempered by volatility and drawdown history. Infrastructure tokens (OP, GRT) lack TVL fundamentals, adding forecast uncertainty.\"\n}\n```",
+  "date": "2023-07-04",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:41.604331+00:00"
+}

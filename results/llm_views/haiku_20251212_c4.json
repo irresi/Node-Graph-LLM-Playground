@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 is in a severe bear regime with -25.34% 30-day loss and negative Sharpe ratio (-3.46). The 7-day momentum (-2.02%) suggests deceleration from the steeper 30-day decline, indicating potential stabilization. However, the -8.04% 14-day return and 61.5% annualized volatility point to continued weakness. With DeFi TVL declining 1.3% and the cluster composition of L2/infrastructure tokens vulnerable to broader market contraction, expect further downside pressure over 14 days. The lack of TVL data for most tokens limits fundamental anchoring. Annualized return forecast of -45% reflects ongoing bearish momentum with slight moderation. Confidence is moderate (0.62) due to high volatility and sensitivity to macro sentiment shifts.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 is in a severe bear regime with -25.34% 30-day loss and negative Sharpe ratio (-3.46). The 7-day momentum (-2.02%) suggests deceleration from the steeper 30-day decline, indicating potential stabilization. However, the -8.04% 14-day return and 61.5% annualized volatility point to continued weakness. With DeFi TVL declining 1.3% and the cluster composition of L2/infrastructure tokens vulnerable to broader market contraction, expect further downside pressure over 14 days. The lack of TVL data for most tokens limits fundamental anchoring. Annualized return forecast of -45% reflects ongoing bearish momentum with slight moderation. Confidence is moderate (0.62) due to high volatility and sensitivity to macro sentiment shifts.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:11.676299+00:00",
+  "enriched": false
+}

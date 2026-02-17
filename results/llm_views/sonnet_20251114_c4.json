@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.52,
-  "confidence": 0.62,
-  "reasoning": "Cluster 4 (Oracle/Infrastructure/L2) is under significant bearish pressure with a -24.17% 30-day return, -2.54 Sharpe ratio, and 80% annualized volatility, consistent with a broad DeFi bear regime (-17.2% TVL decline). The 7-day return of +2.69% offers a faint mean-reversion signal, but it is insufficient to overcome the dominant downtrend evidenced by the -8.29% 14-day return. Infrastructure and L2 tokens (OP, ARB, ENS, GRT) lack TVL anchoring, making them more sensitive to sentiment shifts, while LINK's oracle utility provides marginal fundamental support. Annualizing the 14-day trend (-8.29% over ~14 days \u2192 ~-8.29% * 26 \u2248 -2.16 annualized) and tempering with the weak short-term bounce and mean-reversion tendency yields a forecast near -0.52 (-52% annualized). Confidence is moderate at 0.62 given high volatility, partial mean-reversion signal, and uncertainty typical of bear-regime infrastructure tokens.",
-  "raw_response": "```json\n{\"expected_return\": -0.52, \"confidence\": 0.62, \"reasoning\": \"Cluster 4 (Oracle/Infrastructure/L2) is under significant bearish pressure with a -24.17% 30-day return, -2.54 Sharpe ratio, and 80% annualized volatility, consistent with a broad DeFi bear regime (-17.2% TVL decline). The 7-day return of +2.69% offers a faint mean-reversion signal, but it is insufficient to overcome the dominant downtrend evidenced by the -8.29% 14-day return. Infrastructure and L2 tokens (OP, ARB, ENS, GRT) lack TVL anchoring, making them more sensitive to sentiment shifts, while LINK's oracle utility provides marginal fundamental support. Annualizing the 14-day trend (-8.29% over ~14 days \u2192 ~-8.29% * 26 \u2248 -2.16 annualized) and tempering with the weak short-term bounce and mean-reversion tendency yields a forecast near -0.52 (-52% annualized). Confidence is moderate at 0.62 given high volatility, partial mean-reversion signal, and uncertainty typical of bear-regime infrastructure tokens.\"}\n```",
-  "date": "2025-11-14",
+  "expected_return": -0.72,
+  "confidence": 0.71,
+  "reasoning": "BAL/Cluster 4 is in severe distress: -30.3% over 30 days with accelerating momentum (-14.66% in just the last 7 days), a deeply negative Sharpe of -4.31, and catastrophic TVL erosion of -64.9% in 30 days against a broad DeFi bear market (-17% TVL). The 14-day return of -28.89% nearly matches the full 30-day loss, signaling momentum acceleration rather than stabilization. Annualizing the recent 14-day run-rate (~-28.89% over 14 days \u2192 ~-75% annualized) and applying a modest mean-reversion discount (extreme moves rarely sustain at peak velocity), we project roughly -72% annualized (-~2.77% per day \u00d7 14 days \u2248 -27% raw over the forecast window). Confidence is moderate-high given strong, consistent multi-timeframe bearish signals, though tail-risk of a technical bounce or protocol catalyst slightly tempers conviction.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.71, \"reasoning\": \"BAL/Cluster 4 is in severe distress: -30.3% over 30 days with accelerating momentum (-14.66% in just the last 7 days), a deeply negative Sharpe of -4.31, and catastrophic TVL erosion of -64.9% in 30 days against a broad DeFi bear market (-17% TVL). The 14-day return of -28.89% nearly matches the full 30-day loss, signaling momentum acceleration rather than stabilization. Annualizing the recent 14-day run-rate (~-28.89% over 14 days \u2192 ~-75% annualized) and applying a modest mean-reversion discount (extreme moves rarely sustain at peak velocity), we project roughly -72% annualized (-~2.77% per day \u00d7 14 days \u2248 -27% raw over the forecast window). Confidence is moderate-high given strong, consistent multi-timeframe bearish signals, though tail-risk of a technical bounce or protocol catalyst slightly tempers conviction.\"}\n```",
+  "date": "2025-11-15",
   "cluster_id": 4,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "balancer"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:15:10.358607+00:00",
+  "generated_at": "2026-02-17T16:04:53.148625+00:00",
   "enriched": false
 }

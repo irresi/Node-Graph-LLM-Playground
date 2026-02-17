@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.58,
+  "reasoning": "Bear market regime with strong downtrend (TVL -7.7%, 14d return -8.59%) suggests continued weakness. However, recent 7d momentum (-1.95%) is less severe than 14d, indicating potential stabilization. Mixed fundamentals: MKR TVL +8.2% shows strength in lending, but COMP and SNX declining. Cluster's positive 30d return (+3.74%) and moderate Sharpe (0.82) provide some support, but max drawdown of -9.4% reflects downside risk. Annualized forecast reflects bear regime bias with modest recovery expectations. Moderate confidence due to conflicting signals between stabilizing momentum and bearish macro environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Bear market regime with strong downtrend (TVL -7.7%, 14d return -8.59%) suggests continued weakness. However, recent 7d momentum (-1.95%) is less severe than 14d, indicating potential stabilization. Mixed fundamentals: MKR TVL +8.2% shows strength in lending, but COMP and SNX declining. Cluster's positive 30d return (+3.74%) and moderate Sharpe (0.82) provide some support, but max drawdown of -9.4% reflects downside risk. Annualized forecast reflects bear regime bias with modest recovery expectations. Moderate confidence due to conflicting signals between stabilizing momentum and bearish macro environment.\"\n}\n```",
+  "date": "2023-08-13",
+  "period_idx": 5,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "chainlink",
+    "optimism"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:12.056507+00:00"
+}

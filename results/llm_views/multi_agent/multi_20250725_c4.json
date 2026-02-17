@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL presents a genuinely bullish risk-reward profile supported by strong on-chain metrics (4.61 Sharpe, -10.2% max DD, +23.3%",
+  "n_agents": 24,
+  "date": "2025-07-26 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

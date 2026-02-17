@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.32,
+  "confidence": 0.68,
+  "reasoning": "BAL faces headwinds from bear market regime (-4.5% DeFi TVL decline, -18.63% 30d return) and negative momentum (-4.11% 7d, -10.10% 14d). However, annualizing the 14-day return (-10.10%) over 26 periods suggests approximately -260% annualized, which is unsustainable. A more conservative estimate acknowledges: (1) stabilization likelihood after severe drawdown, (2) governance activity showing protocol engagement, (3) 11.95% base yield providing some downside support, but (4) continued market pressure and -7.9% TVL decline. Confidence moderately constrained by extreme volatility (52.3%) and bear regime persistence, though 14-day window reduces tail risk vs longer horizons.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.68,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (-4.5% DeFi TVL decline, -18.63% 30d return) and negative momentum (-4.11% 7d, -10.10% 14d). However, annualizing the 14-day return (-10.10%) over 26 periods suggests approximately -260% annualized, which is unsustainable. A more conservative estimate acknowledges: (1) stabilization likelihood after severe drawdown, (2) governance activity showing protocol engagement, (3) 11.95% base yield providing some downside support, but (4) continued market pressure and -7.9% TVL decline. Confidence moderately constrained by extreme volatility (52.3%) and bear regime persistence, though 14-day window reduces tail risk vs longer horizons.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:48.255639+00:00",
+  "enriched": true
+}

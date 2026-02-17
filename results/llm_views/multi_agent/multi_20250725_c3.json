@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.35,
+  "reasoning": "I need to analyze this debate carefully, but I notice the **Bull Researcher declined to provide a bullish case**, explicitly challenging the premise of advocacy research. This creates an asymmetry in ",
+  "n_agents": 18,
+  "date": "2025-07-26 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.38,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows positive 14-day momentum (+3.61%) and outperforms bear market, but faces headwinds from macro DeFi decline and high volatility (93.4%). Modest positive expected return reflects near-term momentum while accounting for mean reversion risk and market regime headwinds. Confidence moderate due to uncertainty in sustaining outperformance during bear market and conflicting TVL trends across constituents.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context Assessment:**\n- Overall DeFi market is in a Moderate Bear regime with -7.1% TVL decline over 30 days\n- However, Cluster 4 has shown resilience with +9.45% returns despite market headwinds\n- Recent momentum is positive: +6.86% (7d), +3.61% (14d), +9.45% (30d)\n\n**Cluster Composition Strengths:**\n- **LDO (Lido)**: Dominant position ($15.3B TVL) - liquid staking leader with strong fundamentals despite -14.4% TVL decline\n- **CRV (Curve)**: Significant TVL ($1.57B) - essential DeFi infrastructure, only -2.1% TVL change (most resilient)\n- **SUSHI (SushiSwap)**: Smaller position ($126M) - experiencing headwinds (-9.7% TVL decline)\n\n**Risk Factors:**\n- High annualized volatility (93.4%) indicates substantial price swings\n- Significant max drawdown (-29.9%) shows downside risk potential\n- Overall market in bear regime could reverse recent positive momentum\n- LDO's -14.4% TVL decline is concerning despite token price resilience\n\n**Positive Factors:**\n- Cluster outperforming broader market significantly\n- Positive momentum across all recent timeframes\n- Solid Sharpe ratio (0.85) suggests risk-adjusted returns are reasonable\n- CRV's stability provides portfolio anchor\n\n**14-Day Forecast Logic:**\n- Annualizing recent 14-day return (+3.61%) yields ~94% annualized, which seems unsustainably optimistic\n- Given market headwinds and volatility, momentum likely moderates\n- Conservative regression toward cluster mean while acknowledging positive near-term setup\n- Balancing positive momentum against macro bear sentiment and high volatility\n\n```json\n{\n  \"expected_return\": 0.38,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows positive 14-day momentum (+3.61%) and outperforms bear market, but faces headwinds from macro DeFi decline and high volatility (93.4%). Modest positive expected return reflects near-term momentum while accounting for mean reversion risk and market regime headwinds. Confidence moderate due to uncertainty in sustaining outperformance during bear market and conflicting TVL trends across constituents.\"\n}\n```",
+  "date": "2025-04-13",
+  "period_idx": 11,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:14:12.793496+00:00"
+}

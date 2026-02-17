@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.55,
+  "reasoning": "Strong 14-day momentum (+31.98%) and excellent risk metrics support continued outperformance, but mean reversion risk and high volatility reduce confidence. Annualized return projects ~45% based on blended momentum and fundamental TVL growth, tempered by potential for correction in a bull-inflated regime.",
+  "raw_response": "Based on the provided market context and cluster data, here's my analysis:\n\n**Key Observations:**\n1. **Strong Momentum**: The cluster shows exceptional recent performance (+48.89% over 30 days, +31.98% over 14 days)\n2. **High Volatility**: 93.7% annualized volatility indicates significant price swings\n3. **Favorable Sharpe Ratio**: 4.38 is extremely strong, suggesting good risk-adjusted returns\n4. **TVL Growth**: Both protocols showing healthy TVL increases (CVX +17.2%, RPL +36.7%)\n5. **Market Regime**: Moderate bull market provides tailwind\n\n**Considerations for Next 14 Days:**\n- Recent momentum is steep and may face mean reversion\n- The exceptional Sharpe ratio suggests the recent period captured unusual alpha\n- High volatility could cut both ways\n- Liquid staking and yield farming tokens are benefiting from the current bull cycle\n- However, sustaining 31.98% returns over the next 14 days would require continued acceleration\n\n**Forecast Rationale:**\nGiven the strong recent performance but acknowledging potential mean reversion, I'm forecasting a positive but more moderate return. The high volatility and recent momentum suggest continued outperformance is possible, but at lower rates than the last 14 days. The confidence is moderate due to the inherent unpredictability of short-term crypto movements and valuation extremes.\n\n```json\n{\"expected_return\": 0.45, \"confidence\": 0.55, \"reasoning\": \"Strong 14-day momentum (+31.98%) and excellent risk metrics support continued outperformance, but mean reversion risk and high volatility reduce confidence. Annualized return projects ~45% based on blended momentum and fundamental TVL growth, tempered by potential for correction in a bull-inflated regime.\"}\n```",
+  "date": "2024-11-26",
+  "period_idx": 9,
+  "cluster_id": 1,
+  "members": [
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:15.491467+00:00"
+}

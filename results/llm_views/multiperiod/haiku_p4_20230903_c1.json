@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Strong bear market regime with DeFi TVL declining -7.2% (30d). Cluster showing severe momentum deterioration: -26.70% (30d) vs -6.41% (14d) indicates acceleration of losses. Negative Sharpe ratio (-5.93) and high volatility (37.8% annualized) suggest continued downside pressure. However, some stabilization in 7d (-6.15%) vs 14d (-6.41%) trends offers modest mean-reversion potential. Major protocols (AAVE, UNI, CRV) showing TVL decay but manageable -2.8% to -10.4% ranges. Confidence moderate due to unpredictable macro sentiment in bear markets, but technical setup remains negative.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Strong bear market regime with DeFi TVL declining -7.2% (30d). Cluster showing severe momentum deterioration: -26.70% (30d) vs -6.41% (14d) indicates acceleration of losses. Negative Sharpe ratio (-5.93) and high volatility (37.8% annualized) suggest continued downside pressure. However, some stabilization in 7d (-6.15%) vs 14d (-6.41%) trends offers modest mean-reversion potential. Major protocols (AAVE, UNI, CRV) showing TVL decay but manageable -2.8% to -10.4% ranges. Confidence moderate due to unpredictable macro sentiment in bear markets, but technical setup remains negative.\"\n}\n```",
+  "date": "2023-09-04",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:07.203547+00:00"
+}

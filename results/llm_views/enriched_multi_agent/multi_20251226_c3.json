@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.42,
+  "reasoning": "I'll analyze both researcher arguments and the underlying analyst data to produce a calibrated forecast for CVX.\n\n## Analysis\n\n**Data Quality & Consensus:**\nAll three analysts agree on core facts:\n- T",
+  "n_agents": 18,
+  "date": "2025-12-27 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

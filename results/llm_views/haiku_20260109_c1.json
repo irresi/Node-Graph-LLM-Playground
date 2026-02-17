@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "CAKE faces headwinds: bear market regime, negative 30-day return (-16.74%), declining TVL (-8.1%), and poor Sharpe ratio (-2.77). However, recent 14-day momentum (+8.43%) suggests some recovery, and the 7-day pullback (-1.83%) indicates consolidation. The forecast reflects expected mean reversion toward negative territory given fundamental weakness, though high volatility (50.8%) and low confidence reflect significant uncertainty in a bearish environment.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE faces headwinds: bear market regime, negative 30-day return (-16.74%), declining TVL (-8.1%), and poor Sharpe ratio (-2.77). However, recent 14-day momentum (+8.43%) suggests some recovery, and the 7-day pullback (-1.83%) indicates consolidation. The forecast reflects expected mean reversion toward negative territory given fundamental weakness, though high volatility (50.8%) and low confidence reflect significant uncertainty in a bearish environment.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:44:46.892532+00:00",
+  "enriched": false
+}

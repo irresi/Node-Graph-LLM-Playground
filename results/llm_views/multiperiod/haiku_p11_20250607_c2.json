@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "Modest recovery expected from recent oversold conditions (+6.1% 7d bounce) in near-term, but bear market regime, MKR's -18.3% TVL decline, and weak 14/30-day returns limit upside. Low confidence reflects conflicting momentum vs. fundamental deterioration and high volatility (66%).",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Market Context:**\n- Overall DeFi market in bear regime with modest TVL growth (+2.5%)\n- Cluster has underperformed recently (-0.64% over 30 days)\n- High volatility (66% annualized) indicates significant risk\n\n**Cluster Composition (MKR-dominant):**\n- MKR dominates TVL at $5,096M but experiencing severe decline (-18.3% in 30 days)\n- SNX relatively small TVL ($90M) with moderate decline (-8.8%)\n- GMX showing strength (+9.2% TVL growth, $448M)\n\n**Momentum Signals:**\n- Recent 7-day return of +6.10% suggests a potential bounce\n- However, this follows a weak 14-day (-1.41%) and 30-day (-0.64%) performance\n- The bounce may be a relief rally in a downtrend rather than trend reversal\n\n**Key Considerations:**\n1. **MKR headwinds**: The flagship token's -18.3% TVL decline is concerning and suggests protocol challenges or user outflows\n2. **Bear market regime**: Limiting upside potential in the near term\n3. **Volatility**: High vol (66%) creates both upside and downside risk; recent bounce could reverse\n4. **Mixed fundamentals**: GMX strength partially offsets MKR/SNX weakness, but MKR's weight dominates\n5. **Mean reversion potential**: After -1.41% over 14 days, some bounce is possible, but sustainability is questionable\n\n**Forecast Rationale:**\nThe recent 7-day bounce (+6.10%) suggests some oversold conditions, but the broader bear regime and MKR's deteriorating fundamentals limit upside. Annualized from a modest 14-day horizon, I expect slight positive returns but with low confidence given the conflicting signals.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Modest recovery expected from recent oversold conditions (+6.1% 7d bounce) in near-term, but bear market regime, MKR's -18.3% TVL decline, and weak 14/30-day returns limit upside. Low confidence reflects conflicting momentum vs. fundamental deterioration and high volatility (66%).\"}\n```",
+  "date": "2025-06-08",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:21.591493+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows strong fundamental support from DeFi bull market and solid 14-day momentum, but recent 7-day pullback and extreme volatility create significant uncertainty. Expecting modest positive 14-day return, with annualized equivalent of ~18%, but moderate confidence due to consolidation phase and lack of near-term catalysts for infrastructure tokens.",
+  "raw_response": "Looking at the data provided for Cluster 2 (LINK, OP, ARB, ENS, GRT), here's my analysis:\n\n**Key Observations:**\n1. **Positive momentum context**: Overall DeFi TVL up 34.9% (30d), market in moderate bull regime\n2. **Recent performance divergence**: 30-day return of +31.36% but recent 7-day return of -1.13%, suggesting recent consolidation/pullback\n3. **Technical strength**: Strong 14-day return (+10.49%) indicates intermediate-term uptrend intact despite recent weakness\n4. **High volatility**: 80.4% annualized volatility with -14.1% max drawdown indicates significant risk and mean-reversion potential\n5. **Excellent risk-adjusted returns**: Sharpe ratio of 3.28 suggests strong risk-return profile historically\n6. **Limited TVL data**: Most tokens are infrastructure/L2 layer tokens without direct TVL metrics, reducing fundamental analysis depth\n\n**Forecast Rationale:**\n- The cluster showed explosive growth (+31.36%) but is now consolidating (-1.13% recent), typical after strong runs\n- High volatility combined with recent pullback suggests potential for both mean reversion upward and further downside\n- Infrastructure tokens benefit from broader DeFi growth (TVL +34.9%) but lack strong directional catalysts currently\n- 14-day timeframe is short; the recent weakness may represent a temporary consolidation before resuming uptrend, or signal peak exhaustion\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.52, \"reasoning\": \"Cluster shows strong fundamental support from DeFi bull market and solid 14-day momentum, but recent 7-day pullback and extreme volatility create significant uncertainty. Expecting modest positive 14-day return, with annualized equivalent of ~18%, but moderate confidence due to consolidation phase and lack of near-term catalysts for infrastructure tokens.\"}\n```",
+  "date": "2025-05-17",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:10.153802+00:00"
+}

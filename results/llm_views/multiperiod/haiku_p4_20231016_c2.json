@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "MKR shows mixed signals: strong 30-day return (+9.34%) and high Sharpe ratio (1.72) suggest momentum, but recent 14-day decline (-4.04%) and TVL contraction (-9.4%) indicate weakening fundamentals. The moderate bear market regime and significant max drawdown (-9.9%) suggest caution. Annualizing the modest 7-day return (+1.32%) yields ~34% annualized, but the divergence between recent weekly and 2-week performance, combined with declining TVL in a contracting DeFi market (-3.2%), warrants a more conservative 18% forecast. Medium confidence reflects the conflicting technical and fundamental signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"MKR shows mixed signals: strong 30-day return (+9.34%) and high Sharpe ratio (1.72) suggest momentum, but recent 14-day decline (-4.04%) and TVL contraction (-9.4%) indicate weakening fundamentals. The moderate bear market regime and significant max drawdown (-9.9%) suggest caution. Annualizing the modest 7-day return (+1.32%) yields ~34% annualized, but the divergence between recent weekly and 2-week performance, combined with declining TVL in a contracting DeFi market (-3.2%), warrants a more conservative 18% forecast. Medium confidence reflects the conflicting technical and fundamental signals.\"\n}\n```",
+  "date": "2023-10-17",
+  "period_idx": 4,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:39:26.071222+00:00"
+}

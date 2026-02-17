@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.55,
+  "reasoning": "Strong recent momentum (+22% in 14 days) in bull regime supports continued gains, but TVL declines in both protocols and high volatility suggest mean reversion risk. Moderate confidence reflects uncertainty between continued momentum vs. pullback. Annualized return accounts for potential consolidation after exceptional recent performance.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Signals:**\n- Strong recent momentum: 14-day return of +22.13%, 7-day return of +14.63%\n- Bull market regime with strong uptrend\n- High Sharpe ratio (3.62) indicates good risk-adjusted returns\n- DeFi TVL growing (+12.6% in 30 days)\n- Cluster outperformed broader market significantly\n\n**Concerning Signals:**\n- Both protocols experiencing TVL decline: CRV -10.8%, CVX -5.7% (30-day)\n- High volatility (42.6% annualized) - unsustainable for long-term projections\n- Recent 14-day return (+22.13%) already substantial - regression to mean likely\n- Max drawdown of -12.8% shows significant downside risk\n- The exceptional performance appears front-loaded in the recent period\n\n**Analysis:**\nThe cluster has shown exceptional momentum recently, but this appears to be a strong rally phase that typically experiences mean reversion. The TVL declines in both protocols despite overall market growth suggest potential fundamental weakness. The high volatility and already substantial recent gains suggest the cluster may consolidate or pullback.\n\nFor a 14-day forecast, I'll assume partial mean reversion from the exceptional recent performance while acknowledging the bull market regime support.\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Strong recent momentum (+22% in 14 days) in bull regime supports continued gains, but TVL declines in both protocols and high volatility suggest mean reversion risk. Moderate confidence reflects uncertainty between continued momentum vs. pullback. Annualized return accounts for potential consolidation after exceptional recent performance.\"\n}\n```",
+  "date": "2023-11-06",
+  "period_idx": 5,
+  "cluster_id": 2,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:42:35.469984+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows signs of bottoming after -12.74% 14-day decline, with macro bull backdrop supporting recovery. However, MKR's -19.5% TVL decline and high volatility (68.4%) create significant uncertainty. GMX momentum (+24.3%) provides upside potential. Moderate confidence reflects conflicting signals between macro bullishness and recent weakness.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day annualized return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- Overall DeFi market is in a moderate bull regime with +22.1% TVL growth (30-day)\n- This provides a positive macro backdrop\n\n**Cluster 2 Performance & Composition:**\n- MKR (Maker - Lending): $4,955M TVL, but concerning -19.5% decline (30-day)\n- SNX (Synthetix - Derivatives): $95M TVL, modest +2.2% growth\n- GMX (GMX - Derivatives): $468M TVL, strong +24.3% growth\n\n**Recent Momentum Analysis:**\n- 30-day return: +4.32% (positive)\n- 14-day return: -12.74% (significant decline)\n- 7-day return: -0.13% (stabilizing but still weak)\n- Trend: Clear deterioration from 30-day to current period\n\n**Risk Metrics:**\n- Volatility (68.4% annualized) is very high\n- Sharpe ratio (0.53) indicates moderate risk-adjusted returns\n- Max drawdown (-12.9%) shows significant downside risk\n\n**Key Concerns:**\n1. Recent 14-day performance is deeply negative (-12.74%), contradicting the bullish macro\n2. MKR, the largest position (72% of TVL), is experiencing significant TVL outflow\n3. 7-day stabilization at near-zero suggests potential bottoming, but lacks confirmation\n\n**Positive Factors:**\n1. GMX showing strong momentum (+24.3% TVL growth)\n2. Macro DeFi environment remains bullish\n3. Recent weakness may present contrarian opportunity if it reverses\n\n**Forecast Rationale:**\nGiven the sharp recent decline and high volatility, I expect mean reversion over the 14-day period, but with elevated uncertainty. The macro bull regime suggests recovery potential, but MKR's weakness is a drag. The cluster is likely in a consolidation phase.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Cluster shows signs of bottoming after -12.74% 14-day decline, with macro bull backdrop supporting recovery. However, MKR's -19.5% TVL decline and high volatility (68.4%) create significant uncertainty. GMX momentum (+24.3%) provides upside potential. Moderate confidence reflects conflicting signals between macro bullishness and recent weakness.\"}\n```",
+  "date": "2025-05-25",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:15:47.154529+00:00"
+}

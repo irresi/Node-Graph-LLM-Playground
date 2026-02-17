@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -23.04% 30-day return and -15.43% 7-day return indicating strong downward momentum. High volatility (79.5% annualized) and negative Sharpe ratio (-2.44) suggest elevated risk. DeFi TVL down 17% suggests sector headwinds. However, recent 7-day decline (-15.43%) is less severe than 30-day (-23.04%), potentially indicating stabilization. OP, ARB, ENS showing active governance, which may provide modest support. 14-day annualization of recent 7-day trend (-15.43%) yields ~-1.1 annualized, but accounting for stabilization signals and historical mean reversion in crypto, moderating estimate to -45% annualized. Confidence moderate (0.62) due to regime uncertainty and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -23.04% 30-day return and -15.43% 7-day return indicating strong downward momentum. High volatility (79.5% annualized) and negative Sharpe ratio (-2.44) suggest elevated risk. DeFi TVL down 17% suggests sector headwinds. However, recent 7-day decline (-15.43%) is less severe than 30-day (-23.04%), potentially indicating stabilization. OP, ARB, ENS showing active governance, which may provide modest support. 14-day annualization of recent 7-day trend (-15.43%) yields ~-1.1 annualized, but accounting for stabilization signals and historical mean reversion in crypto, moderating estimate to -45% annualized. Confidence moderate (0.62) due to regime uncertainty and high volatility.\"\n}\n```",
+  "date": "2025-11-15",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:12.820470+00:00",
+  "enriched": true
+}

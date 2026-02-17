@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.085,
+  "confidence": 0.55,
+  "reasoning": "Bull market regime and strong LDO/RPL momentum support positive returns, but recent 10.6% 14-day performance likely mean-reverts toward 6.93% baseline. CVX weakness (-4.5% TVL) and 50.9% volatility create headwinds. Expect moderate 8.5% annualized return with moderate-low confidence due to high volatility and mixed fundamentals.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong recent momentum: 7-day and 14-day returns (~10.6-10.8%) significantly outpace 30-day return (6.93%), suggesting acceleration\n- Bull market regime with moderate volatility\n- TVL growth concentration: LDO (+12.1%) and RPL (+20.8%) showing strong fundamentals\n- Solid Sharpe ratio of 1.14 indicates risk-adjusted performance\n- Overall DeFi TVL growing (+2.7% 30d)\n\n**Negative Indicators:**\n- CVX (largest position at $4537M TVL) showing -4.5% TVL decline, suggesting headwinds\n- High volatility (50.9% annualized) indicates significant downside risk potential\n- Substantial max drawdown (-14.3%) in recent period shows sharp correction risk\n- Mean reversion risk: 7-14 day returns (10.6-10.8%) are notably higher than 30-day baseline (6.93%)\n\n**Key Analysis:**\n1. The cluster's recent outperformance (10.8% over 14 days) is likely not sustainable at that pace\n2. The bull market regime supports continued positive returns but with moderation\n3. Mixed TVL signals (strong LDO/RPL vs weak CVX) suggest selective exposure\n4. High volatility means forecasts carry lower confidence\n\n**Forecast Calculation:**\n- Annualizing 14-day return of +10.62% = ~276% annualized (clearly unsustainable)\n- Conservative reversion toward 30-day pace: 6.93% baseline\n- Bull regime premium: +15-20% adjustment\n- Blended forward estimate: ~8-9% annualized over next 14 days\n- Confidence discount for volatility and CVX weakness: 0.55 range\n\n```json\n{\"expected_return\": 0.085, \"confidence\": 0.55, \"reasoning\": \"Bull market regime and strong LDO/RPL momentum support positive returns, but recent 10.6% 14-day performance likely mean-reverts toward 6.93% baseline. CVX weakness (-4.5% TVL) and 50.9% volatility create headwinds. Expect moderate 8.5% annualized return with moderate-low confidence due to high volatility and mixed fundamentals.\"}\n```",
+  "date": "2022-10-26",
+  "period_idx": 1,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "gmx",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:23:05.556865+00:00"
+}

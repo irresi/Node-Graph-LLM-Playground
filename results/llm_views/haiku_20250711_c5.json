@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Strong recent 7-day momentum (+12.3%) supports near-term continuation, but bear market regime and high volatility (60.9% annualized) limit confidence. Mixed TVL signals with protocol strength offsetting derivative market weakness suggest 14-day annualized return of ~18% with elevated risk. Low confidence (0.42) reflects regime uncertainty and potential profit-taking after strong bounce.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 5\n\n**Key Observations:**\n\n1. **Market Regime Conflict**: \n   - Overall market is in a bear regime with strong downtrend\n   - However, recent momentum is positive (7-day: +12.30%, 14-day: +11.29%)\n   - This suggests a potential counter-trend bounce or regime shift\n\n2. **TVL Fundamentals**:\n   - Mixed signals: CRV (-2.4%), GMX (-11.2%) showing weakness\n   - Strong growth: MKR (+24.1%), AAVE (+13.9%), COMP (+9.8%)\n   - Weighted average is still positive, indicating underlying protocol health\n\n3. **Risk Metrics**:\n   - High volatility (60.9% annualized) with negative Sharpe ratio (-0.95)\n   - Max drawdown of -16% shows significant downside risk\n   - Recent 30-day performance (-6.92%) was negative despite positive recent weeks\n\n4. **Momentum vs. Regime**:\n   - 7-day and 14-day returns are substantially positive\n   - This strong short-term momentum contradicts the bear market regime\n   - Suggests potential mean reversion or consolidation period ahead\n\n5. **Forward-Looking Factors**:\n   - AAVE and MKR showing strong TVL growth suggests healthy protocol economics\n   - High volatility increases both upside and downside risk\n   - Bear regime typically mean-reverts, but timing is uncertain\n   - Recent +12% 7-day bounce may face profit-taking\n\n**Forecast Rationale:**\n- Positive 7-14 day momentum suggests near-term strength, but sustainability is questionable\n- Bear market regime constrains upside potential over 14 days\n- High volatility means significant range of outcomes\n- Conservative stance: expect modest positive return with meaningful downside tail risk\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"Strong recent 7-day momentum (+12.3%) supports near-term continuation, but bear market regime and high volatility (60.9% annualized) limit confidence. Mixed TVL signals with protocol strength offsetting derivative market weakness suggest 14-day annualized return of ~18% with elevated risk. Low confidence (0.42) reflects regime uncertainty and potential profit-taking after strong bounce.\"}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:39:01.103398+00:00",
+  "enriched": false
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong short-term momentum (7d: +11.2%, 14d: +8.78%) despite negative 30d returns (-7.01%), suggesting potential mean reversion rally. However, moderate bear market regime, high volatility (37.1% annualized), negative Sharpe ratio (-1.59), and mixed TVL trends (MKR, UNI stable but CAKE -11.7%, SUSHI -6.6%) create headwinds. TVL-weighted composition heavily favors MKR (largest holder), which shows relative stability. Recent uptrend may be overshooting given macro bearish conditions. Low confidence reflects regime uncertainty and high volatility; momentum extrapolation to 14-day horizon is risky in volatile bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong short-term momentum (7d: +11.2%, 14d: +8.78%) despite negative 30d returns (-7.01%), suggesting potential mean reversion rally. However, moderate bear market regime, high volatility (37.1% annualized), negative Sharpe ratio (-1.59), and mixed TVL trends (MKR, UNI stable but CAKE -11.7%, SUSHI -6.6%) create headwinds. TVL-weighted composition heavily favors MKR (largest holder), which shows relative stability. Recent uptrend may be overshooting given macro bearish conditions. Low confidence reflects regime uncertainty and high volatility; momentum extrapolation to 14-day horizon is risky in volatile bear markets.\"\n}\n```",
+  "date": "2023-01-10",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:27:23.039618+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.62,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull argument collapsed under scrutiny\u2014researcher acknowledged unresolvable ethical conflict with cherry-picking. Bear thesi",
+  "n_agents": 24,
+  "date": "2025-05-31 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

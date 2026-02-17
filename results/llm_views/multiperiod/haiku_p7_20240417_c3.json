@@ -1,0 +1,14 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "ENS is in a severe bear market with -46.99% 30-day decline and extreme volatility (117.1% annualized). The infrastructure token shows strong negative momentum (-43% in 7 days, -38.13% in 14 days) in a deteriorating DeFi regime (-8.1% TVL decline). Over the next 14 days, we expect continued downward pressure but at a decelerating rate as extreme moves typically revert. The negative Sharpe ratio (-3.37) indicates poor risk-adjusted returns. Low confidence (0.35) reflects high uncertainty in bear market bottoming dynamics and the token's lack of TVL fundamentals to anchor valuation.",
+  "raw_response": "```json\n{\n  \"expected_return\": -2.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ENS is in a severe bear market with -46.99% 30-day decline and extreme volatility (117.1% annualized). The infrastructure token shows strong negative momentum (-43% in 7 days, -38.13% in 14 days) in a deteriorating DeFi regime (-8.1% TVL decline). Over the next 14 days, we expect continued downward pressure but at a decelerating rate as extreme moves typically revert. The negative Sharpe ratio (-3.37) indicates poor risk-adjusted returns. Low confidence (0.35) reflects high uncertainty in bear market bottoming dynamics and the token's lack of TVL fundamentals to anchor valuation.\"\n}\n```",
+  "date": "2024-04-18",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:31.562051+00:00"
+}

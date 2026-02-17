@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with consistent downtrend momentum. Cluster down 18% (30d), 10.79% (14d), 6.4% (7d) showing accelerating losses. High volatility (67.7%) and negative Sharpe (-2.23) indicate risk-off sentiment. TVL declines across all holdings (SUSHI -20%, CVX -19%, YFI -13%, COMP -9%, DYDX -5.8%) suggest capital flight. However, max drawdown of -22.5% already priced in recent volatility suggests potential stabilization or relief bounce. Forward 14-day outlook accounts for continued downward pressure in bear regime with moderate confidence given macro uncertainty and potential mean reversion.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear market regime with consistent downtrend momentum. Cluster down 18% (30d), 10.79% (14d), 6.4% (7d) showing accelerating losses. High volatility (67.7%) and negative Sharpe (-2.23) indicate risk-off sentiment. TVL declines across all holdings (SUSHI -20%, CVX -19%, YFI -13%, COMP -9%, DYDX -5.8%) suggest capital flight. However, max drawdown of -22.5% already priced in recent volatility suggests potential stabilization or relief bounce. Forward 14-day outlook accounts for continued downward pressure in bear regime with moderate confidence given macro uncertainty and potential mean reversion.\"\n}\n```",
+  "date": "2024-07-11",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:10.737170+00:00"
+}

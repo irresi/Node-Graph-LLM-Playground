@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 exhibits mixed signals in a bear market regime. While the 7-day momentum (+3.81%) suggests short-term recovery potential, the 30-day decline (-13.59%) and negative Sharpe ratio (-1.99) indicate structural weakness. AAVE's strong TVL ($40.9B, +1.7% 30d) provides stability, but BAL's sharp decline (-17.3%) and overall market headwinds (DeFi TVL down 4.8%) offset gains. The recent 14-day near-zero return (-0.16%) and elevated volatility (57.5% annualized) suggest continued mean reversion downward. High confidence tempered by short 14-day forecast window and potential for technical bounce in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 exhibits mixed signals in a bear market regime. While the 7-day momentum (+3.81%) suggests short-term recovery potential, the 30-day decline (-13.59%) and negative Sharpe ratio (-1.99) indicate structural weakness. AAVE's strong TVL ($40.9B, +1.7% 30d) provides stability, but BAL's sharp decline (-17.3%) and overall market headwinds (DeFi TVL down 4.8%) offset gains. The recent 14-day near-zero return (-0.16%) and elevated volatility (57.5% annualized) suggest continued mean reversion downward. High confidence tempered by short 14-day forecast window and potential for technical bounce in bear markets.\"\n}\n```",
+  "date": "2025-09-12",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:25:33.753978+00:00"
+}

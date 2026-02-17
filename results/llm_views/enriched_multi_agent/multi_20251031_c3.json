@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.72,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Bull Researcher wisely declined to manufacture conviction; Bear Researcher's case is data-driven and consistent across three",
+  "n_agents": 18,
+  "date": "2025-11-01 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows strong fundamentals with AAVE leading TVL growth at +28.5% and positive momentum (14d return +8.98%). However, high annualized volatility (62.4%) and recent max drawdown (-16.7%) suggest elevated risk. The moderate bull regime supports continued gains, but momentum indicators are moderating (7d: +2.02% vs 14d: +8.98%). Forecasted return assumes partial continuation of recent trends with reversion risk. Confidence tempered by volatility and uncertain macro conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows strong fundamentals with AAVE leading TVL growth at +28.5% and positive momentum (14d return +8.98%). However, high annualized volatility (62.4%) and recent max drawdown (-16.7%) suggest elevated risk. The moderate bull regime supports continued gains, but momentum indicators are moderating (7d: +2.02% vs 14d: +8.98%). Forecasted return assumes partial continuation of recent trends with reversion risk. Confidence tempered by volatility and uncertain macro conditions.\"\n}\n```\n\n**Key Considerations:**\n\n1. **Positive Factors:**\n   - Strong TVL growth, particularly AAVE (+28.5%)\n   - Positive 30-day cluster return (+8.07%) in bull regime\n   - Solid Sharpe ratio (1.09) indicating risk-adjusted outperformance\n   - Recent 14-day momentum (+8.98%) stronger than 7-day (+2.02%), suggesting acceleration\n\n2. **Risk Factors:**\n   - High annualized volatility (62.4%) limits confidence\n   - Significant max drawdown (-16.7%) shows downside risk potential\n   - Momentum deceleration from 14d to 7d suggests potential exhaustion\n   - COMP showing weakness (-0.7% TVL change)\n\n3. **Forecast Rationale:**\n   - Annualized 14-day forecast of 0.35 (~3.3% for 14 days) represents moderate positive continuation\n   - Confidence of 0.62 reflects mixed signals: strong fundamentals offset by volatility and momentum questions\n   - Conservative estimate accounts for mean reversion risks in extended bull runs",
+  "date": "2025-08-15",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:48.133135+00:00"
+}

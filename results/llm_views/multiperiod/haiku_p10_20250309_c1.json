@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.72,
+  "reasoning": "Cluster 1 exhibits significant bearish momentum with -26.42% 7-day and -29.77% 14-day returns despite flat 30-day performance, indicating accelerating downside. The overall DeFi market is in a strong bear regime (-17.9% TVL decline) with elevated volatility (94.1% annualized). All three tokens (CRV, MKR, CVX) show negative TVL momentum, with CVX particularly weak (-22.9% 30d). The Sharpe ratio of 0.00 and -25.8% max drawdown reflect high risk with minimal reward. Conservative mean reversion to -45% annualized return over 14 days accounts for: (1) recent sharp declines suggesting oversold conditions, (2) structural weakness in DeFi yield strategies during bear markets, (3) limited near-term catalysts for recovery. Confidence is moderate (0.72) due to market regime uncertainty and potential volatility spikes, but the directional bias remains downward given fundamental deterioration in protocol metrics.",
+  "raw_response": "Based on the market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 1 exhibits significant bearish momentum with -26.42% 7-day and -29.77% 14-day returns despite flat 30-day performance, indicating accelerating downside. The overall DeFi market is in a strong bear regime (-17.9% TVL decline) with elevated volatility (94.1% annualized). All three tokens (CRV, MKR, CVX) show negative TVL momentum, with CVX particularly weak (-22.9% 30d). The Sharpe ratio of 0.00 and -25.8% max drawdown reflect high risk with minimal reward. Conservative mean reversion to -45% annualized return over 14 days accounts for: (1) recent sharp declines suggesting oversold conditions, (2) structural weakness in DeFi yield strategies during bear markets, (3) limited near-term catalysts for recovery. Confidence is moderate (0.72) due to market regime uncertainty and potential volatility spikes, but the directional bias remains downward given fundamental deterioration in protocol metrics.\"\n}\n```\n\n**Key Analysis:**\n- **Momentum Risk**: The sharp acceleration in losses (7-day vs 14-day vs 30-day) suggests a trend that may continue short-term\n- **Market Regime**: Bear conditions with contracting TVL typically suppress DeFi token valuations\n- **Protocol Health**: Declining TVL across all three tokens indicates reduced user activity and fee generation\n- **Volatility**: At 94.1% annualized, large swings are expected, making -45% annualized return plausible within 14 days\n- **Confidence Qualifier**: 0.72 reflects moderate confidence due to market regime uncertainty and potential for mean reversion bounces",
+  "date": "2025-03-10",
+  "period_idx": 10,
+  "cluster_id": 1,
+  "members": [
+    "curve-dao-token",
+    "maker",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:55.988641+00:00"
+}

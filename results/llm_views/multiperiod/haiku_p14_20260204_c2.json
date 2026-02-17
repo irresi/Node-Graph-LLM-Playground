@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 faces significant headwinds: bear market regime with -23% TVL contraction, negative 7-14 day momentum (-15.58%, -14.34%), and deteriorating fundamentals (CAKE TVL -13%, MKR TVL -17.5%). High volatility (51.5%) and negative Sharpe ratio (-2.94) indicate elevated risk. However, extreme downside momentum often precedes consolidation/reversal, providing some support. Annualized projection of -85% return reflects expectation of continued weakness but assumes mean reversion begins within 14 days as oversold conditions develop. Confidence is moderate due to bear regime clarity but tempered by potential for sharper declines if contagion spreads or protocol risks materialize.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 faces significant headwinds: bear market regime with -23% TVL contraction, negative 7-14 day momentum (-15.58%, -14.34%), and deteriorating fundamentals (CAKE TVL -13%, MKR TVL -17.5%). High volatility (51.5%) and negative Sharpe ratio (-2.94) indicate elevated risk. However, extreme downside momentum often precedes consolidation/reversal, providing some support. Annualized projection of -85% return reflects expectation of continued weakness but assumes mean reversion begins within 14 days as oversold conditions develop. Confidence is moderate due to bear regime clarity but tempered by potential for sharper declines if contagion spreads or protocol risks materialize.\"\n}\n```",
+  "date": "2026-02-05",
+  "period_idx": 14,
+  "cluster_id": 2,
+  "members": [
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:30:51.143672+00:00"
+}

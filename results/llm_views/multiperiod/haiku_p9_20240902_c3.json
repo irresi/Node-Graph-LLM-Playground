@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster 3 shows bearish momentum with -12.77% 30-day return in a declining DeFi market (TVL down 3.5%). Recent deceleration (-3.46% over 14d vs -12.77% over 30d) suggests potential stabilization, but high volatility (69.4% annualized) and negative Sharpe ratio (-1.54) indicate risk-reward remains unfavorable. Infrastructure/L2 tokens (OP, ARB) are particularly sensitive to macro sentiment and Ethereum's L2 adoption trends. Forecasting continued mild downside over next 14d, annualized to -42%, with moderate confidence due to high volatility and limited TVL data for most tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster 3 shows bearish momentum with -12.77% 30-day return in a declining DeFi market (TVL down 3.5%). Recent deceleration (-3.46% over 14d vs -12.77% over 30d) suggests potential stabilization, but high volatility (69.4% annualized) and negative Sharpe ratio (-1.54) indicate risk-reward remains unfavorable. Infrastructure/L2 tokens (OP, ARB) are particularly sensitive to macro sentiment and Ethereum's L2 adoption trends. Forecasting continued mild downside over next 14d, annualized to -42%, with moderate confidence due to high volatility and limited TVL data for most tokens.\"\n}\n```",
+  "date": "2024-09-03",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:02:13.273250+00:00"
+}

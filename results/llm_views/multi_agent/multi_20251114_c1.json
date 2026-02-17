@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.75,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.75,\n  \"reasoning\": \"Both Bull and Bear researchers converge on bearish fundamentals, with Bull researcher explicitly refusing to force bullish n",
+  "n_agents": 6,
+  "date": "2025-11-15 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

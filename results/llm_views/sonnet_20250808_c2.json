@@ -1,14 +1,26 @@
 {
-  "expected_return": 0.52,
-  "confidence": 0.52,
-  "reasoning": "BAL (Balancer) is operating in a strong bull market regime with DeFi TVL up ~30% over 30 days. The cluster posted an impressive 30-day return of +31.45% with a high Sharpe ratio of 4.22, indicating quality risk-adjusted momentum. However, recent short-term momentum is fading \u2014 the 14-day return of only +0.91% vs. the 30-day return of +31.45% signals the bulk of the move may be behind us in the near term, with potential mean reversion pressure. BAL's TVL growth of +10.8% is positive but lags the broader DeFi market surge (+29.9%), suggesting relative underperformance vs. peers. Annualized return estimate of ~52% reflects the positive macro tailwinds and strong Sharpe, discounted for cooling short-term momentum and single-token concentration risk. Confidence is moderate (0.52) due to the single-token cluster (no diversification), elevated annualized volatility of 62.7%, and the meaningful max drawdown of -19.3% indicating sharp pullback risk within the period.",
-  "raw_response": "```json\n{\"expected_return\": 0.52, \"confidence\": 0.52, \"reasoning\": \"BAL (Balancer) is operating in a strong bull market regime with DeFi TVL up ~30% over 30 days. The cluster posted an impressive 30-day return of +31.45% with a high Sharpe ratio of 4.22, indicating quality risk-adjusted momentum. However, recent short-term momentum is fading \u2014 the 14-day return of only +0.91% vs. the 30-day return of +31.45% signals the bulk of the move may be behind us in the near term, with potential mean reversion pressure. BAL's TVL growth of +10.8% is positive but lags the broader DeFi market surge (+29.9%), suggesting relative underperformance vs. peers. Annualized return estimate of ~52% reflects the positive macro tailwinds and strong Sharpe, discounted for cooling short-term momentum and single-token concentration risk. Confidence is moderate (0.52) due to the single-token cluster (no diversification), elevated annualized volatility of 62.7%, and the meaningful max drawdown of -19.3% indicating sharp pullback risk within the period.\"}\n```",
-  "date": "2025-08-08",
+  "expected_return": 0.387,
+  "confidence": 0.62,
+  "reasoning": "Cluster 2 (DEX/Lending/Derivatives/Liquid Staking) operates in a confirmed bull regime with strong macro tailwinds: DeFi TVL up +26.1% in 30 days and cluster itself delivering +18.47% over the same period. Annualizing the 7-day momentum of +13.13% suggests near-term bullish continuation. However, the 14-day return of only +0.69% versus the 30-day +18.47% signals that much of the recent gains were front-loaded, with a consolidation/mean-reversion phase already underway. AAVE dominates TVL at $37.3B (+29.8%) providing strong fundamental support, while SUSHI's +43% TVL surge adds speculative momentum. The Sharpe of 2.84 is elevated, suggesting some risk of reversion to mean. Annualized expected return of ~38.7% is derived by tempering the 30-day run-rate (~224% ann.) with the 14-day consolidation signal, the max drawdown risk of -19.1%, and the high annualized volatility of 54.6%. Confidence is moderate (0.62) given the mixed short-term momentum signals and the inherent 14-day forecast uncertainty in a high-volatility cluster.",
+  "raw_response": "```json\n{\"expected_return\": 0.387, \"confidence\": 0.62, \"reasoning\": \"Cluster 2 (DEX/Lending/Derivatives/Liquid Staking) operates in a confirmed bull regime with strong macro tailwinds: DeFi TVL up +26.1% in 30 days and cluster itself delivering +18.47% over the same period. Annualizing the 7-day momentum of +13.13% suggests near-term bullish continuation. However, the 14-day return of only +0.69% versus the 30-day +18.47% signals that much of the recent gains were front-loaded, with a consolidation/mean-reversion phase already underway. AAVE dominates TVL at $37.3B (+29.8%) providing strong fundamental support, while SUSHI's +43% TVL surge adds speculative momentum. The Sharpe of 2.84 is elevated, suggesting some risk of reversion to mean. Annualized expected return of ~38.7% is derived by tempering the 30-day run-rate (~224% ann.) with the 14-day consolidation signal, the max drawdown risk of -19.1%, and the high annualized volatility of 54.6%. Confidence is moderate (0.62) given the mixed short-term momentum signals and the inherent 14-day forecast uncertainty in a high-volatility cluster.\"}\n```",
+  "date": "2025-08-09",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:08:48.343917+00:00",
+  "generated_at": "2026-02-17T16:00:12.441402+00:00",
   "enriched": false
 }

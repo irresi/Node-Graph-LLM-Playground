@@ -1,0 +1,12 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.65,
+  "reasoning": "```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Both Bull and Bear researchers converge on a bearish outlook, with the Bull researcher notably refusing to construct a false",
+  "n_agents": 24,
+  "date": "2025-12-13 00:00:00",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "mode": "api"
+}

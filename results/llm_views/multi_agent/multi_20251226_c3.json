@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Bull case correctly identifies mean reversion setup and capitulation signals (+5.51% 7d vs -3.97% 30d), but Bear case has str",
+  "n_agents": 18,
+  "date": "2025-12-27 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

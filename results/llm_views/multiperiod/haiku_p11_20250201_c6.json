@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "YFI faces significant headwinds: strong bear market regime with DeFi TVL down 9.8%, severe negative momentum (-21.5% over 14 days, -23.58% over 30 days), and high volatility (59.1% annualized). The cluster's negative Sharpe ratio (-3.35) and max drawdown of -26.2% indicate elevated risk. However, YFI's TVL decline is relatively modest (-3.5%), suggesting some protocol stability. The 14-day return of -21.5% annualized (~-3% per 2 weeks) suggests further deterioration is likely in the near term given bear market conditions, but oversold conditions and potential recovery bounces introduce meaningful uncertainty. Confidence is moderate due to regime volatility and tail risk in downturns.",
+  "raw_response": "Based on the provided market context for Cluster 6 (YFI), here is my analysis and forecast:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"YFI faces significant headwinds: strong bear market regime with DeFi TVL down 9.8%, severe negative momentum (-21.5% over 14 days, -23.58% over 30 days), and high volatility (59.1% annualized). The cluster's negative Sharpe ratio (-3.35) and max drawdown of -26.2% indicate elevated risk. However, YFI's TVL decline is relatively modest (-3.5%), suggesting some protocol stability. The 14-day return of -21.5% annualized (~-3% per 2 weeks) suggests further deterioration is likely in the near term given bear market conditions, but oversold conditions and potential recovery bounces introduce meaningful uncertainty. Confidence is moderate due to regime volatility and tail risk in downturns.\"\n}\n```\n\n**Key considerations:**\n1. **Market Regime Risk**: The bear market with declining DeFi TVL creates a headwind for yield tokens like YFI\n2. **Momentum**: Negative 14-day and 30-day returns suggest continued downward pressure\n3. **Volatility**: High annualized volatility (59.1%) increases forecast uncertainty\n4. **Protocol Health**: TVL decline is modest (-3.5%), which is relatively better than market average, providing some stabilizing factor\n5. **Forecast Conservatism**: The expected return reflects continued negative pressure but not as severe as the recent 30-day decline, allowing for potential stabilization or minor recovery",
+  "date": "2025-02-02",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:55.004347+00:00"
+}

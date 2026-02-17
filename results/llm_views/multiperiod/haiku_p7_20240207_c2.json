@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "MKR showing mixed signals: positive 30-day return (+6.39%) with reasonable Sharpe ratio (1.02) suggests underlying strength, but recent 14-day decline (-7.55%) and 7-day weakness (-1.04%) indicate short-term momentum loss. TVL declined -2.0% in 30d suggesting reduced protocol activity. Neutral market regime and high volatility (52.4%) create uncertainty. Modest recovery expected from oversold conditions over 14 days, but confidence is low due to conflicting indicators and single-token concentration risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"MKR showing mixed signals: positive 30-day return (+6.39%) with reasonable Sharpe ratio (1.02) suggests underlying strength, but recent 14-day decline (-7.55%) and 7-day weakness (-1.04%) indicate short-term momentum loss. TVL declined -2.0% in 30d suggesting reduced protocol activity. Neutral market regime and high volatility (52.4%) create uncertainty. Modest recovery expected from oversold conditions over 14 days, but confidence is low due to conflicting indicators and single-token concentration risk.\"\n}\n```",
+  "date": "2024-02-08",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:52:16.180165+00:00"
+}

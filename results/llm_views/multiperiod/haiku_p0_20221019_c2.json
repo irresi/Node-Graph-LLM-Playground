@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30d performance (+5.57%) but decelerating momentum (14d +0.59%), with TVL headwinds in largest positions (UNI -8.5%, AAVE -9.2%). Neutral market regime and elevated 31.7% volatility suggest continued consolidation rather than acceleration. Forecast modest positive 14d return annualized, but with moderate confidence due to deceleration signals and mixed fundamentals. Mixed TVL trends (SUSHI/BAL strength offset by UNI/AAVE weakness) limit conviction.",
+  "raw_response": "I'll analyze this DeFi cluster and provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- DeFi market is in a neutral/range-bound regime with minimal TVL growth (+0.1% 30d)\n- This suggests limited tail winds from broader market expansion\n\n**Cluster Performance Signals:**\n- 30-day return: +5.57% with strong Sharpe ratio of 1.48\n- 7-day return: +5.31% (very recent strength)\n- 14-day return: +0.59% (recent deceleration)\n- Max drawdown of -6.1% indicates some volatility/correction risk\n- Volatility at 31.7% annualized is elevated\n\n**Protocol Fundamentals:**\n- Mixed TVL trends: UNI (-8.5%), AAVE (-9.2%) showing weakness\n- Positive catalysts: SUSHI (+47.0%), BAL (+30.8%) showing strength\n- CRV stable (+1.8%), largest protocol by TVL ($5.76B)\n- Overall: More decline than growth in TVL across major holdings\n\n**Key Observations:**\n1. Strong 30-day performance but decelerating into recent period (5.57% \u2192 0.59% when comparing 30d to 14d)\n2. Volatility is elevated, suggesting profit-taking and consolidation\n3. TVL headwinds in two largest positions (UNI, AAVE) are concerning\n4. Neutral market regime limits upside catalysts\n5. Technical: High recent gains followed by 14-day slowdown suggests mean reversion risk\n\n**Forecast Logic:**\nThe cluster showed strong momentum but is showing signs of deceleration. The mix of TVL declines in major positions, elevated volatility, and the neutral market regime suggest the momentum is likely to moderate. However, the cluster still maintains positive technical structure. I'm forecasting a modest positive return with moderate confidence, accounting for both continued relative strength but tempering expectations due to deceleration signals.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30d performance (+5.57%) but decelerating momentum (14d +0.59%), with TVL headwinds in largest positions (UNI -8.5%, AAVE -9.2%). Neutral market regime and elevated 31.7% volatility suggest continued consolidation rather than acceleration. Forecast modest positive 14d return annualized, but with moderate confidence due to deceleration signals and mixed fundamentals. Mixed TVL trends (SUSHI/BAL strength offset by UNI/AAVE weakness) limit conviction.\"\n}\n```",
+  "date": "2022-10-20",
+  "period_idx": 0,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:21:17.925285+00:00"
+}

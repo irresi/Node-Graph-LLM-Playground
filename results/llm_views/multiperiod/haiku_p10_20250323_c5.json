@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "DYDX shows strong recent momentum (14-day: +15.82%, 7-day: +8.86%) suggesting potential mean reversion from the 30-day decline (-15.05%). However, confidence is tempered by: (1) bearish overall market regime with -16.7% TVL decline, (2) extremely high volatility (93.8% annualized) making predictions unreliable, (3) negative Sharpe ratio (-1.35) indicating poor risk-adjusted returns, and (4) TVL decline (-17%) suggesting reduced protocol activity. The positive recent returns appear to be a bounce within a downtrend rather than a sustained recovery. Annualized forecast of 18% assumes partial continuation of 14-day momentum (15.82% over 14 days \u2248 42% annualized, discounted 50% for regime headwinds). Low confidence reflects high uncertainty in a volatile, declining market.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"DYDX shows strong recent momentum (14-day: +15.82%, 7-day: +8.86%) suggesting potential mean reversion from the 30-day decline (-15.05%). However, confidence is tempered by: (1) bearish overall market regime with -16.7% TVL decline, (2) extremely high volatility (93.8% annualized) making predictions unreliable, (3) negative Sharpe ratio (-1.35) indicating poor risk-adjusted returns, and (4) TVL decline (-17%) suggesting reduced protocol activity. The positive recent returns appear to be a bounce within a downtrend rather than a sustained recovery. Annualized forecast of 18% assumes partial continuation of 14-day momentum (15.82% over 14 days \u2248 42% annualized, discounted 50% for regime headwinds). Low confidence reflects high uncertainty in a volatile, declining market.\"\n}\n```",
+  "date": "2025-03-24",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:39.340338+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "Cluster in bear market regime with strong recent downtrend (-20.74% over 14 days). However, individual protocols show positive TVL growth (GMX +10.3%, LDO +7.6%, RPL +9.4%), suggesting underlying strength despite price weakness. High volatility (63.6% annualized) and negative Sharpe ratio (-0.50) indicate risk-adjusted returns are poor. Near-term momentum remains negative, but improving fundamentals and TVL resilience suggest potential stabilization. Forecast reflects continued near-term weakness with modest improvement from positive protocol metrics, annualized to 14-day period.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in bear market regime with strong recent downtrend (-20.74% over 14 days). However, individual protocols show positive TVL growth (GMX +10.3%, LDO +7.6%, RPL +9.4%), suggesting underlying strength despite price weakness. High volatility (63.6% annualized) and negative Sharpe ratio (-0.50) indicate risk-adjusted returns are poor. Near-term momentum remains negative, but improving fundamentals and TVL resilience suggest potential stabilization. Forecast reflects continued near-term weakness with modest improvement from positive protocol metrics, annualized to 14-day period.\"\n}\n```",
+  "date": "2023-05-02",
+  "period_idx": 2,
+  "cluster_id": 2,
+  "members": [
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:30:48.106409+00:00"
+}

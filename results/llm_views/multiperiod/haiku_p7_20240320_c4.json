@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 30-day performance (+12.16%) but concerning recent momentum with 7-day (-16.28%) and 14-day (-19.33%) returns indicating reversal. Mixed TVL fundamentals: DYDX strong (+26.2%), COMP solid (+7.0%), but YFI declining (-2.7%) and CVX weakening (-5.5%). High volatility (49.3%) and max drawdown (-20.5%) suggest continued near-term weakness. Moderate bull regime provides some support, but negative momentum dominates short-term outlook. Forecasting modest downside continuation with moderate confidence due to volatility and conflicting signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day performance (+12.16%) but concerning recent momentum with 7-day (-16.28%) and 14-day (-19.33%) returns indicating reversal. Mixed TVL fundamentals: DYDX strong (+26.2%), COMP solid (+7.0%), but YFI declining (-2.7%) and CVX weakening (-5.5%). High volatility (49.3%) and max drawdown (-20.5%) suggest continued near-term weakness. Moderate bull regime provides some support, but negative momentum dominates short-term outlook. Forecasting modest downside continuation with moderate confidence due to volatility and conflicting signals.\"\n}\n```",
+  "date": "2024-03-21",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:47.907895+00:00"
+}

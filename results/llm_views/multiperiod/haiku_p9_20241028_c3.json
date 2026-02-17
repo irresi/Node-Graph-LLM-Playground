@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 is experiencing strong bearish momentum in a bear market regime with -15.18% 30-day returns and -6.23% 7-day returns. The high volatility (46.2% annualized) and negative Sharpe ratio (-2.76) indicate risk-adjusted underperformance. Infrastructure/L2 tokens (OP, ARB, ENS) typically exhibit mean-reversion tendencies, but the persistent downtrend and weak recent momentum (-5.38% 14-day) suggest continuation bias over the next 14 days. The forecast reflects annualized extrapolation of recent momentum with moderate confidence due to high volatility and potential for rapid regime shifts in crypto markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 is experiencing strong bearish momentum in a bear market regime with -15.18% 30-day returns and -6.23% 7-day returns. The high volatility (46.2% annualized) and negative Sharpe ratio (-2.76) indicate risk-adjusted underperformance. Infrastructure/L2 tokens (OP, ARB, ENS) typically exhibit mean-reversion tendencies, but the persistent downtrend and weak recent momentum (-5.38% 14-day) suggest continuation bias over the next 14 days. The forecast reflects annualized extrapolation of recent momentum with moderate confidence due to high volatility and potential for rapid regime shifts in crypto markets.\"\n}\n```",
+  "date": "2024-10-29",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:03:39.363010+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with DeFi TVL declining -8.1% over 30 days. Cluster 4 shows severe negative momentum (-42% in 30 days, -35% in 14 days) with extremely high volatility (83.5% annualized) and deeply negative Sharpe ratio (-4.23). Mixed TVL fundamentals: DYDX stabilizing (+20.4%), but SUSHI (-27.9%), CVX (-27.5%), and YFI (-12.8%) deteriorating. Given the strong downtrend persistence, elevated volatility, and negative momentum, expecting continued losses over next 14 days, though magnitude may moderate from recent declines. Confidence moderate-to-high due to clear directional signal but uncertainty around recovery catalysts.",
+  "raw_response": "Based on the provided market context and cluster metrics, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear market regime with DeFi TVL declining -8.1% over 30 days. Cluster 4 shows severe negative momentum (-42% in 30 days, -35% in 14 days) with extremely high volatility (83.5% annualized) and deeply negative Sharpe ratio (-4.23). Mixed TVL fundamentals: DYDX stabilizing (+20.4%), but SUSHI (-27.9%), CVX (-27.5%), and YFI (-12.8%) deteriorating. Given the strong downtrend persistence, elevated volatility, and negative momentum, expecting continued losses over next 14 days, though magnitude may moderate from recent declines. Confidence moderate-to-high due to clear directional signal but uncertainty around recovery catalysts.\"\n}\n```\n\n**Key analytical considerations:**\n- **Market regime**: Strong bear market with structural TVL outflows\n- **Technical momentum**: 7-day and 14-day returns nearly identical at -35%, suggesting sustained selling pressure\n- **Volatility regime**: 83.5% annualized volatility indicates high-risk environment with wide swings possible\n- **Fundamental divergence**: DYDX's relative strength (+20.4% TVL) is isolated; majority of cluster in decline\n- **Forward outlook**: Annualized return of -85% reflects expectation of continued 5-10% weekly losses typical of bear market regimes",
+  "date": "2024-04-18",
+  "period_idx": 7,
+  "cluster_id": 4,
+  "members": [
+    "sushi",
+    "compound-governance-token",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:37.518989+00:00"
+}

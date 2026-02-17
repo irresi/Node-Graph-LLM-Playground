@@ -1,18 +1,14 @@
 {
   "expected_return": -0.72,
-  "confidence": 0.62,
-  "reasoning": "Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is exhibiting persistent bearish momentum across all timeframes: -9.81% over 7 days, -17.30% over 14 days, and -16.15% over 30 days, annualizing to roughly -65% to -75% range. The broader DeFi market is in a confirmed bear regime with TVL down 7.1% over 30 days. Protocol-level TVL declines are broad-based and accelerating for SNX (-21.2%) and SUSHI (-12.6%), signaling weakening fundamentals. LDO dominates TVL weighting (~79% of cluster) and its -9.3% TVL decline anchors the forecast. The Sharpe of -1.57 and max drawdown of -30.9% confirm poor risk-adjusted performance. However, a modest mean-reversion buffer is applied given the severity of recent drawdowns may attract short-term dip buyers. Confidence is moderate (0.62) due to high annualized volatility of 86.3%, which introduces substantial path uncertainty over a 14-day window.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.62, \"reasoning\": \"Cluster 3 (UNI, SUSHI, SNX, LDO, RPL) is exhibiting persistent bearish momentum across all timeframes: -9.81% over 7 days, -17.30% over 14 days, and -16.15% over 30 days, annualizing to roughly -65% to -75% range. The broader DeFi market is in a confirmed bear regime with TVL down 7.1% over 30 days. Protocol-level TVL declines are broad-based and accelerating for SNX (-21.2%) and SUSHI (-12.6%), signaling weakening fundamentals. LDO dominates TVL weighting (~79% of cluster) and its -9.3% TVL decline anchors the forecast. The Sharpe of -1.57 and max drawdown of -30.9% confirm poor risk-adjusted performance. However, a modest mean-reversion buffer is applied given the severity of recent drawdowns may attract short-term dip buyers. Confidence is moderate (0.62) due to high annualized volatility of 86.3%, which introduces substantial path uncertainty over a 14-day window.\"}\n```",
-  "date": "2025-06-27",
+  "confidence": 0.72,
+  "reasoning": "CVX is in severe distress: -33.87% over 30 days with accelerating momentum (-5.88% in 7d, -12.05% in 14d), indicating no signs of reversal. TVL down -14.4% to $1.03B signals capital flight from the Convex/Curve ecosystem. Bear market regime with negative DeFi TVL trend (-4.5%) removes any macro tailwind. Sharpe of -3.56 and max drawdown of -27.2% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-12.05% over 14d \u2248 -314% annualized) is extreme; applying a mean-reversion discount and momentum persistence factor yields a forecast of approximately -72% annualized. Confidence is moderate (0.72) given strong trend consistency but acknowledging potential for short-covering bounces or protocol-specific catalysts that could temporarily interrupt the downtrend.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.72, \"reasoning\": \"CVX is in severe distress: -33.87% over 30 days with accelerating momentum (-5.88% in 7d, -12.05% in 14d), indicating no signs of reversal. TVL down -14.4% to $1.03B signals capital flight from the Convex/Curve ecosystem. Bear market regime with negative DeFi TVL trend (-4.5%) removes any macro tailwind. Sharpe of -3.56 and max drawdown of -27.2% confirm deeply negative risk-adjusted performance. Annualizing the 14-day trend (-12.05% over 14d \u2248 -314% annualized) is extreme; applying a mean-reversion discount and momentum persistence factor yields a forecast of approximately -72% annualized. Confidence is moderate (0.72) given strong trend consistency but acknowledging potential for short-covering bounces or protocol-specific catalysts that could temporarily interrupt the downtrend.\"}\n```",
+  "date": "2025-06-28",
   "cluster_id": 3,
   "members": [
-    "uniswap",
-    "sushi",
-    "havven",
-    "lido-dao",
-    "rocket-pool"
+    "convex-finance"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:06:18.270622+00:00",
+  "generated_at": "2026-02-17T15:58:26.398933+00:00",
   "enriched": false
 }

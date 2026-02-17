@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.68,
+  "reasoning": "Cluster 1 demonstrates strong bull market momentum with +27.96% 30-day return and exceptional Sharpe ratio of 7.23. The 7-day (+15.40%) and 14-day (+21.51%) returns show sustained uptrend with accelerating pace. DeFi TVL growth of +31% provides fundamental support. However, the -3.9% max drawdown and moderate 32.5% volatility suggest mean-reversion risk. Annualized extrapolation of recent 14-day performance (+21.51% in 14 days = ~57% annualized) moderates to 42% accounting for: (1) bull market sustainability challenges, (2) potential volatility-driven correction, (3) regulatory/macro headwinds. Mid-range confidence reflects strong recent metrics offset by inherent forecast uncertainty in volatile crypto markets and potential exhaustion of current momentum cycle.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Cluster 1 demonstrates strong bull market momentum with +27.96% 30-day return and exceptional Sharpe ratio of 7.23. The 7-day (+15.40%) and 14-day (+21.51%) returns show sustained uptrend with accelerating pace. DeFi TVL growth of +31% provides fundamental support. However, the -3.9% max drawdown and moderate 32.5% volatility suggest mean-reversion risk. Annualized extrapolation of recent 14-day performance (+21.51% in 14 days = ~57% annualized) moderates to 42% accounting for: (1) bull market sustainability challenges, (2) potential volatility-driven correction, (3) regulatory/macro headwinds. Mid-range confidence reflects strong recent metrics offset by inherent forecast uncertainty in volatile crypto markets and potential exhaustion of current momentum cycle.\"\n}\n```",
+  "date": "2023-11-11",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:45:18.808173+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.55,
+  "reasoning": "Cluster showing significant negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite broader DeFi bull market (+19.6% TVL growth). High volatility (91.3% annualized) and negative Sharpe ratio (-0.14) suggest elevated risk. However, extreme drawdowns often precede reversions. The infrastructure/L2 category (OP, ARB, ENS, GRT) may benefit from renewed adoption, while LINK maintains oracle demand. Moderate confidence reflects mixed signals: negative near-term momentum conflicts with positive macro DeFi backdrop and potential mean-reversion. Forecast biased slightly negative but expects partial recovery from recent lows.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster showing significant negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite broader DeFi bull market (+19.6% TVL growth). High volatility (91.3% annualized) and negative Sharpe ratio (-0.14) suggest elevated risk. However, extreme drawdowns often precede reversions. The infrastructure/L2 category (OP, ARB, ENS, GRT) may benefit from renewed adoption, while LINK maintains oracle demand. Moderate confidence reflects mixed signals: negative near-term momentum conflicts with positive macro DeFi backdrop and potential mean-reversion. Forecast biased slightly negative but expects partial recovery from recent lows.\"\n}\n```",
+  "date": "2025-05-31",
+  "period_idx": 12,
+  "cluster_id": 2,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:19:41.450510+00:00"
+}

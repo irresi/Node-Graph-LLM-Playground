@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.45,
+  "reasoning": "I need to analyze this debate carefully and produce a calibrated forecast. Let me break down the key arguments:\n\n**Bull Researcher's Position:**\n- Declined to make a full bullish case due to missing s",
+  "n_agents": 6,
+  "date": "2025-07-26 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

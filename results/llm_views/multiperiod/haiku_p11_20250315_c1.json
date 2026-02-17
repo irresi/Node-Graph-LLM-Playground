@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Bear market with cluster down 33% (30d) suggests potential stabilization after significant losses. Recent 7d deceleration (-8.76%) vs 14d (-15.65%) indicates slower decline. However, negative regime, high volatility (93.8%), and lack of fundamental TVL growth limit upside. Expecting continued mild losses over 14 days with low confidence due to extreme volatility and bear market conditions.",
+  "raw_response": "Based on the market context provided, I'll analyze Cluster 1 (LINK, OP, ARB, ENS, GRT) to forecast its 14-day expected annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with DeFi TVL down 19.8% over 30 days\n2. **Cluster Momentum**: Severely negative with -33.35% 30-day return and -15.65% 14-day return\n3. **Volatility Profile**: Extremely high annualized volatility (93.8%) with negative Sharpe ratio (-2.99)\n4. **Recent Acceleration**: 7-day return of -8.76% suggests recent deceleration in losses\n5. **Drawdown Severity**: -36% max drawdown indicates significant capitulation\n\n**Considerations for 14-day forecast:**\n\n- The cluster has already experienced significant losses and may be entering an oversold territory\n- Oracle/Infrastructure/L2 tokens are typically more resilient fundamentally but sensitive to market sentiment\n- The recent deceleration (-8.76% in last 7 days vs -15.65% in last 14 days) suggests losses may be moderating\n- In a bear market with this volatility, mean reversion or stabilization is possible but not guaranteed\n- The lack of TVL data for most tokens limits fundamental analysis\n\n**Forecast Rationale:**\n\nGiven the extreme downtrend, high volatility, and recent momentum, I expect some stabilization or mild recovery in the near term as the market may be approaching oversold conditions. However, the bear market regime and negative technicals prevent a strong bullish outlook.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Bear market with cluster down 33% (30d) suggests potential stabilization after significant losses. Recent 7d deceleration (-8.76%) vs 14d (-15.65%) indicates slower decline. However, negative regime, high volatility (93.8%), and lack of fundamental TVL growth limit upside. Expecting continued mild losses over 14 days with low confidence due to extreme volatility and bear market conditions.\"}\n```",
+  "date": "2025-03-16",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:12:53.519262+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -12.2% TVL decline and cluster down 39.17% in 30d. Recent momentum shows deceleration (7d: -18.41%, 14d: -6.62%), suggesting potential stabilization. High volatility (64.5% annualized) and negative Sharpe ratio (-5.10) indicate distressed conditions. However, the improving trend (14d vs 7d) and diverse protocol exposure provide some mean-reversion potential. Forecast assumes continued but moderating downside pressure, with -1.85% annualized return (~-0.7% over 14 days). Confidence moderate due to regime sensitivity and execution risks in yield/lending protocols during market stress.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -12.2% TVL decline and cluster down 39.17% in 30d. Recent momentum shows deceleration (7d: -18.41%, 14d: -6.62%), suggesting potential stabilization. High volatility (64.5% annualized) and negative Sharpe ratio (-5.10) indicate distressed conditions. However, the improving trend (14d vs 7d) and diverse protocol exposure provide some mean-reversion potential. Forecast assumes continued but moderating downside pressure, with -1.85% annualized return (~-0.7% over 14 days). Confidence moderate due to regime sensitivity and execution risks in yield/lending protocols during market stress.\"\n}\n```",
+  "date": "2025-01-13",
+  "period_idx": 10,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:20.462717+00:00"
+}

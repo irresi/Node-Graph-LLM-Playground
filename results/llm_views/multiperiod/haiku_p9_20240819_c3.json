@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster 3 faces significant headwinds: bear market regime with -21.5% DeFi TVL decline, severe 30-day underperformance (-35.95%), and elevated volatility (69.5%). However, positive 14-day momentum (+10.10%) suggests potential mean reversion. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL exposure, reducing protocol fundamental anchoring. The sharp -3.73% 7-day decline and -38.8% max drawdown indicate ongoing selling pressure despite recent rally. Forecasting annualized -45% return over next 14 days reflects elevated bear market risk, though lower confidence (0.35) due to momentum reversal potential and limited TVL visibility for most cluster constituents.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 3 faces significant headwinds: bear market regime with -21.5% DeFi TVL decline, severe 30-day underperformance (-35.95%), and elevated volatility (69.5%). However, positive 14-day momentum (+10.10%) suggests potential mean reversion. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack direct TVL exposure, reducing protocol fundamental anchoring. The sharp -3.73% 7-day decline and -38.8% max drawdown indicate ongoing selling pressure despite recent rally. Forecasting annualized -45% return over next 14 days reflects elevated bear market risk, though lower confidence (0.35) due to momentum reversal potential and limited TVL visibility for most cluster constituents.\"\n}\n```",
+  "date": "2024-08-20",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:01:50.165721+00:00"
+}

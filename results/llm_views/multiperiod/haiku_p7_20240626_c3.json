@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "ENS shows mixed signals: strong 14-day rebound (+15.23%) suggests potential recovery momentum, but this follows a severe 7-day drawdown (-10.63%) in a bear market regime with high volatility (91.6% annualized). The bear market and negative 30-day trend (-3.53%) suggest headwinds. As an infrastructure token without TVL metrics, ENS lacks fundamental support. Low confidence due to high volatility, conflicting signals, and limited predictability in bear markets. Forecast reflects cautious bearish bias weighted toward mean reversion from the recent spike.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ENS shows mixed signals: strong 14-day rebound (+15.23%) suggests potential recovery momentum, but this follows a severe 7-day drawdown (-10.63%) in a bear market regime with high volatility (91.6% annualized). The bear market and negative 30-day trend (-3.53%) suggest headwinds. As an infrastructure token without TVL metrics, ENS lacks fundamental support. Low confidence due to high volatility, conflicting signals, and limited predictability in bear markets. Forecast reflects cautious bearish bias weighted toward mean reversion from the recent spike.\"\n}\n```",
+  "date": "2024-06-27",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:56:42.040358+00:00"
+}

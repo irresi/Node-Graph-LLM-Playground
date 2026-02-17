@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -27.79% 30-day loss and -8.96% 14-day decline. High volatility (91.3% annualized) and negative Sharpe ratio (-2.56) indicate poor risk-adjusted returns. Recent momentum is deeply negative (-7.66% in 7 days). However, extreme downside and infrastructure token nature suggest some mean reversion potential within 14 days. Forecasting -45% annualized (approximately -1.7% over 14 days) reflecting continued weakness but reduced downside velocity. Low-to-moderate confidence due to volatile regime and unpredictable macro catalysts affecting infrastructure tokens.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -27.79% 30-day loss and -8.96% 14-day decline. High volatility (91.3% annualized) and negative Sharpe ratio (-2.56) indicate poor risk-adjusted returns. Recent momentum is deeply negative (-7.66% in 7 days). However, extreme downside and infrastructure token nature suggest some mean reversion potential within 14 days. Forecasting -45% annualized (approximately -1.7% over 14 days) reflecting continued weakness but reduced downside velocity. Low-to-moderate confidence due to volatile regime and unpredictable macro catalysts affecting infrastructure tokens.\"\n}\n```",
+  "date": "2025-03-30",
+  "period_idx": 11,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:24.595855+00:00"
+}

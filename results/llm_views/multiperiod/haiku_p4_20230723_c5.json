@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.55,
+  "reasoning": "Recent downward momentum (-3.28% in 7d) suggests near-term weakness, but bull market regime and stable TVL (+2.2%) support modest recovery. High volatility (55.3%) and fading 14d trend (-0.66%) limit confidence in a stronger bounce. Expecting modest mean-reversion gains with moderate downside risk.",
+  "raw_response": "Based on the provided market context for Cluster 5 (CAKE), I'll analyze the key factors to generate a forecast:\n\n**Analysis:**\n\n1. **Recent Momentum**: The 14-day return of -0.66% shows recent weakness despite a positive 30-day return of +5.48%, suggesting momentum is fading.\n\n2. **Market Regime**: Bull market with moderate volatility provides a positive backdrop, but the 7-day return of -3.28% contradicts strong bullish conditions.\n\n3. **Volatility & Risk**: Annualized volatility of 55.3% is quite high, with a max drawdown of -9.3% indicating significant downside risk. The Sharpe ratio of 0.83 suggests moderate risk-adjusted returns.\n\n4. **Fundamentals**: CAKE's TVL of $1,587M with a +2.2% 30-day change shows stable protocol metrics, which is positive for longer-term prospects.\n\n5. **Trend Direction**: The sequence of returns (30d: +5.48% \u2192 14d: -0.66% \u2192 7d: -3.28%) shows deteriorating momentum into recent periods, suggesting consolidation or potential pullback.\n\n6. **Macro Context**: Stable DeFi TVL (-0.1% change) doesn't provide tailwinds for explosive growth over the next 14 days.\n\n**Forecast Rationale**: Given the recent negative momentum (especially the last 7 days), high volatility, but underlying bull market regime and stable protocol TVL, I expect CAKE to experience a modest recovery from recent lows but with constrained upside in the 14-day window. The high volatility and fading momentum warrant moderate confidence.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.55, \"reasoning\": \"Recent downward momentum (-3.28% in 7d) suggests near-term weakness, but bull market regime and stable TVL (+2.2%) support modest recovery. High volatility (55.3%) and fading 14d trend (-0.66%) limit confidence in a stronger bounce. Expecting modest mean-reversion gains with moderate downside risk.\"}\n```",
+  "date": "2023-07-24",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:37:08.628314+00:00"
+}

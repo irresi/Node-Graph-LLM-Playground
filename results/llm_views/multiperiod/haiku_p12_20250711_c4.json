@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 (CRV/CVX) shows strong recent momentum (+27.48% 7-day, +23.36% 14-day) from oversold conditions, but operates in a bear market regime with high volatility (73.4% annualized). The 30-day negative return (-0.10%) and -19.4% max drawdown suggest mean reversion may be incomplete. CRV's stable TVL (+2.4%) provides some fundamental support, while CVX's declining TVL (-3.4%) is concerning. Annualizing the recent 14-day trend (~23.36% / 14 * 365 \u2248 0.61) would be overoptimistic; instead, forecasting a moderated 28% annualized return reflects technical bounce momentum while accounting for bear market headwinds and high volatility. Low confidence (0.35) reflects the contradictory signals between positive technicals and negative macro regime, plus the difficulty of sustaining momentum in such volatile markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows strong recent momentum (+27.48% 7-day, +23.36% 14-day) from oversold conditions, but operates in a bear market regime with high volatility (73.4% annualized). The 30-day negative return (-0.10%) and -19.4% max drawdown suggest mean reversion may be incomplete. CRV's stable TVL (+2.4%) provides some fundamental support, while CVX's declining TVL (-3.4%) is concerning. Annualizing the recent 14-day trend (~23.36% / 14 * 365 \u2248 0.61) would be overoptimistic; instead, forecasting a moderated 28% annualized return reflects technical bounce momentum while accounting for bear market headwinds and high volatility. Low confidence (0.35) reflects the contradictory signals between positive technicals and negative macro regime, plus the difficulty of sustaining momentum in such volatile markets.\"\n}\n```",
+  "date": "2025-07-12",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:21:07.874879+00:00"
+}

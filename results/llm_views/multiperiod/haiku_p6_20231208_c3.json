@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Infrastructure L2 tokens (OP, ARB, ENS) showing strong momentum with +15.75% 30-day return and exceptional Sharpe ratio of 2.24 in bull market regime. However, forecastability limited by: (1) lack of TVL metrics for fundamental analysis, (2) recent deceleration in returns (14-day: +11.01%, 7-day: +14.60% shows conflicting signals), (3) elevated 59% annualized volatility and -14.7% max drawdown suggest mean reversion risk. Annualized return estimate based on extrapolating recent momentum (~15-16% monthly \u2192 ~0.28 annualized) but tempered by moderate confidence due to volatility and lack of on-chain fundamentals to validate sustainability.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Infrastructure L2 tokens (OP, ARB, ENS) showing strong momentum with +15.75% 30-day return and exceptional Sharpe ratio of 2.24 in bull market regime. However, forecastability limited by: (1) lack of TVL metrics for fundamental analysis, (2) recent deceleration in returns (14-day: +11.01%, 7-day: +14.60% shows conflicting signals), (3) elevated 59% annualized volatility and -14.7% max drawdown suggest mean reversion risk. Annualized return estimate based on extrapolating recent momentum (~15-16% monthly \u2192 ~0.28 annualized) but tempered by moderate confidence due to volatility and lack of on-chain fundamentals to validate sustainability.\"\n}\n```",
+  "date": "2023-12-09",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:27.379148+00:00"
+}

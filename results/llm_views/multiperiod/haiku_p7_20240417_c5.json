@@ -1,0 +1,22 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 exhibits severe bearish momentum with consistent -35% monthly losses and -85.7% annualized volatility in a bear market regime. The negative Sharpe ratio (-3.49) indicates risk-adjusted returns are deeply underwater. However, mixed TVL metrics suggest some protocol resilience (UNI +3.1%, AAVE +1.7%), indicating potential stabilization. Over the next 14 days, annualized return forecast of -185% reflects expected mean reversion from the extreme 7-14 day drawdown pace (-34.94%/-34.56%), though sustained bear pressure and TVL contraction in CRV (-17.5%), BAL (-14.9%) create downside risk. Moderate confidence due to high volatility and potential for sharp reversals in bear markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 exhibits severe bearish momentum with consistent -35% monthly losses and -85.7% annualized volatility in a bear market regime. The negative Sharpe ratio (-3.49) indicates risk-adjusted returns are deeply underwater. However, mixed TVL metrics suggest some protocol resilience (UNI +3.1%, AAVE +1.7%), indicating potential stabilization. Over the next 14 days, annualized return forecast of -185% reflects expected mean reversion from the extreme 7-14 day drawdown pace (-34.94%/-34.56%), though sustained bear pressure and TVL contraction in CRV (-17.5%), BAL (-14.9%) create downside risk. Moderate confidence due to high volatility and potential for sharp reversals in bear markets.\"\n}\n```",
+  "date": "2024-04-18",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:42.018861+00:00"
+}

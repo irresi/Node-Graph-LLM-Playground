@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster in strong bear regime with -19.21% 30d return and -21.23% 14d return. High volatility (77.8% annualized) and negative Sharpe (-2.08) suggest continued downside momentum. TVL declining (-14.9% for DYDX, -16% overall DeFi) indicates reduced protocol activity. However, low confidence (0.42) due to: (1) extreme volatility making short-term forecasts unreliable, (2) potential mean reversion from oversold conditions, (3) single-token cluster concentration risk, (4) derivative protocols sensitive to market micro-structure and funding rates that can reverse sharply. Annualized forecast of -85% reflects near-term bearish momentum but with significant uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in strong bear regime with -19.21% 30d return and -21.23% 14d return. High volatility (77.8% annualized) and negative Sharpe (-2.08) suggest continued downside momentum. TVL declining (-14.9% for DYDX, -16% overall DeFi) indicates reduced protocol activity. However, low confidence (0.42) due to: (1) extreme volatility making short-term forecasts unreliable, (2) potential mean reversion from oversold conditions, (3) single-token cluster concentration risk, (4) derivative protocols sensitive to market micro-structure and funding rates that can reverse sharply. Annualized forecast of -85% reflects near-term bearish momentum but with significant uncertainty.\"\n}\n```",
+  "date": "2025-04-07",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:11:04.368290+00:00"
+}

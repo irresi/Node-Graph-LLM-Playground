@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with high volatility (51.7%) and recent 14-day decline of -5.84% suggests continued weakness. However, recent 7-day bounce (+0.65%) and strong TVL growth (+23.2%) indicate some recovery potential. Negative Sharpe ratio (-2.54) reflects poor risk-adjusted returns. Expect modest negative annualized return over 14 days, but with low confidence given market volatility and mixed signals.",
+  "raw_response": "Based on the provided market context for Cluster 6 (YFI), I'll analyze the key factors to forecast the expected 14-day annualized return:\n\n**Key Analysis Points:**\n\n1. **Market Regime**: Bear market with strong downtrend - headwind for returns\n2. **Recent Momentum**: Mixed signals\n   - 7-day return: +0.65% (slight recovery)\n   - 14-day return: -5.84% (underlying weakness)\n   - 30-day return: -15.64% (sustained downtrend)\n3. **Volatility**: High annualized volatility at 51.7% indicates significant price swings\n4. **Fundamentals**: YFI's TVL increased +23.2% (30-day), suggesting protocol strength despite market headwinds\n5. **Sharpe Ratio**: Negative at -2.54, indicating poor risk-adjusted returns\n6. **TVL Context**: DeFi overall TVL up +2.5% (30-day), showing some stability while price declined\n\n**Forecast Rationale:**\n\nThe cluster shows a recovery pattern in the last 7 days (+0.65%) after substantial 14-30 day declines. However, given:\n- Persistent bear market conditions\n- High volatility (51.7%)\n- Negative risk-adjusted returns (Sharpe -2.54)\n- The 14-day period encompasses mixed momentum\n\nI expect modest negative returns over the next 14 days, with recovery potential limited by the bear regime. The positive TVL growth suggests some underlying protocol health, which prevents a more pessimistic forecast.\n\n```json\n{\"expected_return\": -0.12, \"confidence\": 0.45, \"reasoning\": \"Bear market regime with high volatility (51.7%) and recent 14-day decline of -5.84% suggests continued weakness. However, recent 7-day bounce (+0.65%) and strong TVL growth (+23.2%) indicate some recovery potential. Negative Sharpe ratio (-2.54) reflects poor risk-adjusted returns. Expect modest negative annualized return over 14 days, but with low confidence given market volatility and mixed signals.\"}\n```",
+  "date": "2025-06-08",
+  "period_idx": 11,
+  "cluster_id": 6,
+  "members": [
+    "yearn-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:44.107725+00:00"
+}

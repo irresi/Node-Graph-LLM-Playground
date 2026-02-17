@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Strong recent momentum (+7.81% in 7 days, +16.58% in 14 days) in a moderate bull regime supports continued gains. Infrastructure/L2 tokens remain favored. However, high volatility (78.1%), recent max drawdown (-9.2%), and declining DeFi TVL suggest mean reversion risk. Estimated 42% annualized return over next 14 days with 65% confidence, moderating from exceptional 30-day performance while capturing positive momentum.",
+  "raw_response": "I'll analyze this DeFi cluster (OP, ARB, ENS) to forecast the expected 14-day return and provide a confidence level.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n1. Strong recent momentum: +48.86% over 30 days, +16.58% over 14 days, +7.81% over 7 days\n2. Excellent Sharpe ratio of 5.25 indicates strong risk-adjusted returns\n3. Moderate Bull market regime supports continued positive sentiment\n4. Infrastructure/L2 tokens are benefiting from broader ecosystem growth\n5. Positive trend momentum is accelerating (7-day return suggests continued strength)\n\n**Risk Factors:**\n1. High annualized volatility (78.1%) indicates significant price swings ahead\n2. Max drawdown of -9.2% shows recent pullback risk\n3. TVL data unavailable for these tokens (infrastructure tokens), limiting fundamental analysis\n4. The cluster has already had strong 30-day returns, which could face mean reversion\n5. Broad market conditions on 2024-01-06 show DeFi TVL declining (-4.4% 30-day change)\n\n**Forecast Reasoning:**\nGiven the strong 7-14 day momentum (+7.81% and +16.58%) in a moderate bull market, the cluster shows continuation signals. However, the high volatility and recent strong gains suggest we should moderate expectations from the exceptional 30-day performance. The infrastructure/L2 sector remains in favor, but the TVL decline across DeFi suggests some caution is warranted.\n\nFor a 14-day forward forecast, I'm estimating:\n- Annualized return: The recent 7-day return of +7.81% extrapolates to ~57% annualized, but this is likely unsustainable\n- A more conservative estimate of 35-45% annualized return seems reasonable for the next 14 days, accounting for momentum continuation with mean reversion\n\n```json\n{\"expected_return\": 0.42, \"confidence\": 0.65, \"reasoning\": \"Strong recent momentum (+7.81% in 7 days, +16.58% in 14 days) in a moderate bull regime supports continued gains. Infrastructure/L2 tokens remain favored. However, high volatility (78.1%), recent max drawdown (-9.2%), and declining DeFi TVL suggest mean reversion risk. Estimated 42% annualized return over next 14 days with 65% confidence, moderating from exceptional 30-day performance while capturing positive momentum.\"}\n```",
+  "date": "2024-01-06",
+  "period_idx": 6,
+  "cluster_id": 3,
+  "members": [
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:47:29.025625+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "expected_return": 0.68,
+  "confidence": 0.72,
+  "reasoning": "Cluster 1 demonstrates strong bullish momentum with 23.29% 30-day return and 7.83% 14-day return in a bull market regime. The 4.28 Sharpe ratio indicates quality risk-adjusted performance. Strong TVL growth across protocols (UNI +12.8%, MKR +10.6%, SNX +48.4%) suggests healthy fundamentals. The 45.7% annualized volatility and recent +6.71% 7-day return support continued positive momentum over the next 14 days. However, the -9.9% max drawdown and mean-reversion risks from the strong 30-day rally temper confidence. Annualized projection assumes sustained near-recent-term momentum (7.83% 14-day return translates to ~227% annualized, smoothed downward to 68% to account for volatility normalization and potential profit-taking).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.68,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 1 demonstrates strong bullish momentum with 23.29% 30-day return and 7.83% 14-day return in a bull market regime. The 4.28 Sharpe ratio indicates quality risk-adjusted performance. Strong TVL growth across protocols (UNI +12.8%, MKR +10.6%, SNX +48.4%) suggests healthy fundamentals. The 45.7% annualized volatility and recent +6.71% 7-day return support continued positive momentum over the next 14 days. However, the -9.9% max drawdown and mean-reversion risks from the strong 30-day rally temper confidence. Annualized projection assumes sustained near-recent-term momentum (7.83% 14-day return translates to ~227% annualized, smoothed downward to 68% to account for volatility normalization and potential profit-taking).\"\n}\n```",
+  "date": "2023-12-09",
+  "period_idx": 6,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "balancer",
+    "maker",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:16.694250+00:00"
+}

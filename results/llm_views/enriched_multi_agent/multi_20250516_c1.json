@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "I appreciate the intellectual honesty from both researchers. Rather than dismiss their refusals, I'll synthesize what they've actually revealed\u2014which is valuable.\n\n## Analysis of the Debate\n\n**What th",
+  "n_agents": 6,
+  "date": "2025-05-17 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

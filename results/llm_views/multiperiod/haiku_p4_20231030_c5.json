@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "CAKE shows positive momentum with 14-day return of +8.18% and stable TVL growth (+0.8%). Bull market regime supports continued upside. However, annualized volatility of 41.3% and recent -14.9% max drawdown indicate elevated risk. Confidence tempered by single-token cluster concentration and potential mean reversion after 8.18% gain. Expected 14-day return ~4.5% annualized to ~42% is reasonable given recent trajectory, but sustainability uncertain.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows positive momentum with 14-day return of +8.18% and stable TVL growth (+0.8%). Bull market regime supports continued upside. However, annualized volatility of 41.3% and recent -14.9% max drawdown indicate elevated risk. Confidence tempered by single-token cluster concentration and potential mean reversion after 8.18% gain. Expected 14-day return ~4.5% annualized to ~42% is reasonable given recent trajectory, but sustainability uncertain.\"\n}\n```",
+  "date": "2023-10-31",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:40:06.948398+00:00"
+}

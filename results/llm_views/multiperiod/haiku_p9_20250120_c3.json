@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows mixed signals: positive 30-day performance (+3.43%) and recent 7-day momentum (+9.73%) suggest upside, but concerning 14-day drawdown (-9.45%) and moderate bear market regime indicate weakness. High volatility (62.6% annualized) and low Sharpe ratio (0.46) suggest elevated risk. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, limiting fundamental analysis. Moderate confidence reflects momentum recovery tempered by macro headwinds and recent volatility patterns. Annualized return represents expected 14-day performance scaled to annual basis.",
+  "raw_response": "```json\n{\"expected_return\": 0.12, \"confidence\": 0.55, \"reasoning\": \"Cluster shows mixed signals: positive 30-day performance (+3.43%) and recent 7-day momentum (+9.73%) suggest upside, but concerning 14-day drawdown (-9.45%) and moderate bear market regime indicate weakness. High volatility (62.6% annualized) and low Sharpe ratio (0.46) suggest elevated risk. Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, limiting fundamental analysis. Moderate confidence reflects momentum recovery tempered by macro headwinds and recent volatility patterns. Annualized return represents expected 14-day performance scaled to annual basis.\"}\n```",
+  "date": "2025-01-21",
+  "period_idx": 9,
+  "cluster_id": 3,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:05:52.562816+00:00"
+}

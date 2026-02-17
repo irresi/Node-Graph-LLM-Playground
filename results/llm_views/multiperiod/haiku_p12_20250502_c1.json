@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.58,
+  "reasoning": "Strong recent momentum (+16.97% in 14d) suggests continued positive bias in bull regime, but high volatility (99.6%) and max drawdown (-24.3%) create significant uncertainty. Expecting modest annualized returns as momentum likely moderates from recent exceptional levels. Confidence limited by extreme volatility and potential mean reversion.",
+  "raw_response": "Based on the provided market context for Cluster 1 (CAKE, BAL), I'll analyze the key factors to forecast the expected annualized return for the next 14 days.\n\n## Analysis\n\n**Positive Factors:**\n- Strong recent momentum: 14-day return of +16.97% and 7-day return of +9.02%\n- Moderate bull market regime with positive overall DeFi sentiment\n- TVL growth across both protocols (CAKE +5.2%, BAL +4.4%) over 30 days\n- Overall DeFi TVL growth of +5.3% indicating expanding ecosystem\n\n**Negative/Cautionary Factors:**\n- High volatility (99.6% annualized) creates significant downside risk\n- Max drawdown of -24.3% shows substantial adverse moves are possible\n- Recent strong performance (+16.97% in 14 days) suggests potential mean reversion risk\n- Modest Sharpe ratio of 0.26 indicates returns may not adequately compensate for volatility\n- Gap between 14-day (+16.97%) and 30-day (+3.05%) returns suggests momentum may be decelerating\n\n**14-Day Outlook:**\nThe cluster has shown strong recent momentum, but the extreme volatility and historical drawdown patterns suggest caution. The exceptional 14-day return is unlikely to continue at this pace. Given the mean-reversion tendency in volatile assets and the moderate bull regime (not strong bull), I expect modest positive returns with meaningful risk.\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.58, \"reasoning\": \"Strong recent momentum (+16.97% in 14d) suggests continued positive bias in bull regime, but high volatility (99.6%) and max drawdown (-24.3%) create significant uncertainty. Expecting modest annualized returns as momentum likely moderates from recent exceptional levels. Confidence limited by extreme volatility and potential mean reversion.\"}\n```",
+  "date": "2025-05-03",
+  "period_idx": 12,
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token",
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:18:33.227043+00:00"
+}

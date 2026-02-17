@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.32,
+  "reasoning": "Bear market regime with accelerating losses (-37.5% monthly). Oversold conditions suggest potential stabilization/modest recovery, but negative TVL trends and macro headwinds persist. High volatility (76.8%) and negative Sharpe (-4.10) limit conviction. Expected -18% annualized return reflects continued weakness with possible rebound from extreme drawdown levels.",
+  "raw_response": "I'll analyze the DeFi market context and cluster metrics to provide a 14-day expected return forecast for Cluster 3 (UNI, AAVE).\n\n## Analysis\n\n**Market Regime & Momentum:**\n- Strong bear market with -16% TVL decline over 30 days\n- Cluster showing severe momentum decline: -18.71% (7d) \u2192 -31.34% (14d) \u2192 -37.51% (30d)\n- This accelerating downtrend suggests continued weakness\n\n**Risk Metrics:**\n- Extremely high volatility (76.8% annualized)\n- Sharpe ratio of -4.10 indicates returns severely lag risk\n- Max drawdown of -31.4% shows recent capitulation\n- TVL contraction for both protocols (-14.3% UNI, -10.3% AAVE)\n\n**Protocol Fundamentals:**\n- AAVE maintains substantial TVL ($16.4B), showing relatively better stability\n- UNI smaller but key DEX infrastructure\n- Both experiencing TVL pressure in bear market\n\n**Forward-Looking Assessment:**\nThe cluster has experienced significant losses, but several factors suggest stabilization may be possible:\n1. Extreme drawdowns often precede rebounds (mean reversion)\n2. Both protocols are infrastructure-critical with sticky TVL bases\n3. 7-day trend (-18.71%) less severe than 30-day suggests deceleration of losses\n4. Oversold technical conditions may attract contrarian flows\n\nHowever, the persistent bear market regime and negative TVL trends remain headwinds.\n\n**14-Day Forecast:**\nProjecting modest recovery from oversold levels, but within continued bear market context. Annualizing the expected 14-day return reflects high uncertainty in this volatile regime.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.32, \"reasoning\": \"Bear market regime with accelerating losses (-37.5% monthly). Oversold conditions suggest potential stabilization/modest recovery, but negative TVL trends and macro headwinds persist. High volatility (76.8%) and negative Sharpe (-4.10) limit conviction. Expected -18% annualized return reflects continued weakness with possible rebound from extreme drawdown levels.\"}\n```",
+  "date": "2025-04-07",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:10:55.387286+00:00"
+}

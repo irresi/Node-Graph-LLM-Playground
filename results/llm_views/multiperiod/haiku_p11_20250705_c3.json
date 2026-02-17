@@ -1,0 +1,19 @@
+{
+  "expected_return": -0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster in bear market regime with negative recent momentum (-3.27% 7d, -2.76% 30d) despite positive 14d return (+2.31%), indicating volatility and uncertainty. High annualized volatility (78.1%) and negative Sharpe ratio (-0.30) suggest poor risk-adjusted returns. Mixed protocol fundamentals: UNI and CAKE showing TVL growth (+4.1%, +2.8%), but CVX declining sharply (-10.0%) and DYDX weak (-5.6%). Overall DeFi TVL slightly positive (+3.9%) provides modest support. Moderate confidence due to high volatility and conflicting signals between protocol health and market momentum in extended bear market.",
+  "raw_response": "```json\n{\"expected_return\": -0.12, \"confidence\": 0.55, \"reasoning\": \"Cluster in bear market regime with negative recent momentum (-3.27% 7d, -2.76% 30d) despite positive 14d return (+2.31%), indicating volatility and uncertainty. High annualized volatility (78.1%) and negative Sharpe ratio (-0.30) suggest poor risk-adjusted returns. Mixed protocol fundamentals: UNI and CAKE showing TVL growth (+4.1%, +2.8%), but CVX declining sharply (-10.0%) and DYDX weak (-5.6%). Overall DeFi TVL slightly positive (+3.9%) provides modest support. Moderate confidence due to high volatility and conflicting signals between protocol health and market momentum in extended bear market.\"}\n```",
+  "date": "2025-07-06",
+  "period_idx": 11,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "compound-governance-token",
+    "dydx-chain",
+    "convex-finance",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:17:32.843193+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows strong recent momentum (+10.89% over 30d, +9.17% over 7d) with improving TVL fundamentals across major protocols (CRV, BAL showing particularly strong growth). The moderate bull market regime and healthy Sharpe ratio (1.64) support continued outperformance. However, confidence is moderated by: (1) the recent 14-day deceleration (+1.93%) suggesting momentum may be normalizing, (2) elevated volatility (55.6% annualized) creating execution risk, and (3) the -13.5% max drawdown indicating vulnerability to market corrections. The annualized forecast of 18% reflects optimism tempered by mean reversion risk after the strong 30-day performance and the potential for profit-taking given recent gains.",
+  "raw_response": "Based on the provided market context and cluster metrics, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows strong recent momentum (+10.89% over 30d, +9.17% over 7d) with improving TVL fundamentals across major protocols (CRV, BAL showing particularly strong growth). The moderate bull market regime and healthy Sharpe ratio (1.64) support continued outperformance. However, confidence is moderated by: (1) the recent 14-day deceleration (+1.93%) suggesting momentum may be normalizing, (2) elevated volatility (55.6% annualized) creating execution risk, and (3) the -13.5% max drawdown indicating vulnerability to market corrections. The annualized forecast of 18% reflects optimism tempered by mean reversion risk after the strong 30-day performance and the potential for profit-taking given recent gains.\"\n}\n```\n\n**Key Analysis:**\n- **Positive factors:** TVL growth across all major components, strong Sharpe ratio, bullish market regime\n- **Risk factors:** Recent momentum deceleration (14d << 7d returns), high volatility, recent max drawdown\n- **Forecast basis:** Extrapolating 7-day momentum while applying dampening for normalization and drawdown risk",
+  "date": "2023-02-21",
+  "period_idx": 2,
+  "cluster_id": 3,
+  "members": [
+    "curve-dao-token",
+    "balancer",
+    "compound-governance-token",
+    "havven",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:28:44.032834+00:00"
+}

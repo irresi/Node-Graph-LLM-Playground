@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "BAL faces significant headwinds: bear market regime with -16.5% DeFi TVL contraction, severe -37.8% 30-day drawdown, and -66.8% TVL collapse on the token. However, recent 7-day +1.40% bounce and moderate governance activity suggest stabilization potential. High volatility (58% annualized) and negative Sharpe ratio (-5.48) indicate elevated downside risk over 14 days. Modest yield (11.95% APY) insufficient to offset expected price depreciation in current conditions. Conservative forecast reflects elevated uncertainty in bear regime but acknowledges recovery signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL faces significant headwinds: bear market regime with -16.5% DeFi TVL contraction, severe -37.8% 30-day drawdown, and -66.8% TVL collapse on the token. However, recent 7-day +1.40% bounce and moderate governance activity suggest stabilization potential. High volatility (58% annualized) and negative Sharpe ratio (-5.48) indicate elevated downside risk over 14 days. Modest yield (11.95% APY) insufficient to offset expected price depreciation in current conditions. Conservative forecast reflects elevated uncertainty in bear regime but acknowledges recovery signals.\"\n}\n```",
+  "date": "2025-11-29",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:10:53.583944+00:00",
+  "enriched": true
+}

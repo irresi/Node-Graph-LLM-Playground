@@ -1,0 +1,20 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with DeFi TVL down 26% (30d). Cluster shows severe underperformance: -40.19% (30d), -16.69% (14d), negative Sharpe ratio (-3.71). High volatility (90.9% annualized) and significant drawdowns (-34.6%) indicate elevated selling pressure. Leading protocols (AAVE, UNI) experiencing substantial TVL outflows (-31.1%, -30.4%). 7-day momentum remains negative (-10.43%), suggesting continued weakness. While extreme downside may be partially priced in, absence of positive catalysts and structural TVL decline point to further depreciation. Moderate confidence reflects high volatility and potential mean reversion, but downtrend momentum dominates near-term outlook.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear market regime with DeFi TVL down 26% (30d). Cluster shows severe underperformance: -40.19% (30d), -16.69% (14d), negative Sharpe ratio (-3.71). High volatility (90.9% annualized) and significant drawdowns (-34.6%) indicate elevated selling pressure. Leading protocols (AAVE, UNI) experiencing substantial TVL outflows (-31.1%, -30.4%). 7-day momentum remains negative (-10.43%), suggesting continued weakness. While extreme downside may be partially priced in, absence of positive catalysts and structural TVL decline point to further depreciation. Moderate confidence reflects high volatility and potential mean reversion, but downtrend momentum dominates near-term outlook.\"\n}\n```",
+  "date": "2025-11-07",
+  "period_idx": 13,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:02.769505+00:00"
+}

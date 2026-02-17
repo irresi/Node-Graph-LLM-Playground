@@ -5,15 +5,15 @@
   "enrich": "false",
   "scope": "single-period",
   "periods": "",
-  "clear_cache": "true",
+  "clear_cache": "false",
   "caller_run_id": "manual",
   "main_repo_sha": "HEAD",
-  "completed_at": "2026-02-17T20:20:01Z",
+  "completed_at": "2026-02-17T21:04:55Z",
   "status": "success",
-  "view_count": 280,
-  "multi_agent_view_count": 80,
-  "enriched_view_count": 80,
-  "enriched_ma_view_count": 80,
-  "multiperiod_view_count": 818,
-  "workflow_run_id": "22113697603"
+  "view_count": 380,
+  "multi_agent_view_count": 160,
+  "enriched_view_count": 160,
+  "enriched_ma_view_count": 160,
+  "multiperiod_view_count": 1635,
+  "workflow_run_id": "22115529956"
 }

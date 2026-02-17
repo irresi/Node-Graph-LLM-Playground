@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 (CRV/CVX) shows severe negative momentum with -20.94% 30-day return and -21.02% 14-day return, indicating strong downtrend continuation risk. High volatility (82.7%) and negative Sharpe ratio (-2.13) suggest poor risk-adjusted returns. Both tokens face TVL headwinds (CRV -10.6%, CVX -14.6%), indicating potential redemptions or migration. The neutral market regime provides limited catalysts for reversal. However, low confidence (0.42) reflects: (1) yield farming dynamics can create rapid repricing, (2) potential mean reversion after severe drawdown, (3) governance token support mechanisms, and (4) general crypto market unpredictability. Near-term continuation of negative returns likely, but magnitude uncertain. Annualized projection assumes partial recovery from extreme downside.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) shows severe negative momentum with -20.94% 30-day return and -21.02% 14-day return, indicating strong downtrend continuation risk. High volatility (82.7%) and negative Sharpe ratio (-2.13) suggest poor risk-adjusted returns. Both tokens face TVL headwinds (CRV -10.6%, CVX -14.6%), indicating potential redemptions or migration. The neutral market regime provides limited catalysts for reversal. However, low confidence (0.42) reflects: (1) yield farming dynamics can create rapid repricing, (2) potential mean reversion after severe drawdown, (3) governance token support mechanisms, and (4) general crypto market unpredictability. Near-term continuation of negative returns likely, but magnitude uncertain. Annualized projection assumes partial recovery from extreme downside.\"\n}\n```",
+  "date": "2025-09-06",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:22:50.521804+00:00"
+}

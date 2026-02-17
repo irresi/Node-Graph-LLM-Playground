@@ -1,0 +1,12 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.48,
+  "reasoning": "I'll analyze both arguments and the underlying analyst reports to produce a calibrated forecast.\n\n**Key Observations:**\n\n1. **Both researchers agree on the core problem**: CVX's bull case depends enti",
+  "n_agents": 18,
+  "date": "2025-08-09 00:00:00",
+  "cluster_id": 3,
+  "members": [
+    "convex-finance"
+  ],
+  "mode": "api"
+}

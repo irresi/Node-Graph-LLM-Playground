@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "CAKE shows strong recent momentum (14-day: +12.85%, 7-day: +3.59%) with TVL growth (+13.2%), suggesting near-term upside. However, annualizing this positive 14-day momentum to 0.28 reflects significant mean reversion risk given: (1) bear market regime, (2) low Sharpe ratio (0.14) indicating poor risk-adjusted returns, (3) high volatility (47.9% annualized), and (4) recent outperformance likely unsustainable. Confidence is low due to market headwinds, single-token cluster concentration risk, and the cyclical nature of DEX tokens in downtrends.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE shows strong recent momentum (14-day: +12.85%, 7-day: +3.59%) with TVL growth (+13.2%), suggesting near-term upside. However, annualizing this positive 14-day momentum to 0.28 reflects significant mean reversion risk given: (1) bear market regime, (2) low Sharpe ratio (0.14) indicating poor risk-adjusted returns, (3) high volatility (47.9% annualized), and (4) recent outperformance likely unsustainable. Confidence is low due to market headwinds, single-token cluster concentration risk, and the cyclical nature of DEX tokens in downtrends.\"\n}\n```",
+  "date": "2025-09-20",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:41:03.951385+00:00",
+  "enriched": false
+}

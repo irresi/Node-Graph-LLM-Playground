@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "BAL is in a bear market with strong downtrend (-22.95% over 30 days, -20.61% over 14 days). Recent 7-day momentum (+0.72%) shows slight recovery, but the overall trend remains negative. High volatility (66.8% annualized) and negative Sharpe ratio (-2.89) indicate risk-adjusted returns are poor. TVL decline (-5.4% over 30d) and DeFi market weakness (-11.2% TVL change) suggest continued pressure. However, active governance proposals indicate protocol development, and yield metrics (11.95% APY) provide some fundamental support. The recent bounce may sustain near-term, but bearish technical setup and macro headwinds suggest expected negative returns over 14 days. Moderate confidence due to high volatility and potential for sudden reversals in crypto markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"BAL is in a bear market with strong downtrend (-22.95% over 30 days, -20.61% over 14 days). Recent 7-day momentum (+0.72%) shows slight recovery, but the overall trend remains negative. High volatility (66.8% annualized) and negative Sharpe ratio (-2.89) indicate risk-adjusted returns are poor. TVL decline (-5.4% over 30d) and DeFi market weakness (-11.2% TVL change) suggest continued pressure. However, active governance proposals indicate protocol development, and yield metrics (11.95% APY) provide some fundamental support. The recent bounce may sustain near-term, but bearish technical setup and macro headwinds suggest expected negative returns over 14 days. Moderate confidence due to high volatility and potential for sudden reversals in crypto markets.\"\n}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:09:48.246443+00:00",
+  "enriched": true
+}

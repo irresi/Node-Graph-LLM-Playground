@@ -1,14 +1,18 @@
 {
   "expected_return": -0.72,
   "confidence": 0.68,
-  "reasoning": "CAKE/PancakeSwap is in severe distress: -46.19% over 30 days with accelerating momentum (-32.91% in just the last 7 days), a deeply negative Sharpe of -5.54, and a -38.7% max drawdown. TVL has shed -20.8% over 30 days ($1.907B remaining), signaling capital flight. The broader DeFi market is in a strong bear regime with TVL down -30.1%. The 7-day return being worse than the 14-day, which is worse than the 30-day, indicates downward acceleration rather than stabilization. Annualizing the recent 7-day trend (~-32.91% over 7 days) implies extreme negative returns. However, some mean-reversion potential and the fact that CAKE retains meaningful TVL ($1.9B) as a leading DEX moderates the extreme tail. A moderate confidence of 0.68 reflects high uncertainty in bear markets but strong directional conviction given consistent multi-timeframe negative momentum.",
-  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.68, \"reasoning\": \"CAKE/PancakeSwap is in severe distress: -46.19% over 30 days with accelerating momentum (-32.91% in just the last 7 days), a deeply negative Sharpe of -5.54, and a -38.7% max drawdown. TVL has shed -20.8% over 30 days ($1.907B remaining), signaling capital flight. The broader DeFi market is in a strong bear regime with TVL down -30.1%. The 7-day return being worse than the 14-day, which is worse than the 30-day, indicates downward acceleration rather than stabilization. Annualizing the recent 7-day trend (~-32.91% over 7 days) implies extreme negative returns. However, some mean-reversion potential and the fact that CAKE retains meaningful TVL ($1.9B) as a leading DEX moderates the extreme tail. A moderate confidence of 0.68 reflects high uncertainty in bear markets but strong directional conviction given consistent multi-timeframe negative momentum.\"}\n```",
-  "date": "2026-02-06",
+  "reasoning": "Cluster 1 (Infrastructure/Oracle/L2) is in severe distress: -47.2% over 30 days, -22.9% over 7 days, Sharpe of -4.66, and max drawdown of -47.6% \u2014 all within a broader DeFi bear regime with TVL down -22.9%. Momentum is strongly negative and accelerating (14d return of -35.4% worse than 30d pace suggests capitulation risk). LINK has negligible TVL, and OP/ARB/ENS/GRT carry no protocol revenue-backing TVL, leaving these tokens exposed to pure sentiment. Annualizing the recent 14-day trend (-35.4% over ~0.0384 years) implies ~-92% annualized, but mean-reversion and potential oversold bouncing temper the extrapolation. Near-term (14d forward), continued downside is likely given macro bear regime and lack of fundamental catalysts, but the severity of the drawdown introduces some probability of a short-covering rally. Net expected annualized return set at -0.72 (-72%), reflecting persistent bearish momentum discounted by moderate mean-reversion probability. Confidence at 0.68 given strong directional signal but high volatility (85.1% annualized) creating wide outcome distribution.",
+  "raw_response": "```json\n{\"expected_return\": -0.72, \"confidence\": 0.68, \"reasoning\": \"Cluster 1 (Infrastructure/Oracle/L2) is in severe distress: -47.2% over 30 days, -22.9% over 7 days, Sharpe of -4.66, and max drawdown of -47.6% \u2014 all within a broader DeFi bear regime with TVL down -22.9%. Momentum is strongly negative and accelerating (14d return of -35.4% worse than 30d pace suggests capitulation risk). LINK has negligible TVL, and OP/ARB/ENS/GRT carry no protocol revenue-backing TVL, leaving these tokens exposed to pure sentiment. Annualizing the recent 14-day trend (-35.4% over ~0.0384 years) implies ~-92% annualized, but mean-reversion and potential oversold bouncing temper the extrapolation. Near-term (14d forward), continued downside is likely given macro bear regime and lack of fundamental catalysts, but the severity of the drawdown introduces some probability of a short-covering rally. Net expected annualized return set at -0.72 (-72%), reflecting persistent bearish momentum discounted by moderate mean-reversion probability. Confidence at 0.68 given strong directional signal but high volatility (85.1% annualized) creating wide outcome distribution.\"}\n```",
+  "date": "2026-02-07",
   "cluster_id": 1,
   "members": [
-    "pancakeswap-token"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:19:21.469795+00:00",
+  "generated_at": "2026-02-17T16:08:16.117215+00:00",
   "enriched": false
 }

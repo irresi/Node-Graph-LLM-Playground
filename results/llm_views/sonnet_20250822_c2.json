@@ -1,14 +1,26 @@
 {
-  "expected_return": -0.42,
+  "expected_return": 0.387,
   "confidence": 0.62,
-  "reasoning": "BAL (Balancer) faces significant headwinds in a confirmed bear/strong downtrend regime. Recent momentum is uniformly negative across all timeframes: -6.01% (7d), -3.40% (14d), -8.47% (30d), with a max drawdown of -17.6% and a deeply negative Sharpe of -0.95. The annualized volatility of 74.7% amplifies downside risk. On the constructive side, TVL of $936M with a +4.8% 30d increase suggests protocol fundamentals remain relatively stable and capital hasn't fully fled \u2014 this moderates the bearish signal somewhat. However, the broader DeFi market regime dominates near-term price action. Extrapolating the recent momentum trajectory (~-6% per week pace moderating slightly) and annualizing, an expected return of approximately -42% annualized is reasonable for the 14-day forward window. Confidence is moderate (0.62) given the clear directional signals but inherent uncertainty in volatile DeFi assets.",
-  "raw_response": "```json\n{\"expected_return\": -0.42, \"confidence\": 0.62, \"reasoning\": \"BAL (Balancer) faces significant headwinds in a confirmed bear/strong downtrend regime. Recent momentum is uniformly negative across all timeframes: -6.01% (7d), -3.40% (14d), -8.47% (30d), with a max drawdown of -17.6% and a deeply negative Sharpe of -0.95. The annualized volatility of 74.7% amplifies downside risk. On the constructive side, TVL of $936M with a +4.8% 30d increase suggests protocol fundamentals remain relatively stable and capital hasn't fully fled \u2014 this moderates the bearish signal somewhat. However, the broader DeFi market regime dominates near-term price action. Extrapolating the recent momentum trajectory (~-6% per week pace moderating slightly) and annualizing, an expected return of approximately -42% annualized is reasonable for the 14-day forward window. Confidence is moderate (0.62) given the clear directional signals but inherent uncertainty in volatile DeFi assets.\"}\n```",
-  "date": "2025-08-22",
+  "reasoning": "Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Yield, Liquid Staking) shows strong positive momentum with accelerating returns (7d: +5.86%, 14d: +6.35%, 30d: +8.45%), suggesting near-term trend continuation. Annualizing the 14-day return of +6.35% yields ~165%, but this is likely peak momentum; we apply a significant mean-reversion discount given the 74% annualized volatility, -17.6% max drawdown risk, and the moderate (not extreme) bull regime. AAVE dominates TVL ($39.95B, +21.8% 30d) providing strong fundamental anchor. SUSHI's +32.7% TVL surge adds speculative upside. CRV's flat TVL (-0.2%) is a mild drag. The Sharpe of 0.96 is healthy but not exceptional, suggesting risk-adjusted upside is real but bounded. Net forecast reflects momentum tailwind (~0.55 annualized) discounted by mean-reversion probability, volatility regime, and cluster breadth risk across 13 heterogeneous tokens. Confidence is moderate given macro DeFi TVL growth (+22%) supports the bull case, but high intra-cluster dispersion and derivatives/governance token sensitivity to sentiment introduce material uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.387,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 (DeFi blue-chips: DEX, Lending, Derivatives, Yield, Liquid Staking) shows strong positive momentum with accelerating returns (7d: +5.86%, 14d: +6.35%, 30d: +8.45%), suggesting near-term trend continuation. Annualizing the 14-day return of +6.35% yields ~165%, but this is likely peak momentum; we apply a significant mean-reversion discount given the 74% annualized volatility, -17.6% max drawdown risk, and the moderate (not extreme) bull regime. AAVE dominates TVL ($39.95B, +21.8% 30d) providing strong fundamental anchor. SUSHI's +32.7% TVL surge adds speculative upside. CRV's flat TVL (-0.2%) is a mild drag. The Sharpe of 0.96 is healthy but not exceptional, suggesting risk-adjusted upside is real but bounded. Net forecast reflects momentum tailwind (~0.55 annualized) discounted by mean-reversion probability, volatility regime, and cluster breadth risk across 13 heterogeneous tokens. Confidence is moderate given macro DeFi TVL growth (+22%) supports the bull case, but high intra-cluster dispersion and derivatives/governance token sensitivity to sentiment introduce material uncertainty.\"\n}\n```",
+  "date": "2025-08-23",
   "cluster_id": 2,
   "members": [
-    "balancer"
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "sonnet",
-  "generated_at": "2026-02-17T20:09:40.209911+00:00",
+  "generated_at": "2026-02-17T16:00:50.849557+00:00",
   "enriched": false
 }

@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.085,
+  "confidence": 0.68,
+  "reasoning": "I need to synthesize the analyst reports and both researcher arguments into a calibrated forecast. Let me analyze the key data points:\n\n**Data Assessment:**\n\n| Signal | Finding | Weight |\n|--------|--",
+  "n_agents": 6,
+  "date": "2025-05-31 00:00:00",
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "mode": "api"
+}

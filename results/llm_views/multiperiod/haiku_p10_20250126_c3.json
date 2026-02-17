@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 3 (UNI/AAVE) faces headwinds from bear market regime with -14.85% 30-day return and -19.2% max drawdown. However, AAVE's +5.2% TVL growth shows protocol resilience despite market weakness. 7-day return of -8.96% suggests momentum is stabilizing from deeper 30-day losses. DEX/Lending sectors typically see continued pressure in bear markets, but the 14-day return of -6.02% indicates deceleration. Forecasting -42% annualized (-2.3% for 14 days) balances continued downside risk with improving momentum. High volatility (53.7%) and negative Sharpe ratio warrant lower confidence.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 3 (UNI/AAVE) faces headwinds from bear market regime with -14.85% 30-day return and -19.2% max drawdown. However, AAVE's +5.2% TVL growth shows protocol resilience despite market weakness. 7-day return of -8.96% suggests momentum is stabilizing from deeper 30-day losses. DEX/Lending sectors typically see continued pressure in bear markets, but the 14-day return of -6.02% indicates deceleration. Forecasting -42% annualized (-2.3% for 14 days) balances continued downside risk with improving momentum. High volatility (53.7%) and negative Sharpe ratio warrant lower confidence.\"\n}\n```",
+  "date": "2025-01-27",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:50.040362+00:00"
+}

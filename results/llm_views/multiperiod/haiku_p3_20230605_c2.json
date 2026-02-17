@@ -1,0 +1,28 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Bear market regime with -5.18% 7-day decline and deteriorating TVL across major protocols. While momentum is stabilizing (slower decline rates recently), continued headwinds from negative sentiment and capital outflows expected. Confidence moderated by potential for mean reversion and stabilization in established protocols like UNI, AAVE, LINK within the cluster.",
+  "raw_response": "I'll analyze the market context and cluster metrics to provide a 14-day expected return forecast for Cluster 2.\n\n## Analysis\n\n**Market Regime & Momentum:**\n- Strong bear market with -3.9% DeFi TVL decline over 30 days\n- Cluster shows consistent negative momentum: -13.03% (30d) \u2192 -4.76% (14d) \u2192 -5.18% (7d)\n- The deceleration from 30d to 7d decline suggests momentum is stabilizing but still negative\n\n**Cluster Fundamentals:**\n- High volatility (42.2% annualized) with negative Sharpe ratio (-2.59) indicates risk-adjusted returns are poor\n- Max drawdown of -14.1% shows significant downside exposure\n- TVL metrics are mixed: UNI and CRV relatively stable (-2.9%, -5.4%), but CAKE and BAL show steeper declines (-16.8%, -18.0%)\n\n**14-Day Forward View:**\n- Recent 14-day return of -4.76% suggests continued pressure\n- In bear markets, mean reversion typically occurs slowly over longer timeframes (not 14 days)\n- The cluster comprises quality protocols (UNI, AAVE, LINK, LDO) but faces headwinds from:\n  - Deteriorating TVL across major venues\n  - Negative market sentiment\n  - Low liquidity conditions typical in bear markets\n\n**Forecast Rationale:**\n- Given the bear regime, I expect further downside over the next 14 days\n- However, some stabilization may occur as the pace of decline is slowing\n- The -4.76% 14-day return suggests annualized decline of approximately -124% if extrapolated\n- More realistically, expect the 14-day decline to moderate slightly to -3% to -5% range\n- Annualized basis: 14-day -4% return \u2248 -104% annualized return (clearly unsustainable long-term)\n\nFor 14-day forecasting in this context, I'll estimate a -0.15 to -0.25 annualized return (representing -0.5% to -0.85% expected return over 14 days).\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with -5.18% 7-day decline and deteriorating TVL across major protocols. While momentum is stabilizing (slower decline rates recently), continued headwinds from negative sentiment and capital outflows expected. Confidence moderated by potential for mean reversion and stabilization in established protocols like UNI, AAVE, LINK within the cluster.\"\n}\n```",
+  "date": "2023-06-06",
+  "period_idx": 3,
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "maker",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:13.517907+00:00"
+}

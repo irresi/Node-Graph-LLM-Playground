@@ -1,0 +1,16 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster shows positive momentum (7-day +10.19%, 14-day +3.92%) despite bear market regime and declining TVL across protocols. MKR's substantial $5.7B TVL provides stability, but SNX's -42.4% TVL decline signals structural weakness. High volatility (77% annualized) and max drawdown of -26.6% create mean-reversion risk. Moderate confidence due to conflicting signals: positive short-term momentum vs. deteriorating fundamentals, declining overall DeFi TVL (-7.1%), and low Sharpe ratio (0.31). Forecast assumes partial momentum continuation but expects reversion toward lower levels.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster shows positive momentum (7-day +10.19%, 14-day +3.92%) despite bear market regime and declining TVL across protocols. MKR's substantial $5.7B TVL provides stability, but SNX's -42.4% TVL decline signals structural weakness. High volatility (77% annualized) and max drawdown of -26.6% create mean-reversion risk. Moderate confidence due to conflicting signals: positive short-term momentum vs. deteriorating fundamentals, declining overall DeFi TVL (-7.1%), and low Sharpe ratio (0.31). Forecast assumes partial momentum continuation but expects reversion toward lower levels.\"\n}\n```",
+  "date": "2025-04-13",
+  "period_idx": 11,
+  "cluster_id": 2,
+  "members": [
+    "maker",
+    "havven",
+    "gmx"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:13:56.758196+00:00"
+}

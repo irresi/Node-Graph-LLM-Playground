@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 shows strong momentum with +29.12% 30-day returns in a bull market regime. The 7-day (+19.56%) and 14-day (+25.01%) returns indicate accelerating performance, with key protocols like AAVE (+15.5% TVL growth) and BAL (+15.4%) showing robust fundamentals. However, the +7.9% max drawdown and 42% annualized volatility suggest mean reversion risk after such strong gains. Projecting 14-day performance: extrapolating recent 7-day momentum (~19.56%) would suggest ~19-25% annualized forward return (~0.67-0.92% over 14 days, or ~0.17-0.24 annualized). The elevated Sharpe ratio (5.83) and bull regime support continued outperformance, but momentum exhaustion risk warrants moderation. Expected return of 0.45 annualized (~1.7% over 14 days) reflects solid bull momentum with prudent adjustment for potential consolidation after strong 30-day run.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 shows strong momentum with +29.12% 30-day returns in a bull market regime. The 7-day (+19.56%) and 14-day (+25.01%) returns indicate accelerating performance, with key protocols like AAVE (+15.5% TVL growth) and BAL (+15.4%) showing robust fundamentals. However, the +7.9% max drawdown and 42% annualized volatility suggest mean reversion risk after such strong gains. Projecting 14-day performance: extrapolating recent 7-day momentum (~19.56%) would suggest ~19-25% annualized forward return (~0.67-0.92% over 14 days, or ~0.17-0.24 annualized). The elevated Sharpe ratio (5.83) and bull regime support continued outperformance, but momentum exhaustion risk warrants moderation. Expected return of 0.45 annualized (~1.7% over 14 days) reflects solid bull momentum with prudent adjustment for potential consolidation after strong 30-day run.\"\n}\n```",
+  "date": "2023-11-06",
+  "period_idx": 5,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "gmx",
+    "yearn-finance",
+    "lido-dao",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:42:40.516490+00:00"
+}

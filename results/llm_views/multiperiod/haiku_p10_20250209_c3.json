@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.55,
+  "reasoning": "Bear market regime with strong 14-day downtrend (-21.11%) and elevated volatility (70.7%). UNI and AAVE show divergent TVL trends (-19.4% vs -5.5%), suggesting mixed fundamental health. High negative Sharpe ratio (-3.30) indicates poor risk-adjusted returns. Near-term forecast assumes continued downward pressure but with potential mean reversion from oversold conditions. Moderate confidence due to market regime uncertainty and potential bounce from current lows.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear market regime with strong 14-day downtrend (-21.11%) and elevated volatility (70.7%). UNI and AAVE show divergent TVL trends (-19.4% vs -5.5%), suggesting mixed fundamental health. High negative Sharpe ratio (-3.30) indicates poor risk-adjusted returns. Near-term forecast assumes continued downward pressure but with potential mean reversion from oversold conditions. Moderate confidence due to market regime uncertainty and potential bounce from current lows.\"\n}\n```",
+  "date": "2025-02-10",
+  "period_idx": 10,
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:14.235974+00:00"
+}

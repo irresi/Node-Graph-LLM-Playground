@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 operates in a bear market regime with DeFi TVL declining 4.5% and the cluster down 13.97% over 30 days. Recent momentum is negative (-12.05% over 14 days, -1.76% over 7 days), suggesting continued downward pressure. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-adjusted returns are poor. However, the 7-day slowdown relative to 14-day returns suggests potential stabilization. Major protocols like AAVE (largest TVL at $24.7B) show resilience with minimal TVL decay (-0.7%), while MKR faces significant pressure (-11.1%). Over a 14-day forward horizon in this regime, expect continued weakness but potentially at a slower pace than recent months. Confidence is moderate due to macro uncertainty and the volatile nature of DeFi assets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 operates in a bear market regime with DeFi TVL declining 4.5% and the cluster down 13.97% over 30 days. Recent momentum is negative (-12.05% over 14 days, -1.76% over 7 days), suggesting continued downward pressure. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-adjusted returns are poor. However, the 7-day slowdown relative to 14-day returns suggests potential stabilization. Major protocols like AAVE (largest TVL at $24.7B) show resilience with minimal TVL decay (-0.7%), while MKR faces significant pressure (-11.1%). Over a 14-day forward horizon in this regime, expect continued weakness but potentially at a slower pace than recent months. Confidence is moderate due to macro uncertainty and the volatile nature of DeFi assets.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:38:30.272572+00:00",
+  "enriched": false
+}

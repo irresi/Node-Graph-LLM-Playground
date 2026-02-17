@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.35,
+  "confidence": 0.68,
+  "reasoning": "Positive momentum from strong protocol fundamentals and bullish market regime, but deceleration pattern (51.6%\u219232.16%\u21925.96%) suggests mean reversion. High volatility (71.8%) and recent substantial gains create downside risk. Expect continued positive returns at normalized pace rather than sustaining 51.6% monthly rate. Confidence moderate due to macro uncertainty and volatility.",
+  "raw_response": "Looking at this Cluster 4 data, I'll analyze the key factors to forecast the 14-day expected annualized return:\n\n## Key Analysis Factors:\n\n**Positive Indicators:**\n- Strong recent momentum: 14-day return of +32.16% and 7-day return of +5.96% show sustained uptrend\n- Exceptional 30-day performance: +51.60% with high Sharpe ratio of 6.04 (risk-adjusted returns very strong)\n- Bullish market regime with +17.8% DeFi TVL growth\n- Protocol fundamentals solid: AAVE (+26.7%), CRV (+21.4%), COMP (+21.8%) showing strong TVL growth\n- Diversified cluster across yield, DEX, lending, derivatives, and liquid staking provides exposure to multiple growth drivers\n\n**Moderating Factors:**\n- High volatility (71.8% annualized) means significant downside risk and mean reversion potential\n- Recent rally of 51.60% over 30 days is already substantial; difficult to sustain such momentum\n- Max drawdown of -14.8% shows material correction risk even in strong periods\n- MKR showing weakness (-1.7% TVL change) suggests some sector divergence\n- Market cycles typically rotate; prolonged outperformance becomes harder to maintain\n\n**Momentum Deceleration Pattern:**\n- 30-day: +51.60%\n- 14-day: +32.16% \n- 7-day: +5.96%\n\nThis shows clear deceleration. The pace of gains has slowed significantly, suggesting momentum may not extend at prior rates.\n\n**Forecast Reasoning:**\nGiven the strong fundamentals and bullish regime, I expect continued positive returns, but at a more normalized pace below recent highs. The deceleration pattern and high volatility suggest mean reversion forces are building. Over a 14-day forward period, annualized returns should be positive but meaningfully lower than the recent 51.60% pace.\n\n```json\n{\"expected_return\": 0.35, \"confidence\": 0.68, \"reasoning\": \"Positive momentum from strong protocol fundamentals and bullish market regime, but deceleration pattern (51.6%\u219232.16%\u21925.96%) suggests mean reversion. High volatility (71.8%) and recent substantial gains create downside risk. Expect continued positive returns at normalized pace rather than sustaining 51.6% monthly rate. Confidence moderate due to macro uncertainty and volatility.\"}\n```",
+  "date": "2024-12-10",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:54.012622+00:00"
+}

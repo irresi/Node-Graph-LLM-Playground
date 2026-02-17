@@ -1,0 +1,16 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market regime with strongly negative momentum (-16.4% over 30d, -10.28% over 7d). High volatility (71.9% annualized) and negative Sharpe ratio (-1.92) indicate distressed conditions. However, recent 14-day return of -4.86% suggests deceleration in losses, and TVL for COMP (primary lending protocol) only down 1.8%, indicating some fundamental stability. Forecast assumes continued weakness but at moderating pace. Moderate confidence due to volatile bear regime and limited 14-day forward visibility in turbulent markets.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with strongly negative momentum (-16.4% over 30d, -10.28% over 7d). High volatility (71.9% annualized) and negative Sharpe ratio (-1.92) indicate distressed conditions. However, recent 14-day return of -4.86% suggests deceleration in losses, and TVL for COMP (primary lending protocol) only down 1.8%, indicating some fundamental stability. Forecast assumes continued weakness but at moderating pace. Moderate confidence due to volatile bear regime and limited 14-day forward visibility in turbulent markets.\"\n}\n```",
+  "date": "2023-03-27",
+  "period_idx": 3,
+  "cluster_id": 1,
+  "members": [
+    "compound-governance-token",
+    "optimism",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:31:53.982449+00:00"
+}

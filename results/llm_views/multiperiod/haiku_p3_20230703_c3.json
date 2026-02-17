@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.08,
+  "confidence": 0.35,
+  "reasoning": "ARB (Arbitrum L2) shows mixed signals: positive 14-day momentum (+5.63%) contrasts with negative 30-day performance (-5.09%) and weak Sharpe ratio (-0.63). High volatility (67.7% annualized) and recent 7-day decline (-4.26%) suggest mean reversion potential, but neutral market regime and lack of TVL metrics limit confidence. Modest positive bias reflects recent uptrend, but substantial uncertainty warrants low confidence given infrastructure token price dependency on broader market sentiment and adoption metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"ARB (Arbitrum L2) shows mixed signals: positive 14-day momentum (+5.63%) contrasts with negative 30-day performance (-5.09%) and weak Sharpe ratio (-0.63). High volatility (67.7% annualized) and recent 7-day decline (-4.26%) suggest mean reversion potential, but neutral market regime and lack of TVL metrics limit confidence. Modest positive bias reflects recent uptrend, but substantial uncertainty warrants low confidence given infrastructure token price dependency on broader market sentiment and adoption metrics.\"\n}\n```",
+  "date": "2023-07-04",
+  "period_idx": 3,
+  "cluster_id": 3,
+  "members": [
+    "arbitrum"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:33:50.426895+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong momentum with 30.38% 30-day return and 11% 7-day return, indicating sustained bull market strength. However, annualized 14-day forecasts face high uncertainty. The bull regime and positive TVL trends (+52.7% DeFi-wide) support continued upside, but the cluster's 34.9% annualized volatility and -5.5% max drawdown suggest mean reversion risk after strong gains. Confidence tempered by lack of protocol TVL data for 3 of 4 tokens, limiting fundamental analysis. The exceptional 7.32 Sharpe ratio indicates quality risk-adjusted returns but may not be sustainable. Forecast extrapolates recent 14-day momentum (+13.17%) to 42% annualized while acknowledging the declining performance trend (30d > 14d > 7d returns) suggests potential exhaustion.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong momentum with 30.38% 30-day return and 11% 7-day return, indicating sustained bull market strength. However, annualized 14-day forecasts face high uncertainty. The bull regime and positive TVL trends (+52.7% DeFi-wide) support continued upside, but the cluster's 34.9% annualized volatility and -5.5% max drawdown suggest mean reversion risk after strong gains. Confidence tempered by lack of protocol TVL data for 3 of 4 tokens, limiting fundamental analysis. The exceptional 7.32 Sharpe ratio indicates quality risk-adjusted returns but may not be sustainable. Forecast extrapolates recent 14-day momentum (+13.17%) to 42% annualized while acknowledging the declining performance trend (30d > 14d > 7d returns) suggests potential exhaustion.\"\n}\n```",
+  "date": "2024-03-07",
+  "period_idx": 7,
+  "cluster_id": 1,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:53:01.821675+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "DYDX shows mixed signals: positive 7-day momentum (+3.34%) suggests potential recovery, but negative 14-day (-12.68%) and 30-day (-3.74%) returns indicate underlying weakness. TVL decline of -14.7% is concerning for protocol health. High volatility (62.9%) and negative Sharpe ratio (-0.50) suggest risk-reward is unfavorable. The neutral market regime and single-token cluster concentration add uncertainty. Low confidence reflects conflicting technical and fundamental signals; forecast assumes mean reversion from recent weakness but with substantial execution risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX shows mixed signals: positive 7-day momentum (+3.34%) suggests potential recovery, but negative 14-day (-12.68%) and 30-day (-3.74%) returns indicate underlying weakness. TVL decline of -14.7% is concerning for protocol health. High volatility (62.9%) and negative Sharpe ratio (-0.50) suggest risk-reward is unfavorable. The neutral market regime and single-token cluster concentration add uncertainty. Low confidence reflects conflicting technical and fundamental signals; forecast assumes mean reversion from recent weakness but with substantial execution risk.\"\n}\n```",
+  "date": "2024-10-09",
+  "period_idx": 8,
+  "cluster_id": 2,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:00:56.421744+00:00"
+}

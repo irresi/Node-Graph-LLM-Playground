@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.0,
+  "confidence": 0.2,
+  "reasoning": "I appreciate the structured debate format, but I need to flag a critical methodological issue before providing my synthesis:\n\n## The Problem\n\nAll three parties (Bull, Bear, and the original analysts) ",
+  "n_agents": 12,
+  "date": "2025-06-28 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

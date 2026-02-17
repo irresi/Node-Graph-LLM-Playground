@@ -1,0 +1,22 @@
+{
+  "expected_return": 0.285,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong momentum with 43.44% 30-day return and +16.65% 7-day return in a bull regime. However, extending this to 14-day annualized forecasts at 28.5% reflects: (1) Mean reversion risk\u2014recent returns are well above historical sustainable levels; (2) High volatility (66.3% annualized) creates execution risk; (3) Max drawdown of -13% suggests sharp reversals are possible; (4) The cluster's strong TVL growth (+25-42% across major protocols like AAVE) provides fundamental support, but valuation expansion may have peaked. Confidence is moderate (0.62) due to the conflicting signals between strong momentum/fundamentals and stretched valuations that typically precede correction.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.285,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong momentum with 43.44% 30-day return and +16.65% 7-day return in a bull regime. However, extending this to 14-day annualized forecasts at 28.5% reflects: (1) Mean reversion risk\u2014recent returns are well above historical sustainable levels; (2) High volatility (66.3% annualized) creates execution risk; (3) Max drawdown of -13% suggests sharp reversals are possible; (4) The cluster's strong TVL growth (+25-42% across major protocols like AAVE) provides fundamental support, but valuation expansion may have peaked. Confidence is moderate (0.62) due to the conflicting signals between strong momentum/fundamentals and stretched valuations that typically precede correction.\"\n}\n```",
+  "date": "2024-11-26",
+  "period_idx": 9,
+  "cluster_id": 4,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:04:28.769192+00:00"
+}

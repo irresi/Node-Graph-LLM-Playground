@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster 2 (MKR) shows strong 30-day momentum (+20.98%) and positive Sharpe ratio (2.25), but faces headwinds: bear market regime, TVL declining (-4.8%), and recent 7-day pullback (-5.56%). The 14-day return (+16.40%) is more moderate than 30-day, suggesting momentum may be weakening. Single-token cluster adds concentration risk. Forecasting modest positive returns as mean reversion from recent strength is likely, but confidence is moderate due to macro bear conditions and momentum deterioration signals.",
+  "raw_response": "Based on the market context and cluster analysis, here is my forecast:\n\n```json\n{\"expected_return\": 0.12, \"confidence\": 0.55, \"reasoning\": \"Cluster 2 (MKR) shows strong 30-day momentum (+20.98%) and positive Sharpe ratio (2.25), but faces headwinds: bear market regime, TVL declining (-4.8%), and recent 7-day pullback (-5.56%). The 14-day return (+16.40%) is more moderate than 30-day, suggesting momentum may be weakening. Single-token cluster adds concentration risk. Forecasting modest positive returns as mean reversion from recent strength is likely, but confidence is moderate due to macro bear conditions and momentum deterioration signals.\"}\n```",
+  "date": "2024-07-25",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:57:26.298226+00:00"
+}

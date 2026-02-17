@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.58,
+  "reasoning": "Cluster shows strong fundamental TVL growth (+40.5% weighted) supporting medium-term strength, but recent 14-day decline (-4.17%) and post-rally consolidation suggest cautious optimism. Expected annualized return of 18% (~0.2% per day over 14 days) reflects bull regime support balanced against pullback risk and high volatility. Moderate confidence due to momentum reversal uncertainty and high volatility environment.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Strong Fundamentals with Recent Momentum Reversal**\n   - 30-day return: +46.10% (exceptional performance)\n   - 7-day & 14-day returns: -6.29% and -4.17% (recent pullback)\n   - This suggests the cluster may be consolidating after a significant bull run\n\n2. **TVL Dynamics (Mixed Signals)**\n   - LDO dominates with $33.1B TVL (+41.3% in 30d) - strong ecosystem adoption\n   - CRV ($2.15B) and RPL ($2.46B) show solid growth (+16.7% and +43.5%)\n   - SUSHI ($274M) shows exceptional TVL growth (+69%) but smallest position\n   - CVX ($1.4B) grew +35.2% - decent momentum\n   - Weighted average TVL growth: ~+40.5% - very healthy\n\n3. **Risk-Adjusted Performance**\n   - High Sharpe ratio (5.42) indicates strong risk-adjusted returns historically\n   - Annualized volatility: 71.4% - significant risk\n   - Max drawdown: -14.9% - substantial, showing concentration risk\n\n4. **Market Context**\n   - Bull regime with +29.8% TVL growth in DeFi overall\n   - Cluster outperformed DeFi TVL growth significantly (+40.5% weighted)\n   - Recent weakness may indicate profit-taking or mean reversion after strong rally\n\n5. **14-Day Forecast Considerations**\n   - Cluster is in a corrective phase after +46% gain\n   - TVL fundamentals remain strong across all positions\n   - Negative 14-day momentum (-4.17%) suggests short-term headwinds\n   - Bull market regime supports potential recovery\n   - High volatility creates both upside and downside risk\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.58, \"reasoning\": \"Cluster shows strong fundamental TVL growth (+40.5% weighted) supporting medium-term strength, but recent 14-day decline (-4.17%) and post-rally consolidation suggest cautious optimism. Expected annualized return of 18% (~0.2% per day over 14 days) reflects bull regime support balanced against pullback risk and high volatility. Moderate confidence due to momentum reversal uncertainty and high volatility environment.\"}\n```",
+  "date": "2025-08-01",
+  "period_idx": 13,
+  "cluster_id": 2,
+  "members": [
+    "sushi",
+    "curve-dao-token",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:24:20.558255+00:00"
+}

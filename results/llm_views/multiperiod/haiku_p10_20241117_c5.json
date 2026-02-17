@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "DYDX showing strong 14-day momentum (+38.14%) and positive TVL growth (+13.3%) in bull market regime. However, high volatility (137.2% annualized) and recent 7-day stagnation (+0.00%) suggest momentum may be fading. Derivatives category tends to be cyclical. Moderate confidence due to mean reversion risk after strong 30-day run (+28.79%) and elevated drawdown history (-32.1%).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"DYDX showing strong 14-day momentum (+38.14%) and positive TVL growth (+13.3%) in bull market regime. However, high volatility (137.2% annualized) and recent 7-day stagnation (+0.00%) suggest momentum may be fading. Derivatives category tends to be cyclical. Moderate confidence due to mean reversion risk after strong 30-day run (+28.79%) and elevated drawdown history (-32.1%).\"\n}\n```",
+  "date": "2024-11-18",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:06:51.055227+00:00"
+}

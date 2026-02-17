@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "DYDX faces severe headwinds: -36.13% 30-day loss in bear market regime, extremely high volatility (90.4%), deeply negative Sharpe (-3.36), and worsening momentum (-17.89% over 14d vs -5.63% over 7d). Derivatives sector under pressure with declining TVL (-2.2%). However, low confidence due to extreme volatility making predictions unreliable, potential for sharp reversals, and possible stabilization if market sentiment shifts. The -0.85 annualized forecast reflects sustained downward pressure but acknowledges high uncertainty in such extreme conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"DYDX faces severe headwinds: -36.13% 30-day loss in bear market regime, extremely high volatility (90.4%), deeply negative Sharpe (-3.36), and worsening momentum (-17.89% over 14d vs -5.63% over 7d). Derivatives sector under pressure with declining TVL (-2.2%). However, low confidence due to extreme volatility making predictions unreliable, potential for sharp reversals, and possible stabilization if market sentiment shifts. The -0.85 annualized forecast reflects sustained downward pressure but acknowledges high uncertainty in such extreme conditions.\"\n}\n```",
+  "date": "2025-01-27",
+  "period_idx": 10,
+  "cluster_id": 5,
+  "members": [
+    "dydx-chain"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:08:58.741189+00:00"
+}

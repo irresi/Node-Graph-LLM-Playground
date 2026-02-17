@@ -1,0 +1,23 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with significant recent downtrends (-27.91% in 30 days, -13.35% in 14 days). Cluster shows persistent negative momentum across all major protocols (UNI, CRV, AAVE largest TVL). However, extreme drawdowns and negative Sharpe ratio (-4.84) suggest potential mean reversion in 14-day window. TVL contraction (-10.5% overall) indicates capitulation phase. Forecasting continued weakness but at moderating pace. Annualized return of -0.85 reflects high volatility (48.4%) applied to expected 14-day consolidation period, with moderate confidence due to tail-risk nature of current market conditions.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.72, \"reasoning\": \"Strong bear market regime with significant recent downtrends (-27.91% in 30 days, -13.35% in 14 days). Cluster shows persistent negative momentum across all major protocols (UNI, CRV, AAVE largest TVL). However, extreme drawdowns and negative Sharpe ratio (-4.84) suggest potential mean reversion in 14-day window. TVL contraction (-10.5% overall) indicates capitulation phase. Forecasting continued weakness but at moderating pace. Annualized return of -0.85 reflects high volatility (48.4%) applied to expected 14-day consolidation period, with moderate confidence due to tail-risk nature of current market conditions.\"}\n```",
+  "date": "2023-05-14",
+  "period_idx": 4,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:29.926447+00:00"
+}

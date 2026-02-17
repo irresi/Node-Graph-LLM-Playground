@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "MKR in strong bear market with -31.93% 30-day decline and -14.45% 14-day decline. High volatility (77.8% annualized) and negative Sharpe ratio (-3.45) suggest continued downside pressure. However, extreme drawdown (-32.9%) may indicate oversold conditions with potential mean reversion. TVL stable (-11.8%) provides some fundamental support. Low confidence due to high volatility and unpredictable reversal timing in bear markets. Annualized forecast based on recent 14-day momentum suggests significant further decline, but bear market extremes create uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"MKR in strong bear market with -31.93% 30-day decline and -14.45% 14-day decline. High volatility (77.8% annualized) and negative Sharpe ratio (-3.45) suggest continued downside pressure. However, extreme drawdown (-32.9%) may indicate oversold conditions with potential mean reversion. TVL stable (-11.8%) provides some fundamental support. Low confidence due to high volatility and unpredictable reversal timing in bear markets. Annualized forecast based on recent 14-day momentum suggests significant further decline, but bear market extremes create uncertainty.\"\n}\n```",
+  "date": "2024-05-02",
+  "period_idx": 7,
+  "cluster_id": 2,
+  "members": [
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:50.618210+00:00"
+}

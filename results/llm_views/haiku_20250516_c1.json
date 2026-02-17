@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "CAKE shows strong TVL growth (+12.3%) and bull market tailwinds, but recent 7-day pullback (-7.07%) suggests profit-taking after exceptional 30-day run (+23.46%). Moderate confidence reflects positive protocol fundamentals offset by consolidation risk and high volatility. Conservative estimate accounts for mean reversion while maintaining bull bias.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Cluster Composition:**\n- Single token: CAKE (PancakeSwap DEX governance token)\n- Category: DEX\n- TVL: $1,767M with +12.3% 30-day growth\n\n**Market Context:**\n- Overall DeFi TVL up 34.9% in 30 days - strong bull market\n- Cluster achieved +23.46% return over 30 days with 54.2% annualized volatility\n- Sharpe ratio of 3.64 indicates excellent risk-adjusted returns\n\n**Recent Momentum Analysis:**\n- 30-day return: +23.46%\n- 14-day return: +9.35%\n- 7-day return: -7.07% (recent pullback)\n\n**Key Considerations:**\n\n1. **Positive Factors:**\n   - Strong TVL growth (+12.3%) indicates protocol health and user activity\n   - Broader DeFi market in moderate bull regime with strong TVL expansion\n   - 14-day return still positive despite recent 7-day weakness\n   - High Sharpe ratio suggests sustainable outperformance\n\n2. **Risk Factors:**\n   - Recent 7-day pullback (-7.07%) suggests momentum deceleration or profit-taking\n   - High volatility (54.2% annualized) creates significant upside/downside risk\n   - Mean reversion possible after strong 30-day run\n\n3. **14-Day Forecast Rationale:**\n   - The cluster has shown strong fundamentals with TVL growth\n   - Recent pullback may represent healthy consolidation in a bull market\n   - Bull regime environment supports continued positive bias\n   - However, the recent weakness suggests moderation from the exceptional 23.46% monthly return\n\n**Forecast:**\nAnnualizing a conservative continuation with pullback adjustment: The recent -7.07% week suggests mean reversion, but the positive 14-day (+9.35%) and strong TVL metrics support modest positive returns.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows strong TVL growth (+12.3%) and bull market tailwinds, but recent 7-day pullback (-7.07%) suggests profit-taking after exceptional 30-day run (+23.46%). Moderate confidence reflects positive protocol fundamentals offset by consolidation risk and high volatility. Conservative estimate accounts for mean reversion while maintaining bull bias.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 1,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:36:50.739591+00:00",
+  "enriched": false
+}

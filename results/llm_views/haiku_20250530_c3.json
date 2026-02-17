@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster faces momentum headwinds (-10.45% in last 14d, -6% in last 7d) despite strong macro DeFi trends (+19.6% TVL) and protocol fundamentals (LDO +33.9%, RPL +36.3% TVL growth). Moderate bull regime and mean reversion dynamics suggest modest recovery potential over next 14d, but recent weakness and high volatility (93.5% annualized) create significant uncertainty. Low confidence reflects conflicting signals between fundamentals and momentum.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Overall DeFi market in moderate bull regime with +19.6% TVL growth (30-day)\n- Strong TVL growth in key holdings: LDO (+33.9%), RPL (+36.3%), UNI (+17.2%)\n- Cluster's 30-day return of +2.21% shows recent recovery potential\n- Large TVL bases indicate established, liquid protocols\n\n**Negative Indicators:**\n- Recent momentum is weak: -6.00% (7-day), -10.45% (14-day)\n- High volatility (93.5% annualized) creates significant downside risk\n- Low Sharpe ratio (0.20) suggests poor risk-adjusted returns\n- Recent max drawdown of -24.1% indicates recent stress\n- SNX showing TVL decline (-1.7%)\n- The current pullback contradicts the positive macro trend\n\n**Key Analysis:**\nThe cluster faces a momentum reversal challenge. While the macro environment is bullish and protocol fundamentals are strong (especially LDO and RPL), the recent 14-day decline of -10.45% suggests profit-taking or market corrections offsetting fundamental strength. \n\nFor a 14-day forward forecast in a high-volatility environment:\n- Mean reversion from the recent -10.45% 14-day return suggests potential recovery\n- However, the weak 7-day trend (-6.00%) indicates the decline may be ongoing\n- The moderate bull regime provides support but not strong conviction\n\n**Modeling Approach:**\n- Historical 14-day return: -10.45%\n- 30-day positive backdrop suggests mean reversion opportunity\n- High volatility creates both risk and opportunity\n- Considering the recent weakness may continue before recovery: modest positive but below historical averages\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster faces momentum headwinds (-10.45% in last 14d, -6% in last 7d) despite strong macro DeFi trends (+19.6% TVL) and protocol fundamentals (LDO +33.9%, RPL +36.3% TVL growth). Moderate bull regime and mean reversion dynamics suggest modest recovery potential over next 14d, but recent weakness and high volatility (93.5% annualized) create significant uncertainty. Low confidence reflects conflicting signals between fundamentals and momentum.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 3,
+  "members": [
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:37:33.304561+00:00",
+  "enriched": false
+}

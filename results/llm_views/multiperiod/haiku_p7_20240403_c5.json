@@ -1,0 +1,22 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 operates in a strong bear market regime with DeFi TVL declining 9.6% over 30 days. Recent momentum is decidedly negative (7-day: -12.55%, 14-day: -9.37%, 30-day: -10.79%), indicating accelerating downside pressure. High volatility (59.1% annualized) and severe max drawdown (-23.2%) suggest continued risk. However, some protocol fundamentals show resilience: UNI (+3.7%), AAVE (+1.6%), and CAKE (+23.5% TVL growth) indicate selective strength in DEX and lending. The negative Sharpe ratio (-1.53) confirms risk-adjusted returns are poor. Over the next 14 days, expect continued downward pressure with annualized return of approximately -85%, but moderately constrained by TVL stabilization in core protocols. Confidence is moderate due to unpredictable bear market volatility swings.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 operates in a strong bear market regime with DeFi TVL declining 9.6% over 30 days. Recent momentum is decidedly negative (7-day: -12.55%, 14-day: -9.37%, 30-day: -10.79%), indicating accelerating downside pressure. High volatility (59.1% annualized) and severe max drawdown (-23.2%) suggest continued risk. However, some protocol fundamentals show resilience: UNI (+3.7%), AAVE (+1.6%), and CAKE (+23.5% TVL growth) indicate selective strength in DEX and lending. The negative Sharpe ratio (-1.53) confirms risk-adjusted returns are poor. Over the next 14 days, expect continued downward pressure with annualized return of approximately -85%, but moderately constrained by TVL stabilization in core protocols. Confidence is moderate due to unpredictable bear market volatility swings.\"\n}\n```",
+  "date": "2024-04-04",
+  "period_idx": 7,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "havven",
+    "gmx",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:54:18.042763+00:00"
+}

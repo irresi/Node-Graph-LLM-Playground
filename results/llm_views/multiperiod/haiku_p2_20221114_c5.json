@@ -1,0 +1,17 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Strong bear market regime with persistent downtrend (-20.49% over 14 days, -16.09% over 30 days). High volatility (97.3% annualized) and negative Sharpe ratio (-1.39) indicate poor risk-adjusted returns. MKR's significant TVL decline (-12.4%) and cluster's max drawdown of -33.7% suggest further weakness likely. However, extreme oversold conditions and DEX/lending protocol stabilization could provide modest support. Annualized return reflects bearish momentum with some mean reversion potential, but confidence tempered by continued downside risk in weak market.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Strong bear market regime with persistent downtrend (-20.49% over 14 days, -16.09% over 30 days). High volatility (97.3% annualized) and negative Sharpe ratio (-1.39) indicate poor risk-adjusted returns. MKR's significant TVL decline (-12.4%) and cluster's max drawdown of -33.7% suggest further weakness likely. However, extreme oversold conditions and DEX/lending protocol stabilization could provide modest support. Annualized return reflects bearish momentum with some mean reversion potential, but confidence tempered by continued downside risk in weak market.\"\n}\n```",
+  "date": "2022-11-15",
+  "period_idx": 2,
+  "cluster_id": 5,
+  "members": [
+    "uniswap",
+    "sushi",
+    "pancakeswap-token",
+    "maker"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:25:33.235281+00:00"
+}

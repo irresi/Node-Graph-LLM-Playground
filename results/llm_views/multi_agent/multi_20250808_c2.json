@@ -1,0 +1,24 @@
+{
+  "expected_return": 0.05,
+  "confidence": 0.25,
+  "reasoning": "I appreciate the structured debate format, but I need to flag a critical constraint: **I'm being asked to synthesize a forecast for February 16, 2026, but the underlying data is from August 9, 2025\u2014si",
+  "n_agents": 12,
+  "date": "2025-08-09 00:00:00",
+  "cluster_id": 2,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "havven",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "lido-dao",
+    "rocket-pool"
+  ],
+  "mode": "api"
+}

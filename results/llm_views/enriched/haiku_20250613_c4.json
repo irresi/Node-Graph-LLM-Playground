@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.04,
+  "confidence": 0.42,
+  "reasoning": "BAL shows recent 7-day momentum (+2.28%) suggesting short-term recovery, but operates in bear market regime with 72.7% volatility and negative Sharpe ratio. Expected modest 14-day upside (annualized ~4%) capturing bounce continuation, but low confidence (0.42) due to market regime risk, high volatility, and potential for rapid reversals. Recent +2.8% TVL growth provides modest fundamental support.",
+  "raw_response": "I'll analyze the provided data for Cluster 4 (BAL) and provide a 14-day expected return forecast.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum (Positive Signal)**\n   - 7-day return: +2.28%\n   - 14-day return: +1.56%\n   - This shows recent recovery from the 30-day decline of -10.18%\n\n2. **Market Regime (Negative Signal)**\n   - Overall DeFi market in bear trend\n   - Cluster volatility is very high (72.7% annualized)\n   - Negative Sharpe ratio (-1.18) indicates poor risk-adjusted returns\n   - Max drawdown of -20.5% shows significant downside risk\n\n3. **Fundamentals (Mixed Signals)**\n   - BAL TVL increased +2.8% over 30 days (positive)\n   - Protocol TVL of $78M with reasonable APY (11.95% average)\n   - Active governance showing protocol engagement\n   - However, top pools show IL (impermanent loss) risk\n\n4. **Valuation Context**\n   - The recent +2.28% (7-day) bounce suggests some reversal from the -10.18% (30-day) decline\n   - However, we're in a bear market which typically continues with lower probability of sustained recovery\n\n**Forecast Rationale:**\n\nGiven the conflicting signals:\n- Recent positive momentum (+2.28% 7-day) suggests short-term support\n- However, strong bear market regime and high volatility suggest this is a bounce within a downtrend\n- The 14-day window is short enough to potentially capture continued bounce, but long enough to risk reversal to downside\n\nFor a 14-day annualized return, I'm accounting for:\n- Modest positive momentum suggesting +1-2% potential return over 14 days\n- Annualized equivalent: ~2.6% to 5.2% annualized\n- Discounted for bear market regime risk and volatility\n\n```json\n{\n  \"expected_return\": 0.04,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL shows recent 7-day momentum (+2.28%) suggesting short-term recovery, but operates in bear market regime with 72.7% volatility and negative Sharpe ratio. Expected modest 14-day upside (annualized ~4%) capturing bounce continuation, but low confidence (0.42) due to market regime risk, high volatility, and potential for rapid reversals. Recent +2.8% TVL growth provides modest fundamental support.\"\n}\n```",
+  "date": "2025-06-14",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:06:23.627102+00:00",
+  "enriched": true
+}

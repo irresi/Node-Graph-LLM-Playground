@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.48,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong recent momentum (+15.16% in 30d, +12.43% in 14d, +11.51% in 7d) with improving trend trajectory in a moderate bull market regime. However, high annualized volatility (81.5%) and significant max drawdown (-18.7%) introduce uncertainty. The 14-day annualized forecast of 48% reflects strong short-term momentum but is tempered by: (1) volatility risk in this infrastructure/L2 category, (2) lack of direct TVL metrics for most tokens limiting fundamental analysis, (3) mean reversion risk after strong recent performance. Confidence is moderate due to the high-volatility nature of these assets and reliance on technical momentum rather than fundamental changes.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.48,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (+15.16% in 30d, +12.43% in 14d, +11.51% in 7d) with improving trend trajectory in a moderate bull market regime. However, high annualized volatility (81.5%) and significant max drawdown (-18.7%) introduce uncertainty. The 14-day annualized forecast of 48% reflects strong short-term momentum but is tempered by: (1) volatility risk in this infrastructure/L2 category, (2) lack of direct TVL metrics for most tokens limiting fundamental analysis, (3) mean reversion risk after strong recent performance. Confidence is moderate due to the high-volatility nature of these assets and reliance on technical momentum rather than fundamental changes.\"\n}\n```",
+  "date": "2025-08-23",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:40:21.301516+00:00",
+  "enriched": false
+}

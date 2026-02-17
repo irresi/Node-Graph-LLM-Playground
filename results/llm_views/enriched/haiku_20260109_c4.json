@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "BAL is in a severe downtrend within a bear market regime. Recent 14-day return of -9.51% and 7-day return of -10.46% indicate accelerating negative momentum. High volatility (27.9% annualized) and deeply negative Sharpe ratio (-7.36) suggest risk-reward is unfavorable. Positive governance activity (2 active proposals on core protocol improvements) and reasonable protocol fundamentals (11.95% weighted avg APY, $260M TVL) provide slight support. However, the bear market regime, ongoing TVL decline (-5.3% in 30 days), and weak recent momentum heavily outweigh these factors. Annualized 14-day return forecast reflects continued downside pressure with modest stabilization possibilities. Confidence is moderate due to high volatility and single-token cluster concentration reducing predictability.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL is in a severe downtrend within a bear market regime. Recent 14-day return of -9.51% and 7-day return of -10.46% indicate accelerating negative momentum. High volatility (27.9% annualized) and deeply negative Sharpe ratio (-7.36) suggest risk-reward is unfavorable. Positive governance activity (2 active proposals on core protocol improvements) and reasonable protocol fundamentals (11.95% weighted avg APY, $260M TVL) provide slight support. However, the bear market regime, ongoing TVL decline (-5.3% in 30 days), and weak recent momentum heavily outweigh these factors. Annualized 14-day return forecast reflects continued downside pressure with modest stabilization possibilities. Confidence is moderate due to high volatility and single-token cluster concentration reducing predictability.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 4,
+  "members": [
+    "balancer"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-16T18:12:16.628485+00:00",
+  "enriched": true
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "CAKE faces headwinds from bear market regime (-1.8% DeFi TVL decline) and negative 30-day momentum (-11.21%), but recent 7-day bounce (+3.55%) and stable TVL (+0.5% 30d change) suggest stabilization. High volatility (32.9%) and negative Sharpe ratio (-2.87) indicate elevated downside risk. Over 14 days, expect modest negative returns as bear pressure likely resumes after short-term bounce, with annualized estimate of -42% reflecting near-term pessimism but moderate confidence given unstable market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE faces headwinds from bear market regime (-1.8% DeFi TVL decline) and negative 30-day momentum (-11.21%), but recent 7-day bounce (+3.55%) and stable TVL (+0.5% 30d change) suggest stabilization. High volatility (32.9%) and negative Sharpe ratio (-2.87) indicate elevated downside risk. Over 14 days, expect modest negative returns as bear pressure likely resumes after short-term bounce, with annualized estimate of -42% reflecting near-term pessimism but moderate confidence given unstable market conditions.\"\n}\n```",
+  "date": "2023-09-19",
+  "period_idx": 4,
+  "cluster_id": 5,
+  "members": [
+    "pancakeswap-token"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:38:49.965375+00:00"
+}

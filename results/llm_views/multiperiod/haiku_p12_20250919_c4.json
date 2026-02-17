@@ -1,0 +1,15 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (CRV/CVX) faces headwinds from bear market regime and negative 30-day return (-8.78%), despite recent 14-day bounce (+7.19%). The 7-day pullback (-2.79%) suggests momentum reversal. High volatility (74.5%) and negative Sharpe ratio (-0.99) indicate risk-adjusted underperformance. CRV TVL declining (-2.1%) while CVX drops sharply (-10.6%) suggests protocol stress. Mean reversion from recent bounce, combined with bear market and TVL weakness, projects negative returns over next 14 days when annualized. Moderate confidence due to volatile regime and mixed signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (CRV/CVX) faces headwinds from bear market regime and negative 30-day return (-8.78%), despite recent 14-day bounce (+7.19%). The 7-day pullback (-2.79%) suggests momentum reversal. High volatility (74.5%) and negative Sharpe ratio (-0.99) indicate risk-adjusted underperformance. CRV TVL declining (-2.1%) while CVX drops sharply (-10.6%) suggests protocol stress. Mean reversion from recent bounce, combined with bear market and TVL weakness, projects negative returns over next 14 days when annualized. Moderate confidence due to volatile regime and mixed signals.\"\n}\n```",
+  "date": "2025-09-20",
+  "period_idx": 12,
+  "cluster_id": 4,
+  "members": [
+    "curve-dao-token",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:23:17.438069+00:00"
+}

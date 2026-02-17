@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 (LINK, GRT) shows strong recent momentum with 35.72% 30-day return and excellent Sharpe ratio of 3.48, indicating quality risk-adjusted returns. However, the 14-day slowdown (3.59%) compared to 7-day strength (13.68%) suggests momentum deceleration. The moderate bull market regime and +15.1% DeFi TVL growth provide supportive macro conditions. Annualized 14-day forecast of 45% reflects: (1) mean-reversion from recent 35% 30-day peak, (2) infrastructure tokens' growth potential in bull markets, (3) elevated volatility (86.2%) creating both opportunity and risk, (4) recent deceleration limiting upside conviction. Confidence moderated to 0.62 due to short forecast window, lack of TVL data, and difficulty predicting oracle/infrastructure token moves in the near term despite favorable macro backdrop.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 (LINK, GRT) shows strong recent momentum with 35.72% 30-day return and excellent Sharpe ratio of 3.48, indicating quality risk-adjusted returns. However, the 14-day slowdown (3.59%) compared to 7-day strength (13.68%) suggests momentum deceleration. The moderate bull market regime and +15.1% DeFi TVL growth provide supportive macro conditions. Annualized 14-day forecast of 45% reflects: (1) mean-reversion from recent 35% 30-day peak, (2) infrastructure tokens' growth potential in bull markets, (3) elevated volatility (86.2%) creating both opportunity and risk, (4) recent deceleration limiting upside conviction. Confidence moderated to 0.62 due to short forecast window, lack of TVL data, and difficulty predicting oracle/infrastructure token moves in the near term despite favorable macro backdrop.\"\n}\n```",
+  "date": "2023-11-25",
+  "period_idx": 6,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:46:02.141799+00:00"
+}

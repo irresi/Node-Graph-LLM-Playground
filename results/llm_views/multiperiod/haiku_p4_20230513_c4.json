@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 faces significant headwinds: bear market regime, -32.59% 30-day loss, negative Sharpe ratio (-4.97), and severe max drawdown (-33.4%). The 7-day return of -7.65% suggests continued downward momentum. The mix of oracle/infrastructure tokens provides some structural value, but short-term technicals are bearish. Low confidence due to limited TVL data and high volatility (55.1% annualized), which increases forecast uncertainty. Over 14 days, expect continued weakness with potential for further 8-15% declines, annualizing to ~-0.85.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 faces significant headwinds: bear market regime, -32.59% 30-day loss, negative Sharpe ratio (-4.97), and severe max drawdown (-33.4%). The 7-day return of -7.65% suggests continued downward momentum. The mix of oracle/infrastructure tokens provides some structural value, but short-term technicals are bearish. Low confidence due to limited TVL data and high volatility (55.1% annualized), which increases forecast uncertainty. Over 14 days, expect continued weakness with potential for further 8-15% declines, annualizing to ~-0.85.\"\n}\n```",
+  "date": "2023-05-14",
+  "period_idx": 4,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:34:41.863505+00:00"
+}

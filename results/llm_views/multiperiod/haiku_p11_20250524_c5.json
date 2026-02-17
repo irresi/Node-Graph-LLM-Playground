@@ -1,0 +1,15 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Positive momentum from bull market, strong TVL growth, and excellent Sharpe ratio (3.28) support continued gains. However, after +31.57% 30-day return, mean reversion risk and high volatility (80.9%) suggest moderation. Annualized 28% return (~1.87% 14-day) reflects sustained but decelerating momentum. Moderate confidence due to crypto volatility and limited 2-token cluster diversity.",
+  "raw_response": "I'll analyze this DeFi cluster data to provide a 14-day return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n- Strong recent momentum: 31.57% 30-day return, 4.68% 14-day return, 4.28% 7-day return\n- Moderate Bull market regime with +22.1% TVL growth\n- Excellent risk-adjusted returns: Sharpe ratio of 3.28 (very strong)\n- Both protocols showing solid TVL growth (BAL +21.7%, AAVE +23.8%)\n- AAVE has massive TVL ($24.7B), providing liquidity and stability\n- Manageable max drawdown of -9.7% despite volatility\n\n**Risk Factors:**\n- High annualized volatility (80.9%) suggests momentum can reverse sharply\n- Recent returns are already substantial (+31.57% in 30 days), limiting upside\n- Mean reversion risk after strong performance\n- Only 2 tokens in cluster (concentration risk)\n- Market could encounter profit-taking after such gains\n\n**Analysis:**\nThe cluster has demonstrated exceptional momentum with a 3.28 Sharpe ratio in a bull market. However, extrapolating the recent 14-day return of +4.68% forward would be aggressive given:\n1. The strong TVL growth and bull regime support continued momentum\n2. But the extreme recent performance suggests some cooling is likely\n3. A 14-day forecast should be more conservative than the last 14 days\n\nGiven the strong fundamentals but elevated valuation after recent gains, I'd expect continued positive returns but at a moderated pace compared to the recent acceleration.\n\n```json\n{\"expected_return\": 0.28, \"confidence\": 0.62, \"reasoning\": \"Positive momentum from bull market, strong TVL growth, and excellent Sharpe ratio (3.28) support continued gains. However, after +31.57% 30-day return, mean reversion risk and high volatility (80.9%) suggest moderation. Annualized 28% return (~1.87% 14-day) reflects sustained but decelerating momentum. Moderate confidence due to crypto volatility and limited 2-token cluster diversity.\"}\n```",
+  "date": "2025-05-25",
+  "period_idx": 11,
+  "cluster_id": 5,
+  "members": [
+    "balancer",
+    "aave"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:16:03.820528+00:00"
+}

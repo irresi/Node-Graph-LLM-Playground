@@ -1,0 +1,31 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear regime with -19.2% 14-day drawdown and -4.5% DeFi TVL contraction. High volatility (63.8%) and negative Sharpe (-0.36) indicate elevated risk. Major protocols (UNI -10.4%, BAL -13.2%, SUSHI -14%) show sustained outflows. Negative momentum (-0.44% 7d) suggests continued pressure. However, 14-day timeframe is short; mean reversion possible if macro sentiment shifts. Confidence tempered by regime uncertainty and potential liquidation cascades in leveraged positions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear regime with -19.2% 14-day drawdown and -4.5% DeFi TVL contraction. High volatility (63.8%) and negative Sharpe (-0.36) indicate elevated risk. Major protocols (UNI -10.4%, BAL -13.2%, SUSHI -14%) show sustained outflows. Negative momentum (-0.44% 7d) suggests continued pressure. However, 14-day timeframe is short; mean reversion possible if macro sentiment shifts. Confidence tempered by regime uncertainty and potential liquidation cascades in leveraged positions.\"\n}\n```",
+  "date": "2024-06-19",
+  "period_idx": 8,
+  "cluster_id": 1,
+  "members": [
+    "uniswap",
+    "sushi",
+    "curve-dao-token",
+    "pancakeswap-token",
+    "balancer",
+    "aave",
+    "compound-governance-token",
+    "havven",
+    "gmx",
+    "yearn-finance",
+    "convex-finance",
+    "lido-dao",
+    "rocket-pool",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:58:35.911082+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "expected_return": 0.85,
+  "confidence": 0.62,
+  "reasoning": "ENS cluster shows strong momentum with 53.81% 14-day return and exceptional 2.93 Sharpe ratio in bullish market regime. However, high annualized volatility (114.1%) and -15.3% max drawdown suggest mean reversion risk after extended rally. 7-day pullback to +11.77% indicates potential momentum deceleration. Forecasting moderate-to-strong annualized return but with moderate confidence due to infrastructure token unpredictability and recent extreme valuation moves.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"ENS cluster shows strong momentum with 53.81% 14-day return and exceptional 2.93 Sharpe ratio in bullish market regime. However, high annualized volatility (114.1%) and -15.3% max drawdown suggest mean reversion risk after extended rally. 7-day pullback to +11.77% indicates potential momentum deceleration. Forecasting moderate-to-strong annualized return but with moderate confidence due to infrastructure token unpredictability and recent extreme valuation moves.\"\n}\n```",
+  "date": "2024-05-30",
+  "period_idx": 7,
+  "cluster_id": 3,
+  "members": [
+    "ethereum-name-service"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T05:55:44.467882+00:00"
+}

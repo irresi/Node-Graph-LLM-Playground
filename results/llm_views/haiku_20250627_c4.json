@@ -1,0 +1,18 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "Cluster 4 operates in a bear market with strong downtrend (-27.83% over 30d, -4.5% TVL decline). While recent 7-day momentum is positive (+1.85%), it follows severe drawdown (-29.8% max). Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, limiting fundamental analysis. Extremely high volatility (76.6% annualized) and negative Sharpe ratio (-3.05) suggest elevated risk. Forward 14-day forecast assumes partial mean reversion from recent momentum but constrained by persistent bear regime. Low confidence reflects limited protocol metrics and high uncertainty in bear market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster 4 operates in a bear market with strong downtrend (-27.83% over 30d, -4.5% TVL decline). While recent 7-day momentum is positive (+1.85%), it follows severe drawdown (-29.8% max). Infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, limiting fundamental analysis. Extremely high volatility (76.6% annualized) and negative Sharpe ratio (-3.05) suggest elevated risk. Forward 14-day forecast assumes partial mean reversion from recent momentum but constrained by persistent bear regime. Low confidence reflects limited protocol metrics and high uncertainty in bear market conditions.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T17:38:24.949887+00:00",
+  "enriched": false
+}

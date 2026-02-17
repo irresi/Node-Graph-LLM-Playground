@@ -1,0 +1,18 @@
+{
+  "expected_return": 0.24,
+  "confidence": 0.35,
+  "reasoning": "Cluster in bear market (-32.19% over 30d) with high volatility (72% annualized). Recent 14-day recovery (+5.12%) suggests potential mean reversion or short-term relief bounce. However, weak fundamentals (TVL data sparse, -12.1% DeFi TVL decline), poor Sharpe ratio (-3.76), and bear regime create headwinds. Forecasting modest positive return annualized from 14-day perspective due to momentum inflection, but low confidence due to regime uncertainty and lack of fundamental support. High volatility and recent max drawdown (-31%) suggest elevated downside risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.24,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster in bear market (-32.19% over 30d) with high volatility (72% annualized). Recent 14-day recovery (+5.12%) suggests potential mean reversion or short-term relief bounce. However, weak fundamentals (TVL data sparse, -12.1% DeFi TVL decline), poor Sharpe ratio (-3.76), and bear regime create headwinds. Forecasting modest positive return annualized from 14-day perspective due to momentum inflection, but low confidence due to regime uncertainty and lack of fundamental support. High volatility and recent max drawdown (-31%) suggest elevated downside risk.\"\n}\n```",
+  "date": "2025-02-24",
+  "period_idx": 10,
+  "cluster_id": 4,
+  "members": [
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:09:45.666918+00:00"
+}

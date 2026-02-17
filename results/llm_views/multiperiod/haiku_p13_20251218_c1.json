@@ -1,0 +1,20 @@
+{
+  "expected_return": -1.0,
+  "confidence": 0.42,
+  "reasoning": "Cluster in severe bear market with -39.49% 30-day loss and -5.48 Sharpe ratio. Strong negative momentum (-19.54% 7-day, -26.18% 14-day) suggests continued downside. However, extreme drawdowns often precede mean reversion. TVL compression in SNX (-41.8%) and flat DYDX suggest protocol stress, but infrastructure tokens (OP, ARB) lack direct TVL data making full assessment difficult. 14-day annualized extrapolation of recent 14-day return (-26.18%) yields ~-102% annualized, but this seems extreme. Conservative estimate of -1.85 annualized (modest recovery from oversold conditions) reflects high uncertainty in bear regime. Low confidence due to regime volatility and incomplete protocol metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -1.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in severe bear market with -39.49% 30-day loss and -5.48 Sharpe ratio. Strong negative momentum (-19.54% 7-day, -26.18% 14-day) suggests continued downside. However, extreme drawdowns often precede mean reversion. TVL compression in SNX (-41.8%) and flat DYDX suggest protocol stress, but infrastructure tokens (OP, ARB) lack direct TVL data making full assessment difficult. 14-day annualized extrapolation of recent 14-day return (-26.18%) yields ~-102% annualized, but this seems extreme. Conservative estimate of -1.85 annualized (modest recovery from oversold conditions) reflects high uncertainty in bear regime. Low confidence due to regime volatility and incomplete protocol metrics.\"\n}\n```",
+  "date": "2025-12-19",
+  "period_idx": 13,
+  "cluster_id": 1,
+  "members": [
+    "havven",
+    "dydx-chain",
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T06:27:53.939948+00:00"
+}
