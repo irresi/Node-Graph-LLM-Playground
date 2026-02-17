@@ -1,26 +1,14 @@
 {
-  "expected_return": 0.08,
+  "expected_return": -0.85,
   "confidence": 0.35,
-  "reasoning": "Expect modest mean reversion from -9.85% 7d drawdown, but deteriorating 14d momentum (-7.62%) and high volatility (46.8%) limit upside. Negative Sharpe ratio and significant recent losses suggest caution. Neutral market regime prevents stronger directional bias. Low confidence due to unstable technicals and protocol-specific risks in this diverse cluster.",
-  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast. Let me consider the key factors:\n\n**Analysis of Cluster 2 (DEX/Lending/Yield tokens):**\n\n**Negative Indicators:**\n- Recent momentum is significantly negative (7-day: -9.85%, 14-day: -7.62%)\n- Despite 30-day improvement to -1.68%, the trend is deteriorating\n- High volatility (46.8% annualized) suggests unstable risk environment\n- Negative Sharpe ratio (-0.30) indicates poor risk-adjusted returns\n- Significant max drawdown (-15.4%) showing recent stress\n\n**Neutral/Slightly Positive Indicators:**\n- Overall DeFi TVL still positive (+3.0% 30-day), suggesting market participation isn't collapsing\n- Market regime is neutral/range-bound rather than bearish\n- CAKE showing strength (+3.8% TVL growth)\n- AAVE dominant position with slight TVL growth (+0.9%)\n- No extreme TVL outflows in major protocols\n\n**Mean Reversion Consideration:**\n- Cluster is down 9.85% in 7 days - potential for some bounce-back\n- However, the momentum direction remains negative (getting worse)\n\n**Forecast Rationale:**\nGiven the sharp recent decline, mean reversion might provide some support over 14 days. However, the deteriorating momentum and high volatility suggest downside risk remains elevated. The neutral market regime prevents a strongly bearish call, but the negative trajectory argues against bullish positioning.\n\nAssuming a modest mean reversion bounce of 2-4% over 14 days (annualized: ~5-10%), with elevated uncertainty:\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Expect modest mean reversion from -9.85% 7d drawdown, but deteriorating 14d momentum (-7.62%) and high volatility (46.8%) limit upside. Negative Sharpe ratio and significant recent losses suggest caution. Neutral market regime prevents stronger directional bias. Low confidence due to unstable technicals and protocol-specific risks in this diverse cluster.\"}\n```",
+  "reasoning": "BAL has experienced significant downward momentum (-21.63% over 30 days, -9.43% over 7 days) with high volatility (31.8% annualized). While TVL is growing (+10.3% 30d), the negative Sharpe ratio (-5.72) and max drawdown (-19%) suggest risk-adjusted returns are poor. The neutral market regime and continued bearish momentum indicate likely further weakness in the near term. However, low confidence reflects high volatility and potential for mean reversion in a recovery scenario.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL has experienced significant downward momentum (-21.63% over 30 days, -9.43% over 7 days) with high volatility (31.8% annualized). While TVL is growing (+10.3% 30d), the negative Sharpe ratio (-5.72) and max drawdown (-19%) suggest risk-adjusted returns are poor. The neutral market regime and continued bearish momentum indicate likely further weakness in the near term. However, low confidence reflects high volatility and potential for mean reversion in a recovery scenario.\"\n}\n```",
   "date": "2026-01-24",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:40.542133+00:00",
+  "generated_at": "2026-02-17T16:41:18.574344+00:00",
   "enriched": false
 }

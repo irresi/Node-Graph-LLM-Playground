@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.42,
+  "confidence": 0.65,
+  "reasoning": "Cluster 5 demonstrates strong fundamentals with exceptional recent performance (26.55% in 30d, 15.93% in 14d) and high Sharpe ratio (4.56), indicating quality risk-adjusted returns. Bull market regime with robust TVL growth (AAVE +36.5%, CRV +19.5%) supports continued upside. However, the 7-day momentum slowdown (+0.99%) suggests deceleration as the cluster approaches overbought conditions with -8.0% max drawdown risk. Extrapolating 14-day returns (+15.93%) to annualized (~0.42) reflects the current trajectory while moderating confidence due to mean reversion pressures and elevated volatility (48.9%) in an extended rally.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 5 demonstrates strong fundamentals with exceptional recent performance (26.55% in 30d, 15.93% in 14d) and high Sharpe ratio (4.56), indicating quality risk-adjusted returns. Bull market regime with robust TVL growth (AAVE +36.5%, CRV +19.5%) supports continued upside. However, the 7-day momentum slowdown (+0.99%) suggests deceleration as the cluster approaches overbought conditions with -8.0% max drawdown risk. Extrapolating 14-day returns (+15.93%) to annualized (~0.42) reflects the current trajectory while moderating confidence due to mean reversion pressures and elevated volatility (48.9%) in an extended rally.\"\n}\n```",
+  "date": "2025-07-26",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:35:23.638684+00:00",
+  "enriched": false
+}

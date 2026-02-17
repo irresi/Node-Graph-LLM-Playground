@@ -1,26 +1,14 @@
 {
-  "expected_return": -0.42,
-  "confidence": 0.65,
-  "reasoning": "Cluster 2 faces headwinds from bear market regime (-18.14% 30d return, -3.12 Sharpe ratio) despite recent 7d bounce (+0.62%). However, positive signals emerge: AAVE TVL +3.0% and CRV TVL +7.1% suggest selective protocol strength in lending/stableswap segments. The high volatility (48.8% annualized) and negative 14d momentum (-7.47%) indicate continued downside pressure. Over 14 days, expect mean reversion toward the recent 7d trend but constrained by macro bear regime. Annualized 14d forecast: -0.42 reflects near-term weakness with moderate confidence given conflicting fundamental (stable large protocols) vs. technical (negative momentum, bear regime) signals.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 faces headwinds from bear market regime (-18.14% 30d return, -3.12 Sharpe ratio) despite recent 7d bounce (+0.62%). However, positive signals emerge: AAVE TVL +3.0% and CRV TVL +7.1% suggest selective protocol strength in lending/stableswap segments. The high volatility (48.8% annualized) and negative 14d momentum (-7.47%) indicate continued downside pressure. Over 14 days, expect mean reversion toward the recent 7d trend but constrained by macro bear regime. Annualized 14d forecast: -0.42 reflects near-term weakness with moderate confidence given conflicting fundamental (stable large protocols) vs. technical (negative momentum, bear regime) signals.\"\n}\n```",
+  "expected_return": -0.95,
+  "confidence": 0.42,
+  "reasoning": "BAL in bear market regime with sustained negative momentum (-11.56% 30d, -8.79% 14d, -5.33% 7d). Decelerating losses suggest potential stabilization, but weak Sharpe ratio (-2.47) and declining TVL (-4.3%) indicate fundamental weakness. TVL stagnation in broader DeFi (+0.2%) suggests relative underperformance. Low confidence due to bear regime volatility (39.3% annualized), but near-term stabilization possible as losses moderate. Forecast assumes continued modest underperformance with potential mean reversion bounce in 14-day window.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL in bear market regime with sustained negative momentum (-11.56% 30d, -8.79% 14d, -5.33% 7d). Decelerating losses suggest potential stabilization, but weak Sharpe ratio (-2.47) and declining TVL (-4.3%) indicate fundamental weakness. TVL stagnation in broader DeFi (+0.2%) suggests relative underperformance. Low confidence due to bear regime volatility (39.3% annualized), but near-term stabilization possible as losses moderate. Forecast assumes continued modest underperformance with potential mean reversion bounce in 14-day window.\"\n}\n```",
   "date": "2025-12-27",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:58.326930+00:00",
+  "generated_at": "2026-02-17T16:40:33.282825+00:00",
   "enriched": false
 }

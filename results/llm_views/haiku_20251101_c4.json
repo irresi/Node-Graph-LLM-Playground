@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.28,
-  "confidence": 0.62,
-  "reasoning": "BAL operates in a bear market regime with strong headwinds: DeFi TVL declined 12.5% (30d), BAL's TVL dropped 22.3%, and the cluster shows negative momentum (-15.52% 30d return, -2.43% 7d return). However, the recent 14-day return of +0.20% suggests potential stabilization or mean reversion at near-term lows. Given the 69.1% annualized volatility and -1.89 Sharpe ratio, the token faces significant downside risk, but oversold conditions provide some upside optionality. Forecasting mild negative returns (-28% annualized, or ~-0.66% over 14 days) reflects the bear regime while accounting for slight stabilization signals. Confidence is moderate due to high volatility and regime uncertainty.",
-  "raw_response": "Based on the provided market data for Cluster 4 (BAL token), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL operates in a bear market regime with strong headwinds: DeFi TVL declined 12.5% (30d), BAL's TVL dropped 22.3%, and the cluster shows negative momentum (-15.52% 30d return, -2.43% 7d return). However, the recent 14-day return of +0.20% suggests potential stabilization or mean reversion at near-term lows. Given the 69.1% annualized volatility and -1.89 Sharpe ratio, the token faces significant downside risk, but oversold conditions provide some upside optionality. Forecasting mild negative returns (-28% annualized, or ~-0.66% over 14 days) reflects the bear regime while accounting for slight stabilization signals. Confidence is moderate due to high volatility and regime uncertainty.\"\n}\n```\n\n**Key considerations:**\n- **Bearish factors**: Deteriorating TVL, negative 30-day trend, poor risk-adjusted returns\n- **Bullish factors**: Recent 14-day micro-reversal, potential oversold technical condition\n- **Volatility discount**: High volatility (69.1%) suggests significant event risk in either direction\n- **Confidence limitation**: Single-token cluster with limited diversification; macroeconomic sentiment may dominate token-specific fundamentals",
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "Cluster 4 shows severe bearish momentum with -38.13% 30-day returns in a bear market regime. Recent 14-day return of -1.59% suggests decelerating downside, indicating potential stabilization but not reversal. High volatility (106.3% annualized) and negative Sharpe ratio (-3.01) indicate risk-adjusted returns are highly unfavorable. Infrastructure/L2 tokens typically underperform during bear markets as investors reduce risk exposure. The 7-day return of -6.84% suggests momentum may have stabilized from the steeper 30-day decline. With limited TVL data and no positive catalysts visible, expect continued weakness over 14 days, but potentially at a slower decay rate than the recent 30-day period. Low confidence due to high volatility and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 4 shows severe bearish momentum with -38.13% 30-day returns in a bear market regime. Recent 14-day return of -1.59% suggests decelerating downside, indicating potential stabilization but not reversal. High volatility (106.3% annualized) and negative Sharpe ratio (-3.01) indicate risk-adjusted returns are highly unfavorable. Infrastructure/L2 tokens typically underperform during bear markets as investors reduce risk exposure. The 7-day return of -6.84% suggests momentum may have stabilized from the steeper 30-day decline. With limited TVL data and no positive catalysts visible, expect continued weakness over 14 days, but potentially at a slower decay rate than the recent 30-day period. Low confidence due to high volatility and regime uncertainty.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:42.304279+00:00",
+  "generated_at": "2026-02-17T16:38:45.806584+00:00",
   "enriched": false
 }

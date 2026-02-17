@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.35,
-  "reasoning": "BAL faces severe headwinds: 64.9% TVL collapse in 30d signals fundamental distress in the DEX protocol, massive -30.3% cluster return with -4.31 Sharpe ratio indicates toxic risk-adjusted performance, bear market regime with -17% DeFi TVL decline, and negative momentum (7d: -14.66%, 14d: -28.89%). The token is in a severe downtrend with accelerating losses. However, low confidence (0.35) reflects high uncertainty in short-term forecasting during distressed conditions and potential for capitulation bottom. Annualized return assumes continued downward pressure over the 14-day window.",
-  "raw_response": "Based on the market context provided for Cluster 4 (BAL), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: 64.9% TVL collapse in 30d signals fundamental distress in the DEX protocol, massive -30.3% cluster return with -4.31 Sharpe ratio indicates toxic risk-adjusted performance, bear market regime with -17% DeFi TVL decline, and negative momentum (7d: -14.66%, 14d: -28.89%). The token is in a severe downtrend with accelerating losses. However, low confidence (0.35) reflects high uncertainty in short-term forecasting during distressed conditions and potential for capitulation bottom. Annualized return assumes continued downward pressure over the 14-day window.\"\n}\n```\n\n**Key Risk Factors:**\n1. **TVL Collapse**: -64.9% TVL decline is critical - suggests loss of confidence in the protocol\n2. **Negative Momentum**: Consistent losses across 7d, 14d, and 30d periods indicate sustained selling pressure\n3. **Poor Risk Metrics**: Sharpe ratio of -4.31 is extremely negative\n4. **Macro Headwinds**: Bear market regime with broad DeFi contraction (-17% TVL)\n\n**Mitigating Factors:**\n- Extreme drawdowns can lead to capitulation and recovery bounces\n- BAL may find a floor if fundamental utility remains intact\n- Low confidence reflects this uncertainty",
+  "expected_return": -0.35,
+  "confidence": 0.58,
+  "reasoning": "Cluster 4 faces significant headwinds: (1) Strong bear market regime with -17% DeFi TVL contraction over 30 days, (2) Cluster severely underperforming with -23.04% 30-day return and negative Sharpe ratio of -2.44, (3) Recent momentum remains negative across all timeframes (7d: -15.43%, 14d: -13.97%), (4) Infrastructure/L2 tokens are cyclical and vulnerable in bear markets, (5) Elevated volatility (79.5% annualized) increases downside risk. However, confidence is moderate due to: potential capitulation near-term stabilization, and lack of protocol TVL data limiting fundamental analysis. The -35% annualized forecast reflects continued weakness over the next 14 days in the current market regime, though recovery conditions may emerge if macro sentiment shifts.",
+  "raw_response": "Based on my analysis of Cluster 4 (LINK, OP, ARB, ENS, GRT) in the current DeFi market context, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 4 faces significant headwinds: (1) Strong bear market regime with -17% DeFi TVL contraction over 30 days, (2) Cluster severely underperforming with -23.04% 30-day return and negative Sharpe ratio of -2.44, (3) Recent momentum remains negative across all timeframes (7d: -15.43%, 14d: -13.97%), (4) Infrastructure/L2 tokens are cyclical and vulnerable in bear markets, (5) Elevated volatility (79.5% annualized) increases downside risk. However, confidence is moderate due to: potential capitulation near-term stabilization, and lack of protocol TVL data limiting fundamental analysis. The -35% annualized forecast reflects continued weakness over the next 14 days in the current market regime, though recovery conditions may emerge if macro sentiment shifts.\"\n}\n```\n\n**Key Factors:**\n- **Negative momentum**: Consistent losses across 7d, 14d, and 30d periods suggest sustained selling pressure\n- **Bear regime**: -17% DeFi TVL decline indicates sector-wide weakness affecting infrastructure tokens\n- **High volatility**: 79.5% annualized volatility with -2.44 Sharpe ratio indicates poor risk-adjusted returns\n- **Cyclicality**: L2/infrastructure tokens (OP, ARB) typically underperform in bear markets\n- **Moderate confidence**: While technical indicators point downward, crypto bear cycles can reverse rapidly",
   "date": "2025-11-15",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:04.765218+00:00",
+  "generated_at": "2026-02-17T16:39:09.526995+00:00",
   "enriched": false
 }

@@ -1,26 +1,14 @@
 {
-  "expected_return": -0.08,
-  "confidence": 0.55,
-  "reasoning": "Bear regime and deteriorating 7-day trend offset by positive 14-day momentum and strong TVL growth in AAVE/CAKE. Expecting near-term consolidation with slight downside bias. High volatility (59.9%) and negative Sharpe (-0.59) reduce confidence. Annualized from expected -0.5% to +1% 14-day move given regime weakness.",
-  "raw_response": "I'll analyze this DeFi cluster to forecast the expected annualized return over the next 14 days.\n\nLet me break down the key factors:\n\n**Market Context Analysis:**\n- **Bear regime**: Strong downtrend in overall DeFi market suggests headwinds\n- **TVL growth**: Mixed signals - some protocols growing (CAKE +13.2%, AAVE +13.9%) but others declining (CRV -2.1%)\n- **Overall TVL**: +6.3% 30-day growth provides some positive backdrop\n\n**Cluster Performance Signals:**\n- **Recent momentum divergence**: 7-day return (-4.96%) worse than 14-day (+2.48%), indicating recent deterioration\n- **30-day return** (-4.23%) aligns with bear regime\n- **High volatility** (59.9% annualized) and negative Sharpe ratio (-0.59) indicate risk-adjusted underperformance\n- **Max drawdown** (-16.5%) reflects significant downside risk\n\n**Protocol Fundamentals:**\n- **AAVE** (largest TVL at $41.9B): Strong TVL growth (+13.9%) suggests confidence in lending protocols\n- **UNI** ($5.9B): Modest TVL growth (+1.0%), major DEX but facing competition\n- **CAKE** ($2.4B): Strongest TVL growth (+13.2%), showing momentum\n- **CRV** ($2.0B): Declining TVL (-2.1%), curve-related protocols under pressure\n\n**Forecast Reasoning:**\nGiven the bear market regime and recent deterioration (7-day worse than 14-day), I expect continued headwinds. However, the strong TVL growth in major protocols (AAVE, CAKE) and the positive 14-day return suggest some stabilization is possible. The next 14 days may see recovery from recent weakness or continued sideways/declining pressure.\n\nThe negative Sharpe ratio and bear regime warrant a cautious outlook, but selective TVL strength provides some upside optionality.\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Bear regime and deteriorating 7-day trend offset by positive 14-day momentum and strong TVL growth in AAVE/CAKE. Expecting near-term consolidation with slight downside bias. High volatility (59.9%) and negative Sharpe (-0.59) reduce confidence. Annualized from expected -0.5% to +1% 14-day move given regime weakness.\"\n}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "BAL trading in bear market with -14.3% 30-day decline and -8.77% 7-day momentum indicating continued downside pressure. Negative Sharpe ratio (-2.13) and high volatility (56.5% annualized) suggest unfavorable risk-adjusted returns. However, recent deceleration (7d: -8.77% vs 14d: -2.60%) hints at potential stabilization, limiting confidence to 0.42. Annualized return of -0.85 reflects bear regime persistence while acknowledging elevated recovery risk given oversold conditions and positive TVL trend for broader DeFi (+6.3% 30d).",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL trading in bear market with -14.3% 30-day decline and -8.77% 7-day momentum indicating continued downside pressure. Negative Sharpe ratio (-2.13) and high volatility (56.5% annualized) suggest unfavorable risk-adjusted returns. However, recent deceleration (7d: -8.77% vs 14d: -2.60%) hints at potential stabilization, limiting confidence to 0.42. Annualized return of -0.85 reflects bear regime persistence while acknowledging elevated recovery risk given oversold conditions and positive TVL trend for broader DeFi (+6.3% 30d).\"\n}\n```",
   "date": "2025-09-20",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:21.284830+00:00",
+  "generated_at": "2026-02-17T16:37:18.765933+00:00",
   "enriched": false
 }

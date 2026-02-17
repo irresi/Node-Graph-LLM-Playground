@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.55,
-  "reasoning": "Cluster shows mixed signals: negative 30-day return (-4.52%) and max drawdown (-22.4%) suggest weakness, but strong 7-day rebound (+7.00%) indicates potential mean reversion. Infrastructure/L2 tokens typically benefit from positive market momentum. Neutral market regime and lack of TVL data for most tokens increases uncertainty. Confidence tempered by high volatility (51.6% annualized) and negative Sharpe ratio (-0.74). Forecast assumes continued recovery from recent lows with modest risk premium.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows mixed signals: negative 30-day return (-4.52%) and max drawdown (-22.4%) suggest weakness, but strong 7-day rebound (+7.00%) indicates potential mean reversion. Infrastructure/L2 tokens typically benefit from positive market momentum. Neutral market regime and lack of TVL data for most tokens increases uncertainty. Confidence tempered by high volatility (51.6% annualized) and negative Sharpe ratio (-0.74). Forecast assumes continued recovery from recent lows with modest risk premium.\"\n}\n```",
+  "expected_return": 0.28,
+  "confidence": 0.42,
+  "reasoning": "CAKE has shown strong momentum (+41.7% over 30d, +33.2% over 7d) with exceptional Sharpe ratio (3.78), but this represents potential mean reversion risk. The 92.7% annualized volatility and -17.9% max drawdown indicate high risk. Neutral market regime and slowdown in recent momentum (7d: 33.2% vs 14d: 29.5%) suggest moderation ahead. Annualized forecast of 28% reflects scaled-down momentum expectations with significant uncertainty over the 14-day horizon.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CAKE has shown strong momentum (+41.7% over 30d, +33.2% over 7d) with exceptional Sharpe ratio (3.78), but this represents potential mean reversion risk. The 92.7% annualized volatility and -17.9% max drawdown indicate high risk. Neutral market regime and slowdown in recent momentum (7d: 33.2% vs 14d: 29.5%) suggest moderation ahead. Annualized forecast of 28% reflects scaled-down momentum expectations with significant uncertainty over the 14-day horizon.\"\n}\n```\n\n**Key considerations:**\n- **Momentum decay risk**: The cluster's recent performance may not sustain; 7-day returns exceeding 14-day returns suggest potential exhaustion\n- **Extreme volatility**: 92.7% annualized volatility makes directional predictions inherently uncertain\n- **Neutral regime**: The range-bound market regime is less favorable for continued strong outperformance\n- **TVL growth positive**: +20.9% TVL increase for CAKE in 30 days provides some fundamental support\n- **Confidence justification**: Moderate-to-low confidence (0.42) reflects high volatility, momentum reversal risks, and the difficulty of predicting short-term crypto price movements despite positive recent trends",
   "date": "2025-10-04",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:34.047353+00:00",
+  "generated_at": "2026-02-17T16:37:43.992812+00:00",
   "enriched": false
 }

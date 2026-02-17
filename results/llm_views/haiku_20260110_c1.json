@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.18,
+  "expected_return": -0.28,
   "confidence": 0.35,
-  "reasoning": "Cluster shows recent positive momentum (14-day: +11.31%, 7-day: +3.16%) despite 30-day decline of -6.38%, suggesting possible trend reversal from bear market bottom. However, confidence is low due to: (1) strong bear market regime with -1.7% TVL decline, (2) high volatility (51.8% annualized) and negative Sharpe ratio (-1.04), (3) infrastructure/L2 tokens lack TVL metrics limiting fundamental analysis, (4) recent gains may be technical bounce rather than sustained recovery. Annualized 18% return reflects cautious optimism on momentum continuation over 14 days, but elevated drawdown risk (-18% max) necessitates low confidence weighting.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows recent positive momentum (14-day: +11.31%, 7-day: +3.16%) despite 30-day decline of -6.38%, suggesting possible trend reversal from bear market bottom. However, confidence is low due to: (1) strong bear market regime with -1.7% TVL decline, (2) high volatility (51.8% annualized) and negative Sharpe ratio (-1.04), (3) infrastructure/L2 tokens lack TVL metrics limiting fundamental analysis, (4) recent gains may be technical bounce rather than sustained recovery. Annualized 18% return reflects cautious optimism on momentum continuation over 14 days, but elevated drawdown risk (-18% max) necessitates low confidence weighting.\"\n}\n```",
+  "reasoning": "CAKE faces headwinds from bear market regime (-1.7% DeFi TVL decline, -20.7% max drawdown) and negative 30-day trend (-16.74%), partially offset by recent 14-day momentum (+8.43%). TVL erosion (-8.1% in 30d) suggests weakening fundamentals. High volatility (50.8% annualized) and negative Sharpe (-2.77) indicate poor risk-adjusted returns. Near-term reversion to downtrend likely; 14-day positive momentum may not sustain given broader bear conditions. Low confidence reflects high uncertainty in volatile DEX token during market downturn.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CAKE faces headwinds from bear market regime (-1.7% DeFi TVL decline, -20.7% max drawdown) and negative 30-day trend (-16.74%), partially offset by recent 14-day momentum (+8.43%). TVL erosion (-8.1% in 30d) suggests weakening fundamentals. High volatility (50.8% annualized) and negative Sharpe (-2.77) indicate poor risk-adjusted returns. Near-term reversion to downtrend likely; 14-day positive momentum may not sustain given broader bear conditions. Low confidence reflects high uncertainty in volatile DEX token during market downturn.\"\n}\n```",
   "date": "2026-01-10",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:14.032543+00:00",
+  "generated_at": "2026-02-17T16:40:49.941800+00:00",
   "enriched": false
 }

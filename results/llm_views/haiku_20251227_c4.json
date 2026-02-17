@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.62,
-  "reasoning": "BAL is in a strong downtrend within a bear market regime. The 30-day return of -11.56% annualized to ~-268% suggests severe weakness. However, the 14-day return of -8.79% shows deceleration compared to the 7-day return of -5.33%, indicating potential stabilization. TVL decline of -4.3% reflects protocol stress. Given the bear regime, negative momentum, and high volatility (39.3%), I forecast continued weakness but at a decelerating pace. The -0.85 annualized return represents approximately -1.6% over 14 days, suggesting partial recovery from the steeper recent declines. Confidence is moderate (0.62) due to the volatile market regime and potential for capitulation reversals in highly oversold conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL is in a strong downtrend within a bear market regime. The 30-day return of -11.56% annualized to ~-268% suggests severe weakness. However, the 14-day return of -8.79% shows deceleration compared to the 7-day return of -5.33%, indicating potential stabilization. TVL decline of -4.3% reflects protocol stress. Given the bear regime, negative momentum, and high volatility (39.3%), I forecast continued weakness but at a decelerating pace. The -0.85 annualized return represents approximately -1.6% over 14 days, suggesting partial recovery from the steeper recent declines. Confidence is moderate (0.62) due to the volatile market regime and potential for capitulation reversals in highly oversold conditions.\"\n}\n```",
+  "expected_return": -0.95,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 exhibits severe bear market characteristics with -20.05% 30-day loss, -2.56% 7-day momentum, and -2.79 Sharpe ratio indicating risk-adjusted underperformance. The infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, suggesting limited fundamental support. High annualized volatility (60.3%) and -23% max drawdown indicate elevated downside risk. While extreme drawdowns sometimes precede mean reversion, the strong downtrend and bear market regime suggest continued weakness. Forecasting -95% annualized return (~-1.8% over 14 days) reflects negative momentum with moderate-low confidence due to high volatility and thin TVL metrics limiting fundamental anchors.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 exhibits severe bear market characteristics with -20.05% 30-day loss, -2.56% 7-day momentum, and -2.79 Sharpe ratio indicating risk-adjusted underperformance. The infrastructure/L2 tokens (OP, ARB, ENS, GRT) lack TVL data, suggesting limited fundamental support. High annualized volatility (60.3%) and -23% max drawdown indicate elevated downside risk. While extreme drawdowns sometimes precede mean reversion, the strong downtrend and bear market regime suggest continued weakness. Forecasting -95% annualized return (~-1.8% over 14 days) reflects negative momentum with moderate-low confidence due to high volatility and thin TVL metrics limiting fundamental anchors.\"\n}\n```",
   "date": "2025-12-27",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:10.072612+00:00",
+  "generated_at": "2026-02-17T16:40:41.722644+00:00",
   "enriched": false
 }

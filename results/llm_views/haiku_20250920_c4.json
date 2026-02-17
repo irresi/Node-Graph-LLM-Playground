@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.42,
-  "reasoning": "BAL (Balancer) faces headwinds from bear market regime and negative momentum (-14.3% over 30d, -8.77% over 7d). However, the 14-day return of -2.6% suggests deceleration of losses. TVL decline (-11%) indicates user outflow concerns. The single-token cluster lacks diversification. Given extreme volatility (56.5% annualized) and negative Sharpe ratio (-2.13), forecasting positive returns seems unjustified. Expecting continued downward pressure with high uncertainty due to market conditions and the cluster's recent volatility pattern. Low confidence reflects the bear regime and difficulty predicting short-term reversal.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL (Balancer) faces headwinds from bear market regime and negative momentum (-14.3% over 30d, -8.77% over 7d). However, the 14-day return of -2.6% suggests deceleration of losses. TVL decline (-11%) indicates user outflow concerns. The single-token cluster lacks diversification. Given extreme volatility (56.5% annualized) and negative Sharpe ratio (-2.13), forecasting positive returns seems unjustified. Expecting continued downward pressure with high uncertainty due to market conditions and the cluster's recent volatility pattern. Low confidence reflects the bear regime and difficulty predicting short-term reversal.\"\n}\n```",
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "Bear market regime with mixed momentum signals. Recent 14-day bounce (+4.41%) suggests potential recovery, but 7-day decline (-6.87%) indicates selling pressure. High volatility (64% annualized) and negative Sharpe ratio (-0.40) suggest risk-adjusted outlook remains challenging. Infrastructure tokens (LINK, OP, ARB) face cyclical headwinds in current market. Annualized -8% reflects cautious near-term outlook with moderate confidence due to conflicting signals and regime uncertainty.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 4 (LINK, OP, ARB, ENS, GRT)\n\n### Key Observations:\n\n1. **Market Regime**: Bear market with strong downtrend - this is a headwind for all tokens\n2. **Recent Momentum**: Mixed signals\n   - 7-day return: -6.87% (negative momentum)\n   - 14-day return: +4.41% (positive momentum)\n   - 30-day return: -3.02% (slightly negative)\n   - The 14-day positive return suggests some recovery potential\n\n3. **Volatility Profile**: Very high annualized volatility (64.0%) indicates significant price swings and uncertainty\n\n4. **Risk-Adjusted Performance**: Negative Sharpe ratio (-0.40) indicates poor risk-adjusted returns\n\n5. **Cluster Composition**: \n   - LINK (Oracle infrastructure) - relatively stable, fundamental utility\n   - OP, ARB (Layer 2 solutions) - growth-oriented but cyclical\n   - ENS (Domain service) - niche utility\n   - GRT (Indexing protocol) - dependent on DeFi activity\n   - These are infrastructure tokens that tend to move with broader DeFi sentiment\n\n6. **TVL Trends**: Overall DeFi TVL +6.3% (30-day) suggests some stabilization, but individual protocol TVL data is limited\n\n### Forecast Logic:\n\nThe recent 14-day positive return (+4.41%) against a bear market backdrop suggests some bottoming action or recovery attempt. However, the 7-day pullback (-6.87%) indicates bearish pressure returning. With high volatility and poor risk-adjusted returns, the 14-day outlook is uncertain.\n\nFor the next 14 days, I'm forecasting modest negative returns due to:\n- Continuing bear market pressure\n- High volatility and lack of clear positive catalysts\n- Infrastructure tokens being cyclical and dependent on broader DeFi sentiment\n\nHowever, confidence is moderate given the mixed signals and potential for a bounce.\n\n```json\n{\"expected_return\": -0.08, \"confidence\": 0.45, \"reasoning\": \"Bear market regime with mixed momentum signals. Recent 14-day bounce (+4.41%) suggests potential recovery, but 7-day decline (-6.87%) indicates selling pressure. High volatility (64% annualized) and negative Sharpe ratio (-0.40) suggest risk-adjusted outlook remains challenging. Infrastructure tokens (LINK, OP, ARB) face cyclical headwinds in current market. Annualized -8% reflects cautious near-term outlook with moderate confidence due to conflicting signals and regime uncertainty.\"}\n```",
   "date": "2025-09-20",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:30.252958+00:00",
+  "generated_at": "2026-02-17T16:37:31.169837+00:00",
   "enriched": false
 }

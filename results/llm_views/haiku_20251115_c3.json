@@ -1,14 +1,18 @@
 {
   "expected_return": -0.85,
-  "confidence": 0.35,
-  "reasoning": "CVX is in a severe bear market with -30.41% 30-day loss and -2.92 Sharpe ratio. The strong downtrend (-14.59% in 7d, -18.30% in 14d) suggests continued weakness over the next 14 days. However, extreme drawdowns often precede relief rallies, limiting downside confidence. DeFi TVL decline (-17%) and Curve ecosystem pressures create headwinds. Forecast annualizes the recent 14-day momentum (-18.30%) while acknowledging low confidence due to high volatility (87.4%) and potential mean reversion in a heavily oversold market.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX is in a severe bear market with -30.41% 30-day loss and -2.92 Sharpe ratio. The strong downtrend (-14.59% in 7d, -18.30% in 14d) suggests continued weakness over the next 14 days. However, extreme drawdowns often precede relief rallies, limiting downside confidence. DeFi TVL decline (-17%) and Curve ecosystem pressures create headwinds. Forecast annualizes the recent 14-day momentum (-18.30%) while acknowledging low confidence due to high volatility (87.4%) and potential mean reversion in a heavily oversold market.\"\n}\n```",
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -27.6% 30-day loss and -8.67% 14-day momentum. High volatility (90.4%) and negative Sharpe ratio (-2.57) indicate risk-reward is unfavorable. SNX particularly weak (-49.6% TVL change). However, extreme downside may be partially priced in. LDO's large TVL provides some stability. Near-term catalysts appear negative given -17% DeFi TVL contraction. Forecast assumes continued pressure but potential for mean reversion bounces.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -27.6% 30-day loss and -8.67% 14-day momentum. High volatility (90.4%) and negative Sharpe ratio (-2.57) indicate risk-reward is unfavorable. SNX particularly weak (-49.6% TVL change). However, extreme downside may be partially priced in. LDO's large TVL provides some stability. Near-term catalysts appear negative given -17% DeFi TVL contraction. Forecast assumes continued pressure but potential for mean reversion bounces.\"\n}\n```",
   "date": "2025-11-15",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:58.673882+00:00",
+  "generated_at": "2026-02-17T16:39:03.506311+00:00",
   "enriched": false
 }

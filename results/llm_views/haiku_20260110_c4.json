@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.45,
-  "reasoning": "BAL is in a bear market regime with strong downtrend (-24.43% over 30 days, -10.46% over 7 days). The negative Sharpe ratio (-7.36) and recent momentum suggest continued weakness. However, oversold conditions and protocol stability (TVL only -5.3%) could stabilize the token. Annualized return extrapolates the recent 14-day trend (-9.51%) to an annual basis, adjusted downward for regime persistence but with low confidence due to high volatility (27.9%) and potential mean reversion in bear markets.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL is in a bear market regime with strong downtrend (-24.43% over 30 days, -10.46% over 7 days). The negative Sharpe ratio (-7.36) and recent momentum suggest continued weakness. However, oversold conditions and protocol stability (TVL only -5.3%) could stabilize the token. Annualized return extrapolates the recent 14-day trend (-9.51%) to an annual basis, adjusted downward for regime persistence but with low confidence due to high volatility (27.9%) and potential mean reversion in bear markets.\"\n}\n```",
+  "expected_return": 0.28,
+  "confidence": 0.42,
+  "reasoning": "Cluster 4 shows conflicting signals in a bear market. Positive momentum (7d: +3.16%, 14d: +11.31%) suggests mean reversion from the 30d loss of -6.38%, supporting near-term upside. However, high volatility (51.8% annualized), negative Sharpe ratio (-1.04), and overall bearish DeFi regime (-1.7% TVL decline) create headwinds. The 14-day forecast of +28% annualized (roughly +0.75% absolute over 14 days) reflects modest positive momentum while heavily discounting by the bear market context and lack of TVL fundamentals for most tokens. Low confidence reflects the challenging macro environment and high idiosyncratic risk in this volatile cluster.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster 4 shows conflicting signals in a bear market. Positive momentum (7d: +3.16%, 14d: +11.31%) suggests mean reversion from the 30d loss of -6.38%, supporting near-term upside. However, high volatility (51.8% annualized), negative Sharpe ratio (-1.04), and overall bearish DeFi regime (-1.7% TVL decline) create headwinds. The 14-day forecast of +28% annualized (roughly +0.75% absolute over 14 days) reflects modest positive momentum while heavily discounting by the bear market context and lack of TVL fundamentals for most tokens. Low confidence reflects the challenging macro environment and high idiosyncratic risk in this volatile cluster.\"\n}\n```",
   "date": "2026-01-10",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:29.057496+00:00",
+  "generated_at": "2026-02-17T16:41:06.640653+00:00",
   "enriched": false
 }

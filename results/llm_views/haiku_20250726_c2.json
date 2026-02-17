@@ -1,26 +1,14 @@
 {
   "expected_return": 0.42,
-  "confidence": 0.68,
-  "reasoning": "Bull market regime with strong 30-day cluster return (+25.59%) and excellent Sharpe ratio (4.15) support positive outlook. However, recent 7-day weakness (-1.36%) and moderate max drawdown (-9.6%) suggest momentum is cooling. The 14-day return (+12.66%) is healthy but shows deceleration vs 30-day pace. High annualized volatility (51.8%) and diverse token composition (DEX, lending, derivatives, staking) with varying TVL trends (+17-90%) create forecast uncertainty. Bull regime and strong fundamentals (AAVE's massive TVL +36.5%) support continued gains, but momentum deterioration limits confidence to moderate levels. Annualized forecast accounts for mean reversion from exceptional 30-day performance.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Bull market regime with strong 30-day cluster return (+25.59%) and excellent Sharpe ratio (4.15) support positive outlook. However, recent 7-day weakness (-1.36%) and moderate max drawdown (-9.6%) suggest momentum is cooling. The 14-day return (+12.66%) is healthy but shows deceleration vs 30-day pace. High annualized volatility (51.8%) and diverse token composition (DEX, lending, derivatives, staking) with varying TVL trends (+17-90%) create forecast uncertainty. Bull regime and strong fundamentals (AAVE's massive TVL +36.5%) support continued gains, but momentum deterioration limits confidence to moderate levels. Annualized forecast accounts for mean reversion from exceptional 30-day performance.\"\n}\n```",
+  "confidence": 0.65,
+  "reasoning": "BAL demonstrates strong momentum with +30.43% 30-day return and +19.93% 14-day return in a bull market regime. However, forecasting the next 14 days is challenging due to: (1) High volatility (55.4% annualized) increases uncertainty, (2) Mean reversion risk after strong recent performance (+6.31% in last 7 days suggests potential consolidation), (3) Single-token cluster lacks diversification. The 0.42 annualized return reflects extrapolation of recent 14-day momentum (+19.93% = ~1.42x annualized) with a modest discount for mean reversion effects. Confidence is moderate (0.65) due to the high volatility environment and inherent difficulty in short-term forecasting, despite favorable bull market conditions and strong TVL growth (+23.3%).",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.65,\n  \"reasoning\": \"BAL demonstrates strong momentum with +30.43% 30-day return and +19.93% 14-day return in a bull market regime. However, forecasting the next 14 days is challenging due to: (1) High volatility (55.4% annualized) increases uncertainty, (2) Mean reversion risk after strong recent performance (+6.31% in last 7 days suggests potential consolidation), (3) Single-token cluster lacks diversification. The 0.42 annualized return reflects extrapolation of recent 14-day momentum (+19.93% = ~1.42x annualized) with a modest discount for mean reversion effects. Confidence is moderate (0.65) due to the high volatility environment and inherent difficulty in short-term forecasting, despite favorable bull market conditions and strong TVL growth (+23.3%).\"\n}\n```",
   "date": "2025-07-26",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:47.378813+00:00",
+  "generated_at": "2026-02-17T16:35:00.710406+00:00",
   "enriched": false
 }

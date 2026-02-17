@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.28,
+  "confidence": 0.68,
+  "reasoning": "Moderate bull regime with strong TVL fundamentals (+31-34% across DeFi) supports continued gains. However, recent 7-day weakness (-1.97%) after 30-day rally (+22.29%) suggests consolidation. Conservative estimate of +3-4% over 14 days (annualizes to ~0.28) balances bullish TVL growth against momentum deceleration and elevated 61.3% volatility. Confidence moderate due to uncertainty in near-term momentum direction.",
+  "raw_response": "I'll analyze the DeFi cluster data to provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n1. **Strong TVL Growth**: Overall DeFi TVL up 34.9% (30d), with most protocols showing solid growth (AAVE +31.8%, CRV +25.2%, COMP +20.9%)\n2. **Bullish Market Regime**: Moderate bull market with positive trend\n3. **Excellent Risk-Adjusted Returns**: Sharpe ratio of 3.05 indicates strong risk-adjusted performance\n4. **14-day Momentum**: +6.64% over last 14 days shows sustained upward movement\n5. **Cluster Composition**: Diverse exposure across derivatives, DEX, yield, and lending protocols\n\n**Caution Factors:**\n1. **Recent Weakness**: 7-day return of -1.97% suggests near-term pullback/consolidation\n2. **High Volatility**: 61.3% annualized volatility indicates significant price swings and risk\n3. **Max Drawdown**: -10.3% shows recent corrections are material\n4. **Mean Reversion Risk**: After strong 30-day performance (+22.29%), some pullback is possible\n\n**Analysis:**\n- The cluster has shown strong fundamental growth (TVL expansion) supporting the bull case\n- The recent 7-day weakness after 30-day strength suggests profit-taking but not trend reversal\n- The 14-day return (+6.64%) is more moderate than 30-day, indicating decelerating momentum\n- For the next 14 days, expect some consolidation as market digests recent gains\n- The bull regime and TVL growth support continued positive returns, but at a slower pace than the last month\n\n**Forecast Methodology:**\n- Assuming mean reversion toward historical averages\n- Weighing the recent 7-day weakness (-1.97%) against 14-day strength (+6.64%)\n- Conservative adjustment for momentum deceleration after strong 30-day run\n- Annualizing over 14-day period\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Moderate bull regime with strong TVL fundamentals (+31-34% across DeFi) supports continued gains. However, recent 7-day weakness (-1.97%) after 30-day rally (+22.29%) suggests consolidation. Conservative estimate of +3-4% over 14 days (annualizes to ~0.28) balances bullish TVL growth against momentum deceleration and elevated 61.3% volatility. Confidence moderate due to uncertainty in near-term momentum direction.\"\n}\n```",
+  "date": "2025-05-17",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:32:21.472479+00:00",
+  "enriched": false
+}

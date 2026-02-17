@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.52,
+  "reasoning": "Cluster shows mixed signals: recent 7-day momentum (+7.47%) is positive, but 14-day trend is negative (-1.31%). High volatility (49.4%) and negative Sharpe ratio (-0.08) indicate risk-reward imbalance. AAVE's strong TVL growth (+15.0%) and overall DeFi market growth (+8.2%) provide fundamental support. However, neutral/range-bound regime and recent underperformance suggest mean reversion risk. Forecasting modest positive return annualized from 14-day window, but confidence is moderate due to conflicting signals and regime uncertainty.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster shows mixed signals: recent 7-day momentum (+7.47%) is positive, but 14-day trend is negative (-1.31%). High volatility (49.4%) and negative Sharpe ratio (-0.08) indicate risk-reward imbalance. AAVE's strong TVL growth (+15.0%) and overall DeFi market growth (+8.2%) provide fundamental support. However, neutral/range-bound regime and recent underperformance suggest mean reversion risk. Forecasting modest positive return annualized from 14-day window, but confidence is moderate due to conflicting signals and regime uncertainty.\"\n}\n```",
+  "date": "2025-10-04",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:38:08.025241+00:00",
+  "enriched": false
+}

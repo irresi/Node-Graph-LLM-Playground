@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.35,
-  "reasoning": "Cluster shows decelerating losses and potential mean reversion after -25% decline, but remains in weak market regime. Expect modest recovery (8% annualized equivalent to ~0.1% over 14 days) with low confidence due to high volatility and negative market conditions. Infrastructure tokens provide some insulation from TVL pressure but face headwinds from overall DeFi bear market.",
-  "raw_response": "I'll analyze this DeFi cluster to provide a forecast for the next 14 days.\n\n## Analysis of Cluster 1 (LINK, OP, ARB, ENS, GRT)\n\n**Key Observations:**\n\n1. **Market Regime**: Strong bear market with -1.3% DeFi TVL decline\n2. **Recent Performance**: \n   - 30-day: -25.34%\n   - 14-day: -8.04%\n   - 7-day: -2.02%\n   - Clear deceleration in losses (momentum improving)\n\n3. **Volatility Profile**: 61.5% annualized volatility with deeply negative Sharpe ratio (-3.46)\n\n4. **Token Composition**: Mix of infrastructure (LINK oracle, L2 governance tokens), with limited protocol TVL data (governance/utility tokens rather than liquidity protocols)\n\n**Forecast Reasoning:**\n\nThe cluster shows signs of stabilization after significant losses. The deceleration pattern (losses slowing from -8.04% to -2.02% over the most recent 7 days) suggests momentum may be bottoming. However, several headwinds remain:\n- Overall DeFi market still in decline\n- Extremely high volatility indicates uncertainty\n- Negative Sharpe ratio reflects poor risk-adjusted returns\n- These are infrastructure/governance tokens with limited direct TVL dependencies\n\n**Forward-Looking Factors:**\n- Mean reversion potential after -25% decline\n- Stabilizing momentum could support modest recovery\n- But weak overall market regime limits upside potential\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows decelerating losses and potential mean reversion after -25% decline, but remains in weak market regime. Expect modest recovery (8% annualized equivalent to ~0.1% over 14 days) with low confidence due to high volatility and negative market conditions. Infrastructure tokens provide some insulation from TVL pressure but face headwinds from overall DeFi bear market.\"\n}\n```",
+  "expected_return": -0.32,
+  "confidence": 0.55,
+  "reasoning": "CAKE faces headwinds from bear market regime (-1.3% TVL decline) and negative momentum (7-day: -2.94%, 14-day: -8.00%). However, CAKE's TVL is growing (+2.1% 30d), suggesting some protocol resilience. The high volatility (54.4%) and negative Sharpe ratio (-1.67) indicate significant downside risk in near term. Extrapolating recent 14-day decline (-8%) to annualized rate yields -208%, but mean reversion and modest TVL growth provide some offset. Conservative forecast of -32% annualized return reflects continued weakness in bear regime while acknowledging partial support from TVL stability. Moderate confidence due to unpredictability of DEX token performance in macro downtrends.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE faces headwinds from bear market regime (-1.3% TVL decline) and negative momentum (7-day: -2.94%, 14-day: -8.00%). However, CAKE's TVL is growing (+2.1% 30d), suggesting some protocol resilience. The high volatility (54.4%) and negative Sharpe ratio (-1.67) indicate significant downside risk in near term. Extrapolating recent 14-day decline (-8%) to annualized rate yields -208%, but mean reversion and modest TVL growth provide some offset. Conservative forecast of -32% annualized return reflects continued weakness in bear regime while acknowledging partial support from TVL stability. Moderate confidence due to unpredictability of DEX token performance in macro downtrends.\"\n}\n```",
   "date": "2025-12-13",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:31.424893+00:00",
+  "generated_at": "2026-02-17T16:39:51.052095+00:00",
   "enriched": false
 }

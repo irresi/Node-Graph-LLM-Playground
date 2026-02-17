@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.45,
+  "expected_return": 0.32,
   "confidence": 0.62,
-  "reasoning": "Cluster shows strong 30-day momentum (+23.57%) and excellent risk-adjusted returns (Sharpe 3.12) in a bull market regime. However, recent 14-day return (+0.30%) suggests momentum deceleration after a sharp 7-day rally (+13.24%), indicating potential mean reversion. The -21% max drawdown and 63.5% annualized volatility indicate elevated risk. While infrastructure/L2 tokens typically perform well in bull markets with rising DeFi TVL (+26.1%), the decelerating 14-day trend and recent consolidation lower confidence. Forecast assumes partial continuation of recent strength but at a moderated pace, annualized over 14 days.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 30-day momentum (+23.57%) and excellent risk-adjusted returns (Sharpe 3.12) in a bull market regime. However, recent 14-day return (+0.30%) suggests momentum deceleration after a sharp 7-day rally (+13.24%), indicating potential mean reversion. The -21% max drawdown and 63.5% annualized volatility indicate elevated risk. While infrastructure/L2 tokens typically perform well in bull markets with rising DeFi TVL (+26.1%), the decelerating 14-day trend and recent consolidation lower confidence. Forecast assumes partial continuation of recent strength but at a moderated pace, annualized over 14 days.\"\n}\n```",
+  "reasoning": "CAKE shows strong recent momentum with +7.69% 7-day return despite +0.74% 14-day return, suggesting renewed bullish pressure. TVL growth of +12.2% indicates protocol health and user engagement. The bull market regime and elevated Sharpe ratio (2.36) are positive signals. However, the high volatility (56.9%) and -18.4% max drawdown create significant downside risk. The 14-day deceleration and modest 14-day return suggest momentum may be plateauing. Annualizing the recent 7-day return (~48% annually) with adjustments for mean reversion and near-term consolidation yields a 32% annualized forecast. Confidence is moderate due to DeFi's inherent volatility and the mixed signals from conflicting timeframes.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows strong recent momentum with +7.69% 7-day return despite +0.74% 14-day return, suggesting renewed bullish pressure. TVL growth of +12.2% indicates protocol health and user engagement. The bull market regime and elevated Sharpe ratio (2.36) are positive signals. However, the high volatility (56.9%) and -18.4% max drawdown create significant downside risk. The 14-day deceleration and modest 14-day return suggest momentum may be plateauing. Annualizing the recent 7-day return (~48% annually) with adjustments for mean reversion and near-term consolidation yields a 32% annualized forecast. Confidence is moderate due to DeFi's inherent volatility and the mixed signals from conflicting timeframes.\"\n}\n```",
   "date": "2025-08-09",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:55:01.193625+00:00",
+  "generated_at": "2026-02-17T16:35:28.334110+00:00",
   "enriched": false
 }

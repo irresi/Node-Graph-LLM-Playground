@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.45,
-  "reasoning": "Cluster in bear market with -29.47% 30-day decline and -31.9% max drawdown. Recent 7-day bounce (+6.63%) suggests short-term relief rally, but 14-day return (-9.42%) indicates downtrend persistence. Infrastructure/L2 tokens highly correlated with broader crypto sentiment. DeFi TVL down 16.5% signals weak fundamentals. High volatility (81.1% annualized) and negative Sharpe (-3.05) suggest elevated risk with poor risk-adjusted returns. Forecast assumes partial mean reversion from oversold conditions but remains cautious given strong bear regime. Low confidence due to macro uncertainty and thin protocol TVL data.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster in bear market with -29.47% 30-day decline and -31.9% max drawdown. Recent 7-day bounce (+6.63%) suggests short-term relief rally, but 14-day return (-9.42%) indicates downtrend persistence. Infrastructure/L2 tokens highly correlated with broader crypto sentiment. DeFi TVL down 16.5% signals weak fundamentals. High volatility (81.1% annualized) and negative Sharpe (-3.05) suggest elevated risk with poor risk-adjusted returns. Forecast assumes partial mean reversion from oversold conditions but remains cautious given strong bear regime. Low confidence due to macro uncertainty and thin protocol TVL data.\"\n}\n```",
+  "expected_return": 0.12,
+  "confidence": 0.48,
+  "reasoning": "CAKE shows near-term recovery momentum (+14.35% 7d, +2.19% 14d) suggesting oversold conditions and potential mean reversion. TVL resilience (-3.2%) indicates relative protocol strength. However, bear market regime, high annualized volatility (70.2%), negative Sharpe ratio, and significant max drawdown (-20.9%) create substantial headwinds. Forecasting modest 12% annualized return reflects the balance between positive momentum and macro constraints, with moderate confidence due to high uncertainty in volatile bear market conditions.",
+  "raw_response": "I'll analyze this DeFi cluster (CAKE - PancakeSwap) and provide a 14-day expected return forecast.\n\nLet me break down the key factors:\n\n**Market Context:**\n- Overall DeFi in bear regime with -16.5% TVL decline (30d)\n- Strong headwinds across the sector\n\n**Cluster Metrics:**\n- CAKE 30d return: -6.60% (outperforming broader DeFi)\n- Recent momentum: +14.35% (7d), +2.19% (14d) - showing recovery\n- High volatility: 70.2% annualized\n- Negative Sharpe ratio (-0.79) indicating poor risk-adjusted returns\n- Max drawdown of -20.9% shows significant downside risk\n- TVL stable: -3.2% (30d) - relatively resilient vs broader market\n\n**Analysis:**\n\nThe recent 7-day rebound (+14.35%) after a weak 30-day period suggests potential oversold conditions and short-term momentum recovery. However, this must be tempered by:\n\n1. **Bear market regime** - Macroeconomic headwinds persist\n2. **Negative Sharpe ratio** - Risk-adjusted returns are poor\n3. **High volatility** - 70.2% annualized creates significant mean-reversion risk\n4. **TVL resilience** - CAKE's TVL decline (-3.2%) is better than market average, suggesting relative strength\n\nThe 14-day return of +2.19% and recent positive 7-day momentum suggest the cluster may continue recovering modestly in the near term, but the bear market regime and high volatility limit upside potential.\n\n**Forecast Logic:**\n- Projecting the 14-day momentum forward (annualizing +2.19% over 14 days \u2248 57% annualized) would be unrealistic given market conditions\n- More conservative approach: modest positive return (0.08-0.15 annualized) reflecting near-term recovery while acknowledging bear market constraints\n- Confidence moderate (0.45-0.55) due to high volatility and macro headwinds offsetting positive near-term momentum\n\n```json\n{\"expected_return\": 0.12, \"confidence\": 0.48, \"reasoning\": \"CAKE shows near-term recovery momentum (+14.35% 7d, +2.19% 14d) suggesting oversold conditions and potential mean reversion. TVL resilience (-3.2%) indicates relative protocol strength. However, bear market regime, high annualized volatility (70.2%), negative Sharpe ratio, and significant max drawdown (-20.9%) create substantial headwinds. Forecasting modest 12% annualized return reflects the balance between positive momentum and macro constraints, with moderate confidence due to high uncertainty in volatile bear market conditions.\"}\n```",
   "date": "2025-11-29",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:08.789913+00:00",
+  "generated_at": "2026-02-17T16:39:25.404774+00:00",
   "enriched": false
 }

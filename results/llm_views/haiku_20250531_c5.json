@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.45,
+  "reasoning": "Cluster 5 shows mixed signals: positive long-term trend (+19.6% TVL growth in bull market) but concerning near-term momentum (-9.69% 7-day, -8.86% 14-day returns). The 0.10 Sharpe ratio and 67.9% volatility indicate elevated risk with modest risk-adjusted returns. Recovery potential exists given overall DeFi bull regime and strong AAVE/GMX TVL growth, but recent weakness suggests caution. MKR's -10.7% TVL decline and -17.2% max drawdown raise concern. Forecast reflects potential mean reversion in a bull market, moderated by weak near-term technical setup and elevated leverage risk in derivatives/DEX category.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster 5 shows mixed signals: positive long-term trend (+19.6% TVL growth in bull market) but concerning near-term momentum (-9.69% 7-day, -8.86% 14-day returns). The 0.10 Sharpe ratio and 67.9% volatility indicate elevated risk with modest risk-adjusted returns. Recovery potential exists given overall DeFi bull regime and strong AAVE/GMX TVL growth, but recent weakness suggests caution. MKR's -10.7% TVL decline and -17.2% max drawdown raise concern. Forecast reflects potential mean reversion in a bull market, moderated by weak near-term technical setup and elevated leverage risk in derivatives/DEX category.\"\n}\n```",
+  "date": "2025-05-31",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:33:16.249401+00:00",
+  "enriched": false
+}

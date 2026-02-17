@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.95,
-  "confidence": 0.45,
-  "reasoning": "Cluster in severe bear regime with -49.82% 30-day decline and -39.34% 14-day decline. High volatility (107.1% annualized) and negative Sharpe ratio (-3.91) indicate distressed conditions. 7-day return of -4.06% suggests momentum may be stabilizing slightly. Infrastructure/L2 tokens typically lag in downturns but can bounce sharply. Forecasting continued weakness over next 14 days (-95% annualized, ~-5% nominal) but with moderate confidence due to potential for volatile reversals in bear markets. Lower confidence reflects uncertainty in timing of sector bottoming.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster in severe bear regime with -49.82% 30-day decline and -39.34% 14-day decline. High volatility (107.1% annualized) and negative Sharpe ratio (-3.91) indicate distressed conditions. 7-day return of -4.06% suggests momentum may be stabilizing slightly. Infrastructure/L2 tokens typically lag in downturns but can bounce sharply. Forecasting continued weakness over next 14 days (-95% annualized, ~-5% nominal) but with moderate confidence due to potential for volatile reversals in bear markets. Lower confidence reflects uncertainty in timing of sector bottoming.\"\n}\n```",
+  "expected_return": -0.15,
+  "confidence": 0.42,
+  "reasoning": "CAKE shows mixed signals: positive 30-day return (+5.35%) and TVL growth (+11.8%) suggest protocol strength, but severe 14-day drawdown (-24.52%) indicates recent momentum reversal. Bear market regime and extreme volatility (172.8% annualized) create significant headwinds. The 7-day rebound (+0.72%) suggests potential stabilization, but with a max drawdown of -39.8%, downside risk remains elevated. Conservative negative forecast reflects bearish macro environment and recent price weakness, though protocol fundamentals provide some mitigation. Low confidence due to high volatility and conflicting signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.15,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CAKE shows mixed signals: positive 30-day return (+5.35%) and TVL growth (+11.8%) suggest protocol strength, but severe 14-day drawdown (-24.52%) indicates recent momentum reversal. Bear market regime and extreme volatility (172.8% annualized) create significant headwinds. The 7-day rebound (+0.72%) suggests potential stabilization, but with a max drawdown of -39.8%, downside risk remains elevated. Conservative negative forecast reflects bearish macro environment and recent price weakness, though protocol fundamentals provide some mitigation. Low confidence due to high volatility and conflicting signals.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:55.991816+00:00",
+  "generated_at": "2026-02-17T16:38:11.979513+00:00",
   "enriched": false
 }

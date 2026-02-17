@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.72,
+  "reasoning": "Cluster 5 is in a severe bear regime with -30.36% 30-day return and -22.90% 14-day return showing continued deterioration. The negative 7-day momentum (-14.46%) and extreme volatility (75.3% annualized) indicate downward pressure persists. TVL across major protocols declining 15-29% YoY with broader DeFi TVL down 22.9% suggests structural weakness. The deeply negative Sharpe ratio (-3.39) and -35.6% max drawdown reflect risk-reward imbalance. While oversold conditions could provide short-term relief, the combination of macro bear pressure, protocol-level TVL declines, and deteriorating 7-day momentum suggests continued weakness over the next 14 days. Annualizing 14-day returns from recent trends yields approximately -85% expected return, with moderate-high confidence given clear directional signals despite inherent volatility risk.",
+  "raw_response": "Based on the provided market context and cluster metrics, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.72,\n  \"reasoning\": \"Cluster 5 is in a severe bear regime with -30.36% 30-day return and -22.90% 14-day return showing continued deterioration. The negative 7-day momentum (-14.46%) and extreme volatility (75.3% annualized) indicate downward pressure persists. TVL across major protocols declining 15-29% YoY with broader DeFi TVL down 22.9% suggests structural weakness. The deeply negative Sharpe ratio (-3.39) and -35.6% max drawdown reflect risk-reward imbalance. While oversold conditions could provide short-term relief, the combination of macro bear pressure, protocol-level TVL declines, and deteriorating 7-day momentum suggests continued weakness over the next 14 days. Annualizing 14-day returns from recent trends yields approximately -85% expected return, with moderate-high confidence given clear directional signals despite inherent volatility risk.\"\n}\n```\n\n**Key analytical drivers:**\n- **Momentum deterioration**: 7-day (-14.46%) worse than 14-day (-22.90%), indicating acceleration of losses\n- **Structural weakness**: 5/5 major protocols showing TVL contraction (15-29%)\n- **Extreme risk metrics**: 75.3% volatility and -3.39 Sharpe ratio signal unfavorable risk-adjusted environment\n- **Confidence moderator**: 0.72 reflects uncertainty around potential capitulation/reversal events in volatile bear markets, but technical and fundamental signals align bearishly",
+  "date": "2026-02-07",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:41:58.672163+00:00",
+  "enriched": false
+}

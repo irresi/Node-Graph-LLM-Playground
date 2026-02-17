@@ -1,14 +1,18 @@
 {
   "expected_return": 0.28,
-  "confidence": 0.68,
-  "reasoning": "BAL cluster shows strong momentum with 30.43% 30-day return and exceptional Sharpe ratio of 4.61, indicating high risk-adjusted returns. Bull market regime and +23.3% TVL growth support continued upside. However, high volatility (55.4% annualized) and -10.4% max drawdown introduce meaningful downside risk. Recent deceleration in 7-day return (+6.31%) vs 14-day (+19.93%) suggests momentum may be moderating. Forward-looking estimate of 28% annualized return reflects continuation of strong performance but with modest mean reversion from the exceptional recent period. Confidence is moderate due to high volatility and the challenge of sustaining extreme performance metrics.",
-  "raw_response": "Based on the provided market context and cluster analysis, here is my forecast:\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.68,\n  \"reasoning\": \"BAL cluster shows strong momentum with 30.43% 30-day return and exceptional Sharpe ratio of 4.61, indicating high risk-adjusted returns. Bull market regime and +23.3% TVL growth support continued upside. However, high volatility (55.4% annualized) and -10.4% max drawdown introduce meaningful downside risk. Recent deceleration in 7-day return (+6.31%) vs 14-day (+19.93%) suggests momentum may be moderating. Forward-looking estimate of 28% annualized return reflects continuation of strong performance but with modest mean reversion from the exceptional recent period. Confidence is moderate due to high volatility and the challenge of sustaining extreme performance metrics.\"\n}\n```",
+  "confidence": 0.62,
+  "reasoning": "Cluster 4 shows strong bull-regime momentum with +33.45% 30-day return and +14.16% 14-day return, supported by overall DeFi TVL growth (+37.7%). However, recent 7-day performance (-0.09%) suggests momentum deceleration and potential pullback. The infrastructure/L2 token category benefits from network adoption but lacks direct TVL metrics, limiting fundamental conviction. High volatility (62.7%) and exceptional Sharpe ratio (4.48) indicate strong risk-adjusted returns but may not sustain. Forecast annualizes recent 14-day momentum (+14.16% \u2192 ~0.37 annualized) with moderate downward adjustment for deceleration signals, yielding 0.28 expected return with moderate confidence reflecting momentum fading and lack of protocol fundamentals visibility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 4 shows strong bull-regime momentum with +33.45% 30-day return and +14.16% 14-day return, supported by overall DeFi TVL growth (+37.7%). However, recent 7-day performance (-0.09%) suggests momentum deceleration and potential pullback. The infrastructure/L2 token category benefits from network adoption but lacks direct TVL metrics, limiting fundamental conviction. High volatility (62.7%) and exceptional Sharpe ratio (4.48) indicate strong risk-adjusted returns but may not sustain. Forecast annualizes recent 14-day momentum (+14.16% \u2192 ~0.37 annualized) with moderate downward adjustment for deceleration signals, yielding 0.28 expected return with moderate confidence reflecting momentum fading and lack of protocol fundamentals visibility.\"\n}\n```",
   "date": "2025-07-26",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:56.589658+00:00",
+  "generated_at": "2026-02-17T16:35:17.963788+00:00",
   "enriched": false
 }

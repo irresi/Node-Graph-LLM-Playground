@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.62,
-  "reasoning": "Cluster in bear market regime with -23.04% 30-day loss and -15.43% 7-day decline. High volatility (79.5% annualized) and negative Sharpe ratio (-2.44) indicate sustained downward momentum. DeFi TVL down 17% suggests sector-wide weakness. Infrastructure/L2 tokens lack direct TVL metrics but face macro headwinds. Recent trend acceleration (-13.97% in 14d vs -23.04% in 30d) shows deceleration, possibly bottoming. Forecast annualized -85% return over 14 days reflects continued bear pressure with some stabilization. Moderate confidence due to unpredictable volatility and potential mean-reversion bounce.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market regime with -23.04% 30-day loss and -15.43% 7-day decline. High volatility (79.5% annualized) and negative Sharpe ratio (-2.44) indicate sustained downward momentum. DeFi TVL down 17% suggests sector-wide weakness. Infrastructure/L2 tokens lack direct TVL metrics but face macro headwinds. Recent trend acceleration (-13.97% in 14d vs -23.04% in 30d) shows deceleration, possibly bottoming. Forecast annualized -85% return over 14 days reflects continued bear pressure with some stabilization. Moderate confidence due to unpredictable volatility and potential mean-reversion bounce.\"\n}\n```",
+  "expected_return": -0.45,
+  "confidence": 0.35,
+  "reasoning": "CAKE faces significant headwinds: bear market regime with -17% DeFi TVL decline, -25.49% 30-day loss, elevated volatility (64% annualized), and negative Sharpe ratio (-3.35). 14-day momentum (-2.99%) shows deceleration from 30-day decline, suggesting potential stabilization or continued weakness. TVL holding relatively stable (-5.5% vs -17% market) indicates some resilience. Low confidence reflects high volatility and bear regime uncertainty; annualized forecast assumes continued modest downside over 14 days with possibility of sharp reversals given oversold conditions.",
+  "raw_response": "```json\n{\"expected_return\": -0.45, \"confidence\": 0.35, \"reasoning\": \"CAKE faces significant headwinds: bear market regime with -17% DeFi TVL decline, -25.49% 30-day loss, elevated volatility (64% annualized), and negative Sharpe ratio (-3.35). 14-day momentum (-2.99%) shows deceleration from 30-day decline, suggesting potential stabilization or continued weakness. TVL holding relatively stable (-5.5% vs -17% market) indicates some resilience. Low confidence reflects high volatility and bear regime uncertainty; annualized forecast assumes continued modest downside over 14 days with possibility of sharp reversals given oversold conditions.\"}\n```",
   "date": "2025-11-15",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:47.037239+00:00",
+  "generated_at": "2026-02-17T16:38:54.759547+00:00",
   "enriched": false
 }

@@ -1,26 +1,14 @@
 {
   "expected_return": 0.28,
-  "confidence": 0.65,
-  "reasoning": "Cluster 2 shows strong recent momentum (+8.45% in 30d, +6.35% in 14d, +5.86% in 7d) with positive market regime (TVL +22% YoY). The 14-day annualized return of 0.28 is derived from the current 14-day return trajectory scaled to annual basis. However, confidence is moderate (0.65) due to: (1) high annualized volatility of 74% creates significant downside risk, (2) mixed protocol fundamentals with CRV showing negative TVL trend (-0.2%), (3) max drawdown of -18% indicates recent volatility, and (4) extrapolating 14-day performance over a full year assumes sustained momentum which may not persist given the bull market context could face consolidation. The solid Sharpe ratio of 0.96 and moderate TVL growth from major protocols (AAVE +21.8%, SUSHI +32.7%, UNI +13%) provide some fundamental support for continued strength in the near term.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 2 shows strong recent momentum (+8.45% in 30d, +6.35% in 14d, +5.86% in 7d) with positive market regime (TVL +22% YoY). The 14-day annualized return of 0.28 is derived from the current 14-day return trajectory scaled to annual basis. However, confidence is moderate (0.65) due to: (1) high annualized volatility of 74% creates significant downside risk, (2) mixed protocol fundamentals with CRV showing negative TVL trend (-0.2%), (3) max drawdown of -18% indicates recent volatility, and (4) extrapolating 14-day performance over a full year assumes sustained momentum which may not persist given the bull market context could face consolidation. The solid Sharpe ratio of 0.96 and moderate TVL growth from major protocols (AAVE +21.8%, SUSHI +32.7%, UNI +13%) provide some fundamental support for continued strength in the near term.\"\n}\n```",
+  "confidence": 0.62,
+  "reasoning": "BAL has shown consistent positive momentum (5.08% 7d, 6.01% 14d, 5.76% 30d) with strong TVL growth (+17% 30d), indicating protocol health. Annualizing the recent 14-day return (~6%) yields ~157%, but moderated by elevated volatility (78.2%) and max drawdown (-17.6%) suggests mean reversion risk. Moderate bull regime supports continued gains. Forward estimate: ~2% over next 14d (annualized to 52%) conservatively discounted for volatility regime and single-token concentration risk, landing at 28% annualized return with 62% confidence reflecting reasonable visibility but execution and market risks.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL has shown consistent positive momentum (5.08% 7d, 6.01% 14d, 5.76% 30d) with strong TVL growth (+17% 30d), indicating protocol health. Annualizing the recent 14-day return (~6%) yields ~157%, but moderated by elevated volatility (78.2%) and max drawdown (-17.6%) suggests mean reversion risk. Moderate bull regime supports continued gains. Forward estimate: ~2% over next 14d (annualized to 52%) conservatively discounted for volatility regime and single-token concentration risk, landing at 28% annualized return with 62% confidence reflecting reasonable visibility but execution and market risks.\"\n}\n```",
   "date": "2025-08-23",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:55:30.754013+00:00",
+  "generated_at": "2026-02-17T16:36:06.160041+00:00",
   "enriched": false
 }

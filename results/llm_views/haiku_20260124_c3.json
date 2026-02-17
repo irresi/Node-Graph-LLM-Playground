@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.48,
+  "expected_return": -0.32,
   "confidence": 0.58,
-  "reasoning": "CVX shows positive 14-day momentum (+3.56%) with strong 30-day returns (+16.41%), but decelerating 7-day performance (+2.25%) suggests mean reversion. High volatility (119.5%) and declining TVL (-2.0%) create structural headwinds. Annualized forecast of ~48% reflects momentum continuation with conservative adjustment for cooling trend, neutral market regime, and TVL weakness. Moderate confidence due to high volatility and uncertain sustainability of recent gains.",
-  "raw_response": "Based on the market context provided, I'll analyze Cluster 3 (CVX) to forecast its expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: Strong 30-day return (+16.41%) with positive 14-day (+3.56%) and 7-day (+2.25%) returns, indicating sustained upward momentum\n\n2. **Volatility Profile**: High annualized volatility (119.5%) is typical for yield-focused DeFi tokens like CVX, reflecting the sector's risk characteristics\n\n3. **Risk-Adjusted Performance**: Sharpe ratio of 1.15 suggests reasonable risk-adjusted returns, though the -20.4% max drawdown indicates significant downside risk potential\n\n4. **Fundamental Concerns**: CVX's TVL declined -2.0% over 30 days despite positive price performance, suggesting potential weakness in protocol adoption/activity\n\n5. **Market Regime**: Neutral/range-bound DeFi market with modest +3.0% TVL growth limits upside catalysts\n\n6. **Momentum Deceleration**: The decreasing returns pattern (16.41% \u2192 3.56% \u2192 2.25%) from 30d \u2192 14d \u2192 7d suggests momentum is cooling\n\n**Forecast Methodology:**\n- Extrapolating 14-day return (+3.56%) to annualized equivalent: ~93.5%\n- Applying mean-reversion adjustment for momentum deceleration: -30%\n- Accounting for neutral market regime and declining TVL: -15%\n- Balancing positive recent momentum with structural headwinds\n\n```json\n{\n  \"expected_return\": 0.48,\n  \"confidence\": 0.58,\n  \"reasoning\": \"CVX shows positive 14-day momentum (+3.56%) with strong 30-day returns (+16.41%), but decelerating 7-day performance (+2.25%) suggests mean reversion. High volatility (119.5%) and declining TVL (-2.0%) create structural headwinds. Annualized forecast of ~48% reflects momentum continuation with conservative adjustment for cooling trend, neutral market regime, and TVL weakness. Moderate confidence due to high volatility and uncertain sustainability of recent gains.\"\n}\n```",
+  "reasoning": "Cluster shows significant negative momentum (14-day return: -11.65%) with high volatility (57.2% annualized). Mixed protocol fundamentals: LDO and SNX show positive TVL growth (+7.7%, +9.6%), but UNI and SUSHI declining. Neutral market regime suggests mean reversion potential, but negative 7-day trend (-11.15%) indicates continued weakness. Moderate confidence due to conflicting signals between individual protocols and overall negative trajectory. Expected 14-day return of ~-1.24% annualized to -0.32% accounts for potential stabilization but elevated drawdown risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster shows significant negative momentum (14-day return: -11.65%) with high volatility (57.2% annualized). Mixed protocol fundamentals: LDO and SNX show positive TVL growth (+7.7%, +9.6%), but UNI and SUSHI declining. Neutral market regime suggests mean reversion potential, but negative 7-day trend (-11.15%) indicates continued weakness. Moderate confidence due to conflicting signals between individual protocols and overall negative trajectory. Expected 14-day return of ~-1.24% annualized to -0.32% accounts for potential stabilization but elevated drawdown risk.\"\n}\n```",
   "date": "2026-01-24",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:47.589091+00:00",
+  "generated_at": "2026-02-17T16:41:22.912423+00:00",
   "enriched": false
 }

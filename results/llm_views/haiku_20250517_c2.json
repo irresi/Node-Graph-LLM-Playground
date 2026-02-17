@@ -1,26 +1,14 @@
 {
-  "expected_return": 0.24,
-  "confidence": 0.62,
-  "reasoning": "Strong 30-day momentum (+24.36%) with bullish macro backdrop (DeFi TVL +34.9%), but recent 7-day pullback (-2.36%) and cluster extension suggest moderated pace. Expect continued positive returns driven by protocol TVL growth (AAVE +31.8%, UNI +29%) but at lower velocity. 14-day annualized return forecast of ~24% reflects reduced momentum from 30-day pace, offset by continued bull market tailwinds. Confidence moderate due to short forecast window and recent consolidation.",
-  "raw_response": "I'll analyze this DeFi cluster to forecast the expected 14-day annualized return.\n\n**Key Analysis Points:**\n\n1. **Momentum Analysis:**\n   - 30-day return: +24.36% (strong)\n   - 14-day return: +9.26% (positive)\n   - 7-day return: -2.36% (recent pullback)\n   - The cluster has shown deceleration recently after strong performance\n\n2. **Volatility & Risk Metrics:**\n   - Annualized volatility: 69.3% (high, typical for DeFi)\n   - Sharpe ratio: 2.95 (excellent risk-adjusted returns)\n   - Max drawdown: -11.5% (moderate risk management)\n\n3. **Market Regime:**\n   - Overall DeFi TVL up 34.9% in 30 days (bullish macro context)\n   - Regime: Moderate Bull (supports positive outlook)\n   - AAVE (largest component, 38% of cluster by TVL) up 31.8%\n\n4. **Protocol Fundamentals:**\n   - Strong TVL growth across major protocols (UNI +29%, SUSHI +33.4%, AAVE +31.8%)\n   - Diversified cluster across yield, derivatives, lending, and DEX categories\n   - Solid underlying protocol health\n\n5. **Forward-Looking Considerations:**\n   - Recent 7-day pullback suggests potential mean reversion or consolidation\n   - The cluster is extended after +24% in 30 days\n   - Bull market context supports continuation, but at moderated pace\n   - 14-day forecast period is short; momentum typically persists but at declining rate\n\n**Forecast Rationale:**\nGiven the strong 30-day performance followed by recent weakness, I expect moderated positive returns over the next 14 days. The bullish macro context and strong protocol fundamentals support continuation, but the recent pullback and extended valuations suggest lower returns than the recent past. I'm modeling a continuation of the 14-day trend (+9.26%) as a reasonable baseline, annualized.\n\n```json\n{\"expected_return\": 0.24, \"confidence\": 0.62, \"reasoning\": \"Strong 30-day momentum (+24.36%) with bullish macro backdrop (DeFi TVL +34.9%), but recent 7-day pullback (-2.36%) and cluster extension suggest moderated pace. Expect continued positive returns driven by protocol TVL growth (AAVE +31.8%, UNI +29%) but at lower velocity. 14-day annualized return forecast of ~24% reflects reduced momentum from 30-day pace, offset by continued bull market tailwinds. Confidence moderate due to short forecast window and recent consolidation.\"}\n```",
+  "expected_return": 0.22,
+  "confidence": 0.58,
+  "reasoning": "BAL showing strong TVL growth (+34.4%) in bullish market regime supporting positive bias. Recent 14-day weakness (-5.07%) after 30-day strength (+17.85%) suggests consolidation before potential reversal. High volatility (105.3%) creates uncertainty. Annualized forecast of 22% reflects moderate conviction in continued upside from protocol fundamentals while acknowledging recent momentum reversal and execution risk.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast for BAL (Balancer).\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Context:**\n   - Strong bull market with +34.9% TVL growth over 30 days\n   - Overall DeFi momentum is positive\n\n2. **BAL Token Performance:**\n   - 30-day return: +17.85% (strong outperformance)\n   - 7-day return: -4.38% (recent weakness)\n   - 14-day return: -5.07% (continued underperformance in recent period)\n   - High volatility at 105.3% annualized (typical for DEX tokens)\n   - Sharpe ratio of 1.42 suggests reasonable risk-adjusted returns\n\n3. **Protocol Health:**\n   - BAL TVL at $781M with +34.4% growth in 30 days\n   - Strong TVL growth indicates protocol momentum and user engagement\n   - DEX category is benefiting from broader DeFi expansion\n\n4. **Momentum Analysis:**\n   - The 30-day return of +17.85% vs recent 14-day return of -5.07% suggests momentum reversal\n   - The -18.1% max drawdown indicates recent volatility and potential consolidation\n   - After a strong 30-day run, some profit-taking is natural\n\n5. **Forward-Looking Considerations:**\n   - TVL growth (+34.4%) suggests positive fundamentals ahead\n   - Moderate bull regime supports continued strength\n   - Recent weakness may present reversal opportunity\n   - High volatility (105.3%) requires risk management but offers opportunity\n\n**Forecast Rationale:**\nGiven the strong TVL growth momentum, positive market regime, but recent price weakness suggesting consolidation, I expect moderate positive returns over the next 14 days as the market digests recent gains and potentially continues the bull trend supported by TVL expansion.\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.58, \"reasoning\": \"BAL showing strong TVL growth (+34.4%) in bullish market regime supporting positive bias. Recent 14-day weakness (-5.07%) after 30-day strength (+17.85%) suggests consolidation before potential reversal. High volatility (105.3%) creates uncertainty. Annualized forecast of 22% reflects moderate conviction in continued upside from protocol fundamentals while acknowledging recent momentum reversal and execution risk.\"}\n```",
   "date": "2025-05-17",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:52:54.991957+00:00",
+  "generated_at": "2026-02-17T16:31:57.584880+00:00",
   "enriched": false
 }

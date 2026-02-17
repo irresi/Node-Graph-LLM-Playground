@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.45,
-  "reasoning": "BAL shows positive short-term momentum (+13.49% over 7 days, +12.53% over 14 days) despite negative 30-day performance (-2.57%), suggesting potential mean reversion or trend recovery. However, the bear market regime, high volatility (44.4% annualized), negative Sharpe ratio (-0.49), and max drawdown of -14.8% present significant headwinds. The single-token cluster concentration increases idiosyncratic risk. TVL growth (+2.4% in 30 days) provides modest fundamental support. The recent momentum could extend modestly into the next 14 days, but sustainability is questionable in the current macro environment. Confidence is low due to regime conflicts and limited fundamental catalysts.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL shows positive short-term momentum (+13.49% over 7 days, +12.53% over 14 days) despite negative 30-day performance (-2.57%), suggesting potential mean reversion or trend recovery. However, the bear market regime, high volatility (44.4% annualized), negative Sharpe ratio (-0.49), and max drawdown of -14.8% present significant headwinds. The single-token cluster concentration increases idiosyncratic risk. TVL growth (+2.4% in 30 days) provides modest fundamental support. The recent momentum could extend modestly into the next 14 days, but sustainability is questionable in the current macro environment. Confidence is low due to regime conflicts and limited fundamental catalysts.\"\n}\n```",
+  "expected_return": -0.25,
+  "confidence": 0.35,
+  "reasoning": "Cluster exhibits mixed signals: strong 7-14 day momentum (+18-19%) contrasts sharply with bear market regime and negative 30-day returns (-1.09%). High volatility (72.7% annualized) and negative Sharpe ratio (-0.13) indicate unstable risk-adjusted performance. Mean reversion likely after recent rally, especially given lack of fundamental TVL support for infrastructure tokens. Weak confidence reflects conflicting indicators and high uncertainty in bear market conditions. Forecast annualizes 14-day outlook assuming consolidation/pullback.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.25,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster exhibits mixed signals: strong 7-14 day momentum (+18-19%) contrasts sharply with bear market regime and negative 30-day returns (-1.09%). High volatility (72.7% annualized) and negative Sharpe ratio (-0.13) indicate unstable risk-adjusted performance. Mean reversion likely after recent rally, especially given lack of fundamental TVL support for infrastructure tokens. Weak confidence reflects conflicting indicators and high uncertainty in bear market conditions. Forecast annualizes 14-day outlook assuming consolidation/pullback.\"\n}\n```",
   "date": "2025-07-12",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:37.349485+00:00",
+  "generated_at": "2026-02-17T16:34:40.294196+00:00",
   "enriched": false
 }

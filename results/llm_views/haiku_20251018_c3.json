@@ -1,14 +1,18 @@
 {
   "expected_return": -0.85,
-  "confidence": 0.35,
-  "reasoning": "CVX in severe bear regime with -44.14% 30-day loss and -53.2% max drawdown. However, recent 7-day recovery (+4.67%) suggests potential oversold conditions. TVL decline (-25.4%) indicates fundamental weakness in Convex ecosystem. Extreme volatility (153.8% annualized) and negative Sharpe ratio (-2.41) create high forecast uncertainty. Low confidence due to unpredictable bounce vs. continued decline dynamics in distressed yield protocols during bear markets. Forecasting modest negative annualized return assuming continued pressure, but acknowledge significant mean-reversion risk.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX in severe bear regime with -44.14% 30-day loss and -53.2% max drawdown. However, recent 7-day recovery (+4.67%) suggests potential oversold conditions. TVL decline (-25.4%) indicates fundamental weakness in Convex ecosystem. Extreme volatility (153.8% annualized) and negative Sharpe ratio (-2.41) create high forecast uncertainty. Low confidence due to unpredictable bounce vs. continued decline dynamics in distressed yield protocols during bear markets. Forecasting modest negative annualized return assuming continued pressure, but acknowledge significant mean-reversion risk.\"\n}\n```",
+  "confidence": 0.62,
+  "reasoning": "Cluster 3 faces headwinds from bear market regime (-11.2% DeFi TVL decline) and significant recent losses (-26.16% over 30d). However, 7-day recovery (+8.59%) and SNX's exceptional TVL growth (+86%) suggest potential mean reversion. High volatility (137.5%) and negative Sharpe ratio (-1.60) indicate elevated risk. The 14-day forecast balances near-term positive momentum against structural weakness, with moderate confidence due to regime uncertainty and cluster composition heavily weighted toward LDO (33.5% of TVL) which declined -17.4%.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 3 faces headwinds from bear market regime (-11.2% DeFi TVL decline) and significant recent losses (-26.16% over 30d). However, 7-day recovery (+8.59%) and SNX's exceptional TVL growth (+86%) suggest potential mean reversion. High volatility (137.5%) and negative Sharpe ratio (-1.60) indicate elevated risk. The 14-day forecast balances near-term positive momentum against structural weakness, with moderate confidence due to regime uncertainty and cluster composition heavily weighted toward LDO (33.5% of TVL) which declined -17.4%.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:08.067119+00:00",
+  "generated_at": "2026-02-17T16:38:19.537210+00:00",
   "enriched": false
 }

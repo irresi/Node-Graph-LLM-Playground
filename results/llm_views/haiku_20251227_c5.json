@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.65,
+  "reasoning": "Cluster 5 faces headwinds from bear market regime and negative 30-day momentum (-11.38%), though 7-day recovery (+1.13%) suggests potential mean reversion. Mixed protocol fundamentals: AAVE/MKR/CRV show TVL growth (+3-7.1%), but COMP declining (-8.1%). Negative Sharpe ratio (-2.21) and 19.1% max drawdown indicate elevated risk. High volatility (43.2%) limits confidence. 14-day annualized forecast reflects cautious outlook with modest negative bias, extrapolating recent 14-day decline (-5.77%) at slower pace as recovery momentum builds. Moderate confidence due to macro bear conditions offsetting fundamental improvements in major protocols.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Cluster 5 faces headwinds from bear market regime and negative 30-day momentum (-11.38%), though 7-day recovery (+1.13%) suggests potential mean reversion. Mixed protocol fundamentals: AAVE/MKR/CRV show TVL growth (+3-7.1%), but COMP declining (-8.1%). Negative Sharpe ratio (-2.21) and 19.1% max drawdown indicate elevated risk. High volatility (43.2%) limits confidence. 14-day annualized forecast reflects cautious outlook with modest negative bias, extrapolating recent 14-day decline (-5.77%) at slower pace as recovery momentum builds. Moderate confidence due to macro bear conditions offsetting fundamental improvements in major protocols.\"\n}\n```",
+  "date": "2025-12-27",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:40:46.033846+00:00",
+  "enriched": false
+}

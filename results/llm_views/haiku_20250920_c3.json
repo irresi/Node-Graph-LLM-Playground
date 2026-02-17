@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.35,
-  "reasoning": "CVX shows mixed signals: positive 7d/14d momentum (+1.75%, +11.60%) suggests potential recovery, but the bear market regime, negative 30d return (-5.81%), declining TVL (-10.6%), and very high volatility (81.6%) create substantial headwinds. The negative Sharpe ratio (-0.60) indicates poor risk-adjusted returns. The annualized forecast reflects the 14d momentum (11.60% * ~26 periods \u2248 301% annualized, discounted to 18% to account for mean reversion, bear market headwinds, and the high probability of momentum reversal). Low confidence reflects the conflicting signals and extreme volatility in the yield farming space.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"CVX shows mixed signals: positive 7d/14d momentum (+1.75%, +11.60%) suggests potential recovery, but the bear market regime, negative 30d return (-5.81%), declining TVL (-10.6%), and very high volatility (81.6%) create substantial headwinds. The negative Sharpe ratio (-0.60) indicates poor risk-adjusted returns. The annualized forecast reflects the 14d momentum (11.60% * ~26 periods \u2248 301% annualized, discounted to 18% to account for mean reversion, bear market headwinds, and the high probability of momentum reversal). Low confidence reflects the conflicting signals and extreme volatility in the yield farming space.\"\n}\n```",
+  "expected_return": -0.42,
+  "confidence": 0.62,
+  "reasoning": "Cluster faces strong headwinds in bear market regime despite modest TVL growth. Recent 7-day return (-8.08%) significantly outweighs positive 14-day momentum (+0.29%), suggesting renewed downward pressure. High volatility (73.6%) and negative Sharpe ratio (-0.86) indicate poor risk-adjusted returns. However, positive TVL trends across all protocols (LDO +2.3%, others +1.0-3.9%) provide moderate fundamental support. Expect continued weakness near-term with high uncertainty given market volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster faces strong headwinds in bear market regime despite modest TVL growth. Recent 7-day return (-8.08%) significantly outweighs positive 14-day momentum (+0.29%), suggesting renewed downward pressure. High volatility (73.6%) and negative Sharpe ratio (-0.86) indicate poor risk-adjusted returns. However, positive TVL trends across all protocols (LDO +2.3%, others +1.0-3.9%) provide moderate fundamental support. Expect continued weakness near-term with high uncertainty given market volatility.\"\n}\n```",
   "date": "2025-09-20",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:26.024499+00:00",
+  "generated_at": "2026-02-17T16:37:23.288946+00:00",
   "enriched": false
 }

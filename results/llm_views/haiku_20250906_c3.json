@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.55,
-  "reasoning": "CVX faces significant headwinds: -23.18% 30-day loss, -21.49% 14-day decline, 85.4% annualized volatility, and -2.28 Sharpe ratio indicate severe underperformance. TVL declined 14.6% in 30 days, suggesting protocol stress. Neutral market regime provides no tailwinds. Momentum is strongly negative with -4.42% 7-day return. However, moderate confidence reflects: (1) extreme drawdowns may stabilize or reverse, (2) yield token valuations can be mean-reverting, (3) recovery bounces are common after -29.5% max drawdown. The 14-day forecast annualizes recent momentum (-21.49% \u2192 ~-0.65 annualized), but I apply conservative reversion factor expecting partial stabilization, yielding -18% annualized expected return.",
-  "raw_response": "Based on the provided market context for Cluster 3 (CVX), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CVX faces significant headwinds: -23.18% 30-day loss, -21.49% 14-day decline, 85.4% annualized volatility, and -2.28 Sharpe ratio indicate severe underperformance. TVL declined 14.6% in 30 days, suggesting protocol stress. Neutral market regime provides no tailwinds. Momentum is strongly negative with -4.42% 7-day return. However, moderate confidence reflects: (1) extreme drawdowns may stabilize or reverse, (2) yield token valuations can be mean-reverting, (3) recovery bounces are common after -29.5% max drawdown. The 14-day forecast annualizes recent momentum (-21.49% \u2192 ~-0.65 annualized), but I apply conservative reversion factor expecting partial stabilization, yielding -18% annualized expected return.\"\n}\n```\n\n**Key Risk Factors:**\n- Continued TVL outflows could accelerate losses\n- Negative momentum may persist if market sentiment remains weak\n- Volatility spike risk during liquidation events\n\n**Upside Scenario:**\n- Mean reversion after extreme drawdown could drive 5-10% bounce\n- Protocol recovery or governance changes could support stabilization",
+  "expected_return": 0.08,
+  "confidence": 0.58,
+  "reasoning": "Mixed signals: negative 14-day momentum (-18.23%) and UNI TVL decline offset by LDO strength (+8.1%) and positive 30-day trend (+2.51%). Expect modest mean reversion over 14 days in neutral market regime, but elevated volatility (86% annualized) and recent weakness limit upside. Annualized return estimate of 8% reflects subdued but positive recovery trajectory with moderate confidence.",
+  "raw_response": "I'll analyze this DeFi cluster forecast based on the provided market context and metrics.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: Negative short-term signals\n   - 7-day return: -2.98%\n   - 14-day return: -18.23%\n   - This suggests recent weakness despite positive 30-day performance\n\n2. **Volatility Profile**: High volatility (86% annualized)\n   - Sharpe ratio of 0.24 indicates modest risk-adjusted returns\n   - Max drawdown of -21.3% shows significant downside risk\n\n3. **Mixed Protocol Fundamentals**:\n   - LDO (largest component at 37.6% TVL-weighted): +8.1% TVL growth, strong\n   - UNI (second largest at 57.1% TVL-weighted): -6.4% TVL decline, concerning\n   - SUSHI, SNX, RPL: Modest positive TVL trends (+6-12%)\n\n4. **Market Context**:\n   - Overall DeFi TVL +4.9% (30d), indicating sector health\n   - Neutral/range-bound regime suggests consolidation phase\n   - Cluster underperforming broader DeFi growth\n\n5. **Mean Reversion Consideration**:\n   - Strong negative 14-day return (-18.23%) after positive 30-day (+2.51%)\n   - Could signal oversold conditions or technical washout\n   - However, UNI's TVL decline is a fundamental concern\n\n**Forecast Rationale**:\nGiven the strong recent negative momentum, elevated volatility, UNI weakness offsetting LDO strength, and a neutral market regime, I expect mean reversion to occur but likely at a modest pace. The cluster is unlikely to quickly recover from the 14-day drawdown, but continued weakness is also constrained by the positive 30-day trend and LDO's strength.\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Mixed signals: negative 14-day momentum (-18.23%) and UNI TVL decline offset by LDO strength (+8.1%) and positive 30-day trend (+2.51%). Expect modest mean reversion over 14 days in neutral market regime, but elevated volatility (86% annualized) and recent weakness limit upside. Annualized return estimate of 8% reflects subdued but positive recovery trajectory with moderate confidence.\"\n}\n```",
   "date": "2025-09-06",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:03.352887+00:00",
+  "generated_at": "2026-02-17T16:36:56.578265+00:00",
   "enriched": false
 }

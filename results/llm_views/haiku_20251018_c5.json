@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.85,
+  "confidence": 0.65,
+  "reasoning": "Cluster in severe bear regime with -39.44% 30-day loss and -3.19 Sharpe ratio. Mixed signals: 7-day flatness suggests potential stabilization, but 14-day -36.89% decline and TVL contraction (-11.2% market-wide) indicate persistent downtrend. CRV's +11.7% TVL growth provides modest fundamental support. High volatility (103.7%) and elevated drawdown risk warrant cautious outlook. Annualized forecast reflects continued near-term weakness with some mean reversion possibility, but confidence limited by bear market severity and protocol-level headwinds. Moderate confidence due to extreme volatility and potential for sharp reversal in either direction.",
+  "raw_response": "```json\n{\"expected_return\": -0.85, \"confidence\": 0.65, \"reasoning\": \"Cluster in severe bear regime with -39.44% 30-day loss and -3.19 Sharpe ratio. Mixed signals: 7-day flatness suggests potential stabilization, but 14-day -36.89% decline and TVL contraction (-11.2% market-wide) indicate persistent downtrend. CRV's +11.7% TVL growth provides modest fundamental support. High volatility (103.7%) and elevated drawdown risk warrant cautious outlook. Annualized forecast reflects continued near-term weakness with some mean reversion possibility, but confidence limited by bear market severity and protocol-level headwinds. Moderate confidence due to extreme volatility and potential for sharp reversal in either direction.\"}\n```",
+  "date": "2025-10-18",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:38:28.480655+00:00",
+  "enriched": false
+}

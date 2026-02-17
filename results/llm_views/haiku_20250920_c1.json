@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.52,
-  "reasoning": "Cluster in bear regime with negative 7-day momentum (-6.87%) offsetting positive 14-day returns (+4.41%). High volatility (64% annualized) and negative Sharpe ratio (-0.40) suggest elevated downside risk. Infrastructure/L2 tokens typically underperform in bear markets. Recent 30-day drawdown of -17.1% indicates persistent selling pressure. Moderate confidence due to conflicting signals: positive recent momentum partially counters bearish regime, but overall technical setup and market conditions favor continued underperformance over next 14 days.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.52,\n  \"reasoning\": \"Cluster in bear regime with negative 7-day momentum (-6.87%) offsetting positive 14-day returns (+4.41%). High volatility (64% annualized) and negative Sharpe ratio (-0.40) suggest elevated downside risk. Infrastructure/L2 tokens typically underperform in bear markets. Recent 30-day drawdown of -17.1% indicates persistent selling pressure. Moderate confidence due to conflicting signals: positive recent momentum partially counters bearish regime, but overall technical setup and market conditions favor continued underperformance over next 14 days.\"\n}\n```",
+  "expected_return": 0.18,
+  "confidence": 0.55,
+  "reasoning": "CAKE shows strong 7-day momentum (+3.59%) and solid TVL growth (+13.2%), supporting near-term upside. However, elevated volatility (47.9%), poor Sharpe ratio (0.14), bear market regime, and mean reversion risk limit conviction. Expected return annualizes recent momentum with caution, accounting for likely consolidation and broader market headwinds.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\nLet me evaluate the key factors:\n\n**Analysis of Cluster 1 (CAKE):**\n\n1. **Recent Momentum**: \n   - 7-day return: +3.59%\n   - 14-day return: +12.85%\n   - 30-day return: +0.81%\n   - Clear positive momentum in the short term, despite weak 30-day performance\n\n2. **Volatility & Risk**:\n   - Annualized volatility: 47.9% (very high)\n   - Sharpe ratio: 0.14 (poor risk-adjusted returns)\n   - Max drawdown: -17.6% (significant downside risk)\n\n3. **Fundamentals**:\n   - CAKE TVL: $2,378M with +13.2% 30-day growth (strong)\n   - TVL growth exceeds token price performance, suggesting protocol strength\n   - DEX token with solid on-chain activity\n\n4. **Market Regime**:\n   - Overall DeFi in \"Bear\" regime with strong downtrend\n   - However, CAKE bucking the trend with positive returns\n   - DeFi TVL +6.3% despite bear market shows resilience\n\n5. **Mean Reversion Considerations**:\n   - 14-day return of +12.85% is elevated vs 30-day of +0.81%\n   - Potential for consolidation or pullback after strong run\n   - Bear market regime suggests caution on extrapolating gains\n\n**14-Day Forecast Logic**:\nThe token has strong recent momentum (+3.59% in 7 days) and solid TVL growth, but faces headwinds from the broader bear market. The gap between 14-day and 30-day returns suggests recent strength that may partially normalize. Annualized from current trajectory would be unsustainable.\n\n```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE shows strong 7-day momentum (+3.59%) and solid TVL growth (+13.2%), supporting near-term upside. However, elevated volatility (47.9%), poor Sharpe ratio (0.14), bear market regime, and mean reversion risk limit conviction. Expected return annualizes recent momentum with caution, accounting for likely consolidation and broader market headwinds.\"\n}\n```",
   "date": "2025-09-20",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:13.385487+00:00",
+  "generated_at": "2026-02-17T16:37:14.982219+00:00",
   "enriched": false
 }

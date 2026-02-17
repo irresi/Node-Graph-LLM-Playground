@@ -1,26 +1,14 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.62,
-  "reasoning": "Cluster 2 is in a severe bear regime with -37.55% 30-day loss and -27.51% 14-day loss. DeFi TVL down 22.9% month-over-month signals fundamental weakness across protocols (AAVE -18.4%, UNI -27.2%). High volatility (76.8% annualized) and negative Sharpe ratio (-4.11) indicate risk-off conditions. However, extreme losses may attract value buyers and oversold conditions could lead to mean reversion. 14-day forecast assumes continued weakness but potentially less severe than recent momentum (-0.85 annualized \u2248 -3.3% over 14 days), reflecting some stabilization from panic selling while acknowledging the persistent bear market structure. Confidence moderate due to regime clarity but potential for volatility reversals.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 is in a severe bear regime with -37.55% 30-day loss and -27.51% 14-day loss. DeFi TVL down 22.9% month-over-month signals fundamental weakness across protocols (AAVE -18.4%, UNI -27.2%). High volatility (76.8% annualized) and negative Sharpe ratio (-4.11) indicate risk-off conditions. However, extreme losses may attract value buyers and oversold conditions could lead to mean reversion. 14-day forecast assumes continued weakness but potentially less severe than recent momentum (-0.85 annualized \u2248 -3.3% over 14 days), reflecting some stabilization from panic selling while acknowledging the persistent bear market structure. Confidence moderate due to regime clarity but potential for volatility reversals.\"\n}\n```",
+  "expected_return": -1.0,
+  "confidence": 0.35,
+  "reasoning": "BAL faces severe headwinds: -115.84% 30-day return, -105.58% 14-day return in strong bear market, 157.7% annualized volatility, -70.4% max drawdown, and declining TVL (-24.8%). Extreme negative momentum suggests further downside or stabilization floor is being tested. However, very high volatility and potential mean-reversion bounce from oversold levels introduce uncertainty. Low confidence reflects both the severity of recent losses and extreme price instability that makes directional forecasting unreliable.",
+  "raw_response": "```json\n{\n  \"expected_return\": -3.50,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL faces severe headwinds: -115.84% 30-day return, -105.58% 14-day return in strong bear market, 157.7% annualized volatility, -70.4% max drawdown, and declining TVL (-24.8%). Extreme negative momentum suggests further downside or stabilization floor is being tested. However, very high volatility and potential mean-reversion bounce from oversold levels introduce uncertainty. Low confidence reflects both the severity of recent losses and extreme price instability that makes directional forecasting unreliable.\"\n}\n```",
   "date": "2026-02-07",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T13:00:00.714445+00:00",
+  "generated_at": "2026-02-17T16:41:43.746051+00:00",
   "enriched": false
 }

@@ -1,26 +1,14 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.55,
-  "reasoning": "After -14.89% decline over 14 days in a neutral market with +4.9% DeFi TVL growth, expect modest mean reversion bounce. However, continued 7-day weakness (-1.22%), negative Sharpe ratio, and mixed protocol fundamentals limit upside. High volatility (74.5%) creates recovery opportunity but introduces execution risk. Annualized forecast assumes partial recovery from oversold levels, not full reversion.",
-  "raw_response": "I'll analyze the provided data for Cluster 2 and generate a forecast for the expected annualized return over the next 14 days.\n\n## Analysis\n\n**Key observations:**\n\n1. **Recent Momentum (Bearish Signal)**\n   - 14-day return: -14.89% (significant recent decline)\n   - 7-day return: -1.22% (continued weakness)\n   - 30-day return: -1.11% (suggests acceleration of losses in recent 2 weeks)\n\n2. **Volatility & Risk Metrics**\n   - Annualized volatility: 74.5% (very high)\n   - Sharpe ratio: -0.13 (negative risk-adjusted returns)\n   - Max drawdown: -21.7% (substantial recent loss)\n\n3. **Market Context**\n   - Overall DeFi TVL growth: +4.9% (positive market backdrop)\n   - Market regime: Neutral/Range-bound (suggests potential mean reversion)\n   - Mixed TVL trends: Some protocols growing (SUSHI +11.8%, CAKE +5.7%, AAVE +6.7%) while others declining (UNI -6.4%, CRV -10.6%)\n\n4. **Technical Considerations**\n   - After a -14.89% decline in 14 days, the cluster is oversold\n   - Range-bound regime suggests potential bounce/mean reversion\n   - However, recent 7-day weakness (-1.22%) indicates continued pressure\n\n**Forecast Rationale:**\n- The -14.89% recent drawdown in a neutral market regime suggests potential mean reversion\n- However, the continued 7-day weakness and negative Sharpe ratio suggest underlying weakness\n- High volatility means recovery could be swift but confidence should be tempered\n- Mixed protocol fundamentals (some growth, some decline) suggest modest recovery rather than strong rally\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.55, \"reasoning\": \"After -14.89% decline over 14 days in a neutral market with +4.9% DeFi TVL growth, expect modest mean reversion bounce. However, continued 7-day weakness (-1.22%), negative Sharpe ratio, and mixed protocol fundamentals limit upside. High volatility (74.5%) creates recovery opportunity but introduces execution risk. Annualized forecast assumes partial recovery from oversold levels, not full reversion.\"}\n```",
+  "expected_return": -0.08,
+  "confidence": 0.45,
+  "reasoning": "BAL shows negative momentum with 14-day return of -14.16% and declining TVL (-7.3% in 30d), indicating reduced protocol utility. However, the neutral/range-bound market regime and modest 30-day return of -2.89% suggest the worst declines may have passed. The high volatility (82.3%) and negative Sharpe ratio (-0.29) indicate significant uncertainty. Expect continued weakness but at a slower pace given market stabilization. Low confidence due to high volatility, single-token cluster concentration risk, and potential for sharp reversals in the current market regime.",
+  "raw_response": "Based on the provided market data for Cluster 2 (BAL), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL shows negative momentum with 14-day return of -14.16% and declining TVL (-7.3% in 30d), indicating reduced protocol utility. However, the neutral/range-bound market regime and modest 30-day return of -2.89% suggest the worst declines may have passed. The high volatility (82.3%) and negative Sharpe ratio (-0.29) indicate significant uncertainty. Expect continued weakness but at a slower pace given market stabilization. Low confidence due to high volatility, single-token cluster concentration risk, and potential for sharp reversals in the current market regime.\"\n}\n```\n\n**Key considerations:**\n- **Negative momentum**: The 14-day decline of -14.16% significantly outweighs the 30-day decline, suggesting accelerating downward pressure\n- **TVL deterioration**: The -7.3% 30-day TVL change indicates declining protocol activity and user engagement\n- **Volatility risk**: At 82.3% annualized volatility, significant price swings are likely\n- **Market regime support**: The neutral/range-bound overall DeFi market (TVL +4.9%) provides some floor for recovery, but BAL's specific weakness persists\n- **Cluster concentration**: Single-token exposure amplifies idiosyncratic risk\n\nThe forecast assumes a moderation of recent declines with continued mild downside, reflecting the protocol's weakness while acknowledging potential mean reversion in a stabilizing market.",
   "date": "2025-09-06",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:55:57.044090+00:00",
+  "generated_at": "2026-02-17T16:36:45.929532+00:00",
   "enriched": false
 }

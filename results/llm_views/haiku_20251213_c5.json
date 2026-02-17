@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with negative 30-day momentum (-16.34%) and weak recent 7-day performance (-0.91%). High volatility (51.7%) and negative Sharpe ratio (-2.66) indicate distressed market conditions. However, mixed TVL signals with CRV (+8.2%) and MKR (+13.1%) growth suggest selective protocol strength. Near-term forecast accounts for continued downward pressure from market regime, partially offset by potential stabilization given the sharp recent declines and selective TVL improvements. Confidence is moderate due to volatile conditions and conflicting signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with negative 30-day momentum (-16.34%) and weak recent 7-day performance (-0.91%). High volatility (51.7%) and negative Sharpe ratio (-2.66) indicate distressed market conditions. However, mixed TVL signals with CRV (+8.2%) and MKR (+13.1%) growth suggest selective protocol strength. Near-term forecast accounts for continued downward pressure from market regime, partially offset by potential stabilization given the sharp recent declines and selective TVL improvements. Confidence is moderate due to volatile conditions and conflicting signals.\"\n}\n```",
+  "date": "2025-12-13",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:40:22.240047+00:00",
+  "enriched": false
+}

@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.42,
-  "confidence": 0.58,
-  "reasoning": "BAL showing positive momentum with +5.76% 30-day return and +17% TVL growth in moderate bull market. However, high annualized volatility (78.2%) and max drawdown of -18.1% suggest elevated risk. Recent 14-day return (+6.01%) slightly exceeds 30-day trend, indicating potential momentum continuation. Annualized from 14-day forward projection yields ~42% return, but confidence tempered by single-token concentration risk and volatile DEX sector dynamics. Sharpe ratio of 0.62 reflects modest risk-adjusted performance.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.58,\n  \"reasoning\": \"BAL showing positive momentum with +5.76% 30-day return and +17% TVL growth in moderate bull market. However, high annualized volatility (78.2%) and max drawdown of -18.1% suggest elevated risk. Recent 14-day return (+6.01%) slightly exceeds 30-day trend, indicating potential momentum continuation. Annualized from 14-day forward projection yields ~42% return, but confidence tempered by single-token concentration risk and volatile DEX sector dynamics. Sharpe ratio of 0.62 reflects modest risk-adjusted performance.\"\n}\n```",
+  "expected_return": 0.28,
+  "confidence": 0.62,
+  "reasoning": "Cluster shows strong 14-day momentum (+12.43%) in moderate bull market, translating to ~28% annualized return. High Sharpe ratio (1.56) supports continued outperformance, but elevated volatility (81.5%) and lack of TVL fundamentals create mean-reversion risk. Confidence moderate due to sentiment-driven L2/infrastructure token dynamics and typical crypto momentum decay.",
+  "raw_response": "Based on the provided market context for Cluster 4 (LINK, OP, ARB, ENS, GRT), I'll analyze the key factors to forecast the 14-day expected return:\n\n**Analysis:**\n\n1. **Recent Momentum**: Strong positive trajectory\n   - 7-day return: +11.51%\n   - 14-day return: +12.43%\n   - 30-day return: +15.16%\n   - This consistent upward performance suggests sustained buying pressure\n\n2. **Market Regime**: Moderate Bull market\n   - Overall DeFi TVL up 22% in 30 days\n   - Favorable macro conditions for infrastructure/L2 tokens\n\n3. **Cluster Characteristics**:\n   - Sharpe ratio of 1.56 indicates strong risk-adjusted returns\n   - Annualized volatility of 81.5% is high but not unusual for crypto infrastructure tokens\n   - Max drawdown of -18.7% suggests manageable downside risk\n\n4. **Risk Factors**:\n   - High volatility could lead to mean reversion\n   - Infrastructure/L2 tokens are sentiment-driven\n   - Limited TVL data suggests these are primarily protocol governance/utility tokens rather than liquidity-generating assets\n   - Momentum-based forecasts tend to regress in crypto\n\n5. **Forward Estimate**:\n   - The 14-day momentum (+12.43%) extrapolated would suggest ~46% annualized if sustained\n   - However, this assumes no normalization - unlikely given crypto's cyclical nature\n   - Conservative adjustment for mean reversion and momentum decay\n\n```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster shows strong 14-day momentum (+12.43%) in moderate bull market, translating to ~28% annualized return. High Sharpe ratio (1.56) supports continued outperformance, but elevated volatility (81.5%) and lack of TVL fundamentals create mean-reversion risk. Confidence moderate due to sentiment-driven L2/infrastructure token dynamics and typical crypto momentum decay.\"\n}\n```",
   "date": "2025-08-23",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:55:41.763036+00:00",
+  "generated_at": "2026-02-17T16:36:25.773161+00:00",
   "enriched": false
 }

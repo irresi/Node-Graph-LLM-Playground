@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.35,
-  "confidence": 0.62,
-  "reasoning": "Bull market with strong TVL growth (+26.1%) supports positive returns, but momentum has decelerated (7-day +9.17% vs 14-day +0.24%), suggesting partial mean reversion over the next 14 days. BAL TVL stable at $914M with +8.8% growth. High volatility (61.3%) and recent flat performance in the most recent 14-day period warrant moderate confidence. Annualized forecast balances continued bull support against momentum exhaustion.",
-  "raw_response": "I'll analyze the provided data to forecast the expected annualized return for Cluster 4 (BAL token) over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Context**: Bull market regime with strong uptrend (+26.1% TVL growth in 30 days) and moderate volatility\n\n2. **Cluster Performance**:\n   - 30-day return: +25.86% (very strong)\n   - 14-day return: +0.24% (flat)\n   - 7-day return: +9.17% (positive but decelerating momentum)\n   - This shows momentum peaked mid-period and has cooled recently\n\n3. **Risk Metrics**:\n   - Annualized volatility: 61.3% (high)\n   - Sharpe ratio: 3.54 (excellent risk-adjusted returns)\n   - Max drawdown: -19.8% (significant downside risk exists)\n\n4. **Protocol Fundamentals**:\n   - BAL TVL: $914M with +8.8% 30-day growth (stable, solid growth)\n   - Single token cluster (concentrated risk)\n\n5. **Momentum Analysis**:\n   - The deceleration from +9.17% (7-day) to near-flat 14-day returns suggests momentum may be exhausting\n   - Coming off a 25.86% 30-day rally, mean reversion is a consideration\n   - However, the bull market regime and TVL growth provide support\n\n**Forecast Considerations:**\n- The 14-day forward period is short; scaling from recent 7-day returns (+9.17%) to annualized terms suggests ~66% annualized\n- However, the 14-day recent return (+0.24%) suggests the rally has lost steam\n- Taking a balanced view between momentum deceleration and continued bull market support\n- Confidence is moderate due to the short forecast window and high volatility inherent in DEX tokens\n\n```json\n{\"expected_return\": 0.35, \"confidence\": 0.62, \"reasoning\": \"Bull market with strong TVL growth (+26.1%) supports positive returns, but momentum has decelerated (7-day +9.17% vs 14-day +0.24%), suggesting partial mean reversion over the next 14 days. BAL TVL stable at $914M with +8.8% growth. High volatility (61.3%) and recent flat performance in the most recent 14-day period warrant moderate confidence. Annualized forecast balances continued bull support against momentum exhaustion.\"}\n```",
+  "expected_return": 0.32,
+  "confidence": 0.58,
+  "reasoning": "Cluster 4 shows strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of only +0.30% suggests momentum may be consolidating or reversing. High volatility (63.5% annualized) and significant max drawdown (-20.2%) indicate risk. The infrastructure/L2 token composition lacks direct TVL metrics, making fundamental assessment difficult. Moderate confidence reflects bullish technicals offset by recent deceleration and execution risks in L2/oracle ecosystems. Annualized projection assumes continued but moderated upside.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Cluster 4 shows strong recent momentum (+23.57% over 30 days, +13.24% over 7 days) in a bull market regime with elevated TVL growth (+26.1% DeFi-wide). However, the 14-day return of only +0.30% suggests momentum may be consolidating or reversing. High volatility (63.5% annualized) and significant max drawdown (-20.2%) indicate risk. The infrastructure/L2 token composition lacks direct TVL metrics, making fundamental assessment difficult. Moderate confidence reflects bullish technicals offset by recent deceleration and execution risks in L2/oracle ecosystems. Annualized projection assumes continued but moderated upside.\"\n}\n```",
   "date": "2025-08-09",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:55:19.583365+00:00",
+  "generated_at": "2026-02-17T16:35:46.812384+00:00",
   "enriched": false
 }

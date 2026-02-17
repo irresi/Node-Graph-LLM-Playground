@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.25,
-  "confidence": 0.35,
-  "reasoning": "CVX shows recent 7-day bounce momentum (+12.55%) suggesting potential mean reversion from oversold conditions. However, persistent bear market regime, negative Sharpe ratio, and extreme volatility (87.4%) create significant uncertainty. Annualized return moderately positive based on 14-day trend momentum, but confidence is low given market headwinds and sustainability risk.",
-  "raw_response": "Based on the provided market context for Cluster 3 (CVX), here is my analysis:\n\n**Key Observations:**\n1. **Market Regime**: Strong bear market with DeFi TVL down 16.5% over 30 days\n2. **Cluster Performance**: CVX has underperformed with -19.63% return over 30 days, but shows recent positive momentum (+12.55% over 7 days, +2.32% over 14 days)\n3. **Volatility**: Extremely high annualized volatility at 87.4%, indicating significant price swings\n4. **Fundamentals**: CVX TVL relatively stable (-2.2%), suggesting protocol stability despite market decline\n5. **Technical Setup**: The positive 7-day and 14-day returns suggest a potential short-term reversal or bounce from oversold conditions\n\n**Forecast Rationale:**\n- The recent 7-day bounce (+12.55%) suggests mean reversion momentum after the severe 30-day decline\n- However, the bear market regime and negative Sharpe ratio (-1.89) indicate underlying weakness\n- Annualizing the recent 14-day performance (+2.32%) would yield ~60% annualized, but this is likely unsustainable\n- The high volatility and recent momentum suggest a continuation of the bounce is possible but uncertain\n- CVX's stable TVL provides some fundamental support against further rapid declines\n\n**Confidence Considerations:**\n- Low confidence due to extreme volatility and uncertain market regime continuation\n- Recent positive momentum is encouraging but potentially temporary\n- Bear market conditions create significant downside risk\n\n```json\n{\"expected_return\": 0.25, \"confidence\": 0.35, \"reasoning\": \"CVX shows recent 7-day bounce momentum (+12.55%) suggesting potential mean reversion from oversold conditions. However, persistent bear market regime, negative Sharpe ratio, and extreme volatility (87.4%) create significant uncertainty. Annualized return moderately positive based on 14-day trend momentum, but confidence is low given market headwinds and sustainability risk.\"}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear market with -31.89% 30-day decline and -16.34% 14-day decline. High volatility (88% annualized) and negative Sharpe ratio (-3.04) indicate distressed conditions. All constituent protocols showing significant TVL outflows (-19.7% to -43.8% in 30 days), particularly SNX (-43.8%). Recent momentum remains bearish (-0.60% in 7 days), suggesting continued weakness. However, confidence is moderate due to potential mean reversion in oversold conditions and uncertainty around macro catalyst timing. Forecast assumes -2% decline over next 14 days, annualized to -85% to match methodology. High downside risk if liquidations cascade; moderate upside if market stabilizes.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear market with -31.89% 30-day decline and -16.34% 14-day decline. High volatility (88% annualized) and negative Sharpe ratio (-3.04) indicate distressed conditions. All constituent protocols showing significant TVL outflows (-19.7% to -43.8% in 30 days), particularly SNX (-43.8%). Recent momentum remains bearish (-0.60% in 7 days), suggesting continued weakness. However, confidence is moderate due to potential mean reversion in oversold conditions and uncertainty around macro catalyst timing. Forecast assumes -2% decline over next 14 days, annualized to -85% to match methodology. High downside risk if liquidations cascade; moderate upside if market stabilizes.\"\n}\n```",
   "date": "2025-11-29",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:20.322866+00:00",
+  "generated_at": "2026-02-17T16:39:34.401093+00:00",
   "enriched": false
 }

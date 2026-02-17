@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.08,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing negative near-term momentum (7d: -7.69%, 14d: -4.37%) despite positive 30d returns, indicating potential mean reversion. Neutral market regime and modest TVL growth (+3.0% overall DeFi) provide stabilization. However, high volatility (46.1% annualized) and low Sharpe ratio (0.09) suggest weak risk-adjusted returns. Mixed protocol signals: AAVE stable (+0.9%), MKR strong (+1.9%), but CRV, COMP, GMX declining. Weak near-term momentum and elevated volatility justify negative 14-day outlook with moderate confidence given mean reversion potential in neutral regime.",
+  "raw_response": "Based on my analysis of Cluster 5's market conditions and fundamentals, here is my forecast:\n\n```json\n{\n  \"expected_return\": -0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing negative near-term momentum (7d: -7.69%, 14d: -4.37%) despite positive 30d returns, indicating potential mean reversion. Neutral market regime and modest TVL growth (+3.0% overall DeFi) provide stabilization. However, high volatility (46.1% annualized) and low Sharpe ratio (0.09) suggest weak risk-adjusted returns. Mixed protocol signals: AAVE stable (+0.9%), MKR strong (+1.9%), but CRV, COMP, GMX declining. Weak near-term momentum and elevated volatility justify negative 14-day outlook with moderate confidence given mean reversion potential in neutral regime.\"\n}\n```\n\n**Key factors:**\n- **Negative momentum**: 7-day and 14-day returns are deeply negative, suggesting continued downside risk in the near term\n- **Volatility risk**: 46.1% annualized volatility is substantial; recovery uncertainty is high\n- **Mixed fundamentals**: While AAVE and MKR show strength, CRV and GMX weakness offsets optimism\n- **Neutral regime**: Range-bound market limits explosive moves in either direction\n- **Confidence moderate**: High volatility and contradictory signals prevent high confidence, but recent momentum is a reliable near-term indicator",
+  "date": "2026-01-24",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:41:35.449232+00:00",
+  "enriched": false
+}

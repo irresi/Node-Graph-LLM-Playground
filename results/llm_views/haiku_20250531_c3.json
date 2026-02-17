@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.42,
-  "reasoning": "CVX faces headwinds despite moderate bull market. Negative 7-day (-18.15%) and 14-day (-9.30%) momentum suggest continued weakness in near term. High volatility (81.8%) and negative Sharpe (-0.52) indicate unfavorable risk-adjusted returns. However, underlying TVL growth (+10.2%) provides some support. Forecasting annualized -35% over 14 days reflects pessimistic near-term outlook tempered by moderate confidence due to protocol fundamentals and potential mean reversion in volatile assets.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX faces headwinds despite moderate bull market. Negative 7-day (-18.15%) and 14-day (-9.30%) momentum suggest continued weakness in near term. High volatility (81.8%) and negative Sharpe (-0.52) indicate unfavorable risk-adjusted returns. However, underlying TVL growth (+10.2%) provides some support. Forecasting annualized -35% over 14 days reflects pessimistic near-term outlook tempered by moderate confidence due to protocol fundamentals and potential mean reversion in volatile assets.\"\n}\n```",
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing mixed signals: positive 30-day momentum (+2.21%) and strong TVL growth in LDO (+33.9%) and RPL (+36.3%) suggest upside potential, but recent 7-day and 14-day returns are sharply negative (-6.00% and -10.45%), indicating near-term headwinds. Bull market regime and elevated DeFi TVL growth (+19.6%) provide tailwind. High volatility (93.5% annualized) and negative recent momentum reduce confidence. Annualized forecast reflects mean reversion from recent weakness combined with structural TVL strength, but elevated uncertainty justifies moderate confidence level.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing mixed signals: positive 30-day momentum (+2.21%) and strong TVL growth in LDO (+33.9%) and RPL (+36.3%) suggest upside potential, but recent 7-day and 14-day returns are sharply negative (-6.00% and -10.45%), indicating near-term headwinds. Bull market regime and elevated DeFi TVL growth (+19.6%) provide tailwind. High volatility (93.5% annualized) and negative recent momentum reduce confidence. Annualized forecast reflects mean reversion from recent weakness combined with structural TVL strength, but elevated uncertainty justifies moderate confidence level.\"\n}\n```",
   "date": "2025-05-31",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:53:20.738681+00:00",
+  "generated_at": "2026-02-17T16:32:39.449203+00:00",
   "enriched": false
 }

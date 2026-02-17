@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.22,
-  "confidence": 0.35,
-  "reasoning": "Cluster shows strong negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite bullish overall DeFi market (+19.6% TVL growth). However, this presents potential mean reversion opportunity as the cluster underperforms relative to market regime. High volatility (91.3%) and poor Sharpe ratio (-0.14) indicate significant risk. Low confidence due to: (1) infrastructure/L2 tokens lack direct TVL metrics making fundamental analysis difficult, (2) recent sharp drawdown suggests potential capitulation, (3) LINK's stagnant TVL despite market growth raises concerns. Positive forecast assumes technical oversold conditions and potential catch-up rally to market momentum, but execution risk is substantial given the extended underperformance and lack of clear catalysts.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.22,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong negative momentum (-13.46% over 7 days, -13.32% over 14 days) despite bullish overall DeFi market (+19.6% TVL growth). However, this presents potential mean reversion opportunity as the cluster underperforms relative to market regime. High volatility (91.3%) and poor Sharpe ratio (-0.14) indicate significant risk. Low confidence due to: (1) infrastructure/L2 tokens lack direct TVL metrics making fundamental analysis difficult, (2) recent sharp drawdown suggests potential capitulation, (3) LINK's stagnant TVL despite market growth raises concerns. Positive forecast assumes technical oversold conditions and potential catch-up rally to market momentum, but execution risk is substantial given the extended underperformance and lack of clear catalysts.\"\n}\n```",
+  "expected_return": 0.35,
+  "confidence": 0.65,
+  "reasoning": "Positive DeFi macro backdrop (TVL +19.6%) and CAKE's stable TVL growth (+4.8%) support continued upside. Recent 7-day pullback followed by 14-day recovery suggests consolidation with bullish bias. High volatility (83.2%) and strong Sharpe ratio (1.17) indicate favorable risk-adjusted returns. Moderate confidence due to consolidation phase and elevated volatility.",
+  "raw_response": "Based on the provided market context and cluster analysis, I'll analyze Cluster 1 (CAKE) to forecast its expected 14-day annualized return.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Positive Market Regime**: DeFi TVL up 19.6% (30-day), indicating bullish sentiment\n2. **Strong 30-day Performance**: Cluster returned +11.63% with a healthy Sharpe ratio of 1.17\n3. **Mixed Recent Momentum**: \n   - 7-day return: -1.15% (slight pullback)\n   - 14-day return: +1.23% (recovery signal)\n   - This suggests consolidation after recent gains\n4. **Elevated Volatility**: 83.2% annualized volatility indicates high risk/reward profile\n5. **Stable Protocol Fundamentals**: CAKE's TVL up 4.8% (30-day), showing user confidence\n6. **Reasonable Drawdown**: -17.7% max drawdown is within acceptable range for a volatile asset\n\n**Forecast Rationale:**\n\nGiven the positive macro DeFi environment and CAKE's stable TVL growth, I expect continued upside. However, the recent 7-day pullback suggests potential consolidation before the next leg up. The 14-day positive return suggests momentum is recovering.\n\nFor a 14-day forecast in this regime, I'm modeling:\n- Moderate positive returns as the market consolidates\n- Expected annualized return: **0.35** (35% annualized)\n  - This translates to approximately +1.85% over 14 days\n- Confidence: **0.65** (moderate-to-good confidence)\n  - Tempered by high volatility and recent consolidation\n  - Supported by strong fundamentals and positive market regime\n\n```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.65,\n  \"reasoning\": \"Positive DeFi macro backdrop (TVL +19.6%) and CAKE's stable TVL growth (+4.8%) support continued upside. Recent 7-day pullback followed by 14-day recovery suggests consolidation with bullish bias. High volatility (83.2%) and strong Sharpe ratio (1.17) indicate favorable risk-adjusted returns. Moderate confidence due to consolidation phase and elevated volatility.\"\n}\n```",
   "date": "2025-05-31",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:53:08.319048+00:00",
+  "generated_at": "2026-02-17T16:32:28.448390+00:00",
   "enriched": false
 }

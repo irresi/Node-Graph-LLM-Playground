@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.55,
-  "reasoning": "BAL shows mixed signals: strong TVL growth (+21.3% in 30d) and recent 7-day momentum (+9.42%) suggest protocol strength, but the 30-day negative return (-7.31%) and elevated volatility (38.6%) create uncertainty. The 14-day return (+0.84%) indicates stabilization. Given neutral market regime and single-token cluster concentration risk, we forecast modest positive returns with moderate confidence. The recent rally and improving fundamentals (TVL influx) support an upside bias, but high volatility and past underperformance warrant caution.",
-  "raw_response": "Based on the provided market data for Cluster 4 (BAL token), here is my analysis:\n\n```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.55,\n  \"reasoning\": \"BAL shows mixed signals: strong TVL growth (+21.3% in 30d) and recent 7-day momentum (+9.42%) suggest protocol strength, but the 30-day negative return (-7.31%) and elevated volatility (38.6%) create uncertainty. The 14-day return (+0.84%) indicates stabilization. Given neutral market regime and single-token cluster concentration risk, we forecast modest positive returns with moderate confidence. The recent rally and improving fundamentals (TVL influx) support an upside bias, but high volatility and past underperformance warrant caution.\"\n}\n```\n\n**Key factors in this forecast:**\n- **Positive**: TVL acceleration (+21.3%), recent momentum turnaround (9.42% in last 7 days), stabilizing price action\n- **Negative**: Negative Sharpe ratio (-1.59), high annualized volatility (38.6%), max drawdown of -18.9%, extended 30-day underperformance\n- **Confidence tempering**: Single-token cluster, neutral market regime, and historical drawdown suggest elevated uncertainty",
+  "expected_return": 0.25,
+  "confidence": 0.58,
+  "reasoning": "Recent 7-day recovery (+7%) suggests momentum reversal after 30-day decline. Infrastructure/L2 tokens benefit from neutral-to-positive DeFi environment. However, high volatility (51.6%), negative Sharpe ratio, and recent underperformance limit confidence. 14-day annualized return estimate balances near-term momentum with structural challenges.",
+  "raw_response": "I'll analyze this cluster data to provide a 14-day expected return forecast for Cluster 4 (LINK, OP, ARB, ENS, GRT).\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum**: Strong positive 7-day return (+7.00%) after weak 14-day (-6.52%) and 30-day (-4.52%) performance suggests recent recovery momentum\n2. **Volatility Profile**: High annualized volatility (51.6%) indicates significant price swings typical of infrastructure/L2 tokens\n3. **Market Regime**: Neutral/range-bound environment with positive DeFi TVL trend (+8.2% 30-day)\n4. **Token Composition**: Mix of L2 solutions (OP, ARB), oracle infrastructure (LINK), and governance (ENS, GRT) - growth-oriented category\n5. **Negative Sharpe Ratio**: Recent risk-adjusted returns have been poor (-0.74), though momentum is turning positive\n6. **Limited TVL Data**: Most tokens are infrastructure/protocol tokens without traditional TVL, limiting fundamental analysis\n\n**Forecast Rationale:**\n\n- The cluster is rebounding from downtrend with +7% weekly gain, suggesting exhaustion of selling pressure\n- Neutral market regime provides opportunity for cluster-specific tailwinds (L2/infrastructure adoption)\n- However, volatility remains high and the negative 30-day return indicates headwinds still present\n- 14-day timeframe captures the recovery momentum but faces uncertainty on sustainability\n- Infrastructure tokens tend to correlate with broader crypto sentiment and development activity\n\n**Forecast:**\nGiven the recent recovery momentum (+7% weekly), neutral market backdrop, and infrastructure category exposure to potential positive catalysts, I forecast modest positive returns over the next 14 days, but with moderate confidence given the high volatility and recent underperformance.\n\n```json\n{\"expected_return\": 0.25, \"confidence\": 0.58, \"reasoning\": \"Recent 7-day recovery (+7%) suggests momentum reversal after 30-day decline. Infrastructure/L2 tokens benefit from neutral-to-positive DeFi environment. However, high volatility (51.6%), negative Sharpe ratio, and recent underperformance limit confidence. 14-day annualized return estimate balances near-term momentum with structural challenges.\"}\n```",
   "date": "2025-10-04",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:50.542784+00:00",
+  "generated_at": "2026-02-17T16:38:04.302736+00:00",
   "enriched": false
 }

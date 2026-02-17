@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.28,
-  "confidence": 0.65,
-  "reasoning": "CVX shows strong 30-day momentum (+31.57%) with solid TVL growth (+31.2%), supported by moderate bull market regime. However, recent 7-day (-8.53%) and 14-day (-2.16%) returns indicate momentum weakening and potential mean reversion. High volatility (78.6%) and recent drawdown (-15.3%) suggest continued turbulence. Forecasting 28% annualized return reflects expected consolidation/recovery from recent weakness while maintaining upside bias from fundamental TVL strength, but confidence is moderate due to conflicting signals between longer and shorter-term trends.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.65,\n  \"reasoning\": \"CVX shows strong 30-day momentum (+31.57%) with solid TVL growth (+31.2%), supported by moderate bull market regime. However, recent 7-day (-8.53%) and 14-day (-2.16%) returns indicate momentum weakening and potential mean reversion. High volatility (78.6%) and recent drawdown (-15.3%) suggest continued turbulence. Forecasting 28% annualized return reflects expected consolidation/recovery from recent weakness while maintaining upside bias from fundamental TVL strength, but confidence is moderate due to conflicting signals between longer and shorter-term trends.\"\n}\n```",
+  "expected_return": 0.35,
+  "confidence": 0.62,
+  "reasoning": "Cluster maintains positive fundamentals with strong TVL growth across protocols and bullish DeFi market regime (+34.9% TVL growth). However, recent 7-day pullback (-3.27%) after 30-day rally (+29.29%) suggests momentum consolidation. Expecting continued upside driven by LDO and RPL strength, but with elevated uncertainty. High volatility (87.2%) and profit-taking risk limit confidence. Annualized 14-day forecast reflects modest continuation with ~35% return expectation, balanced against mean reversion pressures.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day forward return forecast.\n\nLet me break down the key factors:\n\n**Positive Indicators:**\n1. **Strong momentum**: 30-day return of +29.29% with positive TVL growth across all protocols\n2. **Excellent risk-adjusted returns**: Sharpe ratio of 2.82 indicates strong risk-adjusted performance\n3. **Bullish market regime**: Overall DeFi TVL up 34.9% in 30 days, indicating healthy market expansion\n4. **Strong protocol fundamentals**: \n   - LDO (liquid staking) showing exceptional 58.3% TVL growth\n   - RPL (Rocket Pool) up 55.7% TVL growth\n   - UNI, SUSHI, SNX all showing healthy 29-33% TVL increases\n\n**Caution Factors:**\n1. **Recent pullback**: -3.27% over last 7 days suggests momentum may be cooling\n2. **High volatility**: 87.2% annualized volatility indicates significant near-term price swings\n3. **Momentum reversal risk**: Cluster rose 11.16% over 14 days but declined in most recent 7 days\n4. **Mean reversion consideration**: After a 29% 30-day run, some consolidation is typical\n\n**Analysis:**\nThe cluster is positioned in a positive market regime with strong fundamentals, but the recent 7-day pullback after a strong 30-day rally suggests we're in a consolidation phase. The -3.27% pullback could represent profit-taking or market digestion. Given the 14-day window and current positioning, I expect modest continued upside with elevated uncertainty due to recent momentum loss.\n\nFor a 14-day forecast annualized: Converting 14-day returns to annualized would suggest maintaining ~50-70% of the recent 14-day momentum (+11.16%) before annualizing, but accounting for the recent pullback, I'm forecasting more conservative returns.\n\n```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster maintains positive fundamentals with strong TVL growth across protocols and bullish DeFi market regime (+34.9% TVL growth). However, recent 7-day pullback (-3.27%) after 30-day rally (+29.29%) suggests momentum consolidation. Expecting continued upside driven by LDO and RPL strength, but with elevated uncertainty. High volatility (87.2%) and profit-taking risk limit confidence. Annualized 14-day forecast reflects modest continuation with ~35% return expectation, balanced against mean reversion pressures.\"\n}\n```",
   "date": "2025-05-17",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:52:59.090403+00:00",
+  "generated_at": "2026-02-17T16:32:05.641010+00:00",
   "enriched": false
 }

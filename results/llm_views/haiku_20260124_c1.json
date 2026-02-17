@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.18,
-  "confidence": 0.35,
-  "reasoning": "Cluster shows negative short-term momentum (-12.96% over 7 days, -10.91% over 14 days) following a neutral 30-day performance (+0.68%). High volatility (54.9% annualized) and low Sharpe ratio (0.10) indicate poor risk-adjusted returns. Infrastructure/L2 tokens lack TVL fundamentals for analysis. Mean reversion from recent drawdown (-17.3% max) suggests modest recovery potential, but weak market regime and lack of bullish catalysts limit upside. Low confidence due to high volatility, thin fundamental data, and ambiguous near-term direction.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows negative short-term momentum (-12.96% over 7 days, -10.91% over 14 days) following a neutral 30-day performance (+0.68%). High volatility (54.9% annualized) and low Sharpe ratio (0.10) indicate poor risk-adjusted returns. Infrastructure/L2 tokens lack TVL fundamentals for analysis. Mean reversion from recent drawdown (-17.3% max) suggests modest recovery potential, but weak market regime and lack of bullish catalysts limit upside. Low confidence due to high volatility, thin fundamental data, and ambiguous near-term direction.\"\n}\n```",
+  "expected_return": 0.08,
+  "confidence": 0.62,
+  "reasoning": "CAKE shows mixed signals: positive 30-day trend (+4.61%) and strong TVL growth (+3.8%), but recent momentum is negative (7-day: -8.49%, 14-day: -2.28%), suggesting potential mean reversion. Neutral market regime with elevated volatility (41.9% annualized) increases uncertainty. The 0.93 Sharpe ratio indicates reasonable risk-adjusted returns historically. Forecasting modest positive 14-day returns as the token may stabilize after recent weakness, but low confidence due to conflicting signals and volatile conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.08,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CAKE shows mixed signals: positive 30-day trend (+4.61%) and strong TVL growth (+3.8%), but recent momentum is negative (7-day: -8.49%, 14-day: -2.28%), suggesting potential mean reversion. Neutral market regime with elevated volatility (41.9% annualized) increases uncertainty. The 0.93 Sharpe ratio indicates reasonable risk-adjusted returns historically. Forecasting modest positive 14-day returns as the token may stabilize after recent weakness, but low confidence due to conflicting signals and volatile conditions.\"\n}\n```",
   "date": "2026-01-24",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:32.702304+00:00",
+  "generated_at": "2026-02-17T16:41:14.735203+00:00",
   "enriched": false
 }

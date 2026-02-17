@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.45,
-  "confidence": 0.55,
-  "reasoning": "CVX has shown exceptional momentum with +75.7% 30-day return and +54.4% 14-day return in a bull market regime. However, several factors warrant caution: (1) The high recent returns suggest mean reversion risk, (2) Annualized volatility of 104.6% indicates significant price swings ahead, (3) The -14.8% max drawdown shows sharp corrections are possible, (4) Bull markets can quickly shift, and (5) A single-token cluster lacks diversification. The 14-day forward-looking forecast of +45% annualized assumes partial continuation of momentum but with reduced intensity as recent gains may attract profit-taking. The 0.55 confidence reflects the tension between strong technicals and elevated reversal risk in an extended uptrend.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CVX has shown exceptional momentum with +75.7% 30-day return and +54.4% 14-day return in a bull market regime. However, several factors warrant caution: (1) The high recent returns suggest mean reversion risk, (2) Annualized volatility of 104.6% indicates significant price swings ahead, (3) The -14.8% max drawdown shows sharp corrections are possible, (4) Bull markets can quickly shift, and (5) A single-token cluster lacks diversification. The 14-day forward-looking forecast of +45% annualized assumes partial continuation of momentum but with reduced intensity as recent gains may attract profit-taking. The 0.55 confidence reflects the tension between strong technicals and elevated reversal risk in an extended uptrend.\"\n}\n```",
+  "expected_return": 0.48,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing strong bull-regime momentum with +34.41% 30-day return and exceptional Sharpe ratio of 4.33. However, recent 7-day pullback (-1.50%) suggests potential consolidation after strong gains. LDO's dominant TVL weight ($33.6B) with +52.4% growth and SUSHI's exceptional +90.2% 30-day performance provide upside catalysts. Moderate confidence due to: (1) extended recent gains creating mean-reversion risk, (2) -12.1% max drawdown indicating volatility, and (3) derivatives/DEX category sensitivity to broader market sentiment swings. Annualized forecast of 48% reflects strong fundamentals (TVL growth, bull regime) tempered by valuation stretched conditions and near-term technical weakness. Volatility of 66.8% suggests significant risk, justifying confidence below 0.70.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.48,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing strong bull-regime momentum with +34.41% 30-day return and exceptional Sharpe ratio of 4.33. However, recent 7-day pullback (-1.50%) suggests potential consolidation after strong gains. LDO's dominant TVL weight ($33.6B) with +52.4% growth and SUSHI's exceptional +90.2% 30-day performance provide upside catalysts. Moderate confidence due to: (1) extended recent gains creating mean-reversion risk, (2) -12.1% max drawdown indicating volatility, and (3) derivatives/DEX category sensitivity to broader market sentiment swings. Annualized forecast of 48% reflects strong fundamentals (TVL growth, bull regime) tempered by valuation stretched conditions and near-term technical weakness. Volatility of 66.8% suggests significant risk, justifying confidence below 0.70.\"\n}\n```",
   "date": "2025-07-26",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:52.197122+00:00",
+  "generated_at": "2026-02-17T16:35:13.341316+00:00",
   "enriched": false
 }

@@ -1,26 +1,14 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.35,
-  "reasoning": "Bear market regime with oversold cluster showing early recovery signals (7-day +3%). Expect modest continued bounce from depressed levels over 14 days, but high volatility (113.9%) and negative macro trends limit conviction. Mixed protocol fundamentals (CRV/CAKE growth vs UNI/AAVE decline) create neutral bias. Low confidence reflects uncertainty in bear market duration and volatility magnitude.",
-  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market regime with -11.2% TVL decline over 30 days\n- Cluster has experienced significant drawdown (-30.52% in 30 days, -34.6% max drawdown)\n- High volatility environment (113.9% annualized)\n- Negative Sharpe ratio (-2.25) indicates risk-adjusted returns are poor\n\n**Recent Momentum Signals:**\n- 7-day return: +3.00% (positive rebound)\n- 14-day return: -30.89% (heavily weighted by earlier losses)\n- This suggests the cluster may be bouncing from oversold conditions\n\n**Protocol Fundamentals:**\n- AAVE dominates the cluster (TVL-weighted ~40% of cluster based on $38.8B TVL)\n- Mixed TVL trends: CRV and CAKE showing growth (+11.7%, +11.8%), but larger positions (UNI, AAVE, SUSHI) declining\n- Core lending/DEX protocols maintain substantial TVL despite market stress\n\n**Key Considerations:**\n1. **Oversold bounce potential**: After -30% declines, technical oversold conditions often lead to mean reversion\n2. **Bear market continuation risk**: The underlying market regime remains bearish with -11.2% TVL decline\n3. **Volatility regime**: 113.9% annualized volatility means large swings in both directions are possible\n4. **Recent positive momentum**: 7-day +3% rebound suggests some stabilization\n\n**14-Day Forecast Rationale:**\nGiven the bear market regime but recent positive momentum and likely oversold conditions, I expect a modest continued recovery over the next 14 days, though with high uncertainty.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market regime with oversold cluster showing early recovery signals (7-day +3%). Expect modest continued bounce from depressed levels over 14 days, but high volatility (113.9%) and negative macro trends limit conviction. Mixed protocol fundamentals (CRV/CAKE growth vs UNI/AAVE decline) create neutral bias. Low confidence reflects uncertainty in bear market duration and volatility magnitude.\"}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.42,
+  "reasoning": "BAL faces headwinds from bear market regime (TVL down 11.2%), negative 30-day momentum (-22.95%), and weak Sharpe ratio (-2.89). However, recent 7-day recovery (+0.72%) and stabilizing TVL (-5.4%) suggest potential consolidation. High volatility (66.8%) and single-token concentration limit confidence. Forecast reflects likely continued weakness with modest recovery probability in near term.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL faces headwinds from bear market regime (TVL down 11.2%), negative 30-day momentum (-22.95%), and weak Sharpe ratio (-2.89). However, recent 7-day recovery (+0.72%) and stabilizing TVL (-5.4%) suggest potential consolidation. High volatility (66.8%) and single-token concentration limit confidence. Forecast reflects likely continued weakness with modest recovery probability in near term.\"\n}\n```",
   "date": "2025-10-18",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:03.991212+00:00",
+  "generated_at": "2026-02-17T16:38:15.551691+00:00",
   "enriched": false
 }

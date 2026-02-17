@@ -1,14 +1,18 @@
 {
   "expected_return": -0.85,
   "confidence": 0.62,
-  "reasoning": "CVX faces significant headwinds: bear market regime, -33.87% 30-day decline, -12.05% 14-day decline showing accelerating downside, 80% annualized volatility, and negative Sharpe ratio (-3.56). TVL declining -14.4% indicates reduced protocol value. However, extreme drawdowns often precede mean reversion attempts. The 14-day timeframe is short relative to the volatility cycle, suggesting continued weakness but with some possibility of bounce. Moderate confidence reflects the balance between strong negative momentum and potential stabilization.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"CVX faces significant headwinds: bear market regime, -33.87% 30-day decline, -12.05% 14-day decline showing accelerating downside, 80% annualized volatility, and negative Sharpe ratio (-3.56). TVL declining -14.4% indicates reduced protocol value. However, extreme drawdowns often precede mean reversion attempts. The 14-day timeframe is short relative to the volatility cycle, suggesting continued weakness but with some possibility of bounce. Moderate confidence reflects the balance between strong negative momentum and potential stabilization.\"\n}\n```",
+  "reasoning": "Bear market regime with strong negative momentum (-14.43% over 14 days, -2.45% over 7 days) indicates continued downward pressure. High volatility (86.3%) and negative Sharpe ratio (-1.59) suggest risk-adjusted returns are poor. However, recent momentum shows deceleration (7d return better than 14d return), potentially indicating stabilization. TVL declines across all protocols (-5.6% to -15.6%) reflect capital outflows. Moderate confidence due to bear regime, but some uncertainty around potential mean reversion given extreme drawdowns (-30.9% max). Forecast assumes continued negative returns but at a slower pace than recent 14-day performance when annualized.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bear market regime with strong negative momentum (-14.43% over 14 days, -2.45% over 7 days) indicates continued downward pressure. High volatility (86.3%) and negative Sharpe ratio (-1.59) suggest risk-adjusted returns are poor. However, recent momentum shows deceleration (7d return better than 14d return), potentially indicating stabilization. TVL declines across all protocols (-5.6% to -15.6%) reflect capital outflows. Moderate confidence due to bear regime, but some uncertainty around potential mean reversion given extreme drawdowns (-30.9% max). Forecast assumes continued negative returns but at a slower pace than recent 14-day performance when annualized.\"\n}\n```",
   "date": "2025-06-28",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:08.191470+00:00",
+  "generated_at": "2026-02-17T16:34:09.662357+00:00",
   "enriched": false
 }

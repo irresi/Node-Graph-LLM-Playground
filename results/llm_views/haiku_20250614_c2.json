@@ -1,26 +1,14 @@
 {
   "expected_return": 0.18,
   "confidence": 0.42,
-  "reasoning": "Cluster shows recent momentum (+10.29% over 14 days) but operates in bear market regime with weak fundamentals (Sharpe -0.60). High volatility (70.8%) and negative 30-day trend suggest mean reversion risk. AAVE's strong TVL growth (+7.4%) provides some support. Expect modest positive continuation of recent bounce, but low confidence due to bearish regime and poor risk metrics. Annualized return based on recent 14-day trend extrapolation, heavily discounted for regime headwinds.",
-  "raw_response": "I'll analyze this DeFi cluster to forecast the expected annualized return for the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Market Regime**: Bear market with strong downtrend, but showing recent momentum\n2. **Recent Momentum**: Positive short-term performance\n   - 7-day return: +8.86%\n   - 14-day return: +10.29%\n   - 30-day return: -5.06% (negative longer-term trend)\n\n3. **Volatility & Risk**: \n   - Annualized volatility: 70.8% (very high)\n   - Sharpe ratio: -0.60 (poor risk-adjusted returns)\n   - Max drawdown: -14.7% (significant downside risk)\n\n4. **Protocol Fundamentals**:\n   - AAVE showing strong growth (+7.4% TVL change)\n   - UNI stable (+1.3% TVL change)\n   - Overall DeFi TVL barely positive (+1.2% 30-day change)\n   - Mixed protocol health across the cluster\n\n5. **Mean Reversion Signals**:\n   - Strong 14-day bounce (+10.29%) against bear market trend\n   - This could represent either: (a) genuine recovery, or (b) mean reversion bounce that will reverse\n   - The negative 30-day performance suggests gravity toward downside\n\n**Forecast Rationale:**\n\nThe cluster shows recent momentum, but we're in a bear market regime. The positive 7-14 day returns are likely partial recovery bounces in a downtrend. Key headwinds include:\n- Negative 30-day trend (-5.06%)\n- Weak Sharpe ratio indicating poor risk-adjusted performance\n- Bear market regime limiting upside\n- High volatility suggests mean reversion risk\n\nHowever, AAVE's strong TVL growth and the recent 2-week bounce suggest some fundamental support. I expect modest positive returns over the next 14 days, but with the recognition that bear market pressure could reassert itself.\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.42, \"reasoning\": \"Cluster shows recent momentum (+10.29% over 14 days) but operates in bear market regime with weak fundamentals (Sharpe -0.60). High volatility (70.8%) and negative 30-day trend suggest mean reversion risk. AAVE's strong TVL growth (+7.4%) provides some support. Expect modest positive continuation of recent bounce, but low confidence due to bearish regime and poor risk metrics. Annualized return based on recent 14-day trend extrapolation, heavily discounted for regime headwinds.\"}\n```",
+  "reasoning": "BAL shows positive short-term momentum (+2.28% 7-day, +1.56% 14-day) despite bearish 30-day decline (-10.18%), suggesting potential mean reversion. However, confidence is moderate due to: (1) strong bear market regime limiting upside, (2) high volatility (72.7% annualized) creating execution risk, (3) negative Sharpe ratio (-1.18) indicating poor risk-adjusted returns, and (4) single-token cluster lacking diversification. TVL growth (+2.8%) provides modest fundamental support. Forecast annualizes near-term positive momentum while heavily discounting for regime headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL shows positive short-term momentum (+2.28% 7-day, +1.56% 14-day) despite bearish 30-day decline (-10.18%), suggesting potential mean reversion. However, confidence is moderate due to: (1) strong bear market regime limiting upside, (2) high volatility (72.7% annualized) creating execution risk, (3) negative Sharpe ratio (-1.18) indicating poor risk-adjusted returns, and (4) single-token cluster lacking diversification. TVL growth (+2.8%) provides modest fundamental support. Forecast annualizes near-term positive momentum while heavily discounting for regime headwinds.\"\n}\n```",
   "date": "2025-06-14",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:53:38.929016+00:00",
+  "generated_at": "2026-02-17T16:33:26.670421+00:00",
   "enriched": false
 }

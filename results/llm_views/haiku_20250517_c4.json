@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.35,
+  "expected_return": 0.12,
   "confidence": 0.62,
-  "reasoning": "BAL shows strong 30-day momentum (+17.85%) despite recent 14-day pullback (-5.07%), suggesting mean reversion potential. Moderate bull regime and strong TVL growth (+34.4%) support recovery. However, high volatility (105.3%) and recent negative trend create uncertainty. Forecast assumes partial rebound from oversold conditions over 14 days, annualizing to ~35% but with moderate confidence due to conflicting signals.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.35,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows strong 30-day momentum (+17.85%) despite recent 14-day pullback (-5.07%), suggesting mean reversion potential. Moderate bull regime and strong TVL growth (+34.4%) support recovery. However, high volatility (105.3%) and recent negative trend create uncertainty. Forecast assumes partial rebound from oversold conditions over 14 days, annualizing to ~35% but with moderate confidence due to conflicting signals.\"\n}\n```",
+  "reasoning": "Cluster shows strong 30-day momentum (+31.36%) in bullish DeFi environment, but recent 7-day weakness (-1.13%) suggests consolidation. Expect moderate annualized returns (~12%) over 14 days as momentum cools from extremes. High volatility (80.4%) and lack of TVL data for most tokens limit confidence. Infrastructure/L2 thesis remains sound but valuations likely stretched after recent rally.",
+  "raw_response": "Based on the provided market context and cluster metrics, I'll analyze Cluster 4 (LINK, OP, ARB, ENS, GRT) to forecast expected returns over the next 14 days.\n\n## Analysis\n\n**Positive Factors:**\n1. **Strong recent momentum**: 30-day return of +31.36% with a solid Sharpe ratio of 3.28, indicating quality returns relative to risk\n2. **Bullish market regime**: Overall DeFi TVL up 34.9% in 30 days, supporting infrastructure/L2 tokens\n3. **14-day trend**: +10.49% return shows positive momentum entering the forecast period\n4. **Diversified cluster**: Mix of L2 solutions (OP, ARB) and critical infrastructure (LINK oracle, GRT indexing, ENS naming)\n\n**Cautionary Factors:**\n1. **Recent weakness**: 7-day return of -1.13% suggests some momentum loss or consolidation after the 30-day rally\n2. **High volatility**: Annualized volatility of 80.4% indicates significant price swings and execution risk\n3. **Elevated valuations**: After a 31% move in 30 days, the cluster may face profit-taking or mean reversion pressure\n4. **Max drawdown context**: -14.1% max drawdown shows these tokens are prone to sharp corrections\n5. **Limited TVL data**: No TVL data for most tokens limits fundamental validation\n\n**14-day Forecast Rationale:**\n- The cluster has shown strong performance but is entering a consolidation phase (negative 7-day return)\n- In a moderate bull market with 80.4% volatility, 14-day returns typically mean-revert toward longer-term trends\n- Historical performance suggests continued modest gains, but at a slower pace than the 30-day run\n- Market maturity suggests +5-15% annualized equivalent over 14 days is reasonable\n\n```json\n{\"expected_return\": 0.12, \"confidence\": 0.62, \"reasoning\": \"Cluster shows strong 30-day momentum (+31.36%) in bullish DeFi environment, but recent 7-day weakness (-1.13%) suggests consolidation. Expect moderate annualized returns (~12%) over 14 days as momentum cools from extremes. High volatility (80.4%) and lack of TVL data for most tokens limit confidence. Infrastructure/L2 thesis remains sound but valuations likely stretched after recent rally.\"}\n```",
   "date": "2025-05-17",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:53:02.995912+00:00",
+  "generated_at": "2026-02-17T16:32:13.236907+00:00",
   "enriched": false
 }

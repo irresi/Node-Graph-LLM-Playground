@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.18,
+  "confidence": 0.62,
+  "reasoning": "Cluster showing negative momentum with 14-day return of -13.23% despite neutral market regime and positive TVL growth in AAVE (+6.7%) and MKR (+4.8%). High volatility (71.7% annualized) and negative Sharpe ratio (-0.55) indicate risk-reward imbalance. Recent 7-day stabilization (-0.09%) suggests potential mean reversion, but CRV and COMP TVL declines (-10.6%, -8.2%) are concerning. Forecast reflects cautious outlook with moderate confidence due to conflicting signals between fundamentals (TVL growth in major protocols) and technicals (negative momentum, max drawdown of -20.3%). Annualized return estimate accounts for elevated volatility and continued pressure from derivative/lending sector headwinds.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster showing negative momentum with 14-day return of -13.23% despite neutral market regime and positive TVL growth in AAVE (+6.7%) and MKR (+4.8%). High volatility (71.7% annualized) and negative Sharpe ratio (-0.55) indicate risk-reward imbalance. Recent 7-day stabilization (-0.09%) suggests potential mean reversion, but CRV and COMP TVL declines (-10.6%, -8.2%) are concerning. Forecast reflects cautious outlook with moderate confidence due to conflicting signals between fundamentals (TVL growth in major protocols) and technicals (negative momentum, max drawdown of -20.3%). Annualized return estimate accounts for elevated volatility and continued pressure from derivative/lending sector headwinds.\"\n}\n```",
+  "date": "2025-09-06",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:37:05.356851+00:00",
+  "enriched": false
+}

@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.28,
-  "confidence": 0.42,
-  "reasoning": "CVX shows positive momentum with +14.79% 7-day and +9.36% 14-day returns despite bear market. However, high volatility (117.8% annualized), weak Sharpe ratio (0.37), and declining DeFi TVL (-1.7%) create significant headwinds. The 14-day forecast annualizes recent momentum but discounts it substantially for market regime risk and mean reversion probability in high-volatility yield tokens during bear markets. Low confidence reflects conflicting signals: strong short-term momentum vs. structural bearish conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX shows positive momentum with +14.79% 7-day and +9.36% 14-day returns despite bear market. However, high volatility (117.8% annualized), weak Sharpe ratio (0.37), and declining DeFi TVL (-1.7%) create significant headwinds. The 14-day forecast annualizes recent momentum but discounts it substantially for market regime risk and mean reversion probability in high-volatility yield tokens during bear markets. Low confidence reflects conflicting signals: strong short-term momentum vs. structural bearish conditions.\"\n}\n```",
+  "expected_return": -0.18,
+  "confidence": 0.55,
+  "reasoning": "Bear market with recent +7.90% bounce showing momentum decay. Negative TVL trends and high volatility support mean reversion downward. Annualized return estimate assumes -1.5% to -2% over 14 days. Moderate confidence due to binary nature of momentum shifts in volatile markets.",
+  "raw_response": "Looking at this DeFi cluster, I'll analyze the key factors to forecast the 14-day expected return:\n\n## Analysis:\n\n**Market Regime & Volatility:**\n- Bear market with strong downtrend and -1.7% TVL decline\n- High annualized volatility (56.7%) indicates significant price swings\n- Negative Sharpe ratio (-0.39) shows poor risk-adjusted returns\n\n**Momentum Signals (conflicting):**\n- 30-day return: -2.66% (weak downtrend)\n- 14-day return: +7.90% (strong recent bounce)\n- 7-day return: -1.08% (momentum cooling)\n\nThis suggests a temporary reversal rally that's already beginning to lose steam.\n\n**Protocol Fundamentals:**\n- Weighted TVL mix is reasonable (LDO dominates at 27.5B)\n- Most protocols showing TVL contraction (-2.8% to -17.5%)\n- SNX slightly positive (+1.5%) is exception but minimal impact\n- RPL (-7.5%) and SUSHI (-17.5%) showing significant stress\n\n**14-Day Forecast Reasoning:**\n1. The +7.90% 14-day return already represents 201% annualized if sustained (unrealistic)\n2. Bear market conditions and cooling momentum suggest mean reversion downward\n3. TVL trends are negative, indicating reduced user confidence\n4. The bounce appears to be a temporary relief rally in a downtrend\n\nFor the next 14 days, I expect continued volatility but a return to downward pressure given the broader bear market context and deteriorating fundamentals.\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.55, \"reasoning\": \"Bear market with recent +7.90% bounce showing momentum decay. Negative TVL trends and high volatility support mean reversion downward. Annualized return estimate assumes -1.5% to -2% over 14 days. Moderate confidence due to binary nature of momentum shifts in volatile markets.\"}\n```",
   "date": "2026-01-10",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:24.863972+00:00",
+  "generated_at": "2026-02-17T16:41:01.749388+00:00",
   "enriched": false
 }

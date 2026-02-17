@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.45,
-  "confidence": 0.55,
-  "reasoning": "CVX faces headwinds from a strong bear market regime with -21.96% 30-day returns and high volatility (81.1% annualized). However, recent 7-day momentum (+1.57%) suggests potential short-term recovery. TVL stability (-0.5% 30d change) indicates protocol resilience. The negative Sharpe ratio (-2.27) reflects poor risk-adjusted returns. Over 14 days, we expect continued underperformance but with modest recovery from oversold conditions, resulting in a slightly negative annualized return estimate. Moderate confidence due to high volatility and uncertain market regime continuation.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CVX faces headwinds from a strong bear market regime with -21.96% 30-day returns and high volatility (81.1% annualized). However, recent 7-day momentum (+1.57%) suggests potential short-term recovery. TVL stability (-0.5% 30d change) indicates protocol resilience. The negative Sharpe ratio (-2.27) reflects poor risk-adjusted returns. Over 14 days, we expect continued underperformance but with modest recovery from oversold conditions, resulting in a slightly negative annualized return estimate. Moderate confidence due to high volatility and uncertain market regime continuation.\"\n}\n```",
+  "expected_return": 0.28,
+  "confidence": 0.35,
+  "reasoning": "Cluster shows strong 7/14-day recovery (+9.07%) from bear market conditions, but faces significant headwinds: bearish 30-day trend (-11.83%), elevated volatility (85.2%), negative Sharpe ratio (-1.17), and weak DeFi TVL growth (+1.2%). SNX shows concerning -15.9% TVL decline. The recent bounce appears momentum-driven rather than fundamental, likely vulnerable to mean reversion given bearish regime. Low confidence due to conflicting signals and high volatility in declining market.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.35,\n  \"reasoning\": \"Cluster shows strong 7/14-day recovery (+9.07%) from bear market conditions, but faces significant headwinds: bearish 30-day trend (-11.83%), elevated volatility (85.2%), negative Sharpe ratio (-1.17), and weak DeFi TVL growth (+1.2%). SNX shows concerning -15.9% TVL decline. The recent bounce appears momentum-driven rather than fundamental, likely vulnerable to mean reversion given bearish regime. Low confidence due to conflicting signals and high volatility in declining market.\"\n}\n```",
   "date": "2025-06-14",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:53:43.326381+00:00",
+  "generated_at": "2026-02-17T16:33:30.718354+00:00",
   "enriched": false
 }

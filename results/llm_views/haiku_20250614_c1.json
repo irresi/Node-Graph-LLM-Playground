@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.42,
-  "reasoning": "Cluster in bear market regime with -24.53% 30-day loss and -2.51% 14-day decline. However, recent 7-day recovery (+0.42%) suggests potential short-term bounce. High volatility (74.9% annualized) and negative Sharpe ratio (-2.75) indicate elevated risk. Infrastructure/L2 tokens face headwinds in downtrend but could see mean reversion. Forecast: modest negative return annualized from next 14 days, reflecting continued weakness tempered by slight recovery signals. Low confidence due to bear regime and lack of protocol TVL fundamentals for most tokens.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster in bear market regime with -24.53% 30-day loss and -2.51% 14-day decline. However, recent 7-day recovery (+0.42%) suggests potential short-term bounce. High volatility (74.9% annualized) and negative Sharpe ratio (-2.75) indicate elevated risk. Infrastructure/L2 tokens face headwinds in downtrend but could see mean reversion. Forecast: modest negative return annualized from next 14 days, reflecting continued weakness tempered by slight recovery signals. Low confidence due to bear regime and lack of protocol TVL fundamentals for most tokens.\"\n}\n```\n\n**Key reasoning:**\n1. **Bear Market Pressure**: Strong downtrend (-24.53% in 30 days) with negative Sharpe ratio suggests cluster remains under selling pressure\n2. **Recent Momentum Mixed**: 7-day +0.42% recovery vs. 14-day -2.51% decline indicates potential short-term support but insufficient to offset bearish trajectory\n3. **Volatility & Risk**: 74.9% annualized volatility with -25.3% max drawdown indicates high downside risk; limited fundamental support (no TVL data for most tokens)\n4. **Low Confidence**: Bear regime dominates technical signals; infrastructure tokens are sentiment-driven; limited protocol metrics to justify bullish case\n5. **Conservative Forecast**: Next 14 days likely continue negative drift despite recovery attempts, with annualized return around -35%",
+  "expected_return": 0.45,
+  "confidence": 0.35,
+  "reasoning": "CAKE shows strong recent momentum (7-day: +7.61%, 14-day: +8.85%) suggesting continued upside, but operates in a bear market regime with high volatility (81% annualized). TVL decline (-2.2% in 30d) indicates weakening fundamentals. The 14-day return of 8.85% annualizes to ~230%, but this is unsustainable given market headwinds and high drawdown risk (-18.4% max). Conservative estimate of 45% annualized return reflects momentum offset by macro bear conditions and single-token concentration risk. Low confidence due to regime uncertainty and potential mean reversion from elevated recent returns.",
+  "raw_response": "```json\n{\"expected_return\": 0.45, \"confidence\": 0.35, \"reasoning\": \"CAKE shows strong recent momentum (7-day: +7.61%, 14-day: +8.85%) suggesting continued upside, but operates in a bear market regime with high volatility (81% annualized). TVL decline (-2.2% in 30d) indicates weakening fundamentals. The 14-day return of 8.85% annualizes to ~230%, but this is unsustainable given market headwinds and high drawdown risk (-18.4% max). Conservative estimate of 45% annualized return reflects momentum offset by macro bear conditions and single-token concentration risk. Low confidence due to regime uncertainty and potential mean reversion from elevated recent returns.\"}\n```",
   "date": "2025-06-14",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:53:31.269138+00:00",
+  "generated_at": "2026-02-17T16:33:20.512065+00:00",
   "enriched": false
 }

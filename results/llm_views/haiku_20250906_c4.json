@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.12,
-  "confidence": 0.45,
-  "reasoning": "BAL shows significant recent weakness with -14.16% 14-day return and -7.3% TVL decline, indicating reduced protocol utilization and investor confidence. High volatility (82.3% annualized) and negative Sharpe ratio (-0.29) suggest poor risk-adjusted returns. The neutral/range-bound market regime provides limited upside catalysts. However, confidence is moderate due to: (1) single-token cluster limiting diversification insights, (2) potential mean reversion after steep recent declines, and (3) unknown protocol-specific developments. Forecast assumes continued weakness over next 14 days but with some stabilization as the token may be oversold.",
-  "raw_response": "Based on the provided market data for Cluster 4 (BAL token), here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.12,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL shows significant recent weakness with -14.16% 14-day return and -7.3% TVL decline, indicating reduced protocol utilization and investor confidence. High volatility (82.3% annualized) and negative Sharpe ratio (-0.29) suggest poor risk-adjusted returns. The neutral/range-bound market regime provides limited upside catalysts. However, confidence is moderate due to: (1) single-token cluster limiting diversification insights, (2) potential mean reversion after steep recent declines, and (3) unknown protocol-specific developments. Forecast assumes continued weakness over next 14 days but with some stabilization as the token may be oversold.\"\n}\n```\n\n**Key Considerations:**\n- **Downtrend momentum**: The 14-day return of -14.16% significantly exceeds the 30-day return of -2.89%, indicating accelerating negative momentum\n- **TVL deterioration**: -7.3% TVL decline suggests reduced user engagement and potential loss of confidence in the protocol\n- **Risk metrics**: High volatility combined with negative returns creates an unfavorable risk/reward environment\n- **Limited upside**: Neutral market regime and BAL's weakness within it offer few catalysts for recovery in the near term\n- **Confidence limitations**: Single-token clusters are harder to forecast; sector-wide dynamics or specific protocol announcements could shift the outlook significantly",
+  "expected_return": 0.12,
+  "confidence": 0.55,
+  "reasoning": "Cluster shows mixed signals: recent 30-day momentum (+8.27%) is positive, but 14-day pullback (-14.68%) and current 7-day weakness (-0.68%) suggest consolidation phase. High volatility (85.1%) and neutral market regime limit confidence. L2/infrastructure tokens typically trade on adoption narratives rather than TVL metrics. Cluster is likely establishing support after correction; modest positive returns expected over 14 days with moderate confidence due to macro uncertainty and mean-reversion dynamics.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.12,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster shows mixed signals: recent 30-day momentum (+8.27%) is positive, but 14-day pullback (-14.68%) and current 7-day weakness (-0.68%) suggest consolidation phase. High volatility (85.1%) and neutral market regime limit confidence. L2/infrastructure tokens typically trade on adoption narratives rather than TVL metrics. Cluster is likely establishing support after correction; modest positive returns expected over 14 days with moderate confidence due to macro uncertainty and mean-reversion dynamics.\"\n}\n```",
   "date": "2025-09-06",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:09.017240+00:00",
+  "generated_at": "2026-02-17T16:37:00.535835+00:00",
   "enriched": false
 }

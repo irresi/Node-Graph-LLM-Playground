@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.62,
-  "reasoning": "Cluster in strong bear regime with -20.05% 30-day loss and -2.56% recent 7-day decline. High volatility (60.3%) and negative Sharpe (-2.79) indicate sustained downward momentum. Infrastructure/L2 tokens particularly sensitive to macro conditions and risk-off sentiment. 14-day annualized extrapolation of recent -11.63% return suggests continued weakness. Limited upside catalysts with flat DeFi TVL (+0.2% 30d). Moderate confidence due to bear market volatility\u2014potential for sharp reversals, but technical indicators and momentum remain negative.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in strong bear regime with -20.05% 30-day loss and -2.56% recent 7-day decline. High volatility (60.3%) and negative Sharpe (-2.79) indicate sustained downward momentum. Infrastructure/L2 tokens particularly sensitive to macro conditions and risk-off sentiment. 14-day annualized extrapolation of recent -11.63% return suggests continued weakness. Limited upside catalysts with flat DeFi TVL (+0.2% 30d). Moderate confidence due to bear market volatility\u2014potential for sharp reversals, but technical indicators and momentum remain negative.\"\n}\n```",
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "CAKE shows severe downtrend momentum (-31.15% in 30d, -20.20% in 14d) in a bear market regime with high volatility (51.8% annualized). TVL declining (-11% in 30d) signals weakening fundamentals. Negative Sharpe ratio (-5.05) indicates poor risk-adjusted returns. However, extreme drawdowns and negative momentum suggest oversold conditions may offer slight recovery potential. Annualized forecast of -45% reflects continued weakness but accounts for potential mean reversion from depressed levels. Confidence is moderate due to bear market uncertainty and limited positive catalysts visible in the data.",
+  "raw_response": "Based on the provided market context and cluster metrics, here is my analysis:\n\n```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE shows severe downtrend momentum (-31.15% in 30d, -20.20% in 14d) in a bear market regime with high volatility (51.8% annualized). TVL declining (-11% in 30d) signals weakening fundamentals. Negative Sharpe ratio (-5.05) indicates poor risk-adjusted returns. However, extreme drawdowns and negative momentum suggest oversold conditions may offer slight recovery potential. Annualized forecast of -45% reflects continued weakness but accounts for potential mean reversion from depressed levels. Confidence is moderate due to bear market uncertainty and limited positive catalysts visible in the data.\"\n}\n```\n\n**Key Analysis Points:**\n- **Momentum deterioration**: 7-day return of -1.75% shows deceleration from steeper 14-day (-20.20%) and 30-day (-31.15%) losses, which could indicate stabilization\n- **Fundamental weakness**: CAKE's TVL drop of 11% over 30 days reflects user exodus from the protocol\n- **Volatility regime**: 51.8% annualized volatility is extremely high, creating significant downside risk in bear markets\n- **Oversold signals**: Max drawdown of -27.7% and negative Sharpe suggest the token may be approaching support levels, though recovery probability is low\n\nThe forecast assumes continued weakness in the bear regime but with reduced downside acceleration compared to recent periods.",
   "date": "2025-12-27",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:53.053478+00:00",
+  "generated_at": "2026-02-17T16:40:28.337551+00:00",
   "enriched": false
 }

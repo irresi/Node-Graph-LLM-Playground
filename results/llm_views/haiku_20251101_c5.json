@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in severe bear regime with -36.27% 30-day loss and -12.5% TVL decline. Recent 7-day momentum (-6.53%) remains negative despite slight stabilization in 14-day return (-1.84%), suggesting continued downside pressure. High volatility (99.7%) and deeply negative Sharpe (-3.06) indicate risk-off sentiment. Mixed TVL signals (CRV +3.4%, MKR +3.5% vs AAVE -15.9%, COMP -14.6%) show divergence but weighted by large negative AAVE exposure ($37.8B). Annualized return estimate accounts for expected continuation of bear pressure over 14-day window with modest recovery probability. Confidence limited by market regime uncertainty and high volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in severe bear regime with -36.27% 30-day loss and -12.5% TVL decline. Recent 7-day momentum (-6.53%) remains negative despite slight stabilization in 14-day return (-1.84%), suggesting continued downside pressure. High volatility (99.7%) and deeply negative Sharpe (-3.06) indicate risk-off sentiment. Mixed TVL signals (CRV +3.4%, MKR +3.5% vs AAVE -15.9%, COMP -14.6%) show divergence but weighted by large negative AAVE exposure ($37.8B). Annualized return estimate accounts for expected continuation of bear pressure over 14-day window with modest recovery probability. Confidence limited by market regime uncertainty and high volatility.\"\n}\n```",
+  "date": "2025-11-01",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:38:50.652682+00:00",
+  "enriched": false
+}

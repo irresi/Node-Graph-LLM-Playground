@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows mixed signals in bear market. Recent 14-day momentum (+3.63%) contrasts sharply with 30-day decline (-5.88%), suggesting potential short-term recovery or mean reversion. However, underlying headwinds persist: TVL declining overall (-1.7%), elevated volatility (42.8%), and negative Sharpe ratio (-1.16) indicate stressed market conditions. AAVE's TVL growth (+2.6%) and modest 7-day gains (+0.80%) provide some support, but MKR's sharp TVL decline (-10.6%) and general bear regime limit upside. Forecasting modest positive return annualized from 14-day window, but confidence remains low due to macro uncertainty and regime weakness.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows mixed signals in bear market. Recent 14-day momentum (+3.63%) contrasts sharply with 30-day decline (-5.88%), suggesting potential short-term recovery or mean reversion. However, underlying headwinds persist: TVL declining overall (-1.7%), elevated volatility (42.8%), and negative Sharpe ratio (-1.16) indicate stressed market conditions. AAVE's TVL growth (+2.6%) and modest 7-day gains (+0.80%) provide some support, but MKR's sharp TVL decline (-10.6%) and general bear regime limit upside. Forecasting modest positive return annualized from 14-day window, but confidence remains low due to macro uncertainty and regime weakness.\"\n}\n```",
+  "date": "2026-01-10",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:41:10.986925+00:00",
+  "enriched": false
+}

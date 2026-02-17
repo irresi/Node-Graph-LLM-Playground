@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.35,
-  "confidence": 0.42,
-  "reasoning": "CVX faces headwinds from bear market regime (-1.3% DeFi TVL change, -11.18% 30-day return) and negative Sharpe ratio (-1.43). However, recent 7-day momentum is positive (+1.95%), suggesting potential short-term recovery. The single-token cluster composition increases idiosyncratic risk. High volatility (65.7%) and recent 14-day weakness (-5.04%) warrant caution. Forecast reflects near-term rebound potential offset by structural bearish pressures. Low confidence due to volatile yield asset behavior and limited diversification.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX faces headwinds from bear market regime (-1.3% DeFi TVL change, -11.18% 30-day return) and negative Sharpe ratio (-1.43). However, recent 7-day momentum is positive (+1.95%), suggesting potential short-term recovery. The single-token cluster composition increases idiosyncratic risk. High volatility (65.7%) and recent 14-day weakness (-5.04%) warrant caution. Forecast reflects near-term rebound potential offset by structural bearish pressures. Low confidence due to volatile yield asset behavior and limited diversification.\"\n}\n```",
+  "expected_return": 0.18,
+  "confidence": 0.35,
+  "reasoning": "Cluster faces severe bear market headwinds with -39.23% 30-day decline and negative momentum. However, 14-day period may see modest mean-reversion bounce (8-12%) as cluster stabilizes, particularly LDO and UNI. Annualized ~18% reflects expected 4-6% near-term recovery. Low confidence due to sustained bear regime and elevated volatility (57.6%). TVL stabilization in core protocols provides minor upside support, but downside risks predominate.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bear market regime with strong downtrend (-1.3% DeFi TVL decline)\n- Cluster already severely underperforming: -39.23% over 30 days\n- Negative momentum: -15.62% over 14 days, -3.33% over 7 days\n- High volatility (57.6% annualized) with poor risk-adjusted returns (Sharpe: -5.72)\n\n**Cluster Composition Assessment:**\n- **UNI (Uniswap)**: Largest by TVL ($4.2B), -9.6% TVL decline - relatively stable\n- **LDO (Lido)**: Largest absolute TVL ($27B), -2.0% TVL decline - most resilient\n- **RPL (Rocket Pool)**: $1.8B TVL, -6.2% TVL decline - stable\n- **SUSHI**: $247M TVL, -8.7% TVL decline - minor position\n- **SNX (Synthetix)**: $59M TVL, -36.9% TVL decline - significantly distressed\n\n**Key Observations:**\n1. The cluster is in a severe downtrend with negative momentum across all timeframes\n2. TVL metrics show mixed health - LDO and UNI relatively stable, SNX deteriorating\n3. Max drawdown of -30.8% indicates high downside risk\n4. The 7-day deceleration (-3.33%) vs 14-day (-15.62%) suggests stabilization may be beginning\n\n**Forward-Looking Factors:**\n- Bear market typically persists 4-8 weeks before reversal signals emerge\n- TVL stabilization (especially in UNI, LDO, RPL) could support modest recovery\n- However, continued selling pressure likely given market regime\n- 14-day horizon is relatively near-term; mean reversion from -39.23% crash may provide slight bounce\n\n**Forecast Rationale:**\nGiven the bear regime and negative momentum, but considering we're 14 days into a severe drawdown with some stabilization signals, I expect:\n- Near-term recovery bounce of approximately 8-15% (mean reversion after crash)\n- Annualized return calculation: ~12% over 14 days \u2248 0.31 annualized (12% \u00d7 365/14)\n- However, risk of continued deterioration warrants conservative adjustment to ~0.20 annualized\n- Confidence is low due to bear regime, but some technical setup for bounce exists\n\n```json\n{\"expected_return\": 0.18, \"confidence\": 0.35, \"reasoning\": \"Cluster faces severe bear market headwinds with -39.23% 30-day decline and negative momentum. However, 14-day period may see modest mean-reversion bounce (8-12%) as cluster stabilizes, particularly LDO and UNI. Annualized ~18% reflects expected 4-6% near-term recovery. Low confidence due to sustained bear regime and elevated volatility (57.6%). TVL stabilization in core protocols provides minor upside support, but downside risks predominate.\"}\n```",
   "date": "2025-12-13",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:58:42.987551+00:00",
+  "generated_at": "2026-02-17T16:40:12.902149+00:00",
   "enriched": false
 }

@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.55,
-  "reasoning": "Bear market regime with CVX TVL declining -4.3%. Recent 7-day bounce (+5.51%) suggests temporary relief, but 30-day trend remains negative (-3.97%). High volatility (62.6%) and negative Sharpe ratio indicate poor risk-adjusted returns. Expect continued downside pressure over 14 days despite short-term recovery. Moderate confidence due to volatility and potential for further bounces in bear markets.",
-  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis of Cluster 3 (CVX)\n\n**Key Observations:**\n\n1. **Market Regime**: Bear market with strong downtrend - negative macro backdrop\n2. **Recent Momentum**: Mixed signals\n   - 7-day return: +5.51% (positive bounce)\n   - 14-day return: +2.12% (modest positive)\n   - 30-day return: -3.97% (negative overall)\n   - This suggests recent recovery from lows, but underlying trend is negative\n\n3. **Volatility & Risk**: \n   - Annualized volatility: 62.6% (very high)\n   - Sharpe ratio: -0.53 (negative risk-adjusted returns)\n   - Max drawdown: -16.7% (significant downside already experienced)\n\n4. **Fundamental Health**:\n   - CVX TVL: $921M with -4.3% 30-day decline\n   - Overall DeFi TVL flat (+0.2%), suggesting sector-wide weakness\n   - Yield tokens typically underperform in bear markets\n\n5. **Technical Context**:\n   - Recent 7-14 day bounce suggests potential mean reversion\n   - However, 30-day decline and bear regime suggest downtrend continuation likely\n\n**Forecast Rationale:**\n- The recent 7-day bounce (+5.51%) provides some optimism, but it's modest relative to the volatility\n- Bear market regime and declining TVL suggest further downside pressure\n- Over 14 days, expect reversion toward the trend with modest negative bias\n- The high volatility creates both risks and opportunities, but fundamental weakness dominates\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.55, \"reasoning\": \"Bear market regime with CVX TVL declining -4.3%. Recent 7-day bounce (+5.51%) suggests temporary relief, but 30-day trend remains negative (-3.97%). High volatility (62.6%) and negative Sharpe ratio indicate poor risk-adjusted returns. Expect continued downside pressure over 14 days despite short-term recovery. Moderate confidence due to volatility and potential for further bounces in bear markets.\"}\n```",
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster in bear market with -23.52% 30-day return and negative Sharpe ratio (-3.17). Recent 7-day bounce (+1.25%) suggests short-term relief, but 14-day return (-5.73%) indicates downtrend persistence. TVL metrics show weakness (SNX -24.5%, SUSHI -15.7%), though LDO's large weighting provides some stability. High volatility (62.4%) and max drawdown (-27.9%) indicate continued risk. Extrapolating recent 14-day momentum with modest mean reversion in bear regime yields ~-45% annualized. Moderate confidence due to volatile market regime and potential for regime shift.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster in bear market with -23.52% 30-day return and negative Sharpe ratio (-3.17). Recent 7-day bounce (+1.25%) suggests short-term relief, but 14-day return (-5.73%) indicates downtrend persistence. TVL metrics show weakness (SNX -24.5%, SUSHI -15.7%), though LDO's large weighting provides some stability. High volatility (62.4%) and max drawdown (-27.9%) indicate continued risk. Extrapolating recent 14-day momentum with modest mean reversion in bear regime yields ~-45% annualized. Moderate confidence due to volatile market regime and potential for regime shift.\"\n}\n```",
   "date": "2025-12-27",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:05.170876+00:00",
+  "generated_at": "2026-02-17T16:40:37.483060+00:00",
   "enriched": false
 }

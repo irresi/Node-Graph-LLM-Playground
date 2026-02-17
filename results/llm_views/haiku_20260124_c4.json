@@ -1,14 +1,18 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.35,
-  "reasoning": "BAL has experienced significant negative momentum (-21.63% over 30 days, -9.43% over 7 days) with high volatility (31.8% annualized). However, TVL growth (+10.3% in 30d) suggests fundamental strength in the protocol. The extremely negative Sharpe ratio (-5.72) indicates risk-adjusted returns are poor. In a neutral market regime with conflicting signals (weak price action vs. solid TVL growth), I forecast negative returns continuing over 14 days, but with mean reversion potential given the oversold condition. Low confidence reflects the mixed signals and high volatility environment.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.35,\n  \"reasoning\": \"BAL has experienced significant negative momentum (-21.63% over 30 days, -9.43% over 7 days) with high volatility (31.8% annualized). However, TVL growth (+10.3% in 30d) suggests fundamental strength in the protocol. The extremely negative Sharpe ratio (-5.72) indicates risk-adjusted returns are poor. In a neutral market regime with conflicting signals (weak price action vs. solid TVL growth), I forecast negative returns continuing over 14 days, but with mean reversion potential given the oversold condition. Low confidence reflects the mixed signals and high volatility environment.\"\n}\n```",
+  "expected_return": 0.08,
+  "confidence": 0.42,
+  "reasoning": "Cluster shows severe 7-day decline (-12.96%) suggesting potential for mean reversion, but neutral market regime and poor risk-adjusted performance (Sharpe 0.10) limit upside. Infrastructure-focused tokens are sentiment-dependent. Forecasting modest 14-day recovery with low confidence due to lack of positive catalysts and uncertain macro regime.",
+  "raw_response": "I'll analyze the market context and cluster metrics to forecast the expected return for Cluster 4 over the next 14 days.\n\n## Analysis\n\n**Key Observations:**\n\n1. **Recent Momentum is Negative**: The cluster shows significant recent weakness:\n   - 7-day return: -12.96%\n   - 14-day return: -10.91%\n   - This contrasts with the 30-day return of +0.68%, suggesting sharp deterioration in recent days\n\n2. **High Volatility & Low Risk-Adjusted Returns**: \n   - Annualized volatility of 54.9% is substantial\n   - Sharpe ratio of 0.10 indicates poor risk-adjusted performance\n   - Max drawdown of -16.9% shows significant downside exposure\n\n3. **Market Regime**: Neutral/range-bound conditions with modest overall DeFi TVL growth (+3.0% 30d) suggests limited catalysts for expansion\n\n4. **Cluster Composition**: Mix of L2s (OP, ARB), oracle infrastructure (LINK), and domain names (ENS), governance (GRT) - diverse but infrastructure-focused assets that typically follow broader market sentiment\n\n5. **Technical Setup**: After a -12.96% 7-day decline, the cluster appears oversold but lacks strong fundamental catalysts for near-term recovery given the neutral market regime\n\n**Forecast Rationale:**\n\nGiven the severe recent selloff (-12.96% in 7 days), some mean reversion is plausible in the next 14 days. However, the neutral market regime, poor risk-adjusted metrics (Sharpe 0.10), and lack of positive protocol fundamentals limit upside potential. The infrastructure-focused nature of these tokens makes them sentiment-dependent rather than fundamental-driven.\n\nI expect modest recovery from oversold levels but not a complete reversal of the recent decline.\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.42, \"reasoning\": \"Cluster shows severe 7-day decline (-12.96%) suggesting potential for mean reversion, but neutral market regime and poor risk-adjusted performance (Sharpe 0.10) limit upside. Infrastructure-focused tokens are sentiment-dependent. Forecasting modest 14-day recovery with low confidence due to lack of positive catalysts and uncertain macro regime.\"}\n```",
   "date": "2026-01-24",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:51.770951+00:00",
+  "generated_at": "2026-02-17T16:41:30.133602+00:00",
   "enriched": false
 }

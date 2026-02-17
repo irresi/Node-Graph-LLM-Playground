@@ -1,26 +1,14 @@
 {
-  "expected_return": -0.18,
-  "confidence": 0.58,
-  "reasoning": "Bear market regime with recent 7-day weakness (-1.20%) suggests momentum reversal from the 14-day rally. High volatility (45.4%) and negative Sharpe ratio indicate poor risk-adjusted environment. While AAVE shows strength, overall DeFi TVL decline and weak performers (SUSHI -17.5%, CAKE -8.1%) suggest continued pressure. Moderate confidence due to high regime uncertainty and volatile cluster behavior.",
-  "raw_response": "Based on the provided market context for Cluster 2, I'll analyze the key factors to forecast the expected annualized return over the next 14 days.\n\n## Analysis:\n\n**Market Regime & Recent Momentum:**\n- Current regime is bearish with a strong downtrend\n- 30-day return: -6.32% (negative)\n- 14-day return: +5.20% (positive - short-term recovery)\n- 7-day return: -1.20% (reverting to weakness)\n- This suggests recent volatility and weakness resuming after a brief rally\n\n**Protocol Fundamentals:**\n- AAVE dominates the cluster (TVL-weighted) with $34.5B TVL and +2.6% growth (positive signal)\n- UNI remains stable with -2.8% TVL change\n- CRV slightly positive at +0.7% TVL growth\n- Weak signals from SUSHI (-17.5%) and CAKE (-8.1%)\n- Overall DeFi TVL declined -1.7% (bearish backdrop)\n\n**Risk Metrics:**\n- High volatility at 45.4% annualized\n- Negative Sharpe ratio of -1.17 (poor risk-adjusted returns)\n- Max drawdown of -15.4% indicates significant downside risk\n- Cluster is underperforming on a risk-adjusted basis\n\n**14-Day Forecast Considerations:**\n- The positive 14-day return (+5.20%) has already been realized and appears to be reversing\n- Bear market regime typically persists\n- High volatility suggests elevated uncertainty\n- Mixed protocol metrics (strong AAVE offset by weak SUSHI/CAKE)\n\n```json\n{\"expected_return\": -0.18, \"confidence\": 0.58, \"reasoning\": \"Bear market regime with recent 7-day weakness (-1.20%) suggests momentum reversal from the 14-day rally. High volatility (45.4%) and negative Sharpe ratio indicate poor risk-adjusted environment. While AAVE shows strength, overall DeFi TVL decline and weak performers (SUSHI -17.5%, CAKE -8.1%) suggest continued pressure. Moderate confidence due to high regime uncertainty and volatile cluster behavior.\"}\n```",
+  "expected_return": -0.85,
+  "confidence": 0.45,
+  "reasoning": "BAL faces significant headwinds: strong bear market regime (-1.7% DeFi TVL decline), severe recent downtrend (-24.43% in 30d, -10.46% in 7d), high volatility (27.9% annualized), and negative Sharpe ratio (-7.36). TVL decline of -5.3% suggests reduced protocol activity. However, at -10.46% weekly rate annualized (~-544%), the -0.85 forecast reflects mean reversion expectations and reduced probability of sustained extreme losses. Low confidence (0.45) due to bear market unpredictability and single-token cluster volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL faces significant headwinds: strong bear market regime (-1.7% DeFi TVL decline), severe recent downtrend (-24.43% in 30d, -10.46% in 7d), high volatility (27.9% annualized), and negative Sharpe ratio (-7.36). TVL decline of -5.3% suggests reduced protocol activity. However, at -10.46% weekly rate annualized (~-544%), the -0.85 forecast reflects mean reversion expectations and reduced probability of sustained extreme losses. Low confidence (0.45) due to bear market unpredictability and single-token cluster volatility.\"\n}\n```",
   "date": "2026-01-10",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:59:20.978156+00:00",
+  "generated_at": "2026-02-17T16:40:54.776092+00:00",
   "enriched": false
 }

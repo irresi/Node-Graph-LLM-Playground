@@ -1,26 +1,14 @@
 {
-  "expected_return": 0.08,
-  "confidence": 0.35,
-  "reasoning": "Bear market with oversold conditions suggests modest mean reversion over 14 days, but weak fundamentals (TVL decline, negative momentum) and extreme volatility limit confidence. Expected slight recovery from -36% drawdown, but downside risk remains elevated in current regime.",
-  "raw_response": "Based on the provided market data and cluster metrics, I'll analyze the DeFi cluster to forecast expected returns over the next 14 days.\n\n## Analysis\n\n**Current Market Conditions:**\n- Bear market regime with strong downtrend (-12.5% DeFi TVL decline)\n- Cluster significantly underperforming with -32.44% 30-day return\n- Extreme volatility (108.4% annualized) with negative Sharpe ratio (-2.51)\n- Severe drawdown (-36.2% max) indicating panic selling\n\n**Key Observations:**\n1. **Momentum Analysis**: Recent returns show deceleration - 7-day return (-8.54%) is less negative than 30-day (-32.44%), suggesting stabilization after sharp losses\n2. **TVL Divergence**: Mixed signals - AAVE/UNI declining significantly (-15.9%, -8.9%) but CRV/CAKE showing resilience (+3.4%, +8.8%)\n3. **Valuation**: After 36% drawdown, cluster is likely oversold, potentially creating bounce opportunity\n4. **Risk Profile**: Extreme volatility and negative Sharpe ratio indicate poor risk-adjusted returns\n\n**14-Day Forecast Rationale:**\n- Mean reversion likely after extreme drawdown, but bear market environment persists\n- Expected slight recovery/stabilization given deceleration of losses\n- High volatility creates both upside and downside risk\n- Modest positive bias due to oversold conditions, but tempered by weak fundamentals (declining TVL in major protocols)\n\n```json\n{\"expected_return\": 0.08, \"confidence\": 0.35, \"reasoning\": \"Bear market with oversold conditions suggests modest mean reversion over 14 days, but weak fundamentals (TVL decline, negative momentum) and extreme volatility limit confidence. Expected slight recovery from -36% drawdown, but downside risk remains elevated in current regime.\"}\n```",
+  "expected_return": -0.35,
+  "confidence": 0.45,
+  "reasoning": "BAL faces headwinds from bearish DeFi market (-12.5% TVL decline) and significant TVL deterioration (-22.3% in 30d). However, the 14-day return of +0.20% and recent 7-day -2.43% suggest mixed momentum. The high volatility (69.1%) and negative Sharpe ratio (-1.89) indicate a distressed asset in a bear market. Medium-term annualized forecast of -35% reflects the adverse regime, but confidence is moderate due to the recent stabilization signal and potential for mean reversion in a heavily oversold position.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.35,\n  \"confidence\": 0.45,\n  \"reasoning\": \"BAL faces headwinds from bearish DeFi market (-12.5% TVL decline) and significant TVL deterioration (-22.3% in 30d). However, the 14-day return of +0.20% and recent 7-day -2.43% suggest mixed momentum. The high volatility (69.1%) and negative Sharpe ratio (-1.89) indicate a distressed asset in a bear market. Medium-term annualized forecast of -35% reflects the adverse regime, but confidence is moderate due to the recent stabilization signal and potential for mean reversion in a heavily oversold position.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:31.752580+00:00",
+  "generated_at": "2026-02-17T16:38:37.007008+00:00",
   "enriched": false
 }

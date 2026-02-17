@@ -1,0 +1,21 @@
+{
+  "expected_return": -0.45,
+  "confidence": 0.62,
+  "reasoning": "Cluster 5 faces headwinds from bear market regime (-4.5% DeFi TVL decline) and negative momentum (-13.97% 30d, -12.05% 14d returns). However, 7-day return of -1.76% suggests deceleration in downtrend. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-off sentiment. AAVE's stable TVL (-0.7%) and GMX's slight TVL growth (+1.4%) provide some stabilization. Annualized 14-day trend of -12.05% converts to ~-1.03% over 14 days, but accounting for potential volatility mean reversion and oversold conditions in derivatives/yield protocols, expecting modest recovery rather than continued decline. Moderate confidence due to macro uncertainty and regime persistence risk.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 5 faces headwinds from bear market regime (-4.5% DeFi TVL decline) and negative momentum (-13.97% 30d, -12.05% 14d returns). However, 7-day return of -1.76% suggests deceleration in downtrend. High volatility (68.7%) and negative Sharpe ratio (-1.71) indicate risk-off sentiment. AAVE's stable TVL (-0.7%) and GMX's slight TVL growth (+1.4%) provide some stabilization. Annualized 14-day trend of -12.05% converts to ~-1.03% over 14 days, but accounting for potential volatility mean reversion and oversold conditions in derivatives/yield protocols, expecting modest recovery rather than continued decline. Moderate confidence due to macro uncertainty and regime persistence risk.\"\n}\n```",
+  "date": "2025-06-28",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:34:21.076473+00:00",
+  "enriched": false
+}

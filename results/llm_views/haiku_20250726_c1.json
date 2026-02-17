@@ -1,18 +1,14 @@
 {
-  "expected_return": 0.42,
-  "confidence": 0.62,
-  "reasoning": "Bull market regime with strong 30d (+33.45%) and 14d (+14.16%) returns support continued upside, but negative 7d return (-0.09%) suggests potential momentum loss or consolidation. High volatility (62.7%) and excellent Sharpe ratio (4.48) indicate efficient risk-adjusted gains. However, lack of TVL data for most tokens limits fundamental conviction. Forecasting 42% annualized return (3.5% over 14 days) reflects bull momentum with caution for near-term pullback risk. Confidence tempered by recent weakness and limited protocol metrics.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.42,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Bull market regime with strong 30d (+33.45%) and 14d (+14.16%) returns support continued upside, but negative 7d return (-0.09%) suggests potential momentum loss or consolidation. High volatility (62.7%) and excellent Sharpe ratio (4.48) indicate efficient risk-adjusted gains. However, lack of TVL data for most tokens limits fundamental conviction. Forecasting 42% annualized return (3.5% over 14 days) reflects bull momentum with caution for near-term pullback risk. Confidence tempered by recent weakness and limited protocol metrics.\"\n}\n```",
+  "expected_return": 0.58,
+  "confidence": 0.72,
+  "reasoning": "CAKE shows strong momentum with 23.94% 30-day return and 11.16% 14-day return in a bull market regime. The 43% annualized volatility and 4.68 Sharpe ratio suggest quality risk-adjusted returns. TVL growth of 17.3% indicates protocol health. However, extending recent momentum into the next 14 days carries mean reversion risk. Annualized forecast of 58% (approximately 2.2% over 14 days) balances continued bull momentum against potential pullback, with moderate confidence due to single-token concentration and market volatility.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.58,\n  \"confidence\": 0.72,\n  \"reasoning\": \"CAKE shows strong momentum with 23.94% 30-day return and 11.16% 14-day return in a bull market regime. The 43% annualized volatility and 4.68 Sharpe ratio suggest quality risk-adjusted returns. TVL growth of 17.3% indicates protocol health. However, extending recent momentum into the next 14 days carries mean reversion risk. Annualized forecast of 58% (approximately 2.2% over 14 days) balances continued bull momentum against potential pullback, with moderate confidence due to single-token concentration and market volatility.\"\n}\n```",
   "date": "2025-07-26",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:42.346045+00:00",
+  "generated_at": "2026-02-17T16:34:56.109494+00:00",
   "enriched": false
 }

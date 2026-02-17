@@ -1,14 +1,18 @@
 {
-  "expected_return": 0.28,
+  "expected_return": 0.45,
   "confidence": 0.42,
-  "reasoning": "CVX shows strong recent momentum (7-day: +32.83%, 14-day: +25.69%) but operates in a bear market regime with high volatility (84.4% annualized). The token's TVL declined 3.4% over 30 days, signaling weakening fundamentals. High volatility and mean-reversion risk after strong 7-day gains reduce confidence. Forecast annualizes recent 14-day performance but discounts for regime headwinds and reversion probability. Low confidence reflects elevated uncertainty in volatile conditions.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.28,\n  \"confidence\": 0.42,\n  \"reasoning\": \"CVX shows strong recent momentum (7-day: +32.83%, 14-day: +25.69%) but operates in a bear market regime with high volatility (84.4% annualized). The token's TVL declined 3.4% over 30 days, signaling weakening fundamentals. High volatility and mean-reversion risk after strong 7-day gains reduce confidence. Forecast annualizes recent 14-day performance but discounts for regime headwinds and reversion probability. Low confidence reflects elevated uncertainty in volatile conditions.\"\n}\n```",
+  "reasoning": "Cluster shows strong short-term momentum (+19% over 14d) despite bear market regime and negative 30d returns (-6.5%). Recent recovery suggests potential mean reversion, but high volatility (76.7% annualized), negative Sharpe ratio (-0.71), and bear market backdrop create significant headwinds. TVL growth mixed (UNI +6%, LDO +16.4%, SNX -3.4%) provides modest fundamental support. Annualized 14d momentum would imply ~0.45 return, but sustainability is questionable given regime and drawdown risks (-21.2% max DD). Low confidence reflects elevated uncertainty in bear market conditions.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.45,\n  \"confidence\": 0.42,\n  \"reasoning\": \"Cluster shows strong short-term momentum (+19% over 14d) despite bear market regime and negative 30d returns (-6.5%). Recent recovery suggests potential mean reversion, but high volatility (76.7% annualized), negative Sharpe ratio (-0.71), and bear market backdrop create significant headwinds. TVL growth mixed (UNI +6%, LDO +16.4%, SNX -3.4%) provides modest fundamental support. Annualized 14d momentum would imply ~0.45 return, but sustainability is questionable given regime and drawdown risks (-21.2% max DD). Low confidence reflects elevated uncertainty in bear market conditions.\"\n}\n```",
   "date": "2025-07-12",
   "cluster_id": 3,
   "members": [
-    "convex-finance"
+    "uniswap",
+    "sushi",
+    "havven",
+    "lido-dao",
+    "rocket-pool"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:32.667387+00:00",
+  "generated_at": "2026-02-17T16:34:36.248082+00:00",
   "enriched": false
 }

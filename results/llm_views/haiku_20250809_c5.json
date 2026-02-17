@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.22,
+  "confidence": 0.65,
+  "reasoning": "Bull market regime and strong TVL growth (AAVE +29.8%, GMX +37.4%) support continued upside. Recent 7-day momentum of +11.49% is positive, but the 14-day return of -2.85% suggests consolidation and potential mean reversion. The 52.9% volatility and elevated Sharpe ratio (2.86) indicate overbought conditions. Forecasting annualized 22% return (~2.4% over 14 days) with moderate-high confidence, reflecting bullish fundamentals offset by consolidation risks and reversion concerns.",
+  "raw_response": "I'll analyze this DeFi cluster to provide a 14-day expected return forecast.\n\n## Analysis\n\n**Market Context:**\n- Bull regime with strong uptrend (+26.1% TVL growth)\n- Cluster significantly outperformed broader market with +17.99% 30-day return\n- High Sharpe ratio (2.86) suggests strong risk-adjusted returns\n- Recent volatility of 52.9% (annualized) is elevated but typical for DeFi\n\n**Momentum Signals:**\n- 7-day return of +11.49% shows strong recent momentum\n- However, 14-day return of -2.85% indicates consolidation/pullback midway through\n- This divergence suggests the recent 7-day strength may be a rebound from weakness\n- Typical pattern: reversion to mean after strong moves is common\n\n**Protocol Fundamentals:**\n- AAVE leading with +29.8% TVL growth (largest position at $37.3B TVL)\n- GMX showing exceptional growth (+37.4%) but smaller position\n- CRV, COMP showing more modest growth (+16.4%, +5.4%)\n- Mixed momentum across components suggests consolidation phase\n\n**14-Day Forecast Considerations:**\n- Current strong 7-day momentum may face headwinds\n- Sharpe ratio of 2.86 is unsustainably high (suggests potential mean reversion)\n- Bull market regime supports continued upside, but at moderated pace\n- Elevated volatility creates both upside and downside risks\n\n**Forecast:**\nGiven the strong recent momentum but signs of consolidation, combined with the high recent performance potentially indicating overbought conditions, I expect moderate positive returns with meaningful downside risk.\n\n```json\n{\"expected_return\": 0.22, \"confidence\": 0.65, \"reasoning\": \"Bull market regime and strong TVL growth (AAVE +29.8%, GMX +37.4%) support continued upside. Recent 7-day momentum of +11.49% is positive, but the 14-day return of -2.85% suggests consolidation and potential mean reversion. The 52.9% volatility and elevated Sharpe ratio (2.86) indicate overbought conditions. Forecasting annualized 22% return (~2.4% over 14 days) with moderate-high confidence, reflecting bullish fundamentals offset by consolidation risks and reversion concerns.\"}\n```",
+  "date": "2025-08-09",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:35:54.018639+00:00",
+  "enriched": false
+}

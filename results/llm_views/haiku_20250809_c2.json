@@ -1,26 +1,14 @@
 {
   "expected_return": 0.32,
-  "confidence": 0.68,
-  "reasoning": "Strong bull market regime with robust TVL growth (+26.1% DeFi-wide, AAVE +29.8%). Recent 7-day momentum (+13.13%) significantly outpaces 14-day returns (+0.69%), suggesting recent acceleration. However, 14-day mean reversion and elevated volatility (54.6% annualized) create headwinds. The cluster's Sharpe ratio of 2.84 indicates quality risk-adjusted performance, but -19.8% max drawdown shows correction risk. Extrapolating 7-day momentum with reversion adjustments yields ~32% annualized return over 14 days, with moderate confidence due to momentum sustainability uncertainty.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.32,\n  \"confidence\": 0.68,\n  \"reasoning\": \"Strong bull market regime with robust TVL growth (+26.1% DeFi-wide, AAVE +29.8%). Recent 7-day momentum (+13.13%) significantly outpaces 14-day returns (+0.69%), suggesting recent acceleration. However, 14-day mean reversion and elevated volatility (54.6% annualized) create headwinds. The cluster's Sharpe ratio of 2.84 indicates quality risk-adjusted performance, but -19.8% max drawdown shows correction risk. Extrapolating 7-day momentum with reversion adjustments yields ~32% annualized return over 14 days, with moderate confidence due to momentum sustainability uncertainty.\"\n}\n```",
+  "confidence": 0.65,
+  "reasoning": "BAL shows strong bull market momentum with +25.86% 30-day return and impressive 3.54 Sharpe ratio. However, recent 14-day return of only +0.24% suggests momentum deceleration after the 7-day +9.17% spike, indicating potential consolidation. BAL's TVL growth of +8.8% supports fundamental strength, but high 61.3% annualized volatility and -19.3% max drawdown indicate significant downside risk. Annualized forecast of 32% reflects bullish sentiment tempered by recent momentum fade and volatility concerns. Confidence at 0.65 reflects uncertainty around whether the recent rally can sustain or if mean reversion occurs over the next 14 days.",
+  "raw_response": "```json\n{\"expected_return\": 0.32, \"confidence\": 0.65, \"reasoning\": \"BAL shows strong bull market momentum with +25.86% 30-day return and impressive 3.54 Sharpe ratio. However, recent 14-day return of only +0.24% suggests momentum deceleration after the 7-day +9.17% spike, indicating potential consolidation. BAL's TVL growth of +8.8% supports fundamental strength, but high 61.3% annualized volatility and -19.3% max drawdown indicate significant downside risk. Annualized forecast of 32% reflects bullish sentiment tempered by recent momentum fade and volatility concerns. Confidence at 0.65 reflects uncertainty around whether the recent rally can sustain or if mean reversion occurs over the next 14 days.\"}\n```",
   "date": "2025-08-09",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:55:05.302075+00:00",
+  "generated_at": "2026-02-17T16:35:33.778233+00:00",
   "enriched": false
 }

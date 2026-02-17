@@ -1,14 +1,18 @@
 {
-  "expected_return": -1.0,
+  "expected_return": -0.45,
   "confidence": 0.55,
-  "reasoning": "Strong bear regime with persistent -10% 14-day momentum suggests continued weakness. BAL's declining TVL (-7.9%) and negative Sharpe ratio (-2.99) indicate poor risk-adjusted returns. However, 7-day deceleration (-4.11% vs -10.10% 14d) suggests possible stabilization. Moderate confidence due to high volatility and potential for mean reversion in oversold conditions.",
-  "raw_response": "Based on the market context and cluster data provided, I'll analyze Cluster 4 (BAL token) to forecast expected returns over the next 14 days.\n\n## Analysis:\n\n**Bearish Indicators:**\n- Strong downtrend regime with -18.63% 30-day return\n- Negative momentum: -4.11% (7d), -10.10% (14d), -18.63% (30d)\n- Overall DeFi TVL declining (-4.5% 30d)\n- BAL TVL declining (-7.9% 30d)\n- High volatility (52.3% annualized) with significant drawdown risk (-20% max)\n- Very poor risk-adjusted performance (Sharpe ratio: -2.99)\n\n**Mitigating Factors:**\n- BAL represents a mature DEX protocol with $736M TVL\n- Cluster has been declining for 30 days, suggesting some stabilization potential\n- Volatility, while high, creates potential for mean reversion\n\n**Forecast Rationale:**\nGiven the strong bear market regime and persistent downward pressure, I expect continued weakness in the near term. However, the recent momentum (7d: -4.11%) is less severe than the 14d and 30d returns, suggesting possible stabilization or slower deterioration. The 14-day forecast should reflect continued negative pressure but with slightly improving momentum.\n\nI estimate the next 14 days will see a continuation of weakness, approximately -8% to -12%, which annualizes to roughly -150% to -220%. However, accounting for some mean reversion probability and the possibility of stabilization, I'll forecast a more moderate annualized return.\n\n```json\n{\n  \"expected_return\": -1.15,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Strong bear regime with persistent -10% 14-day momentum suggests continued weakness. BAL's declining TVL (-7.9%) and negative Sharpe ratio (-2.99) indicate poor risk-adjusted returns. However, 7-day deceleration (-4.11% vs -10.10% 14d) suggests possible stabilization. Moderate confidence due to high volatility and potential for mean reversion in oversold conditions.\"\n}\n```",
+  "reasoning": "Cluster in strong bear regime with -27.83% 30-day loss and -3.05 Sharpe ratio. However, recent 7-day rebound (+1.85%) suggests potential local bottom formation. Infrastructure/L2 tokens (OP, ARB, ENS) lack TVL data, limiting fundamental analysis. 14-day forecast assumes partial recovery from oversold conditions but remains negative given persistent downtrend, high volatility (76.6%), and weak market momentum. Moderate confidence due to near-term technical stabilization signals offset by macro bear pressure and limited protocol metrics.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"Cluster in strong bear regime with -27.83% 30-day loss and -3.05 Sharpe ratio. However, recent 7-day rebound (+1.85%) suggests potential local bottom formation. Infrastructure/L2 tokens (OP, ARB, ENS) lack TVL data, limiting fundamental analysis. 14-day forecast assumes partial recovery from oversold conditions but remains negative given persistent downtrend, high volatility (76.6%), and weak market momentum. Moderate confidence due to near-term technical stabilization signals offset by macro bear pressure and limited protocol metrics.\"\n}\n```",
   "date": "2025-06-28",
   "cluster_id": 4,
   "members": [
-    "balancer"
+    "chainlink",
+    "optimism",
+    "arbitrum",
+    "ethereum-name-service",
+    "the-graph"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:16.461395+00:00",
+  "generated_at": "2026-02-17T16:34:14.693926+00:00",
   "enriched": false
 }

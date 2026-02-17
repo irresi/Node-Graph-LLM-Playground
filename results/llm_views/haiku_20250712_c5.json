@@ -1,0 +1,21 @@
+{
+  "expected_return": 0.18,
+  "confidence": 0.62,
+  "reasoning": "Strong 14-day momentum (+11.29%) and positive 7-day return (+12.30%) suggest near-term upside despite bear market regime. However, conflicting signals: negative 30-day return (-6.92%), high volatility (60.9%), and negative Sharpe ratio (-0.95) indicate underlying weakness. Mixed protocol fundamentals (MKR +24.1% TVL, GMX -11.2%) add uncertainty. The recent bounce may be mean reversion or corrective rally in bear market, limiting confidence. Annualized 14-day return of +11.29% translates to ~0.18 annualized, but sustainability is questionable given macro headwinds.",
+  "raw_response": "```json\n{\"expected_return\": 0.18, \"confidence\": 0.62, \"reasoning\": \"Strong 14-day momentum (+11.29%) and positive 7-day return (+12.30%) suggest near-term upside despite bear market regime. However, conflicting signals: negative 30-day return (-6.92%), high volatility (60.9%), and negative Sharpe ratio (-0.95) indicate underlying weakness. Mixed protocol fundamentals (MKR +24.1% TVL, GMX -11.2%) add uncertainty. The recent bounce may be mean reversion or corrective rally in bear market, limiting confidence. Annualized 14-day return of +11.29% translates to ~0.18 annualized, but sustainability is questionable given macro headwinds.\"}\n```",
+  "date": "2025-07-12",
+  "cluster_id": 5,
+  "members": [
+    "curve-dao-token",
+    "aave",
+    "compound-governance-token",
+    "maker",
+    "gmx",
+    "dydx-chain",
+    "yearn-finance",
+    "convex-finance"
+  ],
+  "model": "haiku",
+  "generated_at": "2026-02-17T16:34:51.360689+00:00",
+  "enriched": false
+}

@@ -1,18 +1,14 @@
 {
-  "expected_return": -0.85,
-  "confidence": 0.45,
-  "reasoning": "Cluster in severe bear regime with -38.13% 30-day loss and high volatility (106.3% annualized). Recent deceleration in losses (7d: -6.84%, 14d: -1.59%) suggests potential stabilization, but weak TVL fundamentals (LINK only $0M reported) and negative Sharpe ratio (-3.01) indicate structural weakness. DeFi TVL declining -12.5% compounds headwinds. 14-day forecast assumes partial recovery from recent momentum reversal but remains negative given overall market regime and lack of positive catalysts. Confidence limited by bear market uncertainty and infrastructure token sensitivity to broader crypto sentiment.",
-  "raw_response": "```json\n{\n  \"expected_return\": -0.85,\n  \"confidence\": 0.45,\n  \"reasoning\": \"Cluster in severe bear regime with -38.13% 30-day loss and high volatility (106.3% annualized). Recent deceleration in losses (7d: -6.84%, 14d: -1.59%) suggests potential stabilization, but weak TVL fundamentals (LINK only $0M reported) and negative Sharpe ratio (-3.01) indicate structural weakness. DeFi TVL declining -12.5% compounds headwinds. 14-day forecast assumes partial recovery from recent momentum reversal but remains negative given overall market regime and lack of positive catalysts. Confidence limited by bear market uncertainty and infrastructure token sensitivity to broader crypto sentiment.\"\n}\n```",
+  "expected_return": -0.45,
+  "confidence": 0.55,
+  "reasoning": "CAKE faces headwinds from bear market regime (-12.5% DeFi TVL decline) and negative short-term momentum (-9.5% 7-day, -16.14% 14-day returns). However, CAKE's TVL is growing (+8.8% 30d), suggesting fundamental strength in the protocol despite market weakness. High volatility (167.6%) and negative Sharpe (-0.33) indicate elevated risk. The 14-day forecast assumes partial continuation of recent weakness but with some stabilization from positive TVL dynamics. Confidence is moderate due to conflicting signals between macro bear pressure and protocol fundamentals.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.45,\n  \"confidence\": 0.55,\n  \"reasoning\": \"CAKE faces headwinds from bear market regime (-12.5% DeFi TVL decline) and negative short-term momentum (-9.5% 7-day, -16.14% 14-day returns). However, CAKE's TVL is growing (+8.8% 30d), suggesting fundamental strength in the protocol despite market weakness. High volatility (167.6%) and negative Sharpe (-0.33) indicate elevated risk. The 14-day forecast assumes partial continuation of recent weakness but with some stabilization from positive TVL dynamics. Confidence is moderate due to conflicting signals between macro bear pressure and protocol fundamentals.\"\n}\n```",
   "date": "2025-11-01",
   "cluster_id": 1,
   "members": [
-    "chainlink",
-    "optimism",
-    "arbitrum",
-    "ethereum-name-service",
-    "the-graph"
+    "pancakeswap-token"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:57:24.127933+00:00",
+  "generated_at": "2026-02-17T16:38:33.136593+00:00",
   "enriched": false
 }

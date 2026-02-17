@@ -1,26 +1,14 @@
 {
-  "expected_return": -0.22,
-  "confidence": 0.58,
-  "reasoning": "Bear market regime with continued TVL declines expected. 7-day momentum (-1.64%) suggests stabilization versus 14-day pace (-13.16%), implying slower downside ahead. Major protocol resilience (AAVE -0.7% TVL) provides some support, but derivatives/lending category typically underperforms in bear markets. Forecast -22% annualized (\u2248-0.84% for 14 days) reflects moderate continued pressure with moderate confidence due to high volatility and potential mean-reversion unknown timing.",
-  "raw_response": "I'll analyze this DeFi cluster to provide a return forecast for the next 14 days.\n\n## Analysis\n\n**Market Context:**\n- Strong bear market regime with DeFi TVL declining 4.5% over 30 days\n- Cluster has underperformed with -14.05% return over 30 days\n- High volatility (73.6% annualized) and negative Sharpe ratio (-1.60) indicate risk-adjusted returns are poor\n- Max drawdown of -27.6% shows significant downside exposure\n\n**Momentum Analysis:**\n- 7-day return: -1.64% (slightly improving trend)\n- 14-day return: -13.16% (steeper decline in earlier period)\n- Recent momentum is less negative than the 30-day average, suggesting potential stabilization\n\n**Protocol Fundamentals:**\n- AAVE (largest component at ~37% of weighted TVL) shows resilience with only -0.7% TVL change\n- Other major protocols (UNI, CRV, CAKE) showing -4% to -6.7% TVL declines\n- SUSHI more severely impacted (-10.4%), indicating protocol-specific headwinds\n- No evidence of severe protocol deterioration, more consistent with broader market downturn\n\n**14-Day Forecast Considerations:**\n- Bear market regime suggests continued weakness likely\n- Recent momentum (last 7 days) is less severe, indicating potential floor-finding behavior\n- High volatility could work both ways\n- Lack of positive catalysts visible in the data\n- Cluster composition (yield, derivatives, lending) typically underperforms in bear markets as leverage unwinds\n\n**Expected Outcome:**\nGiven the bear market regime, negative recent performance, and lack of positive catalysts, I expect continued downward pressure. However, the moderating 7-day performance and potential stabilization in major protocols (AAVE) suggest the decline may slow from the 14-day pace.\n\n```json\n{\n  \"expected_return\": -0.22,\n  \"confidence\": 0.58,\n  \"reasoning\": \"Bear market regime with continued TVL declines expected. 7-day momentum (-1.64%) suggests stabilization versus 14-day pace (-13.16%), implying slower downside ahead. Major protocol resilience (AAVE -0.7% TVL) provides some support, but derivatives/lending category typically underperforms in bear markets. Forecast -22% annualized (\u2248-0.84% for 14 days) reflects moderate continued pressure with moderate confidence due to high volatility and potential mean-reversion unknown timing.\"\n}\n```",
+  "expected_return": -0.95,
+  "confidence": 0.42,
+  "reasoning": "BAL/DEX cluster shows strong bearish momentum (-18.63% 30d, -10.10% 14d) in a bear market regime with declining TVL (-7.9%). Negative Sharpe ratio (-2.99) and high volatility (52.3%) indicate risk-off sentiment. However, low confidence (0.42) reflects uncertainty in mean reversion vs. continued downside in weak DeFi environment. Annualized forecast extrapolates recent 14-day decline (-10.10%) forward, adjusting slightly for potential stabilization.",
+  "raw_response": "```json\n{\n  \"expected_return\": -0.95,\n  \"confidence\": 0.42,\n  \"reasoning\": \"BAL/DEX cluster shows strong bearish momentum (-18.63% 30d, -10.10% 14d) in a bear market regime with declining TVL (-7.9%). Negative Sharpe ratio (-2.99) and high volatility (52.3%) indicate risk-off sentiment. However, low confidence (0.42) reflects uncertainty in mean reversion vs. continued downside in weak DeFi environment. Annualized forecast extrapolates recent 14-day decline (-10.10%) forward, adjusting slightly for potential stabilization.\"\n}\n```",
   "date": "2025-06-28",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:54:03.362696+00:00",
+  "generated_at": "2026-02-17T16:34:01.130488+00:00",
   "enriched": false
 }

@@ -1,26 +1,14 @@
 {
   "expected_return": 0.18,
   "confidence": 0.62,
-  "reasoning": "Cluster 2 shows mixed signals: 7-day momentum is strong (+9.58%), but momentum is decelerating (14-day: +3.55%, 30-day: +3.39%), suggesting recent gains may face headwinds. TVL growth is positive with AAVE (+15%), CAKE (+20.9%), and CRV (+10.6%) leading, indicating protocol health. However, the neutral/range-bound market regime and high volatility (55.5%) constrain upside. The strong Sharpe ratio (0.51) suggests efficient risk-adjusted returns. Annualizing the 7-day momentum (+9.58% weekly \u2248 68% annualized) appears optimistic given deceleration, so we moderate to 18% annualized for the next 14 days, reflecting potential continued strength tempered by recent slowdown and market consolidation.",
-  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"Cluster 2 shows mixed signals: 7-day momentum is strong (+9.58%), but momentum is decelerating (14-day: +3.55%, 30-day: +3.39%), suggesting recent gains may face headwinds. TVL growth is positive with AAVE (+15%), CAKE (+20.9%), and CRV (+10.6%) leading, indicating protocol health. However, the neutral/range-bound market regime and high volatility (55.5%) constrain upside. The strong Sharpe ratio (0.51) suggests efficient risk-adjusted returns. Annualizing the 7-day momentum (+9.58% weekly \u2248 68% annualized) appears optimistic given deceleration, so we moderate to 18% annualized for the next 14 days, reflecting potential continued strength tempered by recent slowdown and market consolidation.\"\n}\n```",
+  "reasoning": "BAL shows mixed signals: strong 7-day momentum (+9.42%) and robust TVL growth (+21.3% in 30 days) suggest positive near-term catalysts, but the 30-day return remains negative (-7.31%) and volatility is elevated (38.6% annualized). The neutral market regime and negative Sharpe ratio (-1.59) indicate risk-adjusted returns are challenged. The recent uptrend reversal of the downtrend is promising for the 14-day forecast window, but sustainability is uncertain given the volatile profile. Moderate confidence reflects the conflicting technical and fundamental signals.",
+  "raw_response": "```json\n{\n  \"expected_return\": 0.18,\n  \"confidence\": 0.62,\n  \"reasoning\": \"BAL shows mixed signals: strong 7-day momentum (+9.42%) and robust TVL growth (+21.3% in 30 days) suggest positive near-term catalysts, but the 30-day return remains negative (-7.31%) and volatility is elevated (38.6% annualized). The neutral market regime and negative Sharpe ratio (-1.59) indicate risk-adjusted returns are challenged. The recent uptrend reversal of the downtrend is promising for the 14-day forecast window, but sustainability is uncertain given the volatile profile. Moderate confidence reflects the conflicting technical and fundamental signals.\"\n}\n```",
   "date": "2025-10-04",
   "cluster_id": 2,
   "members": [
-    "uniswap",
-    "sushi",
-    "curve-dao-token",
-    "pancakeswap-token",
-    "aave",
-    "compound-governance-token",
-    "maker",
-    "havven",
-    "gmx",
-    "dydx-chain",
-    "yearn-finance",
-    "lido-dao",
-    "rocket-pool"
+    "balancer"
   ],
   "model": "haiku",
-  "generated_at": "2026-02-16T12:56:38.482348+00:00",
+  "generated_at": "2026-02-17T16:37:48.565186+00:00",
   "enriched": false
 }
