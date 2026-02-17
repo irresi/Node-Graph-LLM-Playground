@@ -25,6 +25,14 @@ on:
         description: 'Enrich prompts with governance/yield/news (Phase B)'
         required: false
         default: 'false'
+      scope:
+        description: 'Scope: single-period, multi-period'
+        required: false
+        default: 'single-period'
+      periods:
+        description: 'Comma-separated period indices for multi-period (default: all)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -43,6 +51,8 @@ jobs:
             echo "clear_cache=${{ github.event.client_payload.clear_cache || 'false' }}" >> $GITHUB_OUTPUT
             echo "pipeline=${{ github.event.client_payload.pipeline || 'single-agent' }}" >> $GITHUB_OUTPUT
             echo "enrich=${{ github.event.client_payload.enrich || 'false' }}" >> $GITHUB_OUTPUT
+            echo "scope=${{ github.event.client_payload.scope || 'single-period' }}" >> $GITHUB_OUTPUT
+            echo "periods=${{ github.event.client_payload.periods || '' }}" >> $GITHUB_OUTPUT
             echo "caller_run_id=${{ github.event.client_payload.caller_run_id || 'manual' }}" >> $GITHUB_OUTPUT
             echo "main_repo_sha=${{ github.event.client_payload.main_repo_sha || 'HEAD' }}" >> $GITHUB_OUTPUT
           else
@@ -51,6 +61,8 @@ jobs:
             echo "clear_cache=${{ github.event.inputs.clear_cache || 'false' }}" >> $GITHUB_OUTPUT
             echo "pipeline=${{ github.event.inputs.pipeline || 'single-agent' }}" >> $GITHUB_OUTPUT
             echo "enrich=${{ github.event.inputs.enrich || 'false' }}" >> $GITHUB_OUTPUT
+            echo "scope=${{ github.event.inputs.scope || 'single-period' }}" >> $GITHUB_OUTPUT
+            echo "periods=${{ github.event.inputs.periods || '' }}" >> $GITHUB_OUTPUT
             echo "caller_run_id=manual" >> $GITHUB_OUTPUT
             echo "main_repo_sha=HEAD" >> $GITHUB_OUTPUT
           fi
@@ -89,7 +101,9 @@ jobs:
           mkdir -p workspace/artifacts/llm_views/multi_agent
           mkdir -p workspace/artifacts/llm_views/enriched
           mkdir -p workspace/artifacts/llm_views/enriched_multi_agent
+          mkdir -p workspace/artifacts/llm_views/multiperiod
           mkdir -p workspace/artifacts/experiments/real_llm
+          mkdir -p workspace/artifacts/experiments/multiperiod_llm
 
           # Copy existing single-agent cache from main repo
           if [ "${{ steps.params.outputs.clear_cache }}" = "true" ]; then
@@ -118,9 +132,16 @@ jobs:
               cp main-repo/artifacts/llm_views/enriched_multi_agent/*.json workspace/artifacts/llm_views/enriched_multi_agent/ 2>/dev/null || true
               echo "Copied $EMA_CACHED cached enriched multi-agent view files from main repo"
             fi
+            # Copy existing multi-period cache from main repo
+            if [ -d main-repo/artifacts/llm_views/multiperiod ]; then
+              MP_CACHED=$(ls main-repo/artifacts/llm_views/multiperiod/*.json 2>/dev/null | wc -l)
+              cp main-repo/artifacts/llm_views/multiperiod/*.json workspace/artifacts/llm_views/multiperiod/ 2>/dev/null || true
+              echo "Copied $MP_CACHED cached multi-period view files from main repo"
+            fi
           fi
 
-      - name: Generate LLM views
+      - name: Generate LLM views (single-period)
+        if: steps.params.outputs.scope != 'multi-period'
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           CLAUDECODE: ""
@@ -155,7 +176,7 @@ jobs:
 
           FLAGS="$FLAGS --enriched-ma-cache-dir $ENRICHED_MA_CACHE_DIR"
 
-          echo "=== Running LLM Experiment ==="
+          echo "=== Running LLM Experiment (single-period) ==="
           echo "  Model: $MODEL"
           echo "  Mode: $MODE"
           echo "  Pipeline: $PIPELINE"
@@ -175,6 +196,46 @@ jobs:
             --output-dir "$OUTPUT_DIR" \
             $FLAGS
 
+      - name: Generate LLM views (multi-period)
+        if: steps.params.outputs.scope == 'multi-period'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDECODE: ""
+        working-directory: main-repo
+        run: |
+          MODEL="${{ steps.params.outputs.model }}"
+          MODE="${{ steps.params.outputs.mode }}"
+          PERIODS="${{ steps.params.outputs.periods }}"
+          CACHE_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/llm_views/multiperiod"
+          OUTPUT_DIR="${GITHUB_WORKSPACE}/workspace/artifacts/experiments/multiperiod_llm"
+
+          FLAGS=""
+          if [ "$MODE" = "views-only" ]; then
+            FLAGS="--views-only"
+          elif [ "$MODE" = "backtest-only" ]; then
+            FLAGS="--backtest-only"
+          fi
+
+          if [ -n "$PERIODS" ]; then
+            FLAGS="$FLAGS --periods $PERIODS"
+          fi
+
+          echo "=== Running Multi-Period LLM Experiment ==="
+          echo "  Model: $MODEL"
+          echo "  Mode: $MODE"
+          echo "  Periods: ${PERIODS:-all}"
+          echo "  Cache dir: $CACHE_DIR"
+          echo "  Output dir: $OUTPUT_DIR"
+          echo ""
+
+          python scripts/generate_multiperiod_llm_views.py \
+            --model "$MODEL" \
+            --data-dir artifacts/data/multiperiod \
+            --protocols-dir artifacts/data/protocols \
+            --cache-dir "$CACHE_DIR" \
+            --output-dir "$OUTPUT_DIR" \
+            $FLAGS
+
       - name: Prepare results
         id: results
         run: |
@@ -182,22 +243,28 @@ jobs:
           mkdir -p results/llm_views/multi_agent
           mkdir -p results/llm_views/enriched
           mkdir -p results/llm_views/enriched_multi_agent
+          mkdir -p results/llm_views/multiperiod
           mkdir -p results/experiments/real_llm
+          mkdir -p results/experiments/multiperiod_llm
 
           cp workspace/artifacts/llm_views/*.json results/llm_views/ 2>/dev/null || true
           cp workspace/artifacts/llm_views/multi_agent/*.json results/llm_views/multi_agent/ 2>/dev/null || true
           cp workspace/artifacts/llm_views/enriched/*.json results/llm_views/enriched/ 2>/dev/null || true
           cp workspace/artifacts/llm_views/enriched_multi_agent/*.json results/llm_views/enriched_multi_agent/ 2>/dev/null || true
+          cp workspace/artifacts/llm_views/multiperiod/*.json results/llm_views/multiperiod/ 2>/dev/null || true
           cp workspace/artifacts/experiments/real_llm/* results/experiments/real_llm/ 2>/dev/null || true
+          cp workspace/artifacts/experiments/multiperiod_llm/* results/experiments/multiperiod_llm/ 2>/dev/null || true
 
           VIEW_COUNT=$(ls results/llm_views/*.json 2>/dev/null | wc -l)
           MA_VIEW_COUNT=$(ls results/llm_views/multi_agent/*.json 2>/dev/null | wc -l)
           EN_VIEW_COUNT=$(ls results/llm_views/enriched/*.json 2>/dev/null | wc -l)
           EMA_VIEW_COUNT=$(ls results/llm_views/enriched_multi_agent/*.json 2>/dev/null | wc -l)
+          MP_VIEW_COUNT=$(ls results/llm_views/multiperiod/*.json 2>/dev/null | wc -l)
           echo "view_count=$VIEW_COUNT" >> $GITHUB_OUTPUT
           echo "ma_view_count=$MA_VIEW_COUNT" >> $GITHUB_OUTPUT
           echo "en_view_count=$EN_VIEW_COUNT" >> $GITHUB_OUTPUT
           echo "ema_view_count=$EMA_VIEW_COUNT" >> $GITHUB_OUTPUT
+          echo "mp_view_count=$MP_VIEW_COUNT" >> $GITHUB_OUTPUT
 
           cat > results/metadata.json << EOF
           {
@@ -205,6 +272,8 @@ jobs:
             "mode": "${{ steps.params.outputs.mode }}",
             "pipeline": "${{ steps.params.outputs.pipeline }}",
             "enrich": "${{ steps.params.outputs.enrich }}",
+            "scope": "${{ steps.params.outputs.scope }}",
+            "periods": "${{ steps.params.outputs.periods }}",
             "clear_cache": "${{ steps.params.outputs.clear_cache }}",
             "caller_run_id": "${{ steps.params.outputs.caller_run_id }}",
             "main_repo_sha": "${{ steps.params.outputs.main_repo_sha }}",
@@ -214,6 +283,7 @@ jobs:
             "multi_agent_view_count": $MA_VIEW_COUNT,
             "enriched_view_count": $EN_VIEW_COUNT,
             "enriched_ma_view_count": $EMA_VIEW_COUNT,
+            "multiperiod_view_count": $MP_VIEW_COUNT,
             "workflow_run_id": "${{ github.run_id }}"
           }
           EOF
@@ -223,6 +293,7 @@ jobs:
           echo "  Multi-agent views: $MA_VIEW_COUNT"
           echo "  Enriched views: $EN_VIEW_COUNT"
           echo "  Enriched MA views: $EMA_VIEW_COUNT"
+          echo "  Multi-period views: $MP_VIEW_COUNT"
           cat results/metadata.json
 
       - name: Upload results artifact
@@ -238,5 +309,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add results/
           git diff --staged --quiet && echo "No changes to commit" || \
-            git commit -m "experiment: LLM views (${{ steps.params.outputs.model }}, ${{ steps.params.outputs.pipeline }}, enrich=${{ steps.params.outputs.enrich }}) - ${{ steps.results.outputs.view_count }}+${{ steps.results.outputs.ma_view_count }}+${{ steps.results.outputs.en_view_count }} views"
+            git commit -m "experiment: LLM views (${{ steps.params.outputs.model }}, scope=${{ steps.params.outputs.scope }}, ${{ steps.params.outputs.pipeline }}) - ${{ steps.results.outputs.view_count }}+${{ steps.results.outputs.ma_view_count }}+${{ steps.results.outputs.en_view_count }}+${{ steps.results.outputs.mp_view_count }} views"
           git push || echo "Push failed (non-fatal)"
